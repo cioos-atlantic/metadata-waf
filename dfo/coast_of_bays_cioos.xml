@@ -93,7 +93,7 @@
               </cit:role>
               <cit:party>
                 <cit:CI_Organisation>
-                  <cit:name xsi:type="lan:PT_FreeText_PropertyType">
+                  <cit:name>
                     <gco:CharacterString>Government of Canada; Fisheries and Oceans Canada; DFO</gco:CharacterString>
                   </cit:name>
                 </cit:CI_Organisation>
@@ -244,7 +244,7 @@
       </mri:descriptiveKeywords>
       <mri:resourceConstraints>
         <mco:MD_LegalConstraints>
-          <mco:useLimitation xsi:type="lan:PT_FreeText_PropertyType">
+          <mco:useLimitation>
             <gco:CharacterString>Open Government Licence - Canada (http://open.canada.ca/en/open-government-licence-canada)</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
@@ -263,20 +263,16 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>
-                  https://dev.cioosatlantic.ca/erddap/info/coast-of-bays-hydrographic-2009-2013/index.html
-                </gco:CharacterString>
+                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/coast-of-bays-hydrographic-2009-2013.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>order</gco:CharacterString>
               </cit:protocol>
               <cit:name>
-                <gco:CharacterString>Coast of Bays Hydrographic Structure 2009-2013</gco:CharacterString>
+                <gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>
               </cit:name>
               <cit:description>
-                <gco:CharacterString>
-                  ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.
-                </gco:CharacterString>
+                <gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>
               </cit:description>
               <cit:function>
                 <cit:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
