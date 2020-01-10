@@ -60,7 +60,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2019-11-28</gco:Date>
+        <gco:Date>2020-01-10</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -100,7 +100,7 @@
               </cit:role>
               <cit:party>
                 <cit:CI_Organisation>
-                  <cit:name xsi:type="lan:PT_FreeText_PropertyType">
+                  <cit:name>
                     <gco:CharacterString>MEOPAR</gco:CharacterString>
                   </cit:name>
                 </cit:CI_Organisation>
@@ -379,7 +379,7 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/bb1_bop_level1.html</gco:CharacterString>
+                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/bb1_bop_level1.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>order</gco:CharacterString>
@@ -405,9 +405,8 @@
   <mdb:resourceLineage>
     <mrl:LI_Lineage>
       <mrl:statement xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>Observational data from an undersea listening station.</gco:CharacterString>
+        <gco:CharacterString>Observational data from an undersea listening station</gco:CharacterString>
       </mrl:statement>
     </mrl:LI_Lineage>
   </mdb:resourceLineage>
 </mdb:MD_Metadata>
-
