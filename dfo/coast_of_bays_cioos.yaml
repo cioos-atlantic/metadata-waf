@@ -1,5 +1,5 @@
-# in this record, french is the default language
-# if english were the default language, there would be title_fra,summary_fra, etc
+# in this record, english is the default language
+# if french were the default language, there would be title_eng,summary_eng, etc
 
 language: eng
 title: "Coast of Bays seawater vertical and horizontal structure: Hydrographic structure, spatial variability and seasonality, 2009-2013"
