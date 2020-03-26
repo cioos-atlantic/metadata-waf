@@ -44,13 +44,13 @@ publisher_name: Kate Patterson
 publisher_url:
 standard_name_vocabulary: 'CF Standard Name Table v27'
 summary: 'Level 1 data of the BOP profiler in the Bedford Basin'
-summary_fra: 'summary_fra'
+summary_fra: 'Données de niveau 1 du profileur de la BOP dans le Bassin de Bedford'
 time_coverage_duration:
 time_coverage_end: '2019-07-24T13:59:49Z'
 time_coverage_resolution:
 time_coverage_start: '2010-01-13T14:43:13Z'
 title: 'Bedford Basin BOP Level 1'
-title_fra: 'title_fra'
+title_fra: 'Bedford Basin BOP Niveau 1'
 
 # These ones are made up:
 language_country:

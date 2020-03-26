@@ -46,14 +46,14 @@
                   <cit:country xsi:type="lan:PT_FreeText_PropertyType">
                     <gco:CharacterString>CAN</gco:CharacterString>
                   </cit:country>
-                  <cit:electronicMailAddress xsi:type="lan:PT_FreeText_PropertyType">
+                  <cit:electronicMailAddress>
                     <gco:CharacterString>brittany.pye@dfo-mpo.gc.ca</gco:CharacterString>
                   </cit:electronicMailAddress>
                 </cit:CI_Address>
               </cit:address>
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
-                  <cit:linkage xsi:type="lan:PT_FreeText_PropertyType">
+                  <cit:linkage>
                     <gco:CharacterString>https://open.canada.ca/data/en/dataset/a650f132-7502-402f-a42e-7ba4dea3f829</gco:CharacterString>
                   </cit:linkage>
                 </cit:CI_OnlineResource>
@@ -74,6 +74,58 @@
       </cit:dateType>
     </cit:CI_Date>
   </mdb:dateInfo>
+  <mdb:metadataStandard>
+    <cit:CI_Citation>
+      <cit:title>
+        <gco:CharacterString>ISO 19115-1 Geographic information - Metadata</gco:CharacterString>
+      </cit:title>
+      <cit:edition>
+        <gco:CharacterString>First Edition 2014-04-01</gco:CharacterString>
+      </cit:edition>
+    </cit:CI_Citation>
+  </mdb:metadataStandard>
+  <mdb:metadataStandard>
+    <cit:CI_Citation>
+      <cit:title>
+        <gco:CharacterString>ISO 19115-2 Geographic information - Metadata</gco:CharacterString>
+      </cit:title>
+      <cit:edition>
+        <gco:CharacterString>Second Edition 2019-01</gco:CharacterString>
+      </cit:edition>
+    </cit:CI_Citation>
+  </mdb:metadataStandard>
+  <mdb:metadataProfile>
+    <cit:CI_Citation>
+      <cit:title>
+        <gco:CharacterString>Canadian Integrated Ocean Observing System Metadata Profile of ISO 19115</gco:CharacterString>
+      </cit:title>
+      <cit:date>
+        <cit:CI_Date>
+          <cit:date>
+            <gco:Date>2019-11-06</gco:Date>
+          </cit:date>
+          <cit:dateType>
+            <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
+          </cit:dateType>
+        </cit:CI_Date>
+      </cit:date>
+    </cit:CI_Citation>
+  </mdb:metadataProfile>
+  <mdb:otherLocale>
+    <lan:PT_Locale>
+      <lan:language>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        </lan:LanguageCode>
+      </lan:language>
+      <lan:country>
+        <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>
+      </lan:country>
+      <lan:characterEncoding>
+        <lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>
+      </lan:characterEncoding>
+    </lan:PT_Locale>
+  </mdb:otherLocale>
   <mdb:identificationInfo>
     <mri:MD_DataIdentification>
       <mri:citation>
@@ -107,14 +159,14 @@
               </cit:role>
               <cit:party>
                 <cit:CI_Individual>
-                  <cit:name xsi:type="lan:PT_FreeText_PropertyType">
+                  <cit:name>
                     <gco:CharacterString>Sebastien Donnet</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
                       <cit:onlineResource>
                         <cit:CI_OnlineResource>
-                          <cit:linkage xsi:type="lan:PT_FreeText_PropertyType">
+                          <cit:linkage>
                             <gco:CharacterString/>
                           </cit:linkage>
                         </cit:CI_OnlineResource>
@@ -125,7 +177,7 @@
                     <cit:CI_Contact>
                       <cit:address>
                         <cit:CI_Address>
-                          <cit:electronicMailAddress xsi:type="lan:PT_FreeText_PropertyType">
+                          <cit:electronicMailAddress>
                             <gco:CharacterString>sebastien.donnet@dfo-mpo.gc.ca</gco:CharacterString>
                           </cit:electronicMailAddress>
                         </cit:CI_Address>
@@ -150,10 +202,16 @@
         <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="completed">
         </mcc:MD_ProgressCode>
       </mri:status>
+      <mri:topicCategory>
+        <mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>
+      </mri:topicCategory>
       <mri:extent>
         <gex:EX_Extent>
           <gex:geographicElement>
             <gex:EX_GeographicBoundingBox>
+              <gex:extentTypeCode>
+                <gco:Boolean>true</gco:Boolean>
+              </gex:extentTypeCode>
               <gex:westBoundLongitude>
                 <gco:Decimal>-54.5</gco:Decimal>
               </gex:westBoundLongitude>
@@ -184,6 +242,13 @@
           </gex:temporalElement>
         </gex:EX_Extent>
       </mri:extent>
+      <mri:resourceMaintenance>
+        <mmi:MD_MaintenanceInformation>
+          <mmi:maintenanceAndUpdateFrequency>
+            <mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>
+          </mmi:maintenanceAndUpdateFrequency>
+        </mmi:MD_MaintenanceInformation>
+      </mri:resourceMaintenance>
       <mri:descriptiveKeywords>
         <mri:MD_Keywords>
           <mri:keyword>
@@ -244,14 +309,30 @@
       </mri:descriptiveKeywords>
       <mri:resourceConstraints>
         <mco:MD_LegalConstraints>
-          <mco:useLimitation>
-            <gco:CharacterString>Open Government Licence - Canada (http://open.canada.ca/en/open-government-licence-canada)</gco:CharacterString>
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="fra">Licence du gouvernement ouvert - Canada (http://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada)</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mco:useLimitation>
+          <mco:reference>
+            <cit:CI_Citation>
+              <cit:title>
+                <gco:CharacterString>Creative Commons Attribution 4.0</gco:CharacterString>
+              </cit:title>
+              <cit:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:code>
+                    <gco:CharacterString>CC-BY-4.0</gco:CharacterString>
+                  </mcc:code>
+                </mcc:MD_Identifier>
+              </cit:identifier>
+              <cit:onlineResource>
+                <cit:CI_OnlineResource>
+                  <cit:linkage>
+                    <gco:CharacterString>https://creativecommons.org/licenses/by/4.0/</gco:CharacterString>
+                  </cit:linkage>
+                </cit:CI_OnlineResource>
+              </cit:onlineResource>
+            </cit:CI_Citation>
+          </mco:reference>
+          <mco:useConstraints>
+            <mco:MD_RestrictionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_RestrictionCode" codeListValue="license"/>
+          </mco:useConstraints>
         </mco:MD_LegalConstraints>
       </mri:resourceConstraints>
     </mri:MD_DataIdentification>
@@ -286,4 +367,11 @@
       </mrd:transferOptions>
     </mrd:MD_Distribution>
   </mdb:distributionInfo>
+  <mdb:metadataMaintenance>
+    <mmi:MD_MaintenanceInformation>
+      <mmi:maintenanceAndUpdateFrequency>
+        <mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>
+      </mmi:maintenanceAndUpdateFrequency>
+    </mmi:MD_MaintenanceInformation>
+  </mdb:metadataMaintenance>
 </mdb:MD_Metadata>
