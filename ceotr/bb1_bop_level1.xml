@@ -9,7 +9,7 @@
           </cit:title>
         </cit:CI_Citation>
       </mcc:authority>
-      <mcc:code xsi:type="lan:PT_FreeText_PropertyType">
+      <mcc:code>
         <gco:CharacterString>bb1_bop_level1</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
@@ -64,7 +64,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2020-03-26</gco:Date>
+        <gco:Date>2020-04-24</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
