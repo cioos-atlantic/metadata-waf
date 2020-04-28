@@ -106,6 +106,9 @@
                   <cit:name xsi:type="lan:PT_FreeText_PropertyType">
                     <gco:CharacterString>Marine Institute - CTec - SmartAtlantic</gco:CharacterString>
                   </cit:name>
+                  <cit:affiliation xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>Marine Institute - CTec - SmartAtlantic</gco:CharacterString>
+                  </cit:affiliation>
                 </cit:CI_Organisation>
               </cit:party>
             </cit:CI_Responsibility>
@@ -166,7 +169,7 @@
         <gco:CharacterString>A 3 metre diameter meteorological/oceanographic buoy built by AXYS Environmental Technologies of Sidney, British Columbia.The buoy is capable of measuring a variety of atmospheric and surface conditions including - wind speed and direction, air temperature, humidity, dew point, barometric pressure, water temperature, current speed and direction (0.5 m. depth), wave height, direction and period as well as wave spectral information.  The buoy is also equipped with an Aids to Navigation Information System (ATONiS) allowing direct transmittal of the buoy data to a ship's bridge.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="fra">Une bouée météorologique / océanographique diamètre de 3 mètres construit par AXYS Environmental Technologies de Sidney, British Columbia.The bouée est capable de mesurer une variété de conditions atmosphériques et de surface, y compris - vitesse et direction du vent, la température de l'air, l'humidité, le point de rosée, la pression barométrique, température de l'eau, la vitesse actuelle et la direction (0,5 m de profondeur.), la hauteur des vagues, la direction et la période ainsi que des informations spectrales d'onde. La bouée est également équipé d'un système d'aides à la navigation d'information (ATONiS) permettant la transmission directe des données de bouée au pont d'un navire.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="fra">Une bouï¿½e mï¿½tï¿½orologique / ocï¿½anographique diamï¿½tre de 3 mï¿½tres construit par AXYS Environmental Technologies de Sidney, British Columbia.The bouï¿½e est capable de mesurer une variï¿½tï¿½ de conditions atmosphï¿½riques et de surface, y compris - vitesse et direction du vent, la tempï¿½rature de l'air, l'humiditï¿½, le point de rosï¿½e, la pression baromï¿½trique, tempï¿½rature de l'eau, la vitesse actuelle et la direction (0,5 m de profondeur.), la hauteur des vagues, la direction et la pï¿½riode ainsi que des informations spectrales d'onde. La bouï¿½e est ï¿½galement ï¿½quipï¿½ d'un systï¿½me d'aides ï¿½ la navigation d'information (ATONiS) permettant la transmission directe des donnï¿½es de bouï¿½e au pont d'un navire.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>

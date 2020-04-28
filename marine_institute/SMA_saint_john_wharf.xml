@@ -92,7 +92,7 @@
             <gco:CharacterString>Potash Terminal Tide and Meteorological Station</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="fra">Terminal Potash Tide et de la station météorologique</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="fra">Terminal Potash Tide et de la station mï¿½tï¿½orologique</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -106,6 +106,9 @@
                   <cit:name xsi:type="lan:PT_FreeText_PropertyType">
                     <gco:CharacterString>Marine Institute - CTec - SmartAtlantic</gco:CharacterString>
                   </cit:name>
+                  <cit:affiliation xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>Marine Institute - CTec - SmartAtlantic</gco:CharacterString>
+                  </cit:affiliation>
                 </cit:CI_Organisation>
               </cit:party>
             </cit:CI_Responsibility>
@@ -166,7 +169,7 @@
         <gco:CharacterString>Near-real time access to physical environmental observations such as local wind and sea levels are some of the basic requirements of a modern 'Smart Port' operation. Along with accurate site forecasts, these observations are essential in promoting the operational efficiency, safety and situational awareness of vessel movements within a harbour and its approaches. In this context, Amec Foster Wheeler, in partnership with the Marine Institute of Memorial University Center for Applied Ocean Technology, has developed this wind and water level monitoring station (tide gauge) to satisfying the Port of Saint John objectives for a water level and wind monitoring station for Courtenay Bay. The station is capable of measuring and reporting accurate data and is reported live via the SmartAtlantic ocean observation system website. This station consists of a Yaleport TideMaster water level recorder with Yaleport VRS20 radar (water) level sensor and a Gill WindSonic anemometer to measure wind speed and direction.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="fra">accès en temps quasi réel aux observations physiques de l'environnement tels que les niveaux de vent et de mer locaux sont quelques-unes des exigences de base d'une opération moderne Smart Port. Avec les prévisions de site précises, ces observations sont essentielles dans la promotion de l'efficacité opérationnelle, la sécurité et connaissance de la situation des mouvements des navires dans un port et ses approches. Dans ce contexte, Amec, en partenariat avec l'Institut maritime de l'Université Memorial Centre des technologies océaniques appliquée, a développé cette station de surveillance niveau du vent et de l'eau (marégraphe) pour satisfaire le port de Saint objectifs John pour un niveau d'eau et le vent la station de surveillance de Courtenay Bay. La station est capable de mesurer et de communiquer des données précises et des reportages en direct via le site web du système d'observation des océans SmartAtlantic. Cette station se compose d'un capteur de niveau d'enregistrement de niveau d'eau Yaleport Tidemaster avec radar Yaleport VRS20 (eau) et un anémomètre Gill WindSonic pour mesurer la vitesse et la direction du vent.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="fra">accï¿½s en temps quasi rï¿½el aux observations physiques de l'environnement tels que les niveaux de vent et de mer locaux sont quelques-unes des exigences de base d'une opï¿½ration moderne Smart Port. Avec les prï¿½visions de site prï¿½cises, ces observations sont essentielles dans la promotion de l'efficacitï¿½ opï¿½rationnelle, la sï¿½curitï¿½ et connaissance de la situation des mouvements des navires dans un port et ses approches. Dans ce contexte, Amec, en partenariat avec l'Institut maritime de l'Universitï¿½ Memorial Centre des technologies ocï¿½aniques appliquï¿½e, a dï¿½veloppï¿½ cette station de surveillance niveau du vent et de l'eau (marï¿½graphe) pour satisfaire le port de Saint objectifs John pour un niveau d'eau et le vent la station de surveillance de Courtenay Bay. La station est capable de mesurer et de communiquer des donnï¿½es prï¿½cises et des reportages en direct via le site web du systï¿½me d'observation des ocï¿½ans SmartAtlantic. Cette station se compose d'un capteur de niveau d'enregistrement de niveau d'eau Yaleport Tidemaster avec radar Yaleport VRS20 (eau) et un anï¿½momï¿½tre Gill WindSonic pour mesurer la vitesse et la direction du vent.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>

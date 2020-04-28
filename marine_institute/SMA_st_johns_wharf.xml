@@ -92,7 +92,7 @@
             <gco:CharacterString>St. John's Tide Station</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="fra">Station de la Marée de Saint John</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="fra">Station de la Marï¿½e de Saint John</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -106,6 +106,9 @@
                   <cit:name xsi:type="lan:PT_FreeText_PropertyType">
                     <gco:CharacterString>Marine Institute - CTec - SmartAtlantic</gco:CharacterString>
                   </cit:name>
+                  <cit:affiliation xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>Marine Institute - CTec - SmartAtlantic</gco:CharacterString>
+                  </cit:affiliation>
                 </cit:CI_Organisation>
               </cit:party>
             </cit:CI_Responsibility>
@@ -166,7 +169,7 @@
         <gco:CharacterString>Installation of the St. John's Tide Station was undertaken in early 2014 with the site becoming operational on May 22, 2014. The Station is located at Pier 18 on the St. John's Port Authority property in St. John's, NL Harbour.The Station consists of a TideMaster portable water level recorder with VRS-20 radar level sensor and a meteorological sensor to measure wind speed and direction. The instrument has been designed to provide accurate and versatile information in an easily deployed gauge for use in short or long term hydrographic survey operations.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="fra">Installation de la station de marée St. John a été entrepris au début de 2014 avec le site soit opérationnel le 22 mai 2014. La station est située au Pier 18 sur la propriété de l'Administration portuaire de Saint John à St. John, NL harbour.The station se compose d'un enregistreur de niveau d'eau portable Tidemaster avec capteur de niveau radar VRS-20 et un capteur météorologique pour mesurer la vitesse et direction du vent. L'instrument a été conçu pour fournir des informations précises et polyvalent dans un calibre déployé facilement pour une utilisation dans les opérations de levés hydrographiques courte ou longue durée.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="fra">Installation de la station de marï¿½e St. John a ï¿½tï¿½ entrepris au dï¿½but de 2014 avec le site soit opï¿½rationnel le 22 mai 2014. La station est situï¿½e au Pier 18 sur la propriï¿½tï¿½ de l'Administration portuaire de Saint John ï¿½ St. John, NL harbour.The station se compose d'un enregistreur de niveau d'eau portable Tidemaster avec capteur de niveau radar VRS-20 et un capteur mï¿½tï¿½orologique pour mesurer la vitesse et direction du vent. L'instrument a ï¿½tï¿½ conï¿½u pour fournir des informations prï¿½cises et polyvalent dans un calibre dï¿½ployï¿½ facilement pour une utilisation dans les opï¿½rations de levï¿½s hydrographiques courte ou longue durï¿½e.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>

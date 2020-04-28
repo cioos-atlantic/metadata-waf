@@ -148,6 +148,9 @@
                   <cit:name>
                     <gco:CharacterString>Government of Canada; Fisheries and Oceans Canada; DFO</gco:CharacterString>
                   </cit:name>
+                  <cit:affiliation xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>Government of Canada; Fisheries and Oceans Canada; DFO</gco:CharacterString>
+                  </cit:affiliation>
                 </cit:CI_Organisation>
               </cit:party>
             </cit:CI_Responsibility>

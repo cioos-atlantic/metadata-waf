@@ -92,7 +92,7 @@
             <gco:CharacterString>Channel-Port Aux Basques Tide Station</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="fra">Channel-Port aux Basques Station de la Marée</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="fra">Channel-Port aux Basques Station de la Marï¿½e</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -106,6 +106,9 @@
                   <cit:name xsi:type="lan:PT_FreeText_PropertyType">
                     <gco:CharacterString>Marine Institute - CTec - SmartAtlantic</gco:CharacterString>
                   </cit:name>
+                  <cit:affiliation xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>Marine Institute - CTec - SmartAtlantic</gco:CharacterString>
+                  </cit:affiliation>
                 </cit:CI_Organisation>
               </cit:party>
             </cit:CI_Responsibility>
@@ -166,7 +169,7 @@
         <gco:CharacterString>Installation information pending...The Station consists of a TideMaster portable water level recorder with VRS-20 radar level sensor and a meteorological sensor to measure wind speed and direction. The instrument has been designed to provide accurate and versatile information in an easily deployed gauge for use in short or long term hydrographic survey operations.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="fra">Informations sur l'installation en cours ... La station se compose d'un enregistreur de niveau d'eau portable TIDEMASTER avec capteur de niveau radar VRS-20 et un capteur météorologique pour mesurer la vitesse et la direction du vent. L'instrument a été conçu pour fournir des informations précises et polyvalent dans un calibre déployé facilement pour une utilisation dans les opérations de levés hydrographiques courte ou longue durée.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="fra">Informations sur l'installation en cours ... La station se compose d'un enregistreur de niveau d'eau portable TIDEMASTER avec capteur de niveau radar VRS-20 et un capteur mï¿½tï¿½orologique pour mesurer la vitesse et la direction du vent. L'instrument a ï¿½tï¿½ conï¿½u pour fournir des informations prï¿½cises et polyvalent dans un calibre dï¿½ployï¿½ facilement pour une utilisation dans les opï¿½rations de levï¿½s hydrographiques courte ou longue durï¿½e.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>

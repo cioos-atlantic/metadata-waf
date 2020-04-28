@@ -106,6 +106,9 @@
                   <cit:name xsi:type="lan:PT_FreeText_PropertyType">
                     <gco:CharacterString>Marine Institute - CTec - SmartAtlantic</gco:CharacterString>
                   </cit:name>
+                  <cit:affiliation xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>Marine Institute - CTec - SmartAtlantic</gco:CharacterString>
+                  </cit:affiliation>
                 </cit:CI_Organisation>
               </cit:party>
             </cit:CI_Responsibility>
@@ -166,7 +169,7 @@
         <gco:CharacterString>The Brizo is a GNSS-based, directional wave height sensor. Developed by Xeos Technologies, it is a breakthrough product on the market that provides significant wave height, maximum wave height, peak wave period, average wave direction, and average wave spread. It was installed on the HK4 navigational buoy in the Halifax Harbour near Meagher's Beach.\n\nWhen the Port Authority raised a need for capturing wave data at this location, Xeos Technologies was happy to provide and install its own wave height sensor for the SmartAtlantic project. It is an opportunity to aid in the environmental monitoring of harbor conditions.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="fra">Le Brizo est une base de GNSS, un capteur de hauteur d'onde directionnelle. Développé par Xeos Technologies, il est un produit révolutionnaire sur le marché qui offre la hauteur des vagues, la hauteur maximale des vagues, période de pic d'onde, la direction moyenne des vagues, et la propagation des vagues. Il a été installé sur la HK4 bouée de navigation dans le port de Halifax près de la plage de Meagher. \ N \ nLorsque l'Administration portuaire a soulevé un besoin pour capturer des données d'onde à cet endroit, Xeos Technologies est heureux de fournir et d'installer son propre capteur de hauteur des vagues pour la SmartAtlantic projet. Il est l'occasion de contribuer à la surveillance environnementale des conditions portuaires.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="fra">Le Brizo est une base de GNSS, un capteur de hauteur d'onde directionnelle. Dï¿½veloppï¿½ par Xeos Technologies, il est un produit rï¿½volutionnaire sur le marchï¿½ qui offre la hauteur des vagues, la hauteur maximale des vagues, pï¿½riode de pic d'onde, la direction moyenne des vagues, et la propagation des vagues. Il a ï¿½tï¿½ installï¿½ sur la HK4 bouï¿½e de navigation dans le port de Halifax prï¿½s de la plage de Meagher. \ N \ nLorsque l'Administration portuaire a soulevï¿½ un besoin pour capturer des donnï¿½es d'onde ï¿½ cet endroit, Xeos Technologies est heureux de fournir et d'installer son propre capteur de hauteur des vagues pour la SmartAtlantic projet. Il est l'occasion de contribuer ï¿½ la surveillance environnementale des conditions portuaires.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
