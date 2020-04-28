@@ -47,8 +47,8 @@ standard_name_vocabulary: "Climate and Forecast Standard Names"
 license: "Open Government Licence - Canada (http://open.canada.ca/en/open-government-licence-canada)"
 license_fra: "Licence du gouvernement ouvert - Canada (http://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada)"
 
-contributor_name: 
-contributor_role: 
+contributor_name: test 
+contributor_role: test
 publisher_name: "Brittany Pye"
 publisher_url: "https://open.canada.ca/data/en/dataset/a650f132-7502-402f-a42e-7ba4dea3f829"
 publisher_email: "brittany.pye@dfo-mpo.gc.ca"

@@ -141,6 +141,20 @@
           <cit:citedResponsibleParty>
             <cit:CI_Responsibility>
               <cit:role>
+                <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="contributor"/>
+              </cit:role>
+              <cit:party>
+                <cit:CI_Organisation>
+                  <cit:name xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>test</gco:CharacterString>
+                  </cit:name>
+                </cit:CI_Organisation>
+              </cit:party>
+            </cit:CI_Responsibility>
+          </cit:citedResponsibleParty>
+          <cit:citedResponsibleParty>
+            <cit:CI_Responsibility>
+              <cit:role>
                 <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="originator"/>
               </cit:role>
               <cit:party>
@@ -148,9 +162,6 @@
                   <cit:name>
                     <gco:CharacterString>Government of Canada; Fisheries and Oceans Canada; DFO</gco:CharacterString>
                   </cit:name>
-                  <cit:affiliation xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>Government of Canada; Fisheries and Oceans Canada; DFO</gco:CharacterString>
-                  </cit:affiliation>
                 </cit:CI_Organisation>
               </cit:party>
             </cit:CI_Responsibility>
