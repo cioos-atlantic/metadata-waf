@@ -1,0 +1,129 @@
+mcf:
+  version: 1.0
+
+metadata:
+  naming_authority_en: Centre for Marine Applied Research (CMAR)
+  naming_authority_fr: Centre for Marine Applied Research (CMAR)
+  identifier: Exposure Modelling Buoy 2 - Deployment
+  language: en
+  language_alternate: fr
+  maintenance_note_en: asNeeded
+  maintenance_note_fr: unk
+  use_constraints:
+    limitations_en: License,
+    limitations_fr: License,
+    license:
+      title: Creative Commons Attribution 4.0,
+      code: CC-BY-4.0,
+      link: https://creativecommons.org/licenses/by/4.0/
+  comment_en: unk
+  comment_fr: unk
+  history_en: unk
+  history_fr: unk
+
+spatial:
+  bbox: [-70, 35, -50, 55]
+  polygon: -64.476,44.165 -64.456,44.165 -64.456,44.145 -64.476,44.145
+  vertical: [0, 10]
+
+identification:
+  title_en: Xeos Buoy - 002
+  title_fr: Xeos Buoy - 002
+  abstract_en: This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic buoy built by Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed in Jordan Bay, Nova Scotia near two finfish aquaculture leases. It measures wave data (Maximum Wave Height, Significant Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave Spread) using a Brizo wave sensor manufactured by Xeos, and sea temperature using a Sea Temp sensor. The data is streamed to CIOOS every 30 minutes. The data will be used to validate an exposure model for the coast of Nova Scotia, which will be used to support informed decision making for existing and future finfish aquaculture sites.
+  abstract_fr: Cet ensemble de données est recueilli à l'aide d'une bouée météorologique/océanographique de 3 mètres de haut et de 1 mètre de diamètre construite par Xeos Technologies Inc., de Dartmouth (Nouvelle-Écosse). La bouée est déployée à Jordan Bay, en Nouvelle-Écosse, près de deux baux de pisciculture. Il mesure les données d'onde (hauteur maximale des vagues, hauteur significative des vagues, période de pointe, direction moyenne des vagues et propagation moyenne des vagues) à l'aide d'un capteur d'onde Brizo fabriqué par Xeos, et la température de la mer à l'aide d'un capteur de température de mer. Les données sont transmises en continu au CIOOS toutes les 30 minutes. Les données serviront à valider un modèle d'exposition pour la côte de la Nouvelle-Écosse, qui servira à appuyer la prise de décisions éclairées pour les sites de pisciculture existants et futurs.
+  dates:
+    creation: 2020-04-22
+    publication: 2020-04-22T18:20:00Z
+    revision: 2020-06-18T12:22:00Z
+  keywords:
+    default:
+      keywords_en: [surfaceCurrents, seaState, seaSurfaceHeight, subSurfaceTemperature]
+      keywords_fr: [surfaceCurrents, seaState, seaSurfaceHeight, subSurfaceTemperature]
+    eov:
+      keywords_en: [surfaceCurrents, seaState, seaSurfaceHeight, subSurfaceTemperature]
+  temporal_begin: 2020-04-22
+  temporal_end: 2020-06-18
+  temporal_duration: P30M
+  time_coverage_resolution: P30M
+  status: onGoing
+  acknowledgement: unk
+  project_en:
+    - Xeos
+  project_fr:
+    - Xeos
+
+contact:
+  main: &contact_main
+    organization:
+      name: Centre for Marine Applied Research (CMAR)
+      url: https://www.ec.gc.ca/
+      address:
+      city:
+      country: Canada
+      email: info@cmar.ca
+    individual:
+      name: Scott Tobin
+      position: Technical Sales Engineer
+      email: scott@xeostech.com
+
+
+  pointOfContact: # use as 'contact' in xml
+    - individual:
+        name: Scott Tobin
+        email: scott@xeostech.com
+        address: 36 Topple Drive, NS, B3B 1L6
+        city: Dartmouth
+        country: Canada
+      role: distributor # include role if  differs from object key, in this case point of contact
+
+  author:
+    individual:
+      name: Scott Tobin
+      phone: 1-902-444-7650
+
+  contributor: *contact_main
+  creator: *contact_main
+  publisher: *contact_main
+  distributor: *contact_main # used as distributor in distributionInfo in xml
+  originator:
+    organization:
+      name: Xeos Technologies Inc
+      url: https://xeostech.com
+      address: 36 Topple Drive, NS, B3B 1L6
+      city: Dartmouth
+      country: Canada
+      email: scott@xeostech.com
+    individual:
+      name: Scott Tobin
+      position: Technical Sales Engineer
+      email: scott@xeostech.com
+
+distribution:
+  - url: https://dev.cioosatlantic.ca/erddap/tabledap/datasets_8369_7d0c_d3f1.html
+    format: erddap
+    description_en: unk
+    description_fr: unk
+
+platform:
+  name_en: Buoy 001
+  role_en: unk
+  authority_en: unk
+  id: 001
+  description_en: Redeployable moored buoy
+  instruments:
+    - id: unk
+      manufacturer_en: Xeos
+      version_en: unk
+      version_fr: unk
+      type_en: Brizo-X wave height sensor, Brizo wave monitoring sensor
+      type_fr: unk
+      description_en: unk
+      description_fr: unk
+    - id: unk
+      manufacturer_en: Xeos
+      version_en: unk
+      version_fr: unk
+      type_en: Sea temperature sensor
+      type_fr: unk
+      description_en: unk
+      description_fr: unk
