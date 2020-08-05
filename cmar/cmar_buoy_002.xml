@@ -347,16 +347,16 @@
                 <gco:Boolean>true</gco:Boolean>
               </gex:extentTypeCode>
               <gex:westBoundLongitude>
-                <gco:Decimal>-70</gco:Decimal>
+                <gco:Decimal>-66.205171</gco:Decimal>
               </gex:westBoundLongitude>
               <gex:eastBoundLongitude>
-                <gco:Decimal>-50</gco:Decimal>
+                <gco:Decimal>-66.202573</gco:Decimal>
               </gex:eastBoundLongitude>
               <gex:southBoundLatitude>
-                <gco:Decimal>35</gco:Decimal>
+                <gco:Decimal>44.30759</gco:Decimal>
               </gex:southBoundLatitude>
               <gex:northBoundLatitude>
-                <gco:Decimal>55</gco:Decimal>
+                <gco:Decimal>44.310022</gco:Decimal>
               </gex:northBoundLatitude>
             </gex:EX_GeographicBoundingBox>
           </gex:geographicElement>
