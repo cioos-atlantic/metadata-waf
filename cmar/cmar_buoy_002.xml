@@ -509,7 +509,7 @@
             <gco:CharacterString>Timestamp</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>Battery Level (V)</gco:CharacterString>
+            <gco:CharacterString>Battery Level - Volts</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>Temperature</gco:CharacterString>
