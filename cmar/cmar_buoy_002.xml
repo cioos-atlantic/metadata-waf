@@ -327,7 +327,7 @@
         </lan:PT_FreeText>
       </mri:abstract>
       <mri:credit>
-        <gco:CharacterString>unk</gco:CharacterString>
+        <gco:CharacterString>TBD</gco:CharacterString>
       </mri:credit>
       <mri:status>
         <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="onGoing">
@@ -374,7 +374,7 @@
                   <gml:exterior>
                     <gml:LinearRing>
                       <gml:coordinates>
-                        -64.976,43.765 -64.956,43.765 -64.956,43.745 -64.976,43.745
+                        -66.205171,44.310022 -66.202573,44.310022 -66.202573,44.307590 -66.205171,44.307590
                       </gml:coordinates>
                     </gml:LinearRing>
                   </gml:exterior>
@@ -446,7 +446,7 @@
             <gco:CharacterString>asNeeded</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fra">unk</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fra">TBD</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mmi:maintenanceNote>
@@ -584,10 +584,10 @@
         </mco:MD_Constraints>
       </mri:resourceConstraints>
       <mri:supplementalInformation xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>unk</gco:CharacterString>
+        <gco:CharacterString>TBD</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fra">unk</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fra">TBD</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:supplementalInformation>
@@ -696,10 +696,10 @@
   <mdb:resourceLineage>
     <mrl:LI_Lineage>
       <mrl:statement xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>unk</gco:CharacterString>
+        <gco:CharacterString>TBD</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fra">unk</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fra">TBD</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mrl:statement>
@@ -759,13 +759,13 @@
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>unk</gco:CharacterString>
+                    <gco:CharacterString>TBD</gco:CharacterString>
                   </mcc:code>
                   <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>unk</gco:CharacterString>
+                    <gco:CharacterString>TBD</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fra">unk</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fra">TBD</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -775,7 +775,7 @@
                 <gco:CharacterString>Brizo-X wave height sensor, Brizo wave monitoring sensor</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fra">unk</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fra">TBD</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
@@ -793,13 +793,13 @@
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>unk</gco:CharacterString>
+                    <gco:CharacterString>TBD</gco:CharacterString>
                   </mcc:code>
                   <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>unk</gco:CharacterString>
+                    <gco:CharacterString>TBD</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fra">unk</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fra">TBD</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -809,7 +809,7 @@
                 <gco:CharacterString>Sea temperature sensor</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fra">unk</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fra">TBD</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>

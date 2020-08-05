@@ -8,7 +8,7 @@ metadata:
   language: en
   language_alternate: fr
   maintenance_note_en: asNeeded
-  maintenance_note_fr: unk
+  maintenance_note_fr: TBD
   use_constraints:
     limitations_en: License,
     limitations_fr: License,
@@ -16,14 +16,14 @@ metadata:
       title: Creative Commons Attribution 4.0,
       code: CC-BY-4.0,
       link: https://creativecommons.org/licenses/by/4.0/
-  comment_en: unk
-  comment_fr: unk
-  history_en: unk
-  history_fr: unk
+  comment_en: TBD
+  comment_fr: TBD
+  history_en: TBD
+  history_fr: TBD
 
 spatial:
   bbox: [-70, 35, -50, 55]
-  polygon: -64.476,44.165 -64.456,44.165 -64.456,44.145 -64.476,44.145
+  polygon: -61.138816,45.390035 -61.136847,45.390035 -61.136847,45.386970 -61.138816,45.386970
   vertical: [0, 10]
 
 identification:
@@ -46,7 +46,7 @@ identification:
   temporal_duration: P30M
   time_coverage_resolution: P30M
   status: onGoing
-  acknowledgement: unk
+  acknowledgement: TBD
   project_en:
     - Xeos
   project_fr:
@@ -101,29 +101,29 @@ contact:
 distribution:
   - url: https://dev.cioosatlantic.ca/erddap/tabledap/datasets_b6ca_92fb_54b2.html
     format: erddap
-    description_en: unk
-    description_fr: unk
+    description_en: TBD
+    description_fr: TBD
 
 platform:
   name_en: Buoy 003
-  role_en: unk
-  authority_en: unk
+  role_en: TBD
+  authority_en: TBD
   id: 003
   description_en: Redeployable moored buoy
   instruments:
-    - id: unk
+    - id: TBD
       manufacturer_en: Xeos
-      version_en: unk
-      version_fr: unk
+      version_en: TBD
+      version_fr: TBD
       type_en: Brizo-X wave height sensor, Brizo wave monitoring sensor
-      type_fr: unk
-      description_en: unk
-      description_fr: unk
-    - id: unk
+      type_fr: TBD
+      description_en: TBD
+      description_fr: TBD
+    - id: TBD
       manufacturer_en: Xeos
-      version_en: unk
-      version_fr: unk
+      version_en: TBD
+      version_fr: TBD
       type_en: Sea temperature sensor
-      type_fr: unk
-      description_en: unk
-      description_fr: unk
+      type_fr: TBD
+      description_en: TBD
+      description_fr: TBD
