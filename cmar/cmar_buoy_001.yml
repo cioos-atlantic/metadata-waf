@@ -4,7 +4,7 @@ mcf:
 metadata:
   naming_authority_en: Centre for Marine Applied Research (CMAR)
   naming_authority_fr: Centre for Marine Applied Research (CMAR)
-  identifier: Exposure Modelling Buoy 1 - Jordan Bay Deployment
+  identifier: Exposure Modelling Buoy 1 - Deployment
   language: en
   language_alternate: fr
   maintenance_note_en: asNeeded
@@ -99,7 +99,7 @@ contact:
       email: scott@xeostech.com
 
 distribution:
-  - url: https://dev.cioosatlantic.ca/erddap/tabledap/datasets_8369_7d0c_d3f1.html
+  - url: https://dev.cioosatlantic.ca/erddap/tabledap/datasets_0226_5e1f_05f5.html
     format: erddap
     description_en: unk
     description_fr: unk
