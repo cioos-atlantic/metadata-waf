@@ -756,7 +756,7 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/datasets_b6ca_92fb_54b2.html</gco:CharacterString>
+                <gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/cmar_b6ca_92fb_54b2.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>https</gco:CharacterString>

@@ -99,7 +99,7 @@ contact:
       email: scott@xeostech.com
 
 distribution:
-  - url: https://dev.cioosatlantic.ca/erddap/tabledap/datasets_0226_5e1f_05f5.html
+  - url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_0226_5e1f_05f5.html
     format: erddap
     description_en: TBD
     description_fr: TBD
