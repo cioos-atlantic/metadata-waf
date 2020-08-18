@@ -15,7 +15,7 @@ metadata:
     license:
       title: Creative Commons Attribution 4.0,
       code: CC-BY-4.0,
-      link: https://creativecommons.org/licenses/by/4.0/
+      url: https://creativecommons.org/licenses/by/4.0/
   comment_en: TBD
   comment_fr: TBD
   history_en: TBD
@@ -55,7 +55,13 @@ identification:
 contact:
   - roles:
       - pointOfContact
-      - creator
+    individual:
+      name: Scott Tobin
+      position: Technical Sales Engineer
+      email: scott@xeostech.com
+      country: Canada
+  - roles:
+      - author
     organization:
       name: Centre for Marine Applied Research (CMAR)
       url: https://www.ec.gc.ca/
@@ -65,18 +71,11 @@ contact:
       email: info@cmar.ca
     individual:
       name: Scott Tobin
-      position: Technical Sales Engineer
-      email: scott@xeostech.com
-  - roles:
-      - author
-    individual:
-      name: Scott Tobin
       phone: 1-902-444-7650
       email: scott@xeostech.com
       country: Canada
-
   - roles:
-      - distributor
+      - contributor
     organization:
       name: Xeos Technologies Inc
       url: https://xeostech.com
@@ -84,6 +83,15 @@ contact:
       city: Dartmouth
       country: Canada
       email: scott@xeostech.com
+  - roles:
+      - distributor
+    organization:
+      name: CIOOS Atlantic
+      address: 1355 Oxford St., P.O. Box 15000, B3H 4R2
+      city: Halifax
+      country: Canada
+      email: info@cioosatlantic.ca
+      url: https://cioosatlantic.ca/
 
 
 distribution:

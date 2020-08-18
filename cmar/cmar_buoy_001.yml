@@ -55,7 +55,13 @@ identification:
 contact:
   - roles:
       - pointOfContact
-      - creator
+    individual:
+      name: Scott Tobin
+      position: Technical Sales Engineer
+      email: scott@xeostech.com
+      country: Canada
+  - roles:
+      - author
     organization:
       name: Centre for Marine Applied Research (CMAR)
       url: https://www.ec.gc.ca/
@@ -63,12 +69,6 @@ contact:
       city: Toronto
       country: Canada
       email: info@cmar.ca
-    individual:
-      name: Scott Tobin
-      position: Technical Sales Engineer
-      email: scott@xeostech.com
-  - roles:
-      - author
     individual:
       name: Scott Tobin
       phone: 1-902-444-7650
