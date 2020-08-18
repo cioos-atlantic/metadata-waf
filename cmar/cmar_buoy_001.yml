@@ -74,9 +74,8 @@ contact:
       phone: 1-902-444-7650
       email: scott@xeostech.com
       country: Canada
-
   - roles:
-      - distributor
+      - contributor
     organization:
       name: Xeos Technologies Inc
       url: https://xeostech.com
@@ -84,6 +83,15 @@ contact:
       city: Dartmouth
       country: Canada
       email: scott@xeostech.com
+  - roles:
+      - distributor
+    organization:
+      name: CIOOS Atlantic
+      address: 1355 Oxford St., P.O. Box 15000, B3H 4R2
+      city: Halifax
+      country: Canada
+      email: info@cioosatlantic.ca
+      url: https://cioosatlantic.ca/
 
 
 distribution:
