@@ -77,6 +77,13 @@ contact:
       role: distributor # include role if  differs from object key, in this case point of contact
 
   author:
+    organization:
+      name: Centre for Marine Applied Research (CMAR)
+      url: https://www.ec.gc.ca/
+      address:
+      city:
+      country: Canada
+      email: info@cmar.ca
     individual:
       name: Scott Tobin
       phone: 1-902-444-7650
