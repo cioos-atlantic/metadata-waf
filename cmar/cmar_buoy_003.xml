@@ -44,7 +44,157 @@
   <mdb:contact>
     <cit:CI_Responsibility>
       <cit:role>
-        <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="distributor">distributor</cit:CI_RoleCode>
+        <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</cit:CI_RoleCode>
+      </cit:role>
+      <cit:party>
+        <cit:CI_Organisation>
+          <cit:name>
+            <gco:CharacterString>Centre for Marine Applied Research (CMAR)</gco:CharacterString>
+          </cit:name>
+          <cit:contactInfo>
+            <cit:CI_Contact>
+              <cit:phone>
+                <cit:CI_Telephone>
+                  <cit:number>
+                    <gco:CharacterString/>
+                  </cit:number>
+                </cit:CI_Telephone>
+              </cit:phone>
+              <cit:address>
+                <cit:CI_Address>
+                  <cit:deliveryPoint>
+                    <gco:CharacterString>4905 Dufferin Street</gco:CharacterString>
+                  </cit:deliveryPoint>
+                  <cit:city>
+                    <gco:CharacterString>Toronto</gco:CharacterString>
+                  </cit:city>
+                  <cit:country>
+                    <gco:CharacterString>Canada</gco:CharacterString>
+                  </cit:country>
+                  <cit:electronicMailAddress>
+                    <gco:CharacterString>info@cmar.ca</gco:CharacterString>
+                  </cit:electronicMailAddress>
+                </cit:CI_Address>
+              </cit:address>
+              <cit:onlineResource>
+                <cit:CI_OnlineResource>
+                  <cit:linkage>
+                    <gco:CharacterString>https://www.ec.gc.ca/</gco:CharacterString>
+                  </cit:linkage>
+                  <cit:protocol>
+                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
+                  </cit:protocol>
+                  <cit:function>
+                    <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                  </cit:function>
+                </cit:CI_OnlineResource>
+              </cit:onlineResource>
+            </cit:CI_Contact>
+          </cit:contactInfo>
+          <cit:individual>
+            <cit:CI_Individual>
+              <cit:name>
+                <gco:CharacterString>Scott Tobin</gco:CharacterString>
+              </cit:name>
+              <cit:contactInfo>
+                <cit:CI_Contact>
+                  <cit:address>
+                    <cit:CI_Address>
+                      <cit:electronicMailAddress>
+                        <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
+                      </cit:electronicMailAddress>
+                    </cit:CI_Address>
+                  </cit:address>
+                </cit:CI_Contact>
+              </cit:contactInfo>
+              <cit:positionName>
+                <gco:CharacterString>Technical Sales Engineer</gco:CharacterString>
+              </cit:positionName>
+            </cit:CI_Individual>
+          </cit:individual>
+        </cit:CI_Organisation>
+      </cit:party>
+    </cit:CI_Responsibility>
+  </mdb:contact>
+  <mdb:contact>
+    <cit:CI_Responsibility>
+      <cit:role>
+        <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="creator">creator</cit:CI_RoleCode>
+      </cit:role>
+      <cit:party>
+        <cit:CI_Organisation>
+          <cit:name>
+            <gco:CharacterString>Centre for Marine Applied Research (CMAR)</gco:CharacterString>
+          </cit:name>
+          <cit:contactInfo>
+            <cit:CI_Contact>
+              <cit:phone>
+                <cit:CI_Telephone>
+                  <cit:number>
+                    <gco:CharacterString/>
+                  </cit:number>
+                </cit:CI_Telephone>
+              </cit:phone>
+              <cit:address>
+                <cit:CI_Address>
+                  <cit:deliveryPoint>
+                    <gco:CharacterString>4905 Dufferin Street</gco:CharacterString>
+                  </cit:deliveryPoint>
+                  <cit:city>
+                    <gco:CharacterString>Toronto</gco:CharacterString>
+                  </cit:city>
+                  <cit:country>
+                    <gco:CharacterString>Canada</gco:CharacterString>
+                  </cit:country>
+                  <cit:electronicMailAddress>
+                    <gco:CharacterString>info@cmar.ca</gco:CharacterString>
+                  </cit:electronicMailAddress>
+                </cit:CI_Address>
+              </cit:address>
+              <cit:onlineResource>
+                <cit:CI_OnlineResource>
+                  <cit:linkage>
+                    <gco:CharacterString>https://www.ec.gc.ca/</gco:CharacterString>
+                  </cit:linkage>
+                  <cit:protocol>
+                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
+                  </cit:protocol>
+                  <cit:function>
+                    <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                  </cit:function>
+                </cit:CI_OnlineResource>
+              </cit:onlineResource>
+            </cit:CI_Contact>
+          </cit:contactInfo>
+          <cit:individual>
+            <cit:CI_Individual>
+              <cit:name>
+                <gco:CharacterString>Scott Tobin</gco:CharacterString>
+              </cit:name>
+              <cit:contactInfo>
+                <cit:CI_Contact>
+                  <cit:address>
+                    <cit:CI_Address>
+                      <cit:electronicMailAddress>
+                        <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
+                      </cit:electronicMailAddress>
+                    </cit:CI_Address>
+                  </cit:address>
+                </cit:CI_Contact>
+              </cit:contactInfo>
+              <cit:positionName>
+                <gco:CharacterString>Technical Sales Engineer</gco:CharacterString>
+              </cit:positionName>
+            </cit:CI_Individual>
+          </cit:individual>
+        </cit:CI_Organisation>
+      </cit:party>
+    </cit:CI_Responsibility>
+  </mdb:contact>
+  <mdb:contact>
+    <cit:CI_Responsibility>
+      <cit:role>
+        <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
       </cit:role>
       <cit:party>
         <cit:CI_Individual>
@@ -55,9 +205,6 @@
             <cit:CI_Contact>
               <cit:address>
                 <cit:CI_Address>
-                  <cit:city>
-                    <gco:CharacterString>Dartmouth</gco:CharacterString>
-                  </cit:city>
                   <cit:country>
                     <gco:CharacterString>Canada</gco:CharacterString>
                   </cit:country>
@@ -69,6 +216,60 @@
             </cit:CI_Contact>
           </cit:contactInfo>
         </cit:CI_Individual>
+      </cit:party>
+    </cit:CI_Responsibility>
+  </mdb:contact>
+  <mdb:contact>
+    <cit:CI_Responsibility>
+      <cit:role>
+        <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="distributor">distributor</cit:CI_RoleCode>
+      </cit:role>
+      <cit:party>
+        <cit:CI_Organisation>
+          <cit:name>
+            <gco:CharacterString>Xeos Technologies Inc</gco:CharacterString>
+          </cit:name>
+          <cit:contactInfo>
+            <cit:CI_Contact>
+              <cit:phone>
+                <cit:CI_Telephone>
+                  <cit:number>
+                    <gco:CharacterString/>
+                  </cit:number>
+                </cit:CI_Telephone>
+              </cit:phone>
+              <cit:address>
+                <cit:CI_Address>
+                  <cit:deliveryPoint>
+                    <gco:CharacterString>36 Topple Drive, NS, B3B 1L6</gco:CharacterString>
+                  </cit:deliveryPoint>
+                  <cit:city>
+                    <gco:CharacterString>Dartmouth</gco:CharacterString>
+                  </cit:city>
+                  <cit:country>
+                    <gco:CharacterString>Canada</gco:CharacterString>
+                  </cit:country>
+                  <cit:electronicMailAddress>
+                    <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
+                  </cit:electronicMailAddress>
+                </cit:CI_Address>
+              </cit:address>
+              <cit:onlineResource>
+                <cit:CI_OnlineResource>
+                  <cit:linkage>
+                    <gco:CharacterString>https://xeostech.com</gco:CharacterString>
+                  </cit:linkage>
+                  <cit:protocol>
+                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
+                  </cit:protocol>
+                  <cit:function>
+                    <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                  </cit:function>
+                </cit:CI_OnlineResource>
+              </cit:onlineResource>
+            </cit:CI_Contact>
+          </cit:contactInfo>
+        </cit:CI_Organisation>
       </cit:party>
     </cit:CI_Responsibility>
   </mdb:contact>
@@ -169,131 +370,6 @@
           <cit:citedResponsibleParty>
             <cit:CI_Responsibility>
               <cit:role>
-                <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author">author; contact</cit:CI_RoleCode>
-              </cit:role>
-              <cit:party>
-                <cit:CI_Organisation>
-                  <cit:name>
-                    <gco:CharacterString>Centre for Marine Applied Research (CMAR)</gco:CharacterString>
-                  </cit:name>
-                  <cit:contactInfo>
-                    <cit:CI_Contact>
-                      <cit:phone>
-                        <cit:CI_Telephone>
-                          <cit:number>
-                            <gco:CharacterString/>
-                          </cit:number>
-                        </cit:CI_Telephone>
-                      </cit:phone>
-                      <cit:address>
-                        <cit:CI_Address>
-                          <cit:country>
-                            <gco:CharacterString>Canada</gco:CharacterString>
-                          </cit:country>
-                          <cit:electronicMailAddress>
-                            <gco:CharacterString>info@cmar.ca</gco:CharacterString>
-                          </cit:electronicMailAddress>
-                        </cit:CI_Address>
-                      </cit:address>
-                      <cit:onlineResource>
-                        <cit:CI_OnlineResource>
-                          <cit:linkage>
-                            <gco:CharacterString>https://www.ec.gc.ca/</gco:CharacterString>
-                          </cit:linkage>
-                          <cit:protocol>
-                            <gco:CharacterString>WWW:LINK</gco:CharacterString>
-                          </cit:protocol>
-                          <cit:function>
-                            <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue=""/>
-                          </cit:function>
-                        </cit:CI_OnlineResource>
-                      </cit:onlineResource>
-                    </cit:CI_Contact>
-                  </cit:contactInfo>
-                  <cit:individual>
-                    <cit:CI_Individual>
-                      <cit:name>
-                        <gco:CharacterString>Scott Tobin</gco:CharacterString>
-                      </cit:name>
-                      <cit:contactInfo>
-                        <cit:CI_Contact>
-      </cit:CI_Contact>
-                      </cit:contactInfo>
-                    </cit:CI_Individual>
-                  </cit:individual>
-                </cit:CI_Organisation>
-              </cit:party>
-            </cit:CI_Responsibility>
-          </cit:citedResponsibleParty>
-          <cit:citedResponsibleParty>
-            <cit:CI_Responsibility>
-              <cit:role>
-                <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="contributor">contributor; contact</cit:CI_RoleCode>
-              </cit:role>
-              <cit:party>
-                <cit:CI_Organisation>
-                  <cit:name>
-                    <gco:CharacterString>Centre for Marine Applied Research (CMAR)</gco:CharacterString>
-                  </cit:name>
-                  <cit:contactInfo>
-                    <cit:CI_Contact>
-                      <cit:phone>
-                        <cit:CI_Telephone>
-                          <cit:number>
-                            <gco:CharacterString/>
-                          </cit:number>
-                        </cit:CI_Telephone>
-                      </cit:phone>
-                      <cit:address>
-                        <cit:CI_Address>
-                          <cit:country>
-                            <gco:CharacterString>Canada</gco:CharacterString>
-                          </cit:country>
-                          <cit:electronicMailAddress>
-                            <gco:CharacterString>info@cmar.ca</gco:CharacterString>
-                          </cit:electronicMailAddress>
-                        </cit:CI_Address>
-                      </cit:address>
-                      <cit:onlineResource>
-                        <cit:CI_OnlineResource>
-                          <cit:linkage>
-                            <gco:CharacterString>https://www.ec.gc.ca/</gco:CharacterString>
-                          </cit:linkage>
-                          <cit:protocol>
-                            <gco:CharacterString>WWW:LINK</gco:CharacterString>
-                          </cit:protocol>
-                          <cit:function>
-                            <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue=""/>
-                          </cit:function>
-                        </cit:CI_OnlineResource>
-                      </cit:onlineResource>
-                    </cit:CI_Contact>
-                  </cit:contactInfo>
-                  <cit:individual>
-                    <cit:CI_Individual>
-                      <cit:name>
-                        <gco:CharacterString>Scott Tobin</gco:CharacterString>
-                      </cit:name>
-                      <cit:contactInfo>
-                        <cit:CI_Contact>
-                          <cit:address>
-                            <cit:CI_Address>
-                              <cit:electronicMailAddress>
-                                <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
-                              </cit:electronicMailAddress>
-                            </cit:CI_Address>
-                          </cit:address>
-                        </cit:CI_Contact>
-                      </cit:contactInfo>
-                    </cit:CI_Individual>
-                  </cit:individual>
-                </cit:CI_Organisation>
-              </cit:party>
-            </cit:CI_Responsibility>
-          </cit:citedResponsibleParty>
-          <cit:citedResponsibleParty>
-            <cit:CI_Responsibility>
-              <cit:role>
                 <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="creator">creator; contact</cit:CI_RoleCode>
               </cit:role>
               <cit:party>
@@ -312,6 +388,12 @@
                       </cit:phone>
                       <cit:address>
                         <cit:CI_Address>
+                          <cit:deliveryPoint>
+                            <gco:CharacterString>4905 Dufferin Street</gco:CharacterString>
+                          </cit:deliveryPoint>
+                          <cit:city>
+                            <gco:CharacterString>Toronto</gco:CharacterString>
+                          </cit:city>
                           <cit:country>
                             <gco:CharacterString>Canada</gco:CharacterString>
                           </cit:country>
@@ -329,7 +411,7 @@
                             <gco:CharacterString>WWW:LINK</gco:CharacterString>
                           </cit:protocol>
                           <cit:function>
-                            <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue=""/>
+                            <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
                           </cit:function>
                         </cit:CI_OnlineResource>
                       </cit:onlineResource>
@@ -351,9 +433,40 @@
                           </cit:address>
                         </cit:CI_Contact>
                       </cit:contactInfo>
+                      <cit:positionName>
+                        <gco:CharacterString>Technical Sales Engineer</gco:CharacterString>
+                      </cit:positionName>
                     </cit:CI_Individual>
                   </cit:individual>
                 </cit:CI_Organisation>
+              </cit:party>
+            </cit:CI_Responsibility>
+          </cit:citedResponsibleParty>
+          <cit:citedResponsibleParty>
+            <cit:CI_Responsibility>
+              <cit:role>
+                <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author">author; contact</cit:CI_RoleCode>
+              </cit:role>
+              <cit:party>
+                <cit:CI_Individual>
+                  <cit:name>
+                    <gco:CharacterString>Scott Tobin</gco:CharacterString>
+                  </cit:name>
+                  <cit:contactInfo>
+                    <cit:CI_Contact>
+                      <cit:address>
+                        <cit:CI_Address>
+                          <cit:country>
+                            <gco:CharacterString>Canada</gco:CharacterString>
+                          </cit:country>
+                          <cit:electronicMailAddress>
+                            <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
+                          </cit:electronicMailAddress>
+                        </cit:CI_Address>
+                      </cit:address>
+                    </cit:CI_Contact>
+                  </cit:contactInfo>
+                </cit:CI_Individual>
               </cit:party>
             </cit:CI_Responsibility>
           </cit:citedResponsibleParty>
@@ -687,8 +800,11 @@
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
                   <cit:linkage>
-                    <gco:CharacterString>https://creativecommons.org/licenses/by/4.0/</gco:CharacterString>
+                    <gco:CharacterString/>
                   </cit:linkage>
+                  <cit:protocol>
+                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
+                  </cit:protocol>
                 </cit:CI_OnlineResource>
               </cit:onlineResource>
             </cit:CI_Citation>
@@ -732,7 +848,7 @@
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>Centre for Marine Applied Research (CMAR)</gco:CharacterString>
+                    <gco:CharacterString>Xeos Technologies Inc</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
@@ -745,47 +861,35 @@
                       </cit:phone>
                       <cit:address>
                         <cit:CI_Address>
+                          <cit:deliveryPoint>
+                            <gco:CharacterString>36 Topple Drive, NS, B3B 1L6</gco:CharacterString>
+                          </cit:deliveryPoint>
+                          <cit:city>
+                            <gco:CharacterString>Dartmouth</gco:CharacterString>
+                          </cit:city>
                           <cit:country>
                             <gco:CharacterString>Canada</gco:CharacterString>
                           </cit:country>
                           <cit:electronicMailAddress>
-                            <gco:CharacterString>info@cmar.ca</gco:CharacterString>
+                            <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
                           </cit:electronicMailAddress>
                         </cit:CI_Address>
                       </cit:address>
                       <cit:onlineResource>
                         <cit:CI_OnlineResource>
                           <cit:linkage>
-                            <gco:CharacterString>https://www.ec.gc.ca/</gco:CharacterString>
+                            <gco:CharacterString>https://xeostech.com</gco:CharacterString>
                           </cit:linkage>
                           <cit:protocol>
                             <gco:CharacterString>WWW:LINK</gco:CharacterString>
                           </cit:protocol>
                           <cit:function>
-                            <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue=""/>
+                            <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
                           </cit:function>
                         </cit:CI_OnlineResource>
                       </cit:onlineResource>
                     </cit:CI_Contact>
                   </cit:contactInfo>
-                  <cit:individual>
-                    <cit:CI_Individual>
-                      <cit:name>
-                        <gco:CharacterString>Scott Tobin</gco:CharacterString>
-                      </cit:name>
-                      <cit:contactInfo>
-                        <cit:CI_Contact>
-                          <cit:address>
-                            <cit:CI_Address>
-                              <cit:electronicMailAddress>
-                                <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
-                              </cit:electronicMailAddress>
-                            </cit:CI_Address>
-                          </cit:address>
-                        </cit:CI_Contact>
-                      </cit:contactInfo>
-                    </cit:CI_Individual>
-                  </cit:individual>
                 </cit:CI_Organisation>
               </cit:party>
             </cit:CI_Responsibility>
@@ -800,7 +904,7 @@
                 <gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/cmar_b6ca_92fb_54b2.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
-                <gco:CharacterString>https</gco:CharacterString>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
               </cit:protocol>
               <cit:name>
                 <gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>
@@ -808,12 +912,6 @@
               <cit:description>
                 <gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>
               </cit:description>
-              <cit:function>
-                <cit:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
-              </cit:function>
-              <cit:protocolRequest>
-                <gco:CharacterString>OPeNDAP constraint protocol</gco:CharacterString>
-              </cit:protocolRequest>
             </cit:CI_OnlineResource>
           </mrd:onLine>
         </mrd:MD_DigitalTransferOptions>
@@ -862,7 +960,7 @@
               <mcc:authority>
                 <cit:CI_Citation>
                   <cit:title>
-                    <gco:CharacterString/>
+                    <gco:CharacterString>Buoy 003</gco:CharacterString>
                   </cit:title>
                 </cit:CI_Citation>
               </mcc:authority>

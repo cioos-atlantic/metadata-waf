@@ -15,7 +15,7 @@ metadata:
     license:
       title: Creative Commons Attribution 4.0,
       code: CC-BY-4.0,
-      link: https://creativecommons.org/licenses/by/4.0/
+      url: https://creativecommons.org/licenses/by/4.0/
   comment_en: TBD
   comment_fr: TBD
   history_en: TBD
@@ -45,54 +45,38 @@ identification:
   temporal_end: 2020-06-18
   temporal_duration: P30M
   time_coverage_resolution: P30M
-  status: onGoing
   acknowledgement: TBD
+  status: onGoing
   project_en:
     - Xeos
   project_fr:
     - Xeos
 
 contact:
-  main: &contact_main
+  - roles:
+      - pointOfContact
+      - creator
     organization:
       name: Centre for Marine Applied Research (CMAR)
       url: https://www.ec.gc.ca/
-      address:
-      city:
+      address: 4905 Dufferin Street
+      city: Toronto
       country: Canada
       email: info@cmar.ca
     individual:
       name: Scott Tobin
       position: Technical Sales Engineer
       email: scott@xeostech.com
-
-
-  pointOfContact: # use as 'contact' in xml
-    - individual:
-        name: Scott Tobin
-        email: scott@xeostech.com
-        address: 36 Topple Drive, NS, B3B 1L6
-        city: Dartmouth
-        country: Canada
-      role: distributor # include role if  differs from object key, in this case point of contact
-
-  author:
-    organization:
-      name: Centre for Marine Applied Research (CMAR)
-      url: https://www.ec.gc.ca/
-      address:
-      city:
-      country: Canada
-      email: info@cmar.ca
+  - roles:
+      - author
     individual:
       name: Scott Tobin
       phone: 1-902-444-7650
+      email: scott@xeostech.com
+      country: Canada
 
-  contributor: *contact_main
-  creator: *contact_main
-  publisher: *contact_main
-  distributor: *contact_main # used as distributor in distributionInfo in xml
-  originator:
+  - roles:
+      - distributor
     organization:
       name: Xeos Technologies Inc
       url: https://xeostech.com
@@ -100,10 +84,7 @@ contact:
       city: Dartmouth
       country: Canada
       email: scott@xeostech.com
-    individual:
-      name: Scott Tobin
-      position: Technical Sales Engineer
-      email: scott@xeostech.com
+
 
 distribution:
   - url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_0226_5e1f_05f5.html
