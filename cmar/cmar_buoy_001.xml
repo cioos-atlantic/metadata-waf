@@ -909,7 +909,7 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/cmar_0226_5e1f_05f5.html</gco:CharacterString>
+                <gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
