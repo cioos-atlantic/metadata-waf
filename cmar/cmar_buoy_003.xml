@@ -278,7 +278,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2020-08-03T03:18:00Z</gco:DateTime>
+        <gco:DateTime>2020-08-19T18:38:00Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -591,7 +591,7 @@
               <gex:extent>
                 <gml:TimePeriod gml:id="time_period">
                   <gml:beginPosition>2020-07-07</gml:beginPosition>
-                  <gml:endPosition>2020-08-03</gml:endPosition>
+                  <gml:endPosition>2020-08-19</gml:endPosition>
                   <gml:duration>P30M</gml:duration>
                 </gml:TimePeriod>
               </gex:extent>
