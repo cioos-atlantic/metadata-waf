@@ -29,6 +29,21 @@
 
   <mdb:metadataIdentifier>
     <mcc:MD_Identifier>
+      <mcc:authority>
+        <cit:CI_Citation>
+            
+      <cit:title xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>org.cmar</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">org.cmar</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
+      </cit:title>
+
+          </cit:CI_Citation>
+      </mcc:authority>
 
       <mcc:code>
         <gco:CharacterString>26f86190-f9c1-11ea-a9dd-d43b04e1587e</gco:CharacterString>
@@ -437,14 +452,50 @@
     </cit:CI_Citation>
   </mdb:metadataProfile>
 
+  <mdb:otherLocale>
+    <lan:PT_Locale>
+      <lan:language>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>
+      </lan:language>
+      <lan:country>
+        <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>
+      </lan:country>
+      <lan:characterEncoding>
+        <lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8" />
+      </lan:characterEncoding>
+    </lan:PT_Locale>
+  </mdb:otherLocale>
+  <mdb:otherLocale>
+    <lan:PT_Locale>
+      <lan:language>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        </lan:LanguageCode>
+      </lan:language>
+      <lan:country>
+        <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>
+      </lan:country>
+      <lan:characterEncoding>
+        <lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8" />
+      </lan:characterEncoding>
+    </lan:PT_Locale>
+  </mdb:otherLocale>
 
   <mdb:identificationInfo>
     <mri:MD_DataIdentification>
       <mri:citation>
         <cit:CI_Citation>
           
-      <cit:title>
-        <gco:CharacterString></gco:CharacterString>
+      <cit:title xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>CMAR - Chedabucto Bay</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">CMAR - Chedabucto Bay</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
       </cit:title>
 
 
@@ -635,8 +686,14 @@
         </cit:CI_Citation>
       </mri:citation>
       
-      <mri:abstract>
-        <gco:CharacterString></gco:CharacterString>
+      <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic buoy built by Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed in Chedabucto Bay, Nova Scotia near two finfish aquaculture leases. It measures wave data (Maximum Wave Height, Significant Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave Spread) using a Brizo wave sensor manufactured by Xeos, and sea temperature using a Sea Temp sensor. The data is streamed to CIOOS every 30 minutes. The data will be used to validate an exposure model for the coast of Nova Scotia, which will be used to support informed decision making for existing and future finfish aquaculture sites.</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">Cet ensemble de données est recueilli à l&#39;aide d&#39;une bouée météorologique/océanographique de 3 mètres de haut et de 1 mètre de diamètre construite par Xeos Technologies Inc., de Dartmouth (Nouvelle-Écosse). La bouée est déployée à Chedabucto Bay, en Nouvelle-Écosse, près de deux baux de pisciculture. Il mesure les données d&#39;onde (hauteur maximale des vagues, hauteur significative des vagues, période de pointe, direction moyenne des vagues et propagation moyenne des vagues) à l&#39;aide d&#39;un capteur d&#39;onde Brizo fabriqué par Xeos, et la température de la mer à l&#39;aide d&#39;un capteur de température de mer. Les données sont transmises en continu au CIOOS toutes les 30 minutes. Les données serviront à valider un modèle d&#39;exposition pour la côte de la Nouvelle-Écosse, qui servira à appuyer la prise de décisions éclairées pour les sites de pisciculture existants et futurs.</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
       </mri:abstract>
 
       
@@ -762,8 +819,14 @@
             <mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>
           </mmi:maintenanceAndUpdateFrequency>
           
-      <mmi:maintenanceNote>
-        <gco:CharacterString></gco:CharacterString>
+      <mmi:maintenanceNote xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>asNeeded</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
       </mmi:maintenanceNote>
 
         </mmi:MD_MaintenanceInformation>
@@ -777,273 +840,14 @@
                 <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
                   <lan:PT_FreeText>
                     <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">seaState</lan:LocalisedCharacterString>
+                      <lan:LocalisedCharacterString locale="#keywords">en</lan:LocalisedCharacterString>
                     </lan:textGroup>
                   </lan:PT_FreeText>
                 </mri:keyword>
                 <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
                   <lan:PT_FreeText>
                     <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">seaSurfaceHeight</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">subSurfaceTemperature</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">sea_surface_wave_significant_height</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">sea_surface_wave_maximum_period</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">sea_surface_wave_maximum_height</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">sea_surface_wave_from_direction</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">sea_surface_wind_wave_directional_spread</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">sea_water_temperature</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">wind_speed</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">wind_from_direction</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">air_pressure</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">relative_humidity</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">air_temperature</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">stratiform_rainfall_rate</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">wind_from_direction</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">battery_temp_c</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Timestamp</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Battery Level - Volts</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Temperature</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Significant Wave Height</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Peak Wave period</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Maximum Wave Height</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Wave Direction</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Wave Spread</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Sample Quality</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Water Temperature</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Wind Speed</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Wind Direction</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Air Pressure</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Humidity Percent</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Air Temperature</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Rain Intensity</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Hail Intensity</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Compass Direction</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">Wind From</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_fr">seaState</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_fr">seaSurfaceHeight</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_fr">subSurfaceTemperature</lan:LocalisedCharacterString>
+                      <lan:LocalisedCharacterString locale="#keywords">fr</lan:LocalisedCharacterString>
                     </lan:textGroup>
                   </lan:PT_FreeText>
                 </mri:keyword>
@@ -1064,30 +868,16 @@
 
         <mri:MD_Keywords>
           
+              <mri:keyword>
+                    <gco:CharacterString>seaState</gco:CharacterString>
+              </mri:keyword>
+              <mri:keyword>
+                    <gco:CharacterString>seaSurfaceHeight</gco:CharacterString>
+              </mri:keyword>
+              <mri:keyword>
+                    <gco:CharacterString>subSurfaceTemperature</gco:CharacterString>
+              </mri:keyword>
 
-          
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">seaState</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">seaSurfaceHeight</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#keywords_en">subSurfaceTemperature</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-  
 
 
 
@@ -1101,6 +891,29 @@
         </mri:MD_Keywords>
       </mri:descriptiveKeywords>
 
+      <mri:descriptiveKeywords>
+        <mri:MD_Keywords>
+          
+              <mri:keyword>
+                    <gco:CharacterString>Xeos</gco:CharacterString>
+              </mri:keyword>
+
+          
+                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+                  <lan:PT_FreeText>
+                    <lan:textGroup>
+                      <lan:LocalisedCharacterString locale="#fr">Xeos</lan:LocalisedCharacterString>
+                    </lan:textGroup>
+                  </lan:PT_FreeText>
+                </mri:keyword>
+  
+
+
+          <mri:type>
+            <mri:MD_KeywordTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_KeywordTypeCode" codeListValue="project">project</mri:MD_KeywordTypeCode>
+          </mri:type>
+        </mri:MD_Keywords>
+      </mri:descriptiveKeywords>
       
 
       <mri:resourceConstraints>
@@ -1137,16 +950,28 @@
       <mri:resourceConstraints>
         <mco:MD_Constraints>
            
-      <mco:useLimitation>
-        <gco:CharacterString></gco:CharacterString>
+      <mco:useLimitation xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>license</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">license</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
       </mco:useLimitation>
 
         </mco:MD_Constraints>
       </mri:resourceConstraints>
 
       
-      <mri:supplementalInformation>
-        <gco:CharacterString></gco:CharacterString>
+      <mri:supplementalInformation xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>TBD</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
       </mri:supplementalInformation>
 
     </mri:MD_DataIdentification>
@@ -1256,6 +1081,28 @@
 
     </mrd:MD_Distribution>
   </mdb:distributionInfo>
+  <mdb:resourceLineage>
+    <mrl:LI_Lineage>
+      
+      <mrl:statement xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>TBD</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
+      </mrl:statement>
+
+      <mrl:scope>
+        <mcc:MD_Scope>
+          <mcc:level>
+            <mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset" />
+          </mcc:level>
+        </mcc:MD_Scope>
+      </mrl:scope>
+    </mrl:LI_Lineage>
+  </mdb:resourceLineage>
 
   <mdb:metadataMaintenance>
     <mmi:MD_MaintenanceInformation>
@@ -1280,10 +1127,32 @@
               <mcc:authority>
                 <cit:CI_Citation>
                   
-      <cit:title>
-        <gco:CharacterString></gco:CharacterString>
+      <cit:title xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>Buoy 003</gco:CharacterString>
+          <lan:PT_FreeText>
+          </lan:PT_FreeText>
       </cit:title>
 
+                  <cit:citedResponsibleParty>
+                    <cit:CI_Responsibility>
+                      <cit:role>
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="{'en': 'TBD'}" />
+                      </cit:role>
+                      <cit:party>
+                        <cit:CI_Organisation>
+                          
+      <cit:name xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>TBD</gco:CharacterString>
+          <lan:PT_FreeText>
+          </lan:PT_FreeText>
+      </cit:name>
+
+                        </cit:CI_Organisation>
+                      </cit:party>
+                    </cit:CI_Responsibility>
+                  </cit:citedResponsibleParty>
                 </cit:CI_Citation>
               </mcc:authority>
               <mcc:code>
@@ -1304,17 +1173,32 @@
                   <mcc:code>
                     <gco:CharacterString>TBD</gco:CharacterString>
                   </mcc:code>
+                  <mcc:version>
+                    <gco:CharacterString>TBD</gco:CharacterString>
+                  </mcc:version>
                    
                     
-      <mcc:description>
-        <gco:CharacterString></gco:CharacterString>
+      <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>TBD</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
       </mcc:description>
 
                 </mcc:MD_Identifier>
               </mac:identifier>
                 
-      <mac:type>
-        <gco:CharacterString></gco:CharacterString>
+      <mac:type xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>Brizo-X wave height sensor, Brizo wave monitoring sensor</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
       </mac:type>
 
             </mac:MI_Instrument>
@@ -1326,17 +1210,32 @@
                   <mcc:code>
                     <gco:CharacterString>TBD</gco:CharacterString>
                   </mcc:code>
+                  <mcc:version>
+                    <gco:CharacterString>TBD</gco:CharacterString>
+                  </mcc:version>
                    
                     
-      <mcc:description>
-        <gco:CharacterString></gco:CharacterString>
+      <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>TBD</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
       </mcc:description>
 
                 </mcc:MD_Identifier>
               </mac:identifier>
                 
-      <mac:type>
-        <gco:CharacterString></gco:CharacterString>
+      <mac:type xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>Sea temperature sensor</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
       </mac:type>
 
             </mac:MI_Instrument>
