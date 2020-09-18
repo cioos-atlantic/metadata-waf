@@ -1,0 +1,122 @@
+mcf:
+  version: 1.0
+
+metadata:
+  naming_authority: 
+    en: ca.cmar
+    fr: ca.cmar
+  identifier: 67737430-f9be-11ea-9ae7-d43b04e1587e
+  language: en
+  language_alternate: fr
+  maintenance_note: 
+    en: asNeeded
+    fr: TBD
+  use_constraints:
+    limitations: 
+      en: license
+      fr: license
+    license:
+      title: Creative Commons Attribution 4.0,
+      code: CC-BY-4.0,
+      url: https://creativecommons.org/licenses/by/4.0/
+  comment:
+    en: TBD
+    fr: TBD
+  history:
+    en: TBD
+    fr: TBD
+
+spatial:
+  bbox: [-65.195258, 43.697062, -65.193901, 43.698867]
+  polygon: -65.195258,43.698867 -65.193901,43.698867 -65.193901,43.697062 -65.195258,43.697062
+  vertical: [0, 10]
+
+identification:
+  title:
+    en: CMAR - Jordan Bay
+    fr: CMAR - Jordan Bay
+  abstract:
+    en: This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic buoy built by Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed in Jordan Bay, Nova Scotia near two finfish aquaculture leases. It measures wave data (Maximum Wave Height, Significant Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave Spread) using a Brizo wave sensor manufactured by Xeos, and sea temperature using a Sea Temp sensor. The data is streamed to CIOOS every 30 minutes. The data will be used to validate an exposure model for the coast of Nova Scotia, which will be used to support informed decision making for existing and future finfish aquaculture sites.
+    fr: Cet ensemble de données est recueilli à l'aide d'une bouée météorologique/océanographique de 3 mètres de haut et de 1 mètre de diamètre construite par Xeos Technologies Inc., de Dartmouth (Nouvelle-Écosse). La bouée est déployée à Jordan Bay, en Nouvelle-Écosse, près de deux baux de pisciculture. Il mesure les données d'onde (hauteur maximale des vagues, hauteur significative des vagues, période de pointe, direction moyenne des vagues et propagation moyenne des vagues) à l'aide d'un capteur d'onde Brizo fabriqué par Xeos, et la température de la mer à l'aide d'un capteur de température de mer. Les données sont transmises en continu au CIOOS toutes les 30 minutes. Les données serviront à valider un modèle d'exposition pour la côte de la Nouvelle-Écosse, qui servira à appuyer la prise de décisions éclairées pour les sites de pisciculture existants et futurs.
+  dates:
+    creation: 2020-04-22
+    publication: 2020-04-22T18:20:00Z
+    revision: 2020-08-19T18:38:00Z
+  keywords:
+    default:
+      keywords:
+        en: [seaState, seaSurfaceHeight, subSurfaceTemperature, sea_surface_wave_significant_height, sea_surface_wave_maximum_period, sea_surface_wave_maximum_height, sea_surface_wave_from_direction, sea_surface_wind_wave_directional_spread, sea_water_temperature, wind_speed, wind_from_direction, air_pressure, relative_humidity, air_temperature, stratiform_rainfall_rate, wind_from_direction, battery_temp_c, Timestamp, Battery Level - Volts, Temperature, Significant Wave Height, Peak Wave period, Maximum Wave Height, Wave Direction, Wave Spread, Sample Quality, Water Temperature, Wind Speed, Wind Direction, Air Pressure, Humidity Percent, Air Temperature, Rain Intensity, Hail Intensity, Compass Direction, Wind From]
+        fr: [seaState, seaSurfaceHeight, subSurfaceTemperature]
+    eov: [seaState, seaSurfaceHeight, subSurfaceTemperature]
+  temporal_begin: 2020-04-22
+  temporal_end: 2020-08-19
+  temporal_duration: P30M
+  time_coverage_resolution: P30M
+  acknowledgement: TBD
+  status: onGoing
+  project:
+    en: [Xeos]
+    fr: [Xeos]
+
+contact:
+  - roles:
+      - owner
+    organization:
+      name: Centre for Marine Applied Research (CMAR)
+      url: https://www.cmar.ca
+      address: 27 Parker St.
+      city: Dartmouth, NS, B2Y 4T5
+      country: Canada
+      email: info@cmar.ca
+  - roles:
+      - custodian
+    individual:
+      name: Danielle Dempsey
+      email: ddempsey@perennia.ca
+  - roles:
+      - distributor
+    organization:
+      name: XEOS Technologies
+      address: 26 Topple Dr., B3B 1L6
+      city: Dartmouth, NS
+      country: Canada
+      email: scott@xeostech.com
+      url: https://xeostech.com/
+
+
+distribution:
+  - url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html
+    format: erddap
+    description: 
+      en: TBD
+      fr: TBD
+
+platform:
+  name: 
+    en: Buoy 001
+  role:
+    en: TBD
+  authority: 
+    en: TBD
+  id: 001
+  description: 
+    en: Redeployable moored buoy
+  instruments:
+    - id: TBD
+      manufacturer: Xeos
+      version: TBD
+      type:
+        en: Brizo-X wave height sensor, Brizo wave monitoring sensor
+        fr: TBD
+      description:
+        en: TBD
+        fr: TBD
+    - id: TBD
+      manufacturer: Xeos
+      version: TBD
+      type: 
+        en: Sea temperature sensor
+        fr: TBD
+      description:
+        en: TBD
+        fr: TBD
