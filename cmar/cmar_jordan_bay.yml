@@ -54,44 +54,28 @@ identification:
 
 contact:
   - roles:
-      - pointOfContact
-    individual:
-      name: Scott Tobin
-      position: Technical Sales Engineer
-      email: scott@xeostech.com
-      country: Canada
-  - roles:
-      - author
+      - owner
     organization:
       name: Centre for Marine Applied Research (CMAR)
-      url: https://www.ec.gc.ca/
-      address: 4905 Dufferin Street
-      city: Toronto
+      url: https://www.cmar.ca
+      address: 27 Parker St.
+      city: Dartmouth, NS, B2Y 4T5
       country: Canada
       email: info@cmar.ca
-    individual:
-      name: Scott Tobin
-      phone: 1-902-444-7650
-      email: scott@xeostech.com
-      country: Canada
   - roles:
-      - contributor
-    organization:
-      name: Xeos Technologies Inc
-      url: https://xeostech.com
-      address: 36 Topple Drive, NS, B3B 1L6
-      city: Dartmouth
-      country: Canada
-      email: scott@xeostech.com
+      - custodian
+    individual:
+      name: Danielle Dempsey
+      email: ddempsey@perennia.ca
   - roles:
       - distributor
     organization:
-      name: CIOOS Atlantic
-      address: 1355 Oxford St., P.O. Box 15000, B3H 4R2
-      city: Halifax
+      name: XEOS Technologies
+      address: 26 Topple Dr., B3B 1L6
+      city: Dartmouth, NS
       country: Canada
-      email: info@cioosatlantic.ca
-      url: https://cioosatlantic.ca/
+      email: scott@xeostech.com
+      url: https://xeostech.com/
 
 
 distribution:
