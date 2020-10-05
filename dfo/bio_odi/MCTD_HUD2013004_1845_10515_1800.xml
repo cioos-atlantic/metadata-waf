@@ -420,7 +420,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -435,7 +435,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -705,19 +705,19 @@
           <mco:reference>
             <cit:CI_Citation>
               <cit:title>
-                <gco:CharacterString>Creative Commons Attribution 4.0</gco:CharacterString>
+                <gco:CharacterString>Open Government Licence - Canada</gco:CharacterString>
               </cit:title>
               <cit:identifier>
                 <mcc:MD_Identifier>
                   <mcc:code>
-                    <gco:CharacterString>CC-BY-4.0</gco:CharacterString>
+                    <gco:CharacterString>open-government-licence-canada</gco:CharacterString>
                   </mcc:code>
                 </mcc:MD_Identifier>
               </cit:identifier>
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
                   <cit:linkage>
-                    <gco:CharacterString>https://creativecommons.org/licenses/by/4.0/</gco:CharacterString>
+                    <gco:CharacterString>https://open.canada.ca/en/open-government-licence-canada</gco:CharacterString>
                   </cit:linkage>
                   <cit:protocol>
                     <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -727,7 +727,7 @@
             </cit:CI_Citation>
           </mco:reference>
           <mco:useConstraints>
-            <mco:MD_RestrictionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_RestrictionCode" codeListValue="license" />
+            <mco:MD_RestrictionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_RestrictionCode" codeListValue="licence" />
           </mco:useConstraints>
         </mco:MD_LegalConstraints>
       </mri:resourceConstraints>
@@ -962,7 +962,7 @@ Wed Aug 22 14:18:58 2018: C:\nco\ncatted.exe -a _FillValue,global,d,, -O C:/nco/
         <gco:CharacterString>A series of high accuracy conductivity and temperature recorders with integrated pressure sensors designed for deployment on moorings.</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">[Traduction automatique] Une série d&#39;enregistreurs de conductivité et de température de haute précision avec capteurs de pression intégrés conçus pour être déployés sur des mouillages.</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">[Traduction automatique] Une sÃ©rie d&#39;enregistreurs de conductivitÃ© et de tempÃ©rature de haute prÃ©cision avec capteurs de pression intÃ©grÃ©s conÃ§us pour Ãªtre dÃ©ployÃ©s sur des mouillages.</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </mcc:description>
