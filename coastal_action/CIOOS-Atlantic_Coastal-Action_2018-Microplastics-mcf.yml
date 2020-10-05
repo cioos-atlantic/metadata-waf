@@ -157,51 +157,81 @@ distribution:
     # description_fr: pdf description in French
 
 platform:
-  name:
-    en: tbd
-    fr: tbd
-  role: collaborator
-  authority: tbd
-  id: tbd
-  description:
-    en: tbd
-    fr: tbd
-  instruments:
-    - id: microscope-coastal_action
-      manufacturer:
-        en: Olympus
-        fr: Olympus
-      version: 1.0
-      type:
-        en: SZ61
-        fr: SZ61
-      description:
-        en: Olympus SZ61 Microscope
-        fr: Microscope Olympus SZ61
-    - id: flowmeter-humber_arm
-      manufacturer_en: General Oceanics
-      version: 1.0
-      type:
-        en: 2030r
-        fr: 2030r
-      description:
-        en: General Oceanics flowmeter with standard rotor
-        fr: "Débitmètre General Oceanics avec rotor standard"
-    - id: flowmeter-bay_of_fundy
-      manufacturer_en: General Oceanics
-      version: 1.0
-      type:
-        en: 2030r
-        fr: 2030r
-      description:
-        en: General Oceanics flowmeter with standard rotor
-        fr: "Débitmètre General Oceanics avec rotor standard"
-    - id: flowmeter-lahave
-      manufacturer_en: General Oceanics
-      version: 1.0
-      type:
-        en: 2030r
-        fr: 2030r
-      description:
-        en: General Oceanics flowmeter with standard rotor
-        fr: "Débitmètre General Oceanics avec rotor standard"
+  - id: platform-bay_of_fundy
+    name:
+      en: tbd
+      fr: tbd
+    role: collaborator
+    authority: ca.annapolisriver
+    description:
+      en: tbd
+      fr: tbd
+    instruments:
+      - id: flowmeter-bay_of_fundy
+        manufacturer_en: General Oceanics
+        version: 1.0
+        type:
+          en: 2030r
+          fr: 2030r
+        description:
+          en: General Oceanics flowmeter with standard rotor
+          fr: "Débitmètre General Oceanics avec rotor standard"
+  - id: platform-humber_arm
+    name:
+      en: tbd
+      fr: tbd
+    role: collaborator
+    authority: com.acaphumberarm
+    description:
+      en: tbd
+      fr: tbd
+    instruments:
+      - id: flowmeter-humber_arm
+        manufacturer_en: General Oceanics
+        version: 1.0
+        type:
+          en: 2030r
+          fr: 2030r
+        description:
+          en: General Oceanics flowmeter with standard rotor
+          fr: "Débitmètre General Oceanics avec rotor standard"
+  - id: platform-lahave
+    name:
+      en: tbd
+      fr: tbd
+    role: collaborator
+    authority: org.coastalaction
+    description:
+      en: Boston Whaler
+      fr: Boston Whaler
+    instruments:
+      - id: flowmeter-lahave
+        manufacturer_en: General Oceanics
+        version: 1.0
+        type:
+          en: 2030r
+          fr: 2030r
+        description:
+          en: General Oceanics flowmeter with standard rotor
+          fr: "Débitmètre General Oceanics avec rotor standard"
+  - id: lab-coastal_action
+    name:
+      en: tbd
+      fr: tbd
+    role: collaborator
+    authority: tbd
+    description:
+      en: tbd
+      fr: tbd
+    instruments:
+      - id: microscope-coastal_action
+        manufacturer:
+          en: Olympus
+          fr: Olympus
+        version: 1.0
+        type:
+          en: SZ61
+          fr: SZ61
+        description:
+          en: Olympus SZ61 Microscope
+          fr: Microscope Olympus SZ61
