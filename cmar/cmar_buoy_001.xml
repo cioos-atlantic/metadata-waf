@@ -155,12 +155,12 @@
             <cit:CI_Address>
               
       <cit:deliveryPoint>
-        <gco:CharacterString>4905 Dufferin Street</gco:CharacterString>
+        <gco:CharacterString>27 Parker St.</gco:CharacterString>
       </cit:deliveryPoint>
 
               
       <cit:city>
-        <gco:CharacterString>Toronto</gco:CharacterString>
+        <gco:CharacterString>Dartmouth, NS, B2Y 4T5</gco:CharacterString>
       </cit:city>
 
               
@@ -177,7 +177,7 @@
           <cit:onlineResource>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://www.ec.gc.ca/</gco:CharacterString>
+                <gco:CharacterString>https://www.cmar.ca</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -244,13 +244,68 @@
     <mdb:contact>
             <cit:CI_Responsibility>
   <cit:role>
+    <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="custodian">custodian</cit:CI_RoleCode>
+  </cit:role>
+  <cit:party>
+
+    <cit:CI_Individual>
+    
+      <cit:name>
+        <gco:CharacterString>Danielle Dempsey</gco:CharacterString>
+      </cit:name>
+
+    <cit:contactInfo>
+      <cit:CI_Contact>
+        <cit:address>
+          <cit:CI_Address>
+            
+      <cit:deliveryPoint>
+        <gco:CharacterString></gco:CharacterString>
+      </cit:deliveryPoint>
+
+            
+      <cit:city>
+        <gco:CharacterString></gco:CharacterString>
+      </cit:city>
+
+            
+      <cit:country>
+        <gco:CharacterString></gco:CharacterString>
+      </cit:country>
+
+            <cit:electronicMailAddress>
+              <gco:CharacterString>ddempsey@perennia.ca</gco:CharacterString>
+            </cit:electronicMailAddress>
+          </cit:CI_Address>
+        </cit:address>
+      </cit:CI_Contact>
+    </cit:contactInfo>
+    
+      <cit:positionName>
+        <gco:CharacterString></gco:CharacterString>
+      </cit:positionName>
+
+</cit:CI_Individual>
+
+
+
+
+
+  </cit:party>
+</cit:CI_Responsibility>
+
+
+    </mdb:contact>
+    <mdb:contact>
+            <cit:CI_Responsibility>
+  <cit:role>
     <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="contributor">contributor</cit:CI_RoleCode>
   </cit:role>
   <cit:party>
     <cit:CI_Organisation>
     
       <cit:name>
-        <gco:CharacterString>Xeos Technologies Inc</gco:CharacterString>
+        <gco:CharacterString>XEOS Technologies</gco:CharacterString>
       </cit:name>
 
       <cit:contactInfo>
@@ -267,12 +322,12 @@
             <cit:CI_Address>
               
       <cit:deliveryPoint>
-        <gco:CharacterString>36 Topple Drive, NS, B3B 1L6</gco:CharacterString>
+        <gco:CharacterString>26 Topple Dr., B3B 1L6</gco:CharacterString>
       </cit:deliveryPoint>
 
               
       <cit:city>
-        <gco:CharacterString>Dartmouth</gco:CharacterString>
+        <gco:CharacterString>Dartmouth, NS</gco:CharacterString>
       </cit:city>
 
               
@@ -359,7 +414,7 @@
           <cit:onlineResource>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://cioosatlantic.ca/</gco:CharacterString>
+                <gco:CharacterString>https://cioosatlantic.ca</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -395,7 +450,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2020-04-22T18:00:00Z</gco:DateTime>
+        <gco:DateTime>2020-04-22T18:20:00Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -455,7 +510,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -470,7 +525,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -525,12 +580,12 @@
             <cit:CI_Address>
               
       <cit:deliveryPoint>
-        <gco:CharacterString>4905 Dufferin Street</gco:CharacterString>
+        <gco:CharacterString>27 Parker St.</gco:CharacterString>
       </cit:deliveryPoint>
 
               
       <cit:city>
-        <gco:CharacterString>Toronto</gco:CharacterString>
+        <gco:CharacterString>Dartmouth, NS, B2Y 4T5</gco:CharacterString>
       </cit:city>
 
               
@@ -547,7 +602,7 @@
           <cit:onlineResource>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://www.ec.gc.ca/</gco:CharacterString>
+                <gco:CharacterString>https://www.cmar.ca</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -620,7 +675,7 @@
     <cit:CI_Organisation>
     
       <cit:name>
-        <gco:CharacterString>Xeos Technologies Inc</gco:CharacterString>
+        <gco:CharacterString>XEOS Technologies</gco:CharacterString>
       </cit:name>
 
       <cit:contactInfo>
@@ -637,12 +692,12 @@
             <cit:CI_Address>
               
       <cit:deliveryPoint>
-        <gco:CharacterString>36 Topple Drive, NS, B3B 1L6</gco:CharacterString>
+        <gco:CharacterString>26 Topple Dr., B3B 1L6</gco:CharacterString>
       </cit:deliveryPoint>
 
               
       <cit:city>
-        <gco:CharacterString>Dartmouth</gco:CharacterString>
+        <gco:CharacterString>Dartmouth, NS</gco:CharacterString>
       </cit:city>
 
               
@@ -1090,10 +1145,10 @@
            
       <mco:useLimitation xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>License</gco:CharacterString>
+        <gco:CharacterString>license</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">License</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">license</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </mco:useLimitation>
@@ -1167,7 +1222,7 @@
           <cit:onlineResource>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://cioosatlantic.ca/</gco:CharacterString>
+                <gco:CharacterString>https://cioosatlantic.ca</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -1339,7 +1394,7 @@
                     <gco:CharacterString>TBD</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
-                    <gco:CharacterString>{'en': 'TBD', 'fr': 'TBD'}</gco:CharacterString>
+                    <gco:CharacterString>TBD</gco:CharacterString>
                   </mcc:version>
                    
                     
@@ -1391,59 +1446,7 @@
                     <gco:CharacterString>TBD</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
-                    <gco:CharacterString>{'en': 'TBD', 'fr': 'TBD'}</gco:CharacterString>
-                  </mcc:version>
-                   
-                    
-      <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-
-        <gco:CharacterString>TBD</gco:CharacterString>
-          <lan:PT_FreeText>
-            <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
-            </lan:textGroup>
-          </lan:PT_FreeText>
-      </mcc:description>
-
-                </mcc:MD_Identifier>
-              </mac:identifier>
-                
-      <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-
-        <gco:CharacterString>Sea temperature sensor</gco:CharacterString>
-          <lan:PT_FreeText>
-            <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
-            </lan:textGroup>
-          </lan:PT_FreeText>
-      </mac:type>
-
-            </mac:MI_Instrument>
-          </mac:instrument>
-          <mac:instrument>
-            <mac:MI_Instrument>
-              <mac:identifier>
-                <mcc:MD_Identifier>
-                  <mcc:authority>
-                    <cit:CI_Citation>
-                      
-      <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-
-        <gco:CharacterString>Xeos</gco:CharacterString>
-          <lan:PT_FreeText>
-            <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">Xeos</lan:LocalisedCharacterString>
-            </lan:textGroup>
-          </lan:PT_FreeText>
-      </cit:title>
-
-                      </cit:CI_Citation>
-                  </mcc:authority>
-                  <mcc:code>
                     <gco:CharacterString>TBD</gco:CharacterString>
-                  </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>{'en': 'TBD', 'fr': 'TBD'}</gco:CharacterString>
                   </mcc:version>
                    
                     

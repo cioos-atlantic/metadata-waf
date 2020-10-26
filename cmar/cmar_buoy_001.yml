@@ -13,8 +13,8 @@ metadata:
     fr: TBD
   use_constraints:
     limitations:
-      en: License
-      fr: License
+      en: license
+      fr: license
     license:
       title: Creative Commons Attribution 4.0
       code: CC-BY-4.0
@@ -71,9 +71,9 @@ contact:
       - author
     organization:
       name: Centre for Marine Applied Research (CMAR)
-      url: https://www.ec.gc.ca/
-      address: 4905 Dufferin Street
-      city: Toronto
+      url: https://www.cmar.ca
+      address: 27 Parker St.
+      city: Dartmouth, NS, B2Y 4T5
       country: Canada
       email: info@cmar.ca
     individual:
@@ -82,30 +82,35 @@ contact:
       email: scott@xeostech.com
       country: Canada
   - roles:
+      - custodian
+    individual:
+      name: Danielle Dempsey
+      email: ddempsey@perennia.ca
+  - roles:
       - contributor
     organization:
-      name: Xeos Technologies Inc
+      name: XEOS Technologies
       url: https://xeostech.com
-      address: 36 Topple Drive, NS, B3B 1L6
-      city: Dartmouth
+      address: 26 Topple Dr., B3B 1L6
+      city: Dartmouth, NS
       country: Canada
       email: scott@xeostech.com
   - roles:
       - distributor
     organization:
       name: CIOOS Atlantic
+      url: https://cioosatlantic.ca
       address: 1355 Oxford St., P.O. Box 15000, B3H 4R2
       city: Halifax
       country: Canada
       email: info@cioosatlantic.ca
-      url: https://cioosatlantic.ca/
-
 
 distribution:
   - url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html
     format: erddap
-    description_en: TBD
-    description_fr: TBD
+    description:
+      en: TBD
+      fr: TBD
 
 platform:
   name:
@@ -124,9 +129,7 @@ platform:
       manufacturer:
         en: Xeos
         fr: Xeos
-      version:
-        en: TBD
-        fr: TBD
+      version: TBD
       type:
         en: Brizo-X wave height sensor, Brizo wave monitoring sensor
         fr: TBD
@@ -137,22 +140,7 @@ platform:
       manufacturer:
         en: Xeos
         fr: Xeos
-      version:
-        en: TBD
-        fr: TBD
-      type:
-        en: Sea temperature sensor
-        fr: TBD
-      description:
-        en: TBD
-        fr: TBD
-    - id: TBD
-      manufacturer:
-        en: Xeos
-        fr: Xeos
-      version:
-        en: TBD
-        fr: TBD
+      version: TBD
       type:
         en: Weather station sensor
         fr: TBD
