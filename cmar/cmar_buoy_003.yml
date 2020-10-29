@@ -3,8 +3,8 @@ mcf:
 
 metadata:
   naming_authority:
-    en: ca-cmar
-    fr: ca-cmar
+    en: ca.cmar
+    fr: ca.cmar
   identifier: 26f86190-f9c1-11ea-a9dd-d43b04e1587e
   language: en
   language_alternate: fr
@@ -41,7 +41,7 @@ identification:
   dates:
     creation: 2020-07-07
     publication: 2020-07-07T14:38:00Z
-    revision: 2020-10-26T19:38:00Z
+    revision: 2020-10-29T17:58:00Z
   keywords:
     default:
       en: [seaState, seaSurfaceHeight, subSurfaceTemperature, sea_surface_wave_significant_height, sea_surface_wave_maximum_period, sea_surface_wave_maximum_height, sea_surface_wave_from_direction, sea_surface_wind_wave_directional_spread, sea_water_temperature, wind_speed, wind_from_direction, air_pressure, relative_humidity, air_temperature, stratiform_rainfall_rate, wind_from_direction, battery_temp_c, Timestamp, Battery Level - Volts, Temperature, Significant Wave Height, Peak Wave period, Maximum Wave Height, Wave Direction, Wave Spread, Sample Quality, Water Temperature, Wind Speed, Wind Direction, Air Pressure, Humidity Percent, Air Temperature, Rain Intensity, Hail Intensity, Compass Direction, Wind From]
@@ -50,7 +50,7 @@ identification:
       en: [seaState, seaSurfaceHeight, subSurfaceTemperature]
       fr: [seaState, seaSurfaceHeight, subSurfaceTemperature]
   temporal_begin: 2020-07-07
-  temporal_end: 2020-10-26
+  temporal_end: 2020-10-29
   temporal_duration: P30M
   time_coverage_resolution: P30M
   acknowledgement: TBD
@@ -63,9 +63,8 @@ contact:
   - roles:
       - pointOfContact
     individual:
-      name: Scott Tobin
-      position: Technical Sales Engineer
-      email: scott@xeostech.com
+      name: Danielle Dempsey
+      email: ddempsey@perennia.ca
       country: Canada
   - roles:
       - author
@@ -77,9 +76,8 @@ contact:
       country: Canada
       email: info@cmar.ca
     individual:
-      name: Scott Tobin
-      phone: 1-902-444-7650
-      email: scott@xeostech.com
+      name: Danielle Dempsey
+      email: ddempsey@perennia.ca
       country: Canada
   - roles:
       - custodian
@@ -87,7 +85,7 @@ contact:
       name: Danielle Dempsey
       email: ddempsey@perennia.ca
   - roles:
-      - contributor
+      - distributor
     organization:
       name: XEOS Technologies
       url: https://xeostech.com
@@ -95,15 +93,11 @@ contact:
       city: Dartmouth, NS
       country: Canada
       email: scott@xeostech.com
-  - roles:
-      - distributor
-    organization:
-      name: CIOOS Atlantic
-      url: https://cioosatlantic.ca
-      address: 1355 Oxford St., P.O. Box 15000, B3H 4R2
-      city: Halifax
+    individual:
+      name: Scott Tobin
+      position: Technical Sales Engineer
+      email: scott@xeostech.com
       country: Canada
-      email: info@cioosatlantic.ca
 
 distribution:
   - url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_c5a5_c41c_2090.html

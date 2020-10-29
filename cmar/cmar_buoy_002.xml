@@ -34,10 +34,10 @@
             
       <cit:title xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>ca-cmar</gco:CharacterString>
+        <gco:CharacterString>ca.cmar</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">ca-cmar</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">ca.cmar</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </cit:title>
@@ -84,7 +84,7 @@
     <cit:CI_Individual>
     
       <cit:name>
-        <gco:CharacterString>Scott Tobin</gco:CharacterString>
+        <gco:CharacterString>Danielle Dempsey</gco:CharacterString>
       </cit:name>
 
     <cit:contactInfo>
@@ -107,7 +107,7 @@
       </cit:country>
 
             <cit:electronicMailAddress>
-              <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
+              <gco:CharacterString>ddempsey@perennia.ca</gco:CharacterString>
             </cit:electronicMailAddress>
           </cit:CI_Address>
         </cit:address>
@@ -115,7 +115,7 @@
     </cit:contactInfo>
     
       <cit:positionName>
-        <gco:CharacterString>Technical Sales Engineer</gco:CharacterString>
+        <gco:CharacterString></gco:CharacterString>
       </cit:positionName>
 
 </cit:CI_Individual>
@@ -194,7 +194,7 @@
         <cit:CI_Individual>
     
       <cit:name>
-        <gco:CharacterString>Scott Tobin</gco:CharacterString>
+        <gco:CharacterString>Danielle Dempsey</gco:CharacterString>
       </cit:name>
 
     <cit:contactInfo>
@@ -217,7 +217,7 @@
       </cit:country>
 
             <cit:electronicMailAddress>
-              <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
+              <gco:CharacterString>ddempsey@perennia.ca</gco:CharacterString>
             </cit:electronicMailAddress>
           </cit:CI_Address>
         </cit:address>
@@ -299,7 +299,7 @@
     <mdb:contact>
             <cit:CI_Responsibility>
   <cit:role>
-    <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="contributor">contributor</cit:CI_RoleCode>
+    <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="distributor">distributor</cit:CI_RoleCode>
   </cit:role>
   <cit:party>
     <cit:CI_Organisation>
@@ -357,76 +357,48 @@
         </cit:CI_Contact>
       </cit:contactInfo>
       
-
-    </cit:CI_Organisation>
-
-
-  </cit:party>
-</cit:CI_Responsibility>
-
-
-    </mdb:contact>
-    <mdb:contact>
-            <cit:CI_Responsibility>
-  <cit:role>
-    <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="distributor">distributor</cit:CI_RoleCode>
-  </cit:role>
-  <cit:party>
-    <cit:CI_Organisation>
+      <cit:individual>
+        <cit:CI_Individual>
     
       <cit:name>
-        <gco:CharacterString>CIOOS Atlantic</gco:CharacterString>
+        <gco:CharacterString>Scott Tobin</gco:CharacterString>
       </cit:name>
 
-      <cit:contactInfo>
-        <cit:CI_Contact>
-          <cit:phone>
-            <cit:CI_Telephone>
-              <cit:number>
-              <gco:CharacterString></gco:CharacterString>
-              </cit:number>
-            </cit:CI_Telephone>
-          </cit:phone>
-
-          <cit:address>
-            <cit:CI_Address>
-              
+    <cit:contactInfo>
+      <cit:CI_Contact>
+        <cit:address>
+          <cit:CI_Address>
+            
       <cit:deliveryPoint>
-        <gco:CharacterString>1355 Oxford St., P.O. Box 15000, B3H 4R2</gco:CharacterString>
+        <gco:CharacterString></gco:CharacterString>
       </cit:deliveryPoint>
 
-              
+            
       <cit:city>
-        <gco:CharacterString>Halifax</gco:CharacterString>
+        <gco:CharacterString></gco:CharacterString>
       </cit:city>
 
-              
+            
       <cit:country>
         <gco:CharacterString>Canada</gco:CharacterString>
       </cit:country>
 
-              <cit:electronicMailAddress>
-                <gco:CharacterString>info@cioosatlantic.ca</gco:CharacterString>
-              </cit:electronicMailAddress>
-            </cit:CI_Address>
-          </cit:address>
+            <cit:electronicMailAddress>
+              <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
+            </cit:electronicMailAddress>
+          </cit:CI_Address>
+        </cit:address>
+      </cit:CI_Contact>
+    </cit:contactInfo>
+    
+      <cit:positionName>
+        <gco:CharacterString>Technical Sales Engineer</gco:CharacterString>
+      </cit:positionName>
 
-          <cit:onlineResource>
-            <cit:CI_OnlineResource>
-              <cit:linkage>
-                <gco:CharacterString>https://cioosatlantic.ca</gco:CharacterString>
-              </cit:linkage>
-              <cit:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </cit:protocol>
-              <cit:function>
-                <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-              </cit:function>
-            </cit:CI_OnlineResource>
-          </cit:onlineResource>
-        </cit:CI_Contact>
-      </cit:contactInfo>
-      
+</cit:CI_Individual>
+
+
+      </cit:individual>
 
     </cit:CI_Organisation>
 
@@ -460,7 +432,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2020-10-26T19:38:00Z</gco:DateTime>
+        <gco:DateTime>2020-10-29T17:58:00Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -510,7 +482,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -525,7 +497,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -619,7 +591,7 @@
         <cit:CI_Individual>
     
       <cit:name>
-        <gco:CharacterString>Scott Tobin</gco:CharacterString>
+        <gco:CharacterString>Danielle Dempsey</gco:CharacterString>
       </cit:name>
 
     <cit:contactInfo>
@@ -642,7 +614,7 @@
       </cit:country>
 
             <cit:electronicMailAddress>
-              <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
+              <gco:CharacterString>ddempsey@perennia.ca</gco:CharacterString>
             </cit:electronicMailAddress>
           </cit:CI_Address>
         </cit:address>
@@ -657,76 +629,6 @@
 
 
       </cit:individual>
-
-    </cit:CI_Organisation>
-
-
-  </cit:party>
-</cit:CI_Responsibility>
-
-
-          </cit:citedResponsibleParty>
-          <cit:citedResponsibleParty>
-            <cit:CI_Responsibility>
-  <cit:role>
-    <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="contributor">contributor; contact</cit:CI_RoleCode>
-  </cit:role>
-  <cit:party>
-    <cit:CI_Organisation>
-    
-      <cit:name>
-        <gco:CharacterString>XEOS Technologies</gco:CharacterString>
-      </cit:name>
-
-      <cit:contactInfo>
-        <cit:CI_Contact>
-          <cit:phone>
-            <cit:CI_Telephone>
-              <cit:number>
-              <gco:CharacterString></gco:CharacterString>
-              </cit:number>
-            </cit:CI_Telephone>
-          </cit:phone>
-
-          <cit:address>
-            <cit:CI_Address>
-              
-      <cit:deliveryPoint>
-        <gco:CharacterString>26 Topple Dr., B3B 1L6</gco:CharacterString>
-      </cit:deliveryPoint>
-
-              
-      <cit:city>
-        <gco:CharacterString>Dartmouth, NS</gco:CharacterString>
-      </cit:city>
-
-              
-      <cit:country>
-        <gco:CharacterString>Canada</gco:CharacterString>
-      </cit:country>
-
-              <cit:electronicMailAddress>
-                <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
-              </cit:electronicMailAddress>
-            </cit:CI_Address>
-          </cit:address>
-
-          <cit:onlineResource>
-            <cit:CI_OnlineResource>
-              <cit:linkage>
-                <gco:CharacterString>https://xeostech.com</gco:CharacterString>
-              </cit:linkage>
-              <cit:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </cit:protocol>
-              <cit:function>
-                <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-              </cit:function>
-            </cit:CI_OnlineResource>
-          </cit:onlineResource>
-        </cit:CI_Contact>
-      </cit:contactInfo>
-      
 
     </cit:CI_Organisation>
 
@@ -859,7 +761,7 @@
                 <gml:TimePeriod gml:id="time_period">
                   <gml:beginPosition>2020-07-16</gml:beginPosition>
 
-                  <gml:endPosition>2020-10-26</gml:endPosition>
+                  <gml:endPosition>2020-10-29</gml:endPosition>
 
                   <gml:duration>P30M</gml:duration>
                 </gml:TimePeriod>
@@ -1183,7 +1085,7 @@
     <cit:CI_Organisation>
     
       <cit:name>
-        <gco:CharacterString>CIOOS Atlantic</gco:CharacterString>
+        <gco:CharacterString>XEOS Technologies</gco:CharacterString>
       </cit:name>
 
       <cit:contactInfo>
@@ -1200,12 +1102,12 @@
             <cit:CI_Address>
               
       <cit:deliveryPoint>
-        <gco:CharacterString>1355 Oxford St., P.O. Box 15000, B3H 4R2</gco:CharacterString>
+        <gco:CharacterString>26 Topple Dr., B3B 1L6</gco:CharacterString>
       </cit:deliveryPoint>
 
               
       <cit:city>
-        <gco:CharacterString>Halifax</gco:CharacterString>
+        <gco:CharacterString>Dartmouth, NS</gco:CharacterString>
       </cit:city>
 
               
@@ -1214,7 +1116,7 @@
       </cit:country>
 
               <cit:electronicMailAddress>
-                <gco:CharacterString>info@cioosatlantic.ca</gco:CharacterString>
+                <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
               </cit:electronicMailAddress>
             </cit:CI_Address>
           </cit:address>
@@ -1222,7 +1124,7 @@
           <cit:onlineResource>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://cioosatlantic.ca</gco:CharacterString>
+                <gco:CharacterString>https://xeostech.com</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -1235,6 +1137,48 @@
         </cit:CI_Contact>
       </cit:contactInfo>
       
+      <cit:individual>
+        <cit:CI_Individual>
+    
+      <cit:name>
+        <gco:CharacterString>Scott Tobin</gco:CharacterString>
+      </cit:name>
+
+    <cit:contactInfo>
+      <cit:CI_Contact>
+        <cit:address>
+          <cit:CI_Address>
+            
+      <cit:deliveryPoint>
+        <gco:CharacterString></gco:CharacterString>
+      </cit:deliveryPoint>
+
+            
+      <cit:city>
+        <gco:CharacterString></gco:CharacterString>
+      </cit:city>
+
+            
+      <cit:country>
+        <gco:CharacterString>Canada</gco:CharacterString>
+      </cit:country>
+
+            <cit:electronicMailAddress>
+              <gco:CharacterString>scott@xeostech.com</gco:CharacterString>
+            </cit:electronicMailAddress>
+          </cit:CI_Address>
+        </cit:address>
+      </cit:CI_Contact>
+    </cit:contactInfo>
+    
+      <cit:positionName>
+        <gco:CharacterString>Technical Sales Engineer</gco:CharacterString>
+      </cit:positionName>
+
+</cit:CI_Individual>
+
+
+      </cit:individual>
 
     </cit:CI_Organisation>
 
