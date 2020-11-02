@@ -482,7 +482,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -497,7 +497,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -648,7 +648,7 @@
         <gco:CharacterString>This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic buoy from Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed in St. Mary&#39;s Bay, Nova Scotia. It measures wave data (Maximum Wave Height, Significant Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave Spread) using a Brizo wave sensor manufactured by Xeos, sea temperature using a T Node sensor, and meteorological data (Wind Speed, Wind Direction, Air Pressure, Humidity, Air Temperature, Rain Intensity, and Hail Intensity) using Vaisala sensors. The data is streamed to CIOOS every 20 minutes. The data will be used to support science-based decision making and advancement of Nova Scotia&#39;s coastal resources.</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">Cet ensemble de données est recueilli au moyen d&#39;une bouée météorologique/océanographique de 3 mètres de haut et de 1 mètre de diamètre de Xeos Technologies Inc., de Dartmouth (Nouvelle-Écosse). La bouée est déployée dans la baie St. Mary&#39;s, en Nouvelle-Écosse. Il mesure les données des vagues (hauteur maximale des vagues, hauteur significative des vagues, période de pointe, direction moyenne des vagues et propagation moyenne des vagues) à l&#39;aide d&#39;un capteur Brizo fabriqué par Xeos, température de la mer à l&#39;aide d&#39;un capteur Nœud T et données météorologiques (vitesse du vent, direction du vent, pression de l&#39;air, humidité, température de l&#39;air, Intensité de pluie et intensité de grêle) à l&#39;aide de capteurs Vaisala. Les données sont diffusées à CIOOS toutes les 20 minutes. Les données serviront à appuyer la prise de décisions fondées sur des données scientifiques et l&#39;avancement des ressources côtières de la Nouvelle-Écosse.</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">Cet ensemble de données est recueilli au moyen d&#39;une bouée météorologique/océanographique de 3 mètres de haut et de 1 mètre de diamètre de Xeos Technologies Inc., de Dartmouth (Nouvelle-Écosse). La bouée est déployée dans la baie St. Mary&#39;s, en Nouvelle-Écosse. Il mesure les données des vagues (hauteur maximale des vagues, hauteur significative des vagues, période de pointe, direction moyenne des vagues et propagation moyenne des vagues) à l&#39;aide d&#39;un capteur Brizo fabriqué par Xeos, température de la mer à l&#39;aide d&#39;un capteur Nœud T et données météorologiques (vitesse du vent, direction du vent, pression de l&#39;air, humidité, température de l&#39;air, Intensité de pluie et intensité de grêle) à l&#39;aide de capteurs Vaisala. Les données sont diffusées à SIOOC toutes les 20 minutes. Les données serviront à appuyer la prise de décisions fondées sur des données scientifiques et l&#39;avancement des ressources côtières de la Nouvelle-Écosse.</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </mri:abstract>
