@@ -84,7 +84,7 @@
     <cit:CI_Individual>
     
       <cit:name>
-        <gco:CharacterString>Danielle Dempsey</gco:CharacterString>
+        <gco:CharacterString>CMAR</gco:CharacterString>
       </cit:name>
 
     <cit:contactInfo>
@@ -107,7 +107,7 @@
       </cit:country>
 
             <cit:electronicMailAddress>
-              <gco:CharacterString>ddempsey@perennia.ca</gco:CharacterString>
+              <gco:CharacterString>info@cmar.ca</gco:CharacterString>
             </cit:electronicMailAddress>
           </cit:CI_Address>
         </cit:address>
@@ -482,7 +482,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -497,7 +497,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -645,10 +645,10 @@
       
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic buoy built by Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed in Chedabucto Bay, Nova Scotia near two finfish aquaculture leases. It measures wave data (Maximum Wave Height, Significant Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave Spread) using a Brizo wave sensor manufactured by Xeos, and sea temperature using a Sea Temp sensor. The data is streamed to CIOOS every 30 minutes. The data will be used to validate an exposure model for the coast of Nova Scotia, which will be used to support informed decision making for existing and future finfish aquaculture sites.</gco:CharacterString>
+        <gco:CharacterString>This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic buoy from Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed in Chedabucto Bay, Nova Scotia. It measures wave data (Maximum Wave Height, Significant Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave Spread) using a Brizo wave sensor manufactured by Xeos, sea temperature using a T Node sensor, and meteorological data (Wind Speed, Wind Direction, Air Pressure, Humidity, Air Temperature, Rain Intensity, and Hail Intensity) using Vaisala sensors. The data is streamed to CIOOS every 20 minutes. The data will be used to support science-based decision making and advancement of Nova Scotia&#39;s coastal resources.</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">Cet ensemble de données est recueilli à l&#39;aide d&#39;une bouée météorologique/océanographique de 3 mètres de haut et de 1 mètre de diamètre construite par Xeos Technologies Inc., de Dartmouth (Nouvelle-Écosse). La bouée est déployée à Chedabucto Bay, en Nouvelle-Écosse, près de deux baux de pisciculture. Il mesure les données d&#39;onde (hauteur maximale des vagues, hauteur significative des vagues, période de pointe, direction moyenne des vagues et propagation moyenne des vagues) à l&#39;aide d&#39;un capteur d&#39;onde Brizo fabriqué par Xeos, et la température de la mer à l&#39;aide d&#39;un capteur de température de mer. Les données sont transmises en continu au CIOOS toutes les 30 minutes. Les données serviront à valider un modèle d&#39;exposition pour la côte de la Nouvelle-Écosse, qui servira à appuyer la prise de décisions éclairées pour les sites de pisciculture existants et futurs.</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">Cet ensemble de données est recueilli au moyen d&#39;une bouée météorologique/océanographique de 3 mètres de haut et de 1 mètre de diamètre de Xeos Technologies Inc., de Dartmouth (Nouvelle-Écosse). La bouée est déployée dans la baie Chedabucto, en Nouvelle-Écosse. Il mesure les données des vagues (hauteur maximale des vagues, hauteur significative des vagues, période de pointe, direction moyenne des vagues et propagation moyenne des vagues) à l&#39;aide d&#39;un capteur Brizo fabriqué par Xeos, température de la mer à l&#39;aide d&#39;un capteur Nœud T et données météorologiques (vitesse du vent, direction du vent, pression de l&#39;air, humidité, température de l&#39;air, Intensité de pluie et intensité de grêle) à l&#39;aide de capteurs Vaisala. Les données sont diffusées à CIOOS toutes les 20 minutes. Les données serviront à appuyer la prise de décisions fondées sur des données scientifiques et l&#39;avancement des ressources côtières de la Nouvelle-Écosse.</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </mri:abstract>
@@ -1309,7 +1309,7 @@
         <gco:CharacterString>Redeployable moored buoy</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">Redeployable moored buoy</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">Bouée amarrée redéployable</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </mac:description>
@@ -1357,7 +1357,7 @@
                 
       <mac:type xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>Brizo-X wave height sensor, Brizo wave monitoring sensor</gco:CharacterString>
+        <gco:CharacterString>Brizo-X wave height sensor, Brizo wave monitoring sensor, T Node sea temperature sensor</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
               <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
@@ -1376,10 +1376,10 @@
                       
       <cit:title xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>Xeos</gco:CharacterString>
+        <gco:CharacterString>Vaisala</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">Xeos</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">Vaisala</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </cit:title>
@@ -1409,7 +1409,7 @@
                 
       <mac:type xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>Weather station sensor</gco:CharacterString>
+        <gco:CharacterString>Vaisala weather station sensor</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
               <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
