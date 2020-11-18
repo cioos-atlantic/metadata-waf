@@ -71,7 +71,7 @@
     <mdb:contact>
             <cit:CI_Responsibility>
   <cit:role>
-    <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="originator">originator</cit:CI_RoleCode>
+    <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
   </cit:role>
   <cit:party>
     <cit:CI_Organisation>
@@ -152,7 +152,7 @@
 
             
       <cit:country>
-        <gco:CharacterString></gco:CharacterString>
+        <gco:CharacterString>Canada</gco:CharacterString>
       </cit:country>
 
             <cit:electronicMailAddress>
@@ -186,70 +186,37 @@
     <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</cit:CI_RoleCode>
   </cit:role>
   <cit:party>
-    <cit:CI_Organisation>
+
+    <cit:CI_Individual>
     
       <cit:name>
         <gco:CharacterString>CMAR</gco:CharacterString>
       </cit:name>
 
-      <cit:contactInfo>
-        <cit:CI_Contact>
-          <cit:phone>
-            <cit:CI_Telephone>
-              <cit:number>
-              <gco:CharacterString></gco:CharacterString>
-              </cit:number>
-            </cit:CI_Telephone>
-          </cit:phone>
-
-          <cit:address>
-            <cit:CI_Address>
-              
+    <cit:contactInfo>
+      <cit:CI_Contact>
+        <cit:address>
+          <cit:CI_Address>
+            
       <cit:deliveryPoint>
         <gco:CharacterString></gco:CharacterString>
       </cit:deliveryPoint>
 
-              
+            
       <cit:city>
         <gco:CharacterString></gco:CharacterString>
       </cit:city>
 
-              
+            
       <cit:country>
-        <gco:CharacterString></gco:CharacterString>
+        <gco:CharacterString>Canada</gco:CharacterString>
       </cit:country>
 
-              <cit:electronicMailAddress>
-                <gco:CharacterString>info@cmar.ca</gco:CharacterString>
-              </cit:electronicMailAddress>
-            </cit:CI_Address>
-          </cit:address>
-
-          <cit:onlineResource>
-            <cit:CI_OnlineResource>
-              <cit:linkage>
-                <gco:CharacterString></gco:CharacterString>
-              </cit:linkage>
-              <cit:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </cit:protocol>
-              <cit:function>
-                <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-              </cit:function>
-            </cit:CI_OnlineResource>
-          </cit:onlineResource>
-        </cit:CI_Contact>
-      </cit:contactInfo>
-      
-      <cit:individual>
-        <cit:CI_Individual>
-    
-      <cit:name>
-        <gco:CharacterString></gco:CharacterString>
-      </cit:name>
-
-    <cit:contactInfo>
-      <cit:CI_Contact>
+            <cit:electronicMailAddress>
+              <gco:CharacterString>info@cmar.ca</gco:CharacterString>
+            </cit:electronicMailAddress>
+          </cit:CI_Address>
+        </cit:address>
       </cit:CI_Contact>
     </cit:contactInfo>
     
@@ -260,9 +227,7 @@
 </cit:CI_Individual>
 
 
-      </cit:individual>
 
-    </cit:CI_Organisation>
 
 
   </cit:party>
@@ -276,70 +241,37 @@
     <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="custodian">custodian</cit:CI_RoleCode>
   </cit:role>
   <cit:party>
-    <cit:CI_Organisation>
+
+    <cit:CI_Individual>
     
       <cit:name>
         <gco:CharacterString>Danielle Dempsey</gco:CharacterString>
       </cit:name>
 
-      <cit:contactInfo>
-        <cit:CI_Contact>
-          <cit:phone>
-            <cit:CI_Telephone>
-              <cit:number>
-              <gco:CharacterString></gco:CharacterString>
-              </cit:number>
-            </cit:CI_Telephone>
-          </cit:phone>
-
-          <cit:address>
-            <cit:CI_Address>
-              
+    <cit:contactInfo>
+      <cit:CI_Contact>
+        <cit:address>
+          <cit:CI_Address>
+            
       <cit:deliveryPoint>
         <gco:CharacterString></gco:CharacterString>
       </cit:deliveryPoint>
 
-              
+            
       <cit:city>
         <gco:CharacterString></gco:CharacterString>
       </cit:city>
 
-              
+            
       <cit:country>
-        <gco:CharacterString></gco:CharacterString>
+        <gco:CharacterString>Canada</gco:CharacterString>
       </cit:country>
 
-              <cit:electronicMailAddress>
-                <gco:CharacterString>ddempsey@perennia.ca</gco:CharacterString>
-              </cit:electronicMailAddress>
-            </cit:CI_Address>
-          </cit:address>
-
-          <cit:onlineResource>
-            <cit:CI_OnlineResource>
-              <cit:linkage>
-                <gco:CharacterString></gco:CharacterString>
-              </cit:linkage>
-              <cit:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </cit:protocol>
-              <cit:function>
-                <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-              </cit:function>
-            </cit:CI_OnlineResource>
-          </cit:onlineResource>
-        </cit:CI_Contact>
-      </cit:contactInfo>
-      
-      <cit:individual>
-        <cit:CI_Individual>
-    
-      <cit:name>
-        <gco:CharacterString></gco:CharacterString>
-      </cit:name>
-
-    <cit:contactInfo>
-      <cit:CI_Contact>
+            <cit:electronicMailAddress>
+              <gco:CharacterString>ddempsey@perennia.ca</gco:CharacterString>
+            </cit:electronicMailAddress>
+          </cit:CI_Address>
+        </cit:address>
       </cit:CI_Contact>
     </cit:contactInfo>
     
@@ -350,9 +282,7 @@
 </cit:CI_Individual>
 
 
-      </cit:individual>
 
-    </cit:CI_Organisation>
 
 
   </cit:party>
@@ -444,7 +374,7 @@
 
             
       <cit:country>
-        <gco:CharacterString></gco:CharacterString>
+        <gco:CharacterString>Canada</gco:CharacterString>
       </cit:country>
 
             <cit:electronicMailAddress>
@@ -590,6 +520,118 @@
       </cit:title>
 
 
+          <cit:citedResponsibleParty>
+            <cit:CI_Responsibility>
+  <cit:role>
+    <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author">author; contact</cit:CI_RoleCode>
+  </cit:role>
+  <cit:party>
+    <cit:CI_Organisation>
+    
+      <cit:name>
+        <gco:CharacterString>Centre for Marine Applied Research (CMAR)</gco:CharacterString>
+      </cit:name>
+
+      <cit:contactInfo>
+        <cit:CI_Contact>
+          <cit:phone>
+            <cit:CI_Telephone>
+              <cit:number>
+              <gco:CharacterString></gco:CharacterString>
+              </cit:number>
+            </cit:CI_Telephone>
+          </cit:phone>
+
+          <cit:address>
+            <cit:CI_Address>
+              
+      <cit:deliveryPoint>
+        <gco:CharacterString>27 Parker St.</gco:CharacterString>
+      </cit:deliveryPoint>
+
+              
+      <cit:city>
+        <gco:CharacterString>Dartmouth, NS</gco:CharacterString>
+      </cit:city>
+
+              
+      <cit:country>
+        <gco:CharacterString>Canada</gco:CharacterString>
+      </cit:country>
+
+              <cit:electronicMailAddress>
+                <gco:CharacterString>info@cmar.ca</gco:CharacterString>
+              </cit:electronicMailAddress>
+            </cit:CI_Address>
+          </cit:address>
+
+          <cit:onlineResource>
+            <cit:CI_OnlineResource>
+              <cit:linkage>
+                <gco:CharacterString>https://www.cmar.ca</gco:CharacterString>
+              </cit:linkage>
+              <cit:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </cit:protocol>
+              <cit:function>
+                <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
+              </cit:function>
+            </cit:CI_OnlineResource>
+          </cit:onlineResource>
+        </cit:CI_Contact>
+      </cit:contactInfo>
+      
+      <cit:individual>
+        <cit:CI_Individual>
+    
+      <cit:name>
+        <gco:CharacterString>Danielle Dempsey</gco:CharacterString>
+      </cit:name>
+
+    <cit:contactInfo>
+      <cit:CI_Contact>
+        <cit:address>
+          <cit:CI_Address>
+            
+      <cit:deliveryPoint>
+        <gco:CharacterString></gco:CharacterString>
+      </cit:deliveryPoint>
+
+            
+      <cit:city>
+        <gco:CharacterString></gco:CharacterString>
+      </cit:city>
+
+            
+      <cit:country>
+        <gco:CharacterString>Canada</gco:CharacterString>
+      </cit:country>
+
+            <cit:electronicMailAddress>
+              <gco:CharacterString>ddempsey@perennia.ca</gco:CharacterString>
+            </cit:electronicMailAddress>
+          </cit:CI_Address>
+        </cit:address>
+      </cit:CI_Contact>
+    </cit:contactInfo>
+    
+      <cit:positionName>
+        <gco:CharacterString>Coastal Oceanography Research Fellow</gco:CharacterString>
+      </cit:positionName>
+
+</cit:CI_Individual>
+
+
+      </cit:individual>
+
+    </cit:CI_Organisation>
+
+
+  </cit:party>
+</cit:CI_Responsibility>
+
+
+          </cit:citedResponsibleParty>
 
 
         </cit:CI_Citation>
@@ -803,28 +845,28 @@
                 <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
                   <lan:PT_FreeText>
                     <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#fr"> pression de l&#39;air</lan:LocalisedCharacterString>
+                      <lan:LocalisedCharacterString locale="#fr"> pression de lair</lan:LocalisedCharacterString>
                     </lan:textGroup>
                   </lan:PT_FreeText>
                 </mri:keyword>
                 <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
                   <lan:PT_FreeText>
                     <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#fr"> pourcentage d&#39;humidité</lan:LocalisedCharacterString>
+                      <lan:LocalisedCharacterString locale="#fr">pourcentage dhumidité</lan:LocalisedCharacterString>
                     </lan:textGroup>
                   </lan:PT_FreeText>
                 </mri:keyword>
                 <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
                   <lan:PT_FreeText>
                     <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#fr"> température de l&#39;air</lan:LocalisedCharacterString>
+                      <lan:LocalisedCharacterString locale="#fr">température de lair</lan:LocalisedCharacterString>
                     </lan:textGroup>
                   </lan:PT_FreeText>
                 </mri:keyword>
                 <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
                   <lan:PT_FreeText>
                     <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#fr"> intensité de la pluie</lan:LocalisedCharacterString>
+                      <lan:LocalisedCharacterString locale="#fr">intensité de la pluie</lan:LocalisedCharacterString>
                     </lan:textGroup>
                   </lan:PT_FreeText>
                 </mri:keyword>
@@ -1034,7 +1076,7 @@
 
             
       <cit:country>
-        <gco:CharacterString></gco:CharacterString>
+        <gco:CharacterString>Canada</gco:CharacterString>
       </cit:country>
 
             <cit:electronicMailAddress>
