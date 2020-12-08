@@ -100,7 +100,7 @@ contact:
       country: Canada
 
 distribution:
-  - url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_8f10_9c65_13cb.html
+  - url: https://cioosatlantic.ca/erddap/tabledap/cmar_8f10_9c65_13cb.html
     format: erddap
     description:
       en: TBD
