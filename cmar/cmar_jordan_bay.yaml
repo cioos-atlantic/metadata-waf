@@ -44,20 +44,13 @@ distribution:
     en: CIOOS Atlantic dataset ERDDAP link
     fr: Liaison ERDDAP du jeu de données de SIOOC Atlantique
   name: CIOOS Atlantic ERDDAP
-  url:
-  - https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html
+  url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html
 - description:
     en: XEOS Online data access (login required)
     fr: Accès aux données en ligne XEOS (connexion requise)
   name: XEOS Online
-  url:
-  - https://xeostech.com/xeosonlinetm
-- description:
-    en: ''
-    fr: ''
-  name: CIOOS Atlantic ERDDAP
-  url:
-  - https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html
+  url: https://xeostech.com/xeosonlinetm
+
 identification:
   abstract:
     en: This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic
@@ -136,9 +129,12 @@ metadata:
       as needed basis.
     fr: La mise à jour de l'enregistrement des métadonnées de ce jeu de données sera
       effectuée selon les besoins.
-  naming_authority: ca.coos
+  naming_authority: ca.cmar
   use_constraints:
-    license: CC-BY-4.0
+    license:
+      title: Creative Commons Attribution 4.0
+      code: CC-BY-4.0
+      url: https://creativecommons.org/licenses/by/4.0/
     limitations:
       en: Licence
       fr: Licence
