@@ -46,7 +46,7 @@
       </mcc:authority>
 
       <mcc:code>
-        <gco:CharacterString>26f86190-f9c1-11ea-a9dd-d43b04e1587e</gco:CharacterString>
+        <gco:CharacterString>439a887e-81bd-423e-9f0d-bf0f259364be</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -432,7 +432,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2020-11-01T16:58:00Z</gco:DateTime>
+        <gco:DateTime>2020-12-09T14:18:00Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -663,7 +663,7 @@
         </mcc:MD_ProgressCode>
       </mri:status>
       <mri:temporalResolution>
-        <gco:TM_PeriodDuration>P30M</gco:TM_PeriodDuration>
+        <gco:TM_PeriodDuration>P60M</gco:TM_PeriodDuration>
       </mri:temporalResolution>
       <mri:topicCategory>
         <mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>
@@ -761,9 +761,9 @@
                 <gml:TimePeriod gml:id="time_period">
                   <gml:beginPosition>2020-07-07</gml:beginPosition>
 
-                  <gml:endPosition>2020-11-01</gml:endPosition>
+                  <gml:endPosition>2020-12-09</gml:endPosition>
 
-                  <gml:duration>P30M</gml:duration>
+                  <gml:duration>P60M</gml:duration>
                 </gml:TimePeriod>
               </gex:extent>
             </gex:EX_TemporalExtent>

@@ -5,7 +5,7 @@ metadata:
   naming_authority:
     en: ca.cmar
     fr: ca.cmar
-  identifier: a17a8c18-f9c0-11ea-84c1-d43b04e1587e
+  identifier: e7cd77c7-0ea2-4059-b233-c8f9a5656e95
   language: en
   language_alternate: fr
   maintenance_note:
@@ -41,7 +41,7 @@ identification:
   dates:
     creation: 2020-07-16
     publication: 2020-07-16T20:38:00Z
-    revision: 2020-11-01T16:58:00Z
+    revision: 2020-12-09T14:38:00Z
   keywords:
     default:
       en: [seaState, seaSurfaceHeight, subSurfaceTemperature, sea_surface_wave_significant_height, sea_surface_wave_maximum_period, sea_surface_wave_maximum_height, sea_surface_wave_from_direction, sea_surface_wind_wave_directional_spread, sea_water_temperature, wind_speed, wind_from_direction, air_pressure, relative_humidity, air_temperature, stratiform_rainfall_rate, wind_from_direction, battery_temp_c, Timestamp, Battery Level - Volts, Temperature, Significant Wave Height, Peak Wave period, Maximum Wave Height, Wave Direction, Wave Spread, Sample Quality, Water Temperature, Wind Speed, Wind Direction, Air Pressure, Humidity Percent, Air Temperature, Rain Intensity, Hail Intensity, Compass Direction, Wind From]
@@ -50,9 +50,9 @@ identification:
       en: [seaState, seaSurfaceHeight, subSurfaceTemperature]
       fr: [seaState, seaSurfaceHeight, subSurfaceTemperature]
   temporal_begin: 2020-07-16
-  temporal_end: 2020-11-01
-  temporal_duration: P30M
-  time_coverage_resolution: P30M
+  temporal_end: 2020-12-09
+  temporal_duration: P20M
+  time_coverage_resolution: P20M
   acknowledgement: TBD
   status: onGoing
   project:

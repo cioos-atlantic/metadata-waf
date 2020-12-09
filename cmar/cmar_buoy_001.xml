@@ -46,7 +46,7 @@
       </mcc:authority>
 
       <mcc:code>
-        <gco:CharacterString>6ae980e8-ed6c-47b2-84ed-f727136b9abd</gco:CharacterString>
+        <gco:CharacterString>da35094d-0de5-4982-a604-d158cdcbe9ad</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -432,7 +432,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2020-11-02T17:18:00Z</gco:DateTime>
+        <gco:DateTime>2020-12-09T14:38:00Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -482,7 +482,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -497,7 +497,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
         </lan:LanguageCode>
       </lan:language>
       <lan:country>
@@ -663,7 +663,7 @@
         </mcc:MD_ProgressCode>
       </mri:status>
       <mri:temporalResolution>
-        <gco:TM_PeriodDuration>P30M</gco:TM_PeriodDuration>
+        <gco:TM_PeriodDuration>P20M</gco:TM_PeriodDuration>
       </mri:temporalResolution>
       <mri:topicCategory>
         <mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>
@@ -761,9 +761,9 @@
                 <gml:TimePeriod gml:id="time_period">
                   <gml:beginPosition>2019-10-22</gml:beginPosition>
 
-                  <gml:endPosition>2020-11-02</gml:endPosition>
+                  <gml:endPosition>2020-12-09</gml:endPosition>
 
-                  <gml:duration>P30M</gml:duration>
+                  <gml:duration>P20M</gml:duration>
                 </gml:TimePeriod>
               </gex:extent>
             </gex:EX_TemporalExtent>
