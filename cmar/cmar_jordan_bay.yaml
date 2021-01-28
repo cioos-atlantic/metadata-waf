@@ -1,57 +1,29 @@
-contact:
-- individual:
-    email: ddempsey@perennia.ca
-    name: Danielle Dempsey
-    position: Coastal Oceanography Research Fellow
-    country: Canada
-  organization:
-    address: 27 Parker St.
-    city: Dartmouth, NS
-    country: Canada
-    email: info@cmar.ca
-    name: Centre for Marine Applied Research (CMAR)
-    url: https://www.cmar.ca
-  roles:
-  - author
-- individual:
-    email: 'info@cmar.ca'
-    name: 'CMAR'
-    country: Canada
-  roles:
-  - pointOfContact
-- individual:
-    email: ddempsey@perennia.ca
-    name: Danielle Dempsey
-    country: Canada
-  roles:
-  - custodian
-- individual:
-    email: scott@xeostech.com
-    name: Scott Tobin
-    position: Technical Sales Engineer
-    country: Canada
-  organization:
-    address: 26 Topple Dr., B3B 1L6
-    city: Dartmouth, NS
-    country: Canada
-    email: scott@xeostech.com
-    name: XEOS Technologies
-    url: https://xeostech.com
-  roles:
-  - distributor
-distribution:
-- description:
-    en: CIOOS Atlantic dataset ERDDAP link
-    fr: Liaison ERDDAP du jeu de données de SIOOC Atlantique
-  name: CIOOS Atlantic ERDDAP
-  url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html
-- description:
-    en: XEOS Online data access (login required)
-    fr: Accès aux données en ligne XEOS (connexion requise)
-  name: XEOS Online
-  url: https://xeostech.com/xeosonlinetm
-
+metadata:
+  naming_authority: ca.coos
+  identifier: da35094d-0de5-4982-a604-d158cdcbe9ad
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  use_constraints:
+    limitations:
+      en: Licence
+      fr: Licence
+    licence:
+      title: Creative Commons Attribution 4.0
+      code: CC-BY-4.0
+      url: https://creativecommons.org/licenses/by/4.0
+spatial:
+  bbox:
+  - -65.19418839
+  - 43.69840101
+  - -65.19418839
+  - 43.69840101
+  vertical:
+  - 0.0
+  - 0.0
 identification:
+  title:
+    en: CMAR - Jordan Bay
+    fr: CMAR - Jordan Bay
   abstract:
     en: This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic
       buoy from Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed
@@ -75,75 +47,106 @@ identification:
       prise de décisions fondées sur des données scientifiques et l'avancement des
       ressources côtières de la Nouvelle-Écosse.
   dates:
-    creation: '2019-10-22T16:48:00.000Z'
-    publication: '2020-11-09T17:48:00.958Z'
-    revision: '2020-11-09T17:48:00.960Z'
+    creation: '2019-10-22'
+    publication: '2020-11-09'
+    dateRevised: '2020-11-09'
   keywords:
     default:
       en:
-      - ' sea_surface_wave_significant_height'
-      - ' sea_surface_wave_maximum_period'
-      - ' sea_surface_wave_maximum_height'
-      - ' sea_surface_wave_from_direction'
-      - ' sea_surface_wind_wave_directional_spread'
-      - ' sea_water_temperature'
-      - ' wind_speed'
-      - ' wind_from_direction'
-      - ' air_pressure'
-      - ' relative_humidity'
-      - ' air_temperature'
-      - ' stratiform_rainfall_rate'
-      - ' wind_from_direction'
-      - ' battery_temp_c'
-      - ' Timestamp'
+      - sea_surface_wave_significant_height
+      - sea_surface_wave_maximum_period
+      - sea_surface_wave_maximum_height
+      - sea_surface_wave_from_direction
+      - sea_surface_wind_wave_directional_spread
+      - sea_water_temperature
+      - wind_speed
+      - wind_from_direction
+      - air_pressure
+      - relative_humidity
+      - air_temperature
+      - stratiform_rainfall_rate
+      - wind_from_direction
+      - battery_temp_c
+      - Timestamp
       fr:
       - horodatage
-      - ' Niveau de batterie - Volts'
-      - ' température'
-      - ' vitesse du vent'
-      - ' direction du vent'
-      - ' pression de lair'
-      - "pourcentage dhumidité"
-      - "température de lair"
-      - "intensité de la pluie"
-      - ' intensité de la grêle'
-      - ' direction de la boussole'
-      - ' vent de la direction'
+      - Niveau de batterie - Volts
+      - température
+      - vitesse du vent
+      - direction du vent
+      - pression de l'air
+      - pourcentage d'humidité
+      - température de l'air
+      - intensité de la pluie
+      - intensité de la grêle
+      - direction de la boussole
+      - vent de la direction
     eov:
-    - subSurfaceTemperature
-    - seaState
-    - seaSurfaceHeight
-  status: published
+      en:
+      - subSurfaceTemperature
+      - seaState
+      - seaSurfaceHeight
+      fr:
+      - Température sous la surface
+      - État de la mer
+      - Hauteur de la surface de la mer
   temporal_begin: '2019-10-22T16:48:00.000Z'
-  temporal_end: now
-  title:
-    en: CMAR - Jordan Bay
-    fr: CMAR - Jordan Bay
-metadata:
-  comment: ''
-  history: ''
-  identifier: da35094d-0de5-4982-a604-d158cdcbe9ad
-  language: en
-  maintenance_note:
-    en: Maintenance of the metadata record for this dataset will be performed on an
-      as needed basis.
-    fr: La mise à jour de l'enregistrement des métadonnées de ce jeu de données sera
-      effectuée selon les besoins.
-  naming_authority: ca.cmar
-  use_constraints:
-    license:
-      title: Creative Commons Attribution 4.0
-      code: CC-BY-4.0
-      url: https://creativecommons.org/licenses/by/4.0/
-    limitations:
-      en: Licence
-      fr: Licence
+  status: published
+contact:
+- roles:
+  - owner
+  organization:
+    name: Centre for Marine Applied Research (CMAR)
+    url: https://www.cmar.ca
+    address: 27 Parker St.
+    city: Dartmouth, NS
+    country: Canada
+    email: info@cmar.ca
+  individual:
+    name: Danielle Dempsey
+    position: Coastal Oceanography Research Fellow
+    email: ddempsey@perennia.ca
+- roles:
+  - pointOfContact
+  organization:
+    name: CMAR
+    email: info@cmar.ca
+- roles:
+  - custodian
+  organization:
+    name: Danielle Dempsey
+    email: ddempsey@perennia.ca
+- roles:
+  - distributor
+  organization:
+    name: XEOS Technologies
+    url: https://xeostech.com
+    address: 26 Topple Dr., B3B 1L6
+    city: Dartmouth, NS
+    country: Canada
+    email: scott@xeostech.com
+  individual:
+    name: Scott Tobin
+    position: Technical Sales Engineer
+    email: scott@xeostech.com
+distribution:
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html
+  name: CIOOS Atlantic ERDDAP
+  description:
+    en: CIOOS Atlantic dataset ERDDAP link
+    fr: Liaison ERDDAP du jeu de données de SIOOC Atlantique
+- url: https://xeostech.com/xeosonlinetm
+  name: XEOS Online
+  description:
+    en: XEOS Online data access (login required)
+    fr: Accès aux données en ligne XEOS (connexion requise)
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html
+  name: CIOOS Atlantic ERDDAP
 platform:
-  authority: com.xeostech
+  id: Xeos Buoy 001 - (299 - 576)
   description:
     en: Redeployable moored buoy
     fr: Bouée amarrée redéployable
-  id: Xeos Buoy 001 - (299 - 576)
   instruments:
   - description:
       en: 'Xeos Brizo GNSS directional waveheight receiver. Instrument manual: http://manuals.xeostech.com/BrizoFirmware'
@@ -154,7 +157,6 @@ platform:
     type:
       en: Xeos Brizo GNSS directional waveheight receiver.
       fr: Xeos Brizo Récepteur GNSS de hauteur des vagues directionnelle.
-    version: ''
   - description:
       en: 'Xeos Rover - Surface Iridium Satellite Beacon with GPS Location. Instrument
         manual: https://manuals.xeostech.com/Rover/'
@@ -165,7 +167,6 @@ platform:
     type:
       en: Surface Iridium Satellite Beacon with GPS Location
       fr: Balise satellite Iridium Surface avec emplacement GPS
-    version: ''
   - description:
       en: 'Vaisala Weather Transmitter WXT530 Series. Instrument manual: https://www.vaisala.com/sites/default/files/documents/WEA-MET-G-WXT530%20Datasheet__Low.pdf'
       fr: 'Émetteur météo Vaisala série WXT530. Manuel de l''instrument : https://www.vaisala.com/sites/default/files/documents/WEA-MET-G-WXT530%20Datasheet__Low.pdf'
@@ -174,7 +175,6 @@ platform:
     type:
       en: Weather transmitter
       fr: Émetteur météo
-    version: ''
   - description:
       en: 'NexSens T-Node FR thermistor string water temperature sensor. Instrument
         manual: https://www.nexsens.com/pdf/T-NodeFR_datasheet.pdf'
@@ -185,16 +185,3 @@ platform:
     type:
       en: Water temperature sensor
       fr: Capteur de température d'eau
-    version: ''
-  name: Xeos Buoy 001
-  role: resourceProvider
-spatial:
-  bbox:
-  - '-65.19418839'
-  - '43.69840101'
-  - '-65.19418839'
-  - '43.69840101'
-  polygon: ''
-  vertical:
-  - '0'
-  - '0'
