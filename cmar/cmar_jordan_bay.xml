@@ -32,14 +32,8 @@
       <mcc:authority>
         <cit:CI_Citation>
             
-      <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-
-        <gco:CharacterString>ca.cmar</gco:CharacterString>
-          <lan:PT_FreeText>
-            <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">ca.cmar</lan:LocalisedCharacterString>
-            </lan:textGroup>
-          </lan:PT_FreeText>
+      <cit:title>
+        <gco:CharacterString>ca.coos</gco:CharacterString>
       </cit:title>
 
           </cit:CI_Citation>
@@ -77,61 +71,6 @@
     <mdb:contact>
             <cit:CI_Responsibility>
   <cit:role>
-    <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</cit:CI_RoleCode>
-  </cit:role>
-  <cit:party>
-
-    <cit:CI_Individual>
-    
-      <cit:name>
-        <gco:CharacterString>CMAR</gco:CharacterString>
-      </cit:name>
-
-    <cit:contactInfo>
-      <cit:CI_Contact>
-        <cit:address>
-          <cit:CI_Address>
-            
-      <cit:deliveryPoint>
-        <gco:CharacterString></gco:CharacterString>
-      </cit:deliveryPoint>
-
-            
-      <cit:city>
-        <gco:CharacterString></gco:CharacterString>
-      </cit:city>
-
-            
-      <cit:country>
-        <gco:CharacterString>Canada</gco:CharacterString>
-      </cit:country>
-
-            <cit:electronicMailAddress>
-              <gco:CharacterString>info@cmar.ca</gco:CharacterString>
-            </cit:electronicMailAddress>
-          </cit:CI_Address>
-        </cit:address>
-      </cit:CI_Contact>
-    </cit:contactInfo>
-    
-      <cit:positionName>
-        <gco:CharacterString></gco:CharacterString>
-      </cit:positionName>
-
-</cit:CI_Individual>
-
-
-
-
-
-  </cit:party>
-</cit:CI_Responsibility>
-
-
-    </mdb:contact>
-    <mdb:contact>
-            <cit:CI_Responsibility>
-  <cit:role>
     <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
   </cit:role>
   <cit:party>
@@ -160,7 +99,7 @@
 
               
       <cit:city>
-        <gco:CharacterString>Dartmouth, NS, B2Y 4T5</gco:CharacterString>
+        <gco:CharacterString>Dartmouth, NS</gco:CharacterString>
       </cit:city>
 
               
@@ -225,7 +164,7 @@
     </cit:contactInfo>
     
       <cit:positionName>
-        <gco:CharacterString></gco:CharacterString>
+        <gco:CharacterString>Coastal Oceanography Research Fellow</gco:CharacterString>
       </cit:positionName>
 
 </cit:CI_Individual>
@@ -234,6 +173,61 @@
       </cit:individual>
 
     </cit:CI_Organisation>
+
+
+  </cit:party>
+</cit:CI_Responsibility>
+
+
+    </mdb:contact>
+    <mdb:contact>
+            <cit:CI_Responsibility>
+  <cit:role>
+    <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</cit:CI_RoleCode>
+  </cit:role>
+  <cit:party>
+
+    <cit:CI_Individual>
+    
+      <cit:name>
+        <gco:CharacterString>CMAR</gco:CharacterString>
+      </cit:name>
+
+    <cit:contactInfo>
+      <cit:CI_Contact>
+        <cit:address>
+          <cit:CI_Address>
+            
+      <cit:deliveryPoint>
+        <gco:CharacterString></gco:CharacterString>
+      </cit:deliveryPoint>
+
+            
+      <cit:city>
+        <gco:CharacterString></gco:CharacterString>
+      </cit:city>
+
+            
+      <cit:country>
+        <gco:CharacterString>Canada</gco:CharacterString>
+      </cit:country>
+
+            <cit:electronicMailAddress>
+              <gco:CharacterString>info@cmar.ca</gco:CharacterString>
+            </cit:electronicMailAddress>
+          </cit:CI_Address>
+        </cit:address>
+      </cit:CI_Contact>
+    </cit:contactInfo>
+    
+      <cit:positionName>
+        <gco:CharacterString></gco:CharacterString>
+      </cit:positionName>
+
+</cit:CI_Individual>
+
+
+
 
 
   </cit:party>
@@ -270,7 +264,7 @@
 
             
       <cit:country>
-        <gco:CharacterString></gco:CharacterString>
+        <gco:CharacterString>Canada</gco:CharacterString>
       </cit:country>
 
             <cit:electronicMailAddress>
@@ -412,7 +406,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2020-04-22</gco:Date>
+        <gco:DateTime>2019-10-22T16:48:00.000Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -422,7 +416,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2020-04-22T18:20:00Z</gco:DateTime>
+        <gco:DateTime>2020-11-09T17:48:00.958Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -432,7 +426,11 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
+<<<<<<< HEAD:cmar/cmar_buoy_001.xml
         <gco:DateTime>2020-12-09T14:38:00Z</gco:DateTime>
+=======
+        <gco:DateTime>2020-11-09T17:48:00.960Z</gco:DateTime>
+>>>>>>> f5e52bd2fbd6474875bf64c62cea75257df2e4c6:cmar/cmar_jordan_bay.xml
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -557,7 +555,7 @@
 
               
       <cit:city>
-        <gco:CharacterString>Dartmouth, NS, B2Y 4T5</gco:CharacterString>
+        <gco:CharacterString>Dartmouth, NS</gco:CharacterString>
       </cit:city>
 
               
@@ -622,7 +620,7 @@
     </cit:contactInfo>
     
       <cit:positionName>
-        <gco:CharacterString></gco:CharacterString>
+        <gco:CharacterString>Coastal Oceanography Research Fellow</gco:CharacterString>
       </cit:positionName>
 
 </cit:CI_Individual>
@@ -655,16 +653,19 @@
 
       
       <mri:credit>
-        <gco:CharacterString>TBD</gco:CharacterString>
+        <gco:CharacterString></gco:CharacterString>
       </mri:credit>
 
       <mri:status>
-        <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="onGoing">
+        <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="published">
         </mcc:MD_ProgressCode>
       </mri:status>
+<<<<<<< HEAD:cmar/cmar_buoy_001.xml
       <mri:temporalResolution>
         <gco:TM_PeriodDuration>P20M</gco:TM_PeriodDuration>
       </mri:temporalResolution>
+=======
+>>>>>>> f5e52bd2fbd6474875bf64c62cea75257df2e4c6:cmar/cmar_jordan_bay.xml
       <mri:topicCategory>
         <mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>
       </mri:topicCategory>
@@ -676,16 +677,16 @@
                 <gco:Boolean>true</gco:Boolean>
               </gex:extentTypeCode>
               <gex:westBoundLongitude>
-                <gco:Decimal>-65.195258</gco:Decimal>
+                <gco:Decimal>-65.19418839</gco:Decimal>
               </gex:westBoundLongitude>
               <gex:eastBoundLongitude>
-                <gco:Decimal>-65.193901</gco:Decimal>
+                <gco:Decimal>-65.19418839</gco:Decimal>
               </gex:eastBoundLongitude>
               <gex:southBoundLatitude>
-                <gco:Decimal>43.697062</gco:Decimal>
+                <gco:Decimal>43.69840101</gco:Decimal>
               </gex:southBoundLatitude>
               <gex:northBoundLatitude>
-                <gco:Decimal>43.698867</gco:Decimal>
+                <gco:Decimal>43.69840101</gco:Decimal>
               </gex:northBoundLatitude>
             </gex:EX_GeographicBoundingBox>
           </gex:geographicElement>
@@ -695,35 +696,13 @@
 
       <mri:extent>
         <gex:EX_Extent>
-          <gex:geographicElement>
-            <gex:EX_BoundingPolygon>
-              <gex:extentTypeCode>
-                <gco:Boolean>true</gco:Boolean>
-              </gex:extentTypeCode>
-              <gex:polygon>
-                <gml:Polygon gml:id="a1">
-                  <gml:exterior>
-                    <gml:LinearRing>
-                      <gml:coordinates>
-                        -65.195258,43.698867 -65.193901,43.698867 -65.193901,43.697062 -65.195258,43.697062
-                      </gml:coordinates>
-                    </gml:LinearRing>
-                  </gml:exterior>
-                </gml:Polygon>
-              </gex:polygon>
-            </gex:EX_BoundingPolygon>
-          </gex:geographicElement>
-        </gex:EX_Extent>
-      </mri:extent>
-      <mri:extent>
-        <gex:EX_Extent>
           <gex:verticalElement>
             <gex:EX_VerticalExtent>
               <gex:minimumValue>
                 <gco:Real>0</gco:Real>
               </gex:minimumValue>
               <gex:maximumValue>
-                <gco:Real>10</gco:Real>
+                <gco:Real>0</gco:Real>
               </gex:maximumValue>
               <gex:verticalCRSId>
                 <mrs:MD_ReferenceSystem>
@@ -759,11 +738,16 @@
             <gex:EX_TemporalExtent>
               <gex:extent>
                 <gml:TimePeriod gml:id="time_period">
-                  <gml:beginPosition>2019-10-22</gml:beginPosition>
+                  <gml:beginPosition>2019-10-22T16:48:00.000Z</gml:beginPosition>
 
+<<<<<<< HEAD:cmar/cmar_buoy_001.xml
                   <gml:endPosition>2020-12-09</gml:endPosition>
 
                   <gml:duration>P20M</gml:duration>
+=======
+                  <gml:endPosition>now</gml:endPosition>
+
+>>>>>>> f5e52bd2fbd6474875bf64c62cea75257df2e4c6:cmar/cmar_jordan_bay.xml
                 </gml:TimePeriod>
               </gex:extent>
             </gex:EX_TemporalExtent>
@@ -778,10 +762,10 @@
           
       <mmi:maintenanceNote xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>asNeeded</gco:CharacterString>
+        <gco:CharacterString>Maintenance of the metadata record for this dataset will be performed on an as needed basis.</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">La mise à jour de l&#39;enregistrement des métadonnées de ce jeu de données sera effectuée selon les besoins.</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </mmi:maintenanceNote>
@@ -793,133 +777,133 @@
         <mri:MD_Keywords>
           
               <mri:keyword>
-                    <gco:CharacterString>seaState</gco:CharacterString>
+                    <gco:CharacterString> sea_surface_wave_significant_height</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>seaSurfaceHeight</gco:CharacterString>
+                    <gco:CharacterString> sea_surface_wave_maximum_period</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>subSurfaceTemperature</gco:CharacterString>
+                    <gco:CharacterString> sea_surface_wave_maximum_height</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>sea_surface_wave_significant_height</gco:CharacterString>
+                    <gco:CharacterString> sea_surface_wave_from_direction</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>sea_surface_wave_maximum_period</gco:CharacterString>
+                    <gco:CharacterString> sea_surface_wind_wave_directional_spread</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>sea_surface_wave_maximum_height</gco:CharacterString>
+                    <gco:CharacterString> sea_water_temperature</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>sea_surface_wave_from_direction</gco:CharacterString>
+                    <gco:CharacterString> wind_speed</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>sea_surface_wind_wave_directional_spread</gco:CharacterString>
+                    <gco:CharacterString> wind_from_direction</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>sea_water_temperature</gco:CharacterString>
+                    <gco:CharacterString> air_pressure</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>wind_speed</gco:CharacterString>
+                    <gco:CharacterString> relative_humidity</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>wind_from_direction</gco:CharacterString>
+                    <gco:CharacterString> air_temperature</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>air_pressure</gco:CharacterString>
+                    <gco:CharacterString> stratiform_rainfall_rate</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>relative_humidity</gco:CharacterString>
+                    <gco:CharacterString> wind_from_direction</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>air_temperature</gco:CharacterString>
+                    <gco:CharacterString> battery_temp_c</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
-                    <gco:CharacterString>stratiform_rainfall_rate</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>wind_from_direction</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>battery_temp_c</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Timestamp</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Battery Level - Volts</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Temperature</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Significant Wave Height</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Peak Wave period</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Maximum Wave Height</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Wave Direction</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Wave Spread</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Sample Quality</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Water Temperature</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Wind Speed</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Wind Direction</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Air Pressure</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Humidity Percent</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Air Temperature</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Rain Intensity</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Hail Intensity</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Compass Direction</gco:CharacterString>
-              </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>Wind From</gco:CharacterString>
+                    <gco:CharacterString> Timestamp</gco:CharacterString>
               </mri:keyword>
 
           
                 <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
                   <lan:PT_FreeText>
                     <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#fr">seaState</lan:LocalisedCharacterString>
+                      <lan:LocalisedCharacterString locale="#fr">horodatage</lan:LocalisedCharacterString>
                     </lan:textGroup>
                   </lan:PT_FreeText>
                 </mri:keyword>
                 <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
                   <lan:PT_FreeText>
                     <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#fr">seaSurfaceHeight</lan:LocalisedCharacterString>
+                      <lan:LocalisedCharacterString locale="#fr"> Niveau de batterie - Volts</lan:LocalisedCharacterString>
                     </lan:textGroup>
                   </lan:PT_FreeText>
                 </mri:keyword>
                 <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
                   <lan:PT_FreeText>
                     <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#fr">subSurfaceTemperature</lan:LocalisedCharacterString>
+                      <lan:LocalisedCharacterString locale="#fr"> température</lan:LocalisedCharacterString>
+                    </lan:textGroup>
+                  </lan:PT_FreeText>
+                </mri:keyword>
+                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+                  <lan:PT_FreeText>
+                    <lan:textGroup>
+                      <lan:LocalisedCharacterString locale="#fr"> vitesse du vent</lan:LocalisedCharacterString>
+                    </lan:textGroup>
+                  </lan:PT_FreeText>
+                </mri:keyword>
+                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+                  <lan:PT_FreeText>
+                    <lan:textGroup>
+                      <lan:LocalisedCharacterString locale="#fr"> direction du vent</lan:LocalisedCharacterString>
+                    </lan:textGroup>
+                  </lan:PT_FreeText>
+                </mri:keyword>
+                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+                  <lan:PT_FreeText>
+                    <lan:textGroup>
+                      <lan:LocalisedCharacterString locale="#fr"> pression de lair</lan:LocalisedCharacterString>
+                    </lan:textGroup>
+                  </lan:PT_FreeText>
+                </mri:keyword>
+                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+                  <lan:PT_FreeText>
+                    <lan:textGroup>
+                      <lan:LocalisedCharacterString locale="#fr">pourcentage dhumidité</lan:LocalisedCharacterString>
+                    </lan:textGroup>
+                  </lan:PT_FreeText>
+                </mri:keyword>
+                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+                  <lan:PT_FreeText>
+                    <lan:textGroup>
+                      <lan:LocalisedCharacterString locale="#fr">température de lair</lan:LocalisedCharacterString>
+                    </lan:textGroup>
+                  </lan:PT_FreeText>
+                </mri:keyword>
+                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+                  <lan:PT_FreeText>
+                    <lan:textGroup>
+                      <lan:LocalisedCharacterString locale="#fr">intensité de la pluie</lan:LocalisedCharacterString>
+                    </lan:textGroup>
+                  </lan:PT_FreeText>
+                </mri:keyword>
+                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+                  <lan:PT_FreeText>
+                    <lan:textGroup>
+                      <lan:LocalisedCharacterString locale="#fr"> intensité de la grêle</lan:LocalisedCharacterString>
+                    </lan:textGroup>
+                  </lan:PT_FreeText>
+                </mri:keyword>
+                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+                  <lan:PT_FreeText>
+                    <lan:textGroup>
+                      <lan:LocalisedCharacterString locale="#fr"> direction de la boussole</lan:LocalisedCharacterString>
+                    </lan:textGroup>
+                  </lan:PT_FreeText>
+                </mri:keyword>
+                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+                  <lan:PT_FreeText>
+                    <lan:textGroup>
+                      <lan:LocalisedCharacterString locale="#fr"> vent de la direction</lan:LocalisedCharacterString>
                     </lan:textGroup>
                   </lan:PT_FreeText>
                 </mri:keyword>
@@ -941,38 +925,15 @@
         <mri:MD_Keywords>
           
               <mri:keyword>
+                    <gco:CharacterString>subSurfaceTemperature</gco:CharacterString>
+              </mri:keyword>
+              <mri:keyword>
                     <gco:CharacterString>seaState</gco:CharacterString>
               </mri:keyword>
               <mri:keyword>
                     <gco:CharacterString>seaSurfaceHeight</gco:CharacterString>
               </mri:keyword>
-              <mri:keyword>
-                    <gco:CharacterString>subSurfaceTemperature</gco:CharacterString>
-              </mri:keyword>
 
-          
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#fr">seaState</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#fr">seaSurfaceHeight</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#fr">subSurfaceTemperature</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-  
 
 
 
@@ -986,29 +947,6 @@
         </mri:MD_Keywords>
       </mri:descriptiveKeywords>
 
-      <mri:descriptiveKeywords>
-        <mri:MD_Keywords>
-          
-              <mri:keyword>
-                    <gco:CharacterString>Xeos</gco:CharacterString>
-              </mri:keyword>
-
-          
-                <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-                  <lan:PT_FreeText>
-                    <lan:textGroup>
-                      <lan:LocalisedCharacterString locale="#fr">Xeos</lan:LocalisedCharacterString>
-                    </lan:textGroup>
-                  </lan:PT_FreeText>
-                </mri:keyword>
-  
-
-
-          <mri:type>
-            <mri:MD_KeywordTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_KeywordTypeCode" codeListValue="project">project</mri:MD_KeywordTypeCode>
-          </mri:type>
-        </mri:MD_Keywords>
-      </mri:descriptiveKeywords>
       
 
       <mri:resourceConstraints>
@@ -1047,10 +985,10 @@
            
       <mco:useLimitation xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>license</gco:CharacterString>
+        <gco:CharacterString>Licence</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">license</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">Licence</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </mco:useLimitation>
@@ -1059,14 +997,8 @@
       </mri:resourceConstraints>
 
       
-      <mri:supplementalInformation xsi:type="lan:PT_FreeText_PropertyType">
-
-        <gco:CharacterString>TBD</gco:CharacterString>
-          <lan:PT_FreeText>
-            <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
-            </lan:textGroup>
-          </lan:PT_FreeText>
+      <mri:supplementalInformation>
+        <gco:CharacterString></gco:CharacterString>
       </mri:supplementalInformation>
 
     </mri:MD_DataIdentification>
@@ -1193,53 +1125,103 @@
 
 
       
+      
       <mrd:transferOptions>
         <mrd:MD_DigitalTransferOptions>
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
+<<<<<<< HEAD:cmar/cmar_buoy_001.xml
                 <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html</gco:CharacterString>
+=======
+                <gco:CharacterString>[&#39;https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html&#39;]</gco:CharacterString>
+>>>>>>> f5e52bd2fbd6474875bf64c62cea75257df2e4c6:cmar/cmar_jordan_bay.xml
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
               </cit:protocol>
               <cit:name>
-                <gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>
+                <gco:CharacterString>CIOOS Atlantic ERDDAP</gco:CharacterString>
               </cit:name>
-              <cit:description>
-                <gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>
-              </cit:description>
+              
+      <cit:description xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>CIOOS Atlantic dataset ERDDAP link</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">Liaison ERDDAP du jeu de données de SIOOC Atlantique</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
+      </cit:description>
+
+            </cit:CI_OnlineResource>
+          </mrd:onLine>
+        </mrd:MD_DigitalTransferOptions>
+      </mrd:transferOptions>
+      
+      
+      <mrd:transferOptions>
+        <mrd:MD_DigitalTransferOptions>
+          <mrd:onLine>
+            <cit:CI_OnlineResource>
+              <cit:linkage>
+                <gco:CharacterString>[&#39;https://xeostech.com/xeosonlinetm&#39;]</gco:CharacterString>
+              </cit:linkage>
+              <cit:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </cit:protocol>
+              <cit:name>
+                <gco:CharacterString>XEOS Online</gco:CharacterString>
+              </cit:name>
+              
+      <cit:description xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>XEOS Online data access (login required)</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">Accès aux données en ligne XEOS (connexion requise)</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
+      </cit:description>
+
+            </cit:CI_OnlineResource>
+          </mrd:onLine>
+        </mrd:MD_DigitalTransferOptions>
+      </mrd:transferOptions>
+      
+      
+      <mrd:transferOptions>
+        <mrd:MD_DigitalTransferOptions>
+          <mrd:onLine>
+            <cit:CI_OnlineResource>
+              <cit:linkage>
+                <gco:CharacterString>[&#39;https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html&#39;]</gco:CharacterString>
+              </cit:linkage>
+              <cit:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </cit:protocol>
+              <cit:name>
+                <gco:CharacterString>CIOOS Atlantic ERDDAP</gco:CharacterString>
+              </cit:name>
+              
+      <cit:description xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString></gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr"></lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
+      </cit:description>
+
             </cit:CI_OnlineResource>
           </mrd:onLine>
         </mrd:MD_DigitalTransferOptions>
       </mrd:transferOptions>
 
 
-
     </mrd:MD_Distribution>
   </mdb:distributionInfo>
-  <mdb:resourceLineage>
-    <mrl:LI_Lineage>
-      
-      <mrl:statement xsi:type="lan:PT_FreeText_PropertyType">
-
-        <gco:CharacterString>TBD</gco:CharacterString>
-          <lan:PT_FreeText>
-            <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
-            </lan:textGroup>
-          </lan:PT_FreeText>
-      </mrl:statement>
-
-      <mrl:scope>
-        <mcc:MD_Scope>
-          <mcc:level>
-            <mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset" />
-          </mcc:level>
-        </mcc:MD_Scope>
-      </mrl:scope>
-    </mrl:LI_Lineage>
-  </mdb:resourceLineage>
 
   <mdb:metadataMaintenance>
     <mmi:MD_MaintenanceInformation>
@@ -1264,32 +1246,20 @@
               <mcc:authority>
                 <cit:CI_Citation>
                   
-      <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-
-        <gco:CharacterString>Buoy 001</gco:CharacterString>
-          <lan:PT_FreeText>
-            <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">Buoy 001</lan:LocalisedCharacterString>
-            </lan:textGroup>
-          </lan:PT_FreeText>
+      <cit:title>
+        <gco:CharacterString>Xeos Buoy 001</gco:CharacterString>
       </cit:title>
 
                   <cit:citedResponsibleParty>
                     <cit:CI_Responsibility>
                       <cit:role>
-                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="TBD" />
+                        <cit:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="resourceProvider" />
                       </cit:role>
                       <cit:party>
                         <cit:CI_Organisation>
                           
-      <cit:name xsi:type="lan:PT_FreeText_PropertyType">
-
-        <gco:CharacterString>TBD</gco:CharacterString>
-          <lan:PT_FreeText>
-            <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
-            </lan:textGroup>
-          </lan:PT_FreeText>
+      <cit:name>
+        <gco:CharacterString>com.xeostech</gco:CharacterString>
       </cit:name>
 
                         </cit:CI_Organisation>
@@ -1299,7 +1269,7 @@
                 </cit:CI_Citation>
               </mcc:authority>
               <mcc:code>
-                <gco:CharacterString>1</gco:CharacterString>
+                <gco:CharacterString>Xeos Buoy 001 - (299 - 576)</gco:CharacterString>
               </mcc:code>
             </mcc:MD_Identifier>
           </mac:identifier>
@@ -1322,32 +1292,23 @@
                   <mcc:authority>
                     <cit:CI_Citation>
                       
-      <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-
-        <gco:CharacterString>Xeos</gco:CharacterString>
-          <lan:PT_FreeText>
-            <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">Xeos</lan:LocalisedCharacterString>
-            </lan:textGroup>
-          </lan:PT_FreeText>
+      <cit:title>
+        <gco:CharacterString>Xeos Technologies, inc.</gco:CharacterString>
       </cit:title>
 
                       </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>TBD</gco:CharacterString>
+                    <gco:CharacterString>Xeos Brizo 299</gco:CharacterString>
                   </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>TBD</gco:CharacterString>
-                  </mcc:version>
                    
                     
       <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>TBD</gco:CharacterString>
+        <gco:CharacterString>Xeos Brizo GNSS directional waveheight receiver. Instrument manual: http://manuals.xeostech.com/BrizoFirmware</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">Xeos Brizo Récepteur GNSS de hauteur des vagues directionnelle. Manuel de l&#39;instrument : http://manuals.xeostech.com/BrizoFirmware</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </mcc:description>
@@ -1357,10 +1318,10 @@
                 
       <mac:type xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>Brizo-X wave height sensor, Brizo wave monitoring sensor, T Node sea temperature sensor</gco:CharacterString>
+        <gco:CharacterString>Xeos Brizo GNSS directional waveheight receiver.</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">Xeos Brizo Récepteur GNSS de hauteur des vagues directionnelle.</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </mac:type>
@@ -1374,32 +1335,23 @@
                   <mcc:authority>
                     <cit:CI_Citation>
                       
-      <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-
-        <gco:CharacterString>Vaisala</gco:CharacterString>
-          <lan:PT_FreeText>
-            <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">Vaisala</lan:LocalisedCharacterString>
-            </lan:textGroup>
-          </lan:PT_FreeText>
+      <cit:title>
+        <gco:CharacterString>Xeos Technologies, inc.</gco:CharacterString>
       </cit:title>
 
                       </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>TBD</gco:CharacterString>
+                    <gco:CharacterString>Xeos Rover 576</gco:CharacterString>
                   </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>TBD</gco:CharacterString>
-                  </mcc:version>
                    
                     
       <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>TBD</gco:CharacterString>
+        <gco:CharacterString>Xeos Rover - Surface Iridium Satellite Beacon with GPS Location. Instrument manual: https://manuals.xeostech.com/Rover/</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">Xeos Rover - Balise satellite Iridium Surface avec emplacement GPS. Manuel de l&#39;instrument : https://manuals.xeostech.com/Rover/</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </mcc:description>
@@ -1409,10 +1361,96 @@
                 
       <mac:type xsi:type="lan:PT_FreeText_PropertyType">
 
-        <gco:CharacterString>Vaisala weather station sensor</gco:CharacterString>
+        <gco:CharacterString>Surface Iridium Satellite Beacon with GPS Location</gco:CharacterString>
           <lan:PT_FreeText>
             <lan:textGroup>
-              <lan:LocalisedCharacterString locale="#fr">TBD</lan:LocalisedCharacterString>
+              <lan:LocalisedCharacterString locale="#fr">Balise satellite Iridium Surface avec emplacement GPS</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
+      </mac:type>
+
+            </mac:MI_Instrument>
+          </mac:instrument>
+          <mac:instrument>
+            <mac:MI_Instrument>
+              <mac:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      
+      <cit:title>
+        <gco:CharacterString>Vaisala Corporation</gco:CharacterString>
+      </cit:title>
+
+                      </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>Vaisala-WTX536</gco:CharacterString>
+                  </mcc:code>
+                   
+                    
+      <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>Vaisala Weather Transmitter WXT530 Series. Instrument manual: https://www.vaisala.com/sites/default/files/documents/WEA-MET-G-WXT530%20Datasheet__Low.pdf</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">Émetteur météo Vaisala série WXT530. Manuel de l&#39;instrument : https://www.vaisala.com/sites/default/files/documents/WEA-MET-G-WXT530%20Datasheet__Low.pdf</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
+      </mcc:description>
+
+                </mcc:MD_Identifier>
+              </mac:identifier>
+                
+      <mac:type xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>Weather transmitter</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">Émetteur météo</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
+      </mac:type>
+
+            </mac:MI_Instrument>
+          </mac:instrument>
+          <mac:instrument>
+            <mac:MI_Instrument>
+              <mac:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      
+      <cit:title>
+        <gco:CharacterString>NexSens</gco:CharacterString>
+      </cit:title>
+
+                      </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>NexSens T-Node FR</gco:CharacterString>
+                  </mcc:code>
+                   
+                    
+      <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>NexSens T-Node FR thermistor string water temperature sensor. Instrument manual: https://www.nexsens.com/pdf/T-NodeFR_datasheet.pdf</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">Capteur de température de l&#39;eau à chaîne NexSens T-Node FR Manuel de l&#39;instrument : https://www.nexsens.com/pdf/T-NodeFR_datasheet.pdf</lan:LocalisedCharacterString>
+            </lan:textGroup>
+          </lan:PT_FreeText>
+      </mcc:description>
+
+                </mcc:MD_Identifier>
+              </mac:identifier>
+                
+      <mac:type xsi:type="lan:PT_FreeText_PropertyType">
+
+        <gco:CharacterString>Water temperature sensor</gco:CharacterString>
+          <lan:PT_FreeText>
+            <lan:textGroup>
+              <lan:LocalisedCharacterString locale="#fr">Capteur de température d&#39;eau</lan:LocalisedCharacterString>
             </lan:textGroup>
           </lan:PT_FreeText>
       </mac:type>
