@@ -1,0 +1,186 @@
+metadata:
+  naming_authority: ca.coos
+  identifier: dbb4aca4-20f8-42ab-97b6-deb052c61595
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+spatial:
+  bbox:
+  - -63.9616
+  - 44.50116
+  - -62.40025
+  - 44.87761
+  vertical:
+  - 30.0
+  - 0.0
+identification:
+  title:
+    en: 'Coastal Monitoring Program Data: Halifax County'
+    fr: 'Données du Programme de surveillance côtière : comté de Halifax'
+  abstract:
+    en: 'The Centre for Marine Applied Research (CMAR) measures environmental parameters
+      throughout Nova Scotia’s coastal waters under the Coastal Monitoring Program.
+      This program supports science-based data collection to inform coastal ocean
+      users and was originally implemented by the Nova Scotia Department of Fisheries
+      and Aquaculture in 2012. CMAR collects temperature, dissolved oxygen, and intermittent
+      salinity data using autonomous sensors attached to moored lines, called ‘sensor
+      strings’. Each string is attached to the seafloor by an anchored acoustic release
+      and suspended by a sub-surface buoy, with sensors attached at various depths.
+      Strings are typically deployed for several months, and data are measured every
+      10 minutes to 1 hour depending on the sensor. This may produce tens- to hundreds-
+      of thousands of observations for a single deployment. Data are retrieved by
+      triggering the acoustic release, which enables the sensor string to float to
+      the surface, where the data are downloaded. The Coastal Monitoring Program data
+      is organized by county. Each county dataset has the following columns: WATERBODY:
+      waterbody in which the string was deployed. STATION: area where the string was
+      deployed. LEASE: if the string was deployed on an aquaculture lease area, the
+      lease number (NA otherwise). DEPLOYMENT_PERIOD: the deployment and retrieval
+      dates. LATITUDE: latitude at which the string was deployed (decimal degrees).
+      LONGITUDE: longitude at which the string was deployed (decimal degrees). TIMESTAMP:
+      timestamp of the measurement (in UTC). SENSOR: model and serial number of the
+      sensor that recorded the measurement. VARIABLE: parameter measured (Temperature,
+      Dissolved Oxygen, or Salinity). DEPTH: approximate depth of the sensor at low
+      tide (in metres). VALUE: value of the measurement (units are degrees Celsius
+      for Temperature, % saturation for Dissolved Oxygen, and parts per thousand for
+      Salinity). These datasets are very large, typically exceeding the number of
+      rows that can be viewed in Excel. We recommend using the filter options of the
+      Open Data Portal to filter to the WATERBODY, STATION, DEPTH, VARIABLE, and/or
+      TIMESTAMP of interest before exporting. A chart derived from the dataset also
+      allows for interactive filtering and export (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Halifax-County-Daily-Av/vpt7-apvp).
+      The data have been quality controlled, and some observations were excluded due
+      to known errors and explainable outliers. Coastal Monitoring Program data for
+      other Nova Scotia counties is also available through the Open Data Portal. The
+      "Coastal Monitoring Program: Station Locations" dataset on the Portal shows
+      locations with available data (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
+      Summary reports by county are available on the CMAR website (https://cmar.ca/2020/07/14/coastal-monitoring-program/).
+      Data collection and retrieval are ongoing. CMAR will update existing datasets
+      and upload additional county datasets as the data becomes available.'
+    fr: 'Le Centre for Marine Applied Research (CMR) mesure les paramètres environnementaux
+      dans l''ensemble des eaux côtières de la Nouvelle-Écosse dans le cadre du Programme
+      de surveillance côtière. Ce programme appuie la collecte de données scientifiques
+      afin d''informer les utilisateurs des océans côtiers et a été mis en œuvre à
+      l''origine par le ministère des Pêches et de l''Aquaculture de la Nouvelle-Écosse
+      en 2012. Le CMAR recueille des données sur la température, l''oxygène dissous
+      et la salinité intermittente à l''aide de capteurs autonomes attachés aux lignes
+      amarrées, appelées « cordons de capteur ». Chaque corde est fixée au fond marin
+      par un dégagement acoustique ancré et suspendue par une bouée sous-surface,
+      avec des capteurs fixés à différentes profondeurs. Les chaînes sont généralement
+      déployées pendant plusieurs mois, et les données sont mesurées toutes les 10
+      minutes à 1 heure selon le capteur. Cela peut produire des dizaines à centaines
+      de milliers d''observations pour un seul déploiement. Les données sont récupérées
+      en déclenchant la libération acoustique, ce qui permet à la chaîne de capteur
+      de flotter jusqu''à la surface où les données sont téléchargées. Les données
+      du Programme de surveillance côtière sont organisées par comté. Chaque jeu de
+      données de comté comporte les colonnes suivantes : WATERBODY : plan d''eau dans
+      lequel la chaîne a été déployée. STATION : zone où la chaîne a été déployée.
+      BAIL : si la chaîne a été déployée sur une zone de location aquacole, le numéro
+      du bail (NA autrement). DEPLOYMENT_PERIODE : dates de déploiement et de récupération.
+      LATITUDE : latitude à laquelle la chaîne a été déployée (degrés décimaux). LONGITUDE :
+      longitude à laquelle la chaîne a été déployée (degrés décimaux). TIMESTAMP :
+      horodatage de la mesure (en UTC). SENSOR : modèle et numéro de série du capteur
+      qui a enregistré la mesure. VARIABLE : paramètre mesuré (Température, Oxygène
+      dissous ou Salinité). PROFONDEUR : profondeur approximative du capteur à marée
+      basse (en mètres). VALEUR : valeur de la mesure (les unités sont des degrés
+      Celsius pour la Température, % de saturation pour l''oxygène dissous et des
+      parties par mille pour la salinité). Ces jeux de données sont très volumineux
+      et dépassent généralement le nombre de lignes qui peuvent être affichées dans
+      Excel. Nous vous recommandons d''utiliser les options de filtre du portail de
+      données ouvertes pour filtrer les WATERBODY, STATION, DEPTH, VARIABLE et/ou
+      TIMESTAMP d''intérêt avant l''exportation. Un graphique dérivé de l''ensemble
+      de données permet également le filtrage et l''exportation interactifs (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Halifax-County-Daily-Av/vpt7-apvp).
+      Les données ont fait l''objet d''un contrôle de la qualité, et certaines observations
+      ont été exclues en raison d''erreurs connues et de valeurs aberrantes explicables.
+      Les données du Programme de surveillance côtière pour d''autres comtés de la
+      Nouvelle-Écosse sont également disponibles par l''entremise du Portail de données
+      ouvertes. Le jeu de données « Coastal Monitoring Program : Emplacements des
+      stations » sur le portail montre les emplacements avec des données disponibles
+      (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
+      Des rapports sommaires par comté sont disponibles sur le site Web du CMR (https://cmar.ca/2020/07/14/coastal-monitoring-program/).
+      La collecte et l''extraction des données se poursuivent. Le CMR mettra à jour
+      les ensembles de données existants et chargera d''autres jeux de données de
+      comté à mesure que les données seront disponibles.'
+  dates:
+    creation: '2018-02-28'
+    publication: '2020-10-15'
+    dateRevised: '2021-02-05'
+  keywords:
+    default:
+      en:
+      - aquaculture
+      - climate change
+      - coastal monitoring program
+      - dissolved oxygen
+      - ecosystem
+      - environment
+      - environmental monitoring
+      - fisheries
+      - fishing
+      - halifax county
+      - nova scotia
+      - oceanography
+      - salinity
+      - temperature
+      - water quality
+    eov:
+      en:
+      - oxygen
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      fr:
+      - Oxygène
+      - Salinité de surface
+      - Température de surface
+  temporal_begin: '2018-02-28T16:00:00.000Z'
+  temporal_end: '2020-12-12T16:00:00.000Z'
+  status: published
+contact:
+- roles:
+  - custodian
+  - pointOfContact
+  organization:
+    name: CMAR
+    url: www.cmar.ca
+    country: Canada
+  individual:
+    name: CMAR
+    email: info@cmar.ca
+- roles:
+  - author
+  - owner
+  - distributor
+  organization:
+    name: Centre for Marine Applied Research (CMAR)
+    url: www.cmar.ca
+    country: Canada
+    email: info@cmar.ca
+distribution:
+- url: https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Halifax-County-Daily-Av/vpt7-apvp
+  name: Chart
+  description:
+    en: Visualization of data in online portal
+    fr: Visualisation des données dans le portail en ligne
+- url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
+  name: 'Coastal Monitoring Program Report: Halifax County'
+  description:
+    en: 'Coastal Monitoring Program Report: Halifax County'
+    fr: 'Rapport sur le programme de surveillance côtière : comté de Halifax'
+platform:
+  id: '1'
+  description:
+    en: Mooring
+    fr: Amarrage
+  instruments:
+  - id: '1'
+    type:
+      en: Temperature sensor
+      fr: Capteur de température
+  - id: '2'
+    type:
+      en: Dissolved oxygen sensor
+      fr: Capteur d'oxygène dissous
+  - id: '3'
+    type:
+      en: Salinity sensor
+      fr: Capteur de salinité
