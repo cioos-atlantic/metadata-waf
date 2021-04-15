@@ -4,6 +4,9 @@ metadata:
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
+    limitations:
+      en: License
+      fr: License
     licence:
       title: Creative Commons Attribution 4.0
       code: CC-BY-4.0
@@ -30,7 +33,7 @@ identification:
       \ (°C) p)\tDate (UTC) q)\tSolar Raw r)\tWind Dir Avg 15 min (°) s)\tSolar Radiation\
       \ (kW); Temporal frequency: 15 mins; Temporal coverage: Dec 2016-present; Spatial\
       \ coverage: Fixed met tower; How: standard sensor suite; Why: Informing meteorological\
-      \ conditions at the FORCE site ;   "
+      \ conditions at the FORCE site"
     fr: 'Variables : a) Pluie (mm) b) Température de l''air (°C) c) Dir du vent (°)
       d) Vitesse du vent (m/s) e) Pression Brut (Pa) f) Vitesse du vent Max 2 min
       (m/s) g) Vitesse du vent Max 15 min (m/s) h) Rayonnement solaire (MJ) i) Vitesse
@@ -40,25 +43,33 @@ identification:
       Dir éolien Moyenne 15 min (°) s) Rayonnement solaire (kW) ; Fréquence temporelle :
       15 min ; Couverture temporelle : déc. 2016-présent ; Couverture spatiale : Tour
       fixe ; Comment : suite de capteurs standard ; Pourquoi : informer les conditions
-      météorologiques au Site FORCE ;'
+      météorologiques au Site FORCE'
   dates:
-    creation: '2016-12-01'
-    publication: '2016-12-01'
+    creation: '2016-12-02'
+    publication: '2016-12-02'
+    revision: '2021-04-13'
   keywords:
     default:
       en:
       - wind
-      - meteorology
-      - pressure
+      - atmospheric pressure
       - rain
       - air temperature
       - solar radiation
+      - meteorology
+      fr:
+      - vents
+      - pression atmosphérique
+      - pluie
+      - température de l'air
+      - radiation solaire
+      - météorologie
     eov:
       en:
       - other
       fr:
       - Autre
-  temporal_begin: '2016-12-01T16:00:00.000Z'
+  temporal_begin: '2016-12-02T16:00:00.000Z'
   status: published
 contact:
 - roles:
@@ -79,15 +90,23 @@ contact:
     country: Canada
     email: info@fundyforce.ca
 distribution:
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/force_3b1e_d478_b537.html
+  name: CIOOS Atlantic ERDDAP
+  description:
+    en: CIOOS Atlantic dataset ERDDAP link
+    fr: Liaison ERDDAP du jeu de données de l'Atlantique du CIOOS
 - url: https://fundyforcelive.ca
-  name: FORCE
+  name: FORCE Data website
 platform:
   id: '1'
   description:
     en: Met Tower
+    fr: Tour Met
   instruments:
   - description:
       en: Wind speed sensor
+      fr: Capteur de vitesse du vent
     id: '1'
     type:
       en: Anemometer
+      fr: Anémomètre
