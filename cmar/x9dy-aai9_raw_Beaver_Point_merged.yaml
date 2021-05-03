@@ -1,11 +1,19 @@
 metadata:
-  naming_authority: ca.coos
+  naming_authority: ca.cioos
   identifier: 39ac5c08-0064-4f9b-bb7a-0e3bbd690d1c
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   dates:
     revision: '2021-04-22T14:48:33.389Z'
     publication: '2021-04-22'
+  use_constraints:
+    limitations:
+      en: License
+      fr: License
+    licence:
+      title: Creative Commons Attribution 4.0
+      code: CC-BY-4.0
+      url: https://creativecommons.org/licenses/by/4.0
 spatial:
   bbox:
   - -62.40025
@@ -18,7 +26,7 @@ spatial:
 identification:
   title:
     en: 'Coastal Monitoring Program Data: Halifax County'
-    fr: ''
+    fr: 'Données du Programme de surveillance côtière : comté de Halifax'
   abstract:
     en: 'The Centre for Marine Applied Research (CMAR) measures environmental data
       throughout Nova Scotia’s coastal waters as part of the Coastal Monitoring Program.
@@ -55,7 +63,50 @@ identification:
       Summary reports by county are available on the CMAR website (https://cmar.ca/2020/07/14/coastal-monitoring-program/).
       Data collection and retrieval are ongoing. The datasets and reports may be revised
       pending ongoing data collection and analyses. '
-    fr: ''
+    fr: 'Le Centre for Marine Applied Research (CMR) mesure les paramètres environnementaux
+      dans l''ensemble des eaux côtières de la Nouvelle-Écosse dans le cadre du Programme
+      de surveillance côtière. Ce programme appuie la collecte de données scientifiques
+      afin d''informer les utilisateurs des océans côtiers et a été mis en œuvre à
+      l''origine par le ministère des Pêches et de l''Aquaculture de la Nouvelle-Écosse
+      en 2012. Le CMAR recueille des données sur la température, l''oxygène dissous
+      et la salinité intermittente à l''aide de capteurs autonomes attachés aux lignes
+      amarrées, appelées « cordons de capteur ». Chaque corde est fixée au fond marin
+      par un dégagement acoustique ancré et suspendue par une bouée sous-surface,
+      avec des capteurs fixés à différentes profondeurs. Les chaînes sont généralement
+      déployées pendant plusieurs mois, et les données sont mesurées toutes les 10
+      minutes à 1 heure selon le capteur. Cela peut produire des dizaines à centaines
+      de milliers d''observations pour un seul déploiement. Les données sont récupérées
+      en déclenchant la libération acoustique, ce qui permet à la chaîne de capteur
+      de flotter jusqu''à la surface où les données sont téléchargées. Les données
+      du Programme de surveillance côtière sont organisées par comté. Chaque jeu de
+      données de comté comporte les colonnes suivantes : WATERBODY : plan d''eau dans
+      lequel la chaîne a été déployée. STATION : zone où la chaîne a été déployée.
+      BAIL : si la chaîne a été déployée sur une zone de location aquacole, le numéro
+      du bail (NA autrement). DEPLOYMENT_PERIODE : dates de déploiement et de récupération.
+      LATITUDE : latitude à laquelle la chaîne a été déployée (degrés décimaux). LONGITUDE :
+      longitude à laquelle la chaîne a été déployée (degrés décimaux). TIMESTAMP :
+      horodatage de la mesure (en UTC). SENSOR : modèle et numéro de série du capteur
+      qui a enregistré la mesure. VARIABLE : paramètre mesuré (Température, Oxygène
+      dissous ou Salinité). PROFONDEUR : profondeur approximative du capteur à marée
+      basse (en mètres). VALEUR : valeur de la mesure (les unités sont des degrés
+      Celsius pour la Température, % de saturation pour l''oxygène dissous et des
+      parties par mille pour la salinité). Ces jeux de données sont très volumineux
+      et dépassent généralement le nombre de lignes qui peuvent être affichées dans
+      Excel. Nous vous recommandons d''utiliser les options de filtre du portail de
+      données ouvertes pour filtrer les WATERBODY, STATION, DEPTH, VARIABLE et/ou
+      TIMESTAMP d''intérêt avant l''exportation. Un graphique dérivé de l''ensemble
+      de données permet également le filtrage et l''exportation interactifs (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Halifax-County-Daily-Av/vpt7-apvp).
+      Les données ont fait l''objet d''un contrôle de la qualité, et certaines observations
+      ont été exclues en raison d''erreurs connues et de valeurs aberrantes explicables.
+      Les données du Programme de surveillance côtière pour d''autres comtés de la
+      Nouvelle-Écosse sont également disponibles par l''entremise du Portail de données
+      ouvertes. Le jeu de données « Coastal Monitoring Program : Emplacements des
+      stations » sur le portail montre les emplacements avec des données disponibles
+      (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
+      Des rapports sommaires par comté sont disponibles sur le site Web du CMR (https://cmar.ca/2020/07/14/coastal-monitoring-program/).
+      La collecte et l''extraction des données se poursuivent. Le CMR mettra à jour
+      les ensembles de données existants et chargera d''autres jeux de données de
+      comté à mesure que les données seront disponibles.'
   dates:
     creation: '2020-10-15'
     publication: '2020-10-15'
@@ -107,6 +158,8 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Halifax County'
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_4941_a412_ece7.html
+  format: erddap
 platform:
   id: Beaver Point
   description:
