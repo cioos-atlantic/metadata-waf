@@ -1,0 +1,169 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: 62102632-1a78-4925-bf36-23881b1eea70
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  use_constraints:
+    limitations:
+      en: License
+      fr: License
+    license:
+      title: Open Government License - Nova Scotia
+      code: government-open-license-nova-scotia
+      url: https://novascotia.ca/opendata/licence.asp
+  dates:
+    revision: '2021-07-28T14:36:38.520Z'
+    publication: '2021-07-28'
+spatial:
+  bbox:
+  - -65.68329
+  - 44.66939
+  - -65.64479
+  - 44.6782
+  vertical:
+  - 1.0
+  - 6.0
+identification:
+  title:
+    en: 'Coastal Monitoring Program Data: Annapolis County'
+    fr: 'Données du programme de surveillance côtière : Comté d''Annapolis'
+  abstract:
+    en: 'The Centre for Marine Applied Research (CMAR) measures environmental data
+      throughout Nova Scotia''s coastal waters as part of the Coastal Monitoring Program.
+      This program was initiated by the Nova Scotia Department of Fisheries and Aquaculture
+      in 2012 and CMAR became involved in 2017. CMAR collects temperature (degrees
+      Celsius), dissolved oxygen (% saturation), and intermittent salinity (practical
+      salinity units) data using autonomous sensors attached to moored lines, called
+      ''sensor strings''. Each string is attached to the seafloor by an anchored acoustic
+      release and suspended by a sub-surface buoy, with sensors attached at various
+      depths. Sensor strings are typically deployed for several months, and data are
+      measured every 1 minute to 1 hour depending on the sensor. Data are retrieved
+      by triggering the acoustic release, enabling the sensor string to float to the
+      surface for data download. Some data are excluded from the final dataset during
+      quality control processes.   The Coastal Monitoring Program data is organized
+      by county. These datasets are very large, typically exceeding the number of
+      rows that can be viewed in Excel. We recommend using the filter options of the
+      Open Data Portal to filter to the WATERBODY, STATION, DEPTH, VARIABLE, and/or
+      TIMESTAMP of interest before exporting. A chart derived from the dataset also
+      allows for interactive filtering and export (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Annapolis-County-Daily-/a3qb-nf5k).   Coastal
+      Monitoring Program data for other Nova Scotia counties is also available through
+      the Open Data Portal. The "Coastal Monitoring Program: Station Locations" dataset
+      on the Portal shows locations with available data (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
+      Summary reports by county are available on the CMAR website (https://cmar.ca/2020/07/14/coastal-monitoring-program/).
+      Data collection and retrieval are ongoing. The datasets and reports may be revised
+      pending ongoing data collection and analyses.'
+    fr: 'Le Centre de recherche marine appliquée (CMAR) mesure les données environnementales
+      dans les eaux côtières de la Nouvelle-Écosse dans le cadre du Programme de surveillance côtière.
+      Ce programme a été lancé par le ministère des Pêches et de l''Aquaculture de la Nouvelle-Écosse
+      en 2012 et CMAR s''est impliquée en 2017. CMAR recueille la température (degrés
+      Celsius), l''oxygène dissous ( % de saturation) et la salinité intermittente (pratique
+      unités de salinité) à l''aide de capteurs autonomes attachés à des lignes amarrées, appelées
+      « cordes de capteur ». Chaque corde est attachée au fond marin par une acoustique ancrée
+      relâcher et suspendu par une bouée souterraine, avec des capteurs attachés à divers
+      profondeurs. Les chaînes de capteurs sont généralement déployées pendant plusieurs mois, et les données sont
+      mesuré toutes les 1 minute à 1 heure selon le capteur. Les données sont récupérées
+      en déclenchant le déclenchement acoustique, permettant à la chaîne de capteur de flotter jusqu''au
+      surface pour le téléchargement des données. Certaines données sont exclues du jeu de données final pendant
+      processus de contrôle de la qualité. Les données du Programme de surveillance côtière sont organisées
+      par comté. Ces jeux de données sont très volumineux, dépassant généralement le nombre de
+      lignes qui peuvent être visualisées dans Excel. Nous vous recommandons d''utiliser les options de filtre de la
+      Ouvrir le portail de données pour filtrer le WATERBODY, STATION, PROPH, VARIABLE
+      TIMESTAMP d''intérêt avant l''exportation. Un graphique dérivé du jeu de données également
+      permet le filtrage et l''exportation interactifs (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Annapolis-County-Daily-/a3qb-nf5k). Côtier
+      Les données du Programme de surveillance pour d''autres comtés de la Nouvelle-Écosse sont également disponibles à l''adresse
+      le portail Open Data. Le jeu de données « Programme de surveillance côtière : Emplacements des stations »
+      sur le portail affiche les emplacements avec les données disponibles (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
+      Les rapports sommaires par comté sont disponibles sur le site Web du CMAR (https://cmar.ca/2020/07/14/coastal-monitoring-program/).
+      La collecte et la récupération des données sont en cours. Les ensembles de données et les rapports peuvent être révisés
+      en attendant la collecte et les analyses continues des données.'
+  dates:
+    creation: '2021-01-18'
+    publication: '2021-01-18'
+    revision: '2021-02-17'
+  keywords:
+    default:
+      en:
+      - aquaculture
+      - climate change
+      - coast
+      - coastal monitoring program
+      - dissolved oxygen
+      - downloadable data
+      - ecosystem
+      - environment
+      - environmental monitoring
+      - fisheries
+      - fishing
+      - nova scotia
+      - oceanography
+      - salinity
+      - temperature
+      - water quality
+      - annapolis county
+    eov:
+      en:
+      - subSurfaceSalinity
+      - subSurfaceTemperature
+      - dissolvedOrganicCarbon
+      fr:
+      - Salinité sous la surface
+      - Température sous la surface
+      - carbone inorganique dissous
+  temporal_begin: '2021-01-18T15:52:22.000Z'
+  status: published
+  progress_code: onGoing
+contact:
+- roles:
+  - owner
+  - custodian
+  - author
+  - distributor
+  organization:
+    name: Centre for Marine Applied Research (CMAR)
+  individual:
+    position: Author/Owner
+    email: info(at)cmar.ca
+distribution:
+- url: https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Annapolis-County-Daily-/a3qb-nf5k
+  name: Chart
+- url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
+  name: 'Coastal Monitoring Program Report: Annapolis County'
+platform:
+- id: Cornwallis
+  description:
+    en: Cornwallis
+  instruments:
+  - id: aquaMeasure-670367
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: Capteur
+    version: ''
+  - id: VR2AR-547089
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: Capteur
+    version: ''
+- id: Lobster Ledge
+  description:
+    en: Lobster Ledge
+  instruments:
+  - id: aquaMeasure-670381
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: Capteur
+    version: ''
+  - id: HOBO-20820380
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: Capteur
+    version: ''
+  - id: VR2AR-547090
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: Capteur
+    version: ''
