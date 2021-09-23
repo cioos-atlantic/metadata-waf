@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: 84b81683-c650-4d53-bb78-f1b1860478ab
+  identifier: e9af1bef-1fae-4396-af91-03e43d94ac67
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,20 +12,20 @@ metadata:
       code: government-open-license-nova-scotia
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-09-22T23:48:05.445Z'
-    publication: '2021-09-22'
+    revision: '2021-09-23T00:03:08.630Z'
+    publication: '2021-09-23'
 spatial:
   bbox:
-  - -62.66088
-  - 45.34641
-  - -62.66088
-  - 45.34641
+  - -65.43374
+  - 43.46844
+  - -65.1667
+  - 43.68643
   vertical:
-  - 2.29
-  - 2.37
+  - 2.0
+  - 20.0
 identification:
   title:
-    en: 'Coastal Monitoring Program Data: Pictou County'
+    en: 'Coastal Monitoring Program Data: Shelburne County'
     fr: ''
   abstract:
     en: 'The Centre for Marine Applied Research (CMAR) measures environmental data
@@ -45,7 +45,7 @@ identification:
       rows that can be viewed in Excel. We recommend using the filter options of the
       Open Data Portal to filter to the WATERBODY, STATION, DEPTH, VARIABLE, and/or
       TIMESTAMP of interest before exporting. A chart derived from the dataset also
-      allows for interactive filtering and export (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Data-Pictou-County-Dail/pmim-yujz).   Coastal
+      allows for interactive filtering and export (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Shelburne-County-Daily-/5ech-4c5t).   Coastal
       Monitoring Program data for other Nova Scotia counties is also available through
       the Open Data Portal. The "Coastal Monitoring Program: Station Locations" dataset
       on the Portal shows locations with available data (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
@@ -54,8 +54,8 @@ identification:
       pending ongoing data collection and analyses.'
     fr: ''
   dates:
-    creation: '2021-01-19'
-    publication: '2021-01-19'
+    creation: '2021-01-20'
+    publication: '2021-01-20'
     revision: '2021-02-17'
   keywords:
     default:
@@ -71,7 +71,7 @@ identification:
       - environmental monitoring
       - fisheries
       - fishing
-      - pictou county
+      - shelburne county
       - nova scotia
       - oceanography
       - salinity
@@ -88,7 +88,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2020-01-15T17:47:22.000Z'
+  temporal_begin: '2018-02-13T17:00:00.000Z'
 contact:
 - roles:
   - owner
@@ -101,25 +101,157 @@ contact:
     position: Author/Owner
     email: info(at)cmar.ca
 distribution:
-- url: https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Data-Pictou-County-Dail/pmim-yujz
+- url: https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Shelburne-County-Daily-/5ech-4c5t
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
-  name: 'Coastal Monitoring Program Report: Pictou County'
-- url: https://cioosatlantic.ca/erddap/tabledap/adpu-nyt8.html
+  name: 'Coastal Monitoring Program Report: Yarmouth County'
+- url: https://cioosatlantic.ca/erddap/tabledap/mq2k-54s4.html
   name: ERDDAP Data Access
 platform:
-  id: Piper Lake
+- id: Blue Island
   description:
-    en: Piper Lake
+    en: Blue Island
   instruments:
-  - id: aquaMeasure-675014
+  - id: HOBO-20291451
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547095
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670294
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20495236
+  - id: aquaMeasure-670293
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Ingomar
+  description:
+    en: Ingomar
+  instruments:
+  - id: HOBO-10034873
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670291
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670292
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547096
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291453
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291459
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Taylors Rock
+  description:
+    en: Taylors Rock
+  instruments:
+  - id: HOBO-20291461
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291482
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291486
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670289
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547092
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: McNutts Island
+  description:
+    en: McNutts Island
+  instruments:
+  - id: aquaMeasure-670286
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670287
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547097
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291437
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291452
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755256
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670285
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
