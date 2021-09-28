@@ -1,19 +1,19 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: ce1ee064-ffb5-4c76-a870-2e4ac45546eb
+  identifier: cee9bc73-04c5-4103-959b-e0d761afe561
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
     limitations:
-      en: License
-      fr: License
-    license:
-      title: Open Government License - Nova Scotia
-      code: government-open-license-nova-scotia
+      en: Licence
+      fr: Licence
+    licence:
+      title: Open Government Licence - Nova Scotia
+      code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-09-22T23:49:20.578Z'
-    publication: '2021-09-22'
+    revision: '2021-09-27T19:20:52.349Z'
+    publication: '2021-09-27'
 spatial:
   bbox:
   - -65.95942
@@ -51,7 +51,10 @@ identification:
       on the Portal shows locations with available data (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
       Summary reports by county are available on the CMAR website (https://cmar.ca/2020/07/14/coastal-monitoring-program/).
       Data collection and retrieval are ongoing. The datasets and reports may be revised
-      pending ongoing data collection and analyses.'
+      pending ongoing data collection and analyses.Contains information licensed under
+      the Open Government Licence – Nova Scotia. If you have accessed any of the Coastal
+      Monitoring Program data, CMAR would appreciate your feedback through this quick
+      [questionaire](https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform).'
     fr: ''
   dates:
     creation: '2021-01-20'
@@ -80,8 +83,8 @@ identification:
     eov:
       en:
       - Oxygen
-      - Sub Surface Salinity
-      - Sub Surface Temperature
+      - subSurfaceSalinity
+      - subSurfaceTemperature
       fr:
       - Oxygène
       - Salinité sous la surface
@@ -105,7 +108,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Yarmouth County'
-- url: https://cioosatlantic.ca/erddap/tabledap/9qw2-yb2f.html
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/9qw2-yb2f.html
   name: ERDDAP Data Access
 platform:
 - id: Lobster Bay
