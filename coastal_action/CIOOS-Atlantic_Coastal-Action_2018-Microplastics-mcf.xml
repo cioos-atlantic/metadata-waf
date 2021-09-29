@@ -42,10 +42,12 @@
   <mdb:defaultLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng"></lan:LanguageCode>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>
       </lan:language>
       <lan:country>
-        <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN"></lan:CountryCode>
+        <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>
       </lan:country>
       <lan:characterEncoding>
         <lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8" />
@@ -658,10 +660,12 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng"></lan:LanguageCode>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>
       </lan:language>
       <lan:country>
-        <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN"></lan:CountryCode>
+        <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>
       </lan:country>
       <lan:characterEncoding>
         <lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8" />
@@ -671,10 +675,12 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra"></lan:LanguageCode>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        </lan:LanguageCode>
       </lan:language>
       <lan:country>
-        <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN"></lan:CountryCode>
+        <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>
       </lan:country>
       <lan:characterEncoding>
         <lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8" />
@@ -686,10 +692,10 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>Atlantic Canada Microplastic Research Project (2017-2020)</gco:CharacterString>
+            <gco:CharacterString>Atlantic Canada Marine Plastic Research Project (2017-2020)</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Projet de recherche sur les microplastiques du Canada atlantique (2017-2020)</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Projet de recherche sur les plastique marin du Canada atlantique (2017-2020)</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -983,7 +989,8 @@
         <gco:CharacterString>This project is funded by Environment and Climate Change Canada and is in partnership with: Civic Laboratory for Environmental Action Research (CLEAR) https://civiclaboratory.nl/, Clean Annapolis River Project (CARP) https://www.annapolisriver.ca/ and ACAP Humber Arm http://oceansadvance.net/member/acap-humber-arm/</gco:CharacterString>
       </mri:credit>
       <mri:status>
-        <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="onGoing"></mcc:MD_ProgressCode>
+        <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="onGoing">
+        </mcc:MD_ProgressCode>
       </mri:status>
       <mri:temporalResolution>
         <gco:TM_PeriodDuration>PT20M</gco:TM_PeriodDuration>

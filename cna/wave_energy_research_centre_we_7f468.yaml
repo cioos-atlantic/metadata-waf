@@ -1,0 +1,259 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: 7f468362-e624-485a-9e20-ea779dbe175e
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  use_constraints:
+    licence:
+      title: Creative Commons Attribution 4.0
+      code: CC-BY-4.0
+      url: https://creativecommons.org/licenses/by/4.0
+  dates:
+    revision: '2021-05-19T12:55:03.758Z'
+    publication: '2021-05-19'
+spatial:
+  bbox:
+  - -55.66953
+  - 46.87861
+  - -55.66953
+  - 46.87861
+  vertical:
+  - -10.5
+  - -17.0
+identification:
+  title:
+    en: Wave Energy Research Centre Weather Archive
+    fr: Centre de recherche sur l'énergie des vagues Archives météorologiques
+  abstract:
+    en: "The Wave Energy Research Centre (WERC) was established in 2011 by College\
+      \ of the North Atlantic (CNA) to conduct research on the use of ocean wave energy\
+      \ to supply sea water to land based aquaculture.  The site in Lord's Cove, NL\
+      \ is fully instrumented for wave and weather data collection and contains a\
+      \ pilot land -based multi-trophic aquaculture farm. The meteorological station\
+      \ at Lord’s Cove is located at 46°52'43.20\"N, 55°40'10.32\"W near the public\
+      \ wharf in the town of Lord’s Cove NL Canada. The 10 m tower was erected 2 m\
+      \ from one of our buildings approximately 7 m above sea level and 40 m from\
+      \ the high tide line (Fig. 1). Due to local terrain, it was impossible to find\
+      \ a site with ideal fetch for wind measurements. Although there is excellent\
+      \ fetch for the site in the southern half of the compass (at least 200 m over\
+      \ water), there are nearby (approximately 60 m away) terrain features and structures\
+      \ to the north. For this reason, wind measured from the northern quadrants may\
+      \ be site specific and should be interpreted with caution. The station instrumentation\
+      \ includes an RM Young marine anemometer (model # 05106C-10) mounted at 10 m,\
+      \ a Kipp & Zonen silicon pyranometer (model “SP Lite2”) mounted on a horizontal\
+      \ arm 1 m south from the tower centre at a height of 4 m, a \"Hydroclip\" RH/T\
+      \ sensor (Model HC2-S3-L)  mounted on the tower  in a 10-plate radiation shield\
+      \ (Campbell Scientific 41003-X)  also at a height of 3 m,  a Texas Electronics\
+      \ TE525M tipping bucket rain and a RM Young 52202-L heated tipping bucket rain\
+      \ gauge, both mounted at 3.5 m on separate supports 3 m southwest of the tower.\
+      \ Data is collected by a Campbell Scientific CR10X logger powered from a solar-charged\
+      \ battery, isolating the system from AC noise. Data is transmitted every 10\
+      \ minutes to a computer via VHF radio. The data logger is programmed to take\
+      \ measurements every three seconds and analyze these data over 2-minute (for\
+      \ sustained wind), 10-minute and 24–hour (midnight to midnight) periods.  Historical\
+      \ data  Fours datasets are available: 1.\tDaily Lord’s Cove Weather Data 2.\t\
+      Lord’s Cove Weather:  10 Minute Intervals:  Retrieves 10-minute weather data\
+      \ between the dates specified. 3.\tSustained Winds:  Returns sustained (i.e.\
+      \ minimum in 2 minutes) wind speed (Km/hr) every 2 minutes in period.  4.\t\
+      Quick Wind and Temperature:  this report returns 10-min vector magnitude and\
+      \ air temperatures between the specified dates and produces simple series plots\
+      \ at the end of the report.  (Note:  plot does not indicate periods where data\
+      \ is missing)."
+    fr: 'Le Wave Energy Research Centre (WRC) a été créé en 2011 par le Collège de
+      l''Atlantique Nord (CNA) pour mener des recherches sur l''utilisation de l''énergie
+      des vagues océaniques pour alimenter l''eau de mer à l''aquaculture terrestre.
+      Le site de Lord''s Cove (T.-N.-L.) est entièrement instrumenté pour la collecte
+      de données sur les vagues et les conditions météorologiques et contient une
+      ferme aquacole multitrophique pilote basée sur terre. La station météorologique
+      de Lord''s Cove est située au 46°52''43,20" N, 55°40''10,32" O. près du quai
+      public de la ville de Lord''s Cove (Terre-Neuve-et-Labrador). La tour de 10
+      m a été érigée à 2 m d''un de nos bâtiments à environ 7 m au-dessus du niveau
+      de la mer et à 40 m de la ligne de marée haute (figure 1). En raison du terrain
+      local, il était impossible de trouver un site avec une extraction idéale pour
+      mesurer le vent. Bien qu''il y ait un excellent accès pour le site dans la moitié
+      sud de la boussole (au moins 200 m au-dessus de l''eau), il y a des caractéristiques
+      et des structures du terrain à proximité (environ 60 m plus loin) au nord. Pour
+      cette raison, le vent mesuré dans les quadrants septentrionaux peut être spécifique
+      au site et doit être interprété avec prudence. L''instrumentation de la station
+      comprend un anémomètre marin RM Young (modèle no 05106C-10) monté à 10 m, un
+      pyranomètre en silicium Kipp & Zonen (modèle « SP Lite2 ») monté sur un bras
+      horizontal à 1 m au sud du centre de la tour à une hauteur de 4 m, un capteur
+      RH/T « Hydroclip » (modèle HC2-S3-L) monté sur la tour en 10- bouclier de rayonnement
+      de plaque (Campbell Scientific 41003-X) également à une hauteur de 3 m, un seau
+      basculant de la pluie Texas Electronics TE525M et un pluviomètre à basculement
+      chauffé RM Young 52202-L, tous deux montés à 3,5 m sur des supports séparés
+      à 3 m au sud-ouest de la tour. Les données sont collectées par un enregistreur
+      Campbell Scientific CR10X alimenté par une batterie solaire, isolant le système
+      du bruit AC. Les données sont transmises toutes les 10 minutes à un ordinateur
+      par radio VHF. L''enregistreur de données est programmé pour effectuer des mesures
+      toutes les trois secondes et analyser ces données sur des périodes de 2 minutes
+      (pour un vent soutenu), 10 minutes et 24 heures (minuit à minuit). Données historiques
+      Des ensembles de données Fours sont disponibles : 1. Données météorologiques
+      quotidiennes de Lord''s Cove 2. Météo de Lord''s Cove : Intervalles de 10 minutes :
+      Récupère les données météorologiques de 10 minutes entre les dates indiquées.
+      3. Vents soutenus : Retourne soutenue (c.-à-d. au minimum en 2 minutes) vitesse
+      du vent (km/h) toutes les 2 minutes au cours de la période. 4. Vent rapide et
+      température : ce rapport renvoie la magnitude vectorielle de 10 min et la température
+      de l''air entre les dates spécifiées et produit des diagrammes simples en série
+      à la fin du rapport. (Remarque : le diagramme n''indique pas les périodes où
+      les données sont manquantes).'
+  dates:
+    creation: '2012-01-25'
+    publication: '2013-05-14'
+  keywords:
+    default:
+      en:
+      - wind
+      - atmospheric pressure
+      - air temperature
+      - rain
+      - solar irradiance
+      - relative humidity
+      - dew point
+      fr:
+      - vents
+      - pression atmosphérique
+      - température de l'air
+      - pluie
+      - irradiance solaire
+      - humidité relative
+      - point de rosée
+    eov:
+      en:
+      - other
+      fr:
+      - Autre
+  temporal_begin: '2012-01-25T15:30:00.000Z'
+  status: published
+  progress_code: onGoing
+contact:
+- roles:
+  - custodian
+  - owner
+  - distributor
+  organization:
+    name: College of the North Atlantic
+    url: https://www.cna.nl.ca
+    address: 105 Main Street P.O. Box 370
+    city: Burin Bay Arm, NL
+    country: Canada
+    email: ar@cna.nl.ca
+  individual:
+    name: Justin Elms
+    position: Researcher, Office of Applied Research and Innovation (OARI)
+    email: justin.elms@cna.nl.ca
+- roles:
+  - originator
+  organization:
+    name: College of the North Atlantic
+    url: https://www.cna.nl.ca
+    address: 105 Main Street P.O. Box 370
+    city: Burin Bay Arm, NL
+    country: Canada
+    email: ar@cna.nl.ca
+  individual:
+    name: Dr. Mike Graham
+    position: Director of Special Projects (Retired)
+    email: mike.graham@cna.nl.ca
+distribution:
+- url: http://werc.servehttp.com
+  name: Wave Environment Research Centre (WERC)
+  description:
+    en: Wave Environment Research Centre (WERC) website
+    fr: Site Web du Centre de recherche sur l'environnement Wave (WRC)
+- url: https://www.smartatlantic.ca/erddap/tabledap/cna_werc_weather_daily_avg.html
+  name: Daily Average Weather Data, Lord's Cove
+  description:
+    en: ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a
+      subset of the dataset and download the data via OPeNDAP or in many different
+      file types.
+    fr: Version d'ERDDAP de la page Web OpenDAP .html pour ce jeu de données. Spécifiez
+      un sous-ensemble du jeu de données et téléchargez les données via OpenDap ou
+      dans de nombreux types de fichiers différents.
+- url: https://www.smartatlantic.ca/erddap/tabledap/cna_werc_weather_10-min_avg.html
+  name: "\t10-Minute Average Weather Data, Lord's Cove"
+  description:
+    en: ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a
+      subset of the dataset and download the data via OPeNDAP or in many different
+      file types.
+    fr: Version d'ERDDAP de la page Web OpenDAP .html pour ce jeu de données. Spécifiez
+      un sous-ensemble du jeu de données et téléchargez les données via OpenDap ou
+      dans de nombreux types de fichiers différents.
+- url: https://www.smartatlantic.ca/erddap/tabledap/cna_werc_sustained_wind_2-min_avg.html
+  name: 2-Minute Sustained Wind Data, Lord's Cove
+  description:
+    en: ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a
+      subset of the dataset and download the data via OPeNDAP or in many different
+      file types.
+    fr: Version d'ERDDAP de la page Web OpenDAP .html pour ce jeu de données. Spécifiez
+      un sous-ensemble du jeu de données et téléchargez les données via OpenDap ou
+      dans de nombreux types de fichiers différents.
+platform:
+  id: werc-weather-tower-10m
+  description:
+    en: 10m tower
+    fr: Tour de 10m
+  instruments:
+  - description:
+      en: 'RM Young marine anemometer (model # 05106C-10) mounted at 10 m'
+      fr: 'Anémomètre marin RM Young (modèle # 05106C-10) monté à 10 m'
+    id: werc-anemometer
+    manufacturer: RM Young
+    type:
+      en: Anemometer
+      fr: Anémomètre
+    version: 'model # 05106C-10'
+  - description:
+      en: Kipp & Zonen silicon pyranometer (model “SP Lite2”) mounted on a horizontal
+        arm 1 m south from the tower centre at a height of 4 m
+      fr: Pyranomètre en silicium Kipp & Zonen (modèle « SP Lite2 ») monté sur un
+        bras horizontal à 1 m au sud du centre de la tour à une hauteur de 4 m
+    id: werc-pyranometer
+    manufacturer: Kipp & Zonen
+    type:
+      en: silicon pyranometer
+      fr: pyranomètre de silicium
+    version: model “SP Lite2”
+  - description:
+      en: '"Hydroclip" RH/T sensor (Model HC2-S3-L) mounted on the tower in a 10-plate
+        radiation shield (Campbell Scientific 41003-X)'
+      fr: Capteur RH/T « Hydroclip » (modèle HC2-S3-L) monté sur la tour dans un écran
+        anti-rayonnement à 10 plaques
+    id: werc-rht-sensor
+    manufacturer: Hydroclip
+    type:
+      en: RH/T sensor
+      fr: Capteur RH/T
+    version: Model HC2-S3-L)
+  - description:
+      en: Texas Electronics TE525M tipping bucket rain gauge mounted at 3.5 m on a
+        separate support, 3 m southwest of the tower
+      fr: Texas Electronics TE525M Pluviomètre benne benne montée à 3,5 m sur support
+        séparé, 3 m au sud-ouest de la tour
+    id: werc-tipping-bucket-1
+    manufacturer: Texas Electronics
+    type:
+      en: tipping bucket rain gauge
+      fr: jauge de pluie benne basculante
+    version: 'TE525M '
+  - description:
+      en: RM Young 52202-L heated tipping bucket rain gauge, both mounted at 3.5 m
+        on a separate support, 3 m southwest of the tower
+      fr: Pluviomètre RM Young 52202-L à basculement chauffant, tous deux montés à
+        3,5 m sur un support séparé, à 3 m au sud-ouest de la tour
+    id: werc-tipping-bucket-2
+    manufacturer: RM Young
+    type:
+      en: heated tipping bucket rain gauge
+      fr: Pluviomètre benne chauffée
+    version: 52202-L
+  - description:
+      en: Campbell Scientific CR10X data logger powered from a solar-charged battery
+      fr: Enregistreur de données Campbell Scientific CR10X alimenté par une batterie
+        solaire
+    id: werc-data-logger
+    manufacturer: Campbell Scientific
+    type:
+      en: Datalogger for Measurement and Control
+      fr: Enregistreur de données pour la mesure et le contrôle
+    version: CR10X

@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdb:MD_Metadata xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/2.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/2.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/2.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/2.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/2.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/2.0 https://standards.iso.org/iso/19115/-3/mds/2.0/mds.xsd">	
+
+  	<mdb:metadataIdentifier>		
+    		<mcc:MD_Identifier>			
+      			<mcc:authority>				
+        				<cit:CI_Citation>					
+            
+      					<cit:title>						
+        						<gco:CharacterString>ca.cioos</gco:CharacterString>						
+      					</cit:title>					
+          				</cit:CI_Citation>				
+      			</mcc:authority>			
+      			<mcc:code>				
+        				<gco:CharacterString>d5faadca-f0b6-46f2-9277-d1e76a8e313c</gco:CharacterString>				
+      			</mcc:code>			
+    		</mcc:MD_Identifier>		
+  	</mdb:metadataIdentifier>	
+  	<mdb:defaultLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:defaultLocale>	
+  	<mdb:metadataScope>		
+    		<mdb:MD_MetadataScope>			
+      			<mdb:resourceScope>				
+        				<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>				
+      			</mdb:resourceScope>			
+    		</mdb:MD_MetadataScope>		
+  	</mdb:metadataScope>	
+      	<mdb:contact>		
+              		<cit:CI_Responsibility>			
+  			<cit:role>				
+    				<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="custodian"/>				
+  			</cit:role>			
+  			<cit:party>				
+    				<cit:CI_Organisation>					
+    
+      					<cit:name>						
+        						<gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>						
+      					</cit:name>					
+      					<cit:contactInfo>						
+        						<cit:CI_Contact>							
+          							<cit:phone>								
+            								<cit:CI_Telephone>									
+              									<cit:number>										
+              										<gco:CharacterString/>										
+              									</cit:number>									
+            								</cit:CI_Telephone>								
+          							</cit:phone>							
+          							<cit:address>								
+            								<cit:CI_Address>									
+              
+      									<cit:deliveryPoint>										
+        										<gco:CharacterString>Northwest Atlantic Fisheries Centre</gco:CharacterString>										
+      									</cit:deliveryPoint>									
+              
+      									<cit:city>										
+        										<gco:CharacterString>St. John's</gco:CharacterString>										
+      									</cit:city>									
+              
+      									<cit:country>										
+        										<gco:CharacterString>Canada</gco:CharacterString>										
+      									</cit:country>									
+            								</cit:CI_Address>								
+          							</cit:address>							
+          							<cit:onlineResource>								
+            								<cit:CI_OnlineResource>									
+              									<cit:linkage>										
+                										<gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>										
+              									</cit:linkage>									
+              									<cit:protocol>										
+                										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+              									</cit:protocol>									
+              									<cit:function>										
+                										<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>										
+              									</cit:function>									
+            								</cit:CI_OnlineResource>								
+          							</cit:onlineResource>							
+        						</cit:CI_Contact>						
+      					</cit:contactInfo>					
+      
+      					<cit:individual>						
+        						<cit:CI_Individual>							
+    
+      							<cit:name>								
+        								<gco:CharacterString>Frédéric Cyr</gco:CharacterString>								
+      							</cit:name>							
+    							<cit:contactInfo>								
+      								<cit:CI_Contact>									
+        									<cit:address>										
+          										<cit:CI_Address>											
+            
+      											<cit:deliveryPoint>												
+        												<gco:CharacterString/>												
+      											</cit:deliveryPoint>											
+            
+      											<cit:city>												
+        												<gco:CharacterString/>												
+      											</cit:city>											
+            
+      											<cit:country>												
+        												<gco:CharacterString/>												
+      											</cit:country>											
+            											<cit:electronicMailAddress>												
+              												<gco:CharacterString>Frederic.Cyr@dfo-mpo.gc.ca</gco:CharacterString>												
+            											</cit:electronicMailAddress>											
+          										</cit:CI_Address>										
+        									</cit:address>									
+      								</cit:CI_Contact>								
+    							</cit:contactInfo>							
+    
+      							<cit:positionName>								
+        								<gco:CharacterString>Research Scientist</gco:CharacterString>								
+      							</cit:positionName>							
+						</cit:CI_Individual>						
+
+      					</cit:individual>					
+    				</cit:CI_Organisation>				
+
+  			</cit:party>			
+		</cit:CI_Responsibility>		
+
+      	</mdb:contact>	
+  
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:DateTime>2021-08-27T17:58:13.265Z</gco:DateTime>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:Date>2021-08-27</gco:Date>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>ISO 19115-1 Geographic information - Metadata</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+        				<gco:CharacterString>First Edition 2014-04-01</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>ISO 19115-2 Geographic information - Metadata</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+        				<gco:CharacterString>Second Edition 2019-01</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+          				<gco:CharacterString>ISO 19115-1 Geographic Information - Metadata Amendment 1</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+          				<gco:CharacterString>2018-02</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataProfile>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>Canadian Integrated Ocean Observing System Metadata Profile of ISO 19115</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:date>				
+        				<cit:CI_Date>					
+          					<cit:date>						
+            						<gco:Date>2019-11-06</gco:Date>						
+          					</cit:date>					
+          					<cit:dateType>						
+            						<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>						
+          					</cit:dateType>					
+        				</cit:CI_Date>				
+      			</cit:date>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataProfile>	
+  	<mdb:otherLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:otherLocale>	
+  	<mdb:otherLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:otherLocale>	
+  	<mdb:identificationInfo>		
+    		<mri:MD_DataIdentification>			
+      			<mri:citation>				
+        				<cit:CI_Citation>					
+          
+      					<cit:title xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>Newfoundland and Labrador climate index</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Indice climatique de Terre-Neuve-et-Labrador</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</cit:title>					
+          
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>1951-01-01</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2020-11-16</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2021-03-17</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+          					<cit:identifier>						
+            						<mcc:MD_Identifier>							
+                							<mcc:code>								
+                  								<gco:CharacterString>https://doi.org/10.20383/101.0301</gco:CharacterString>								
+                							</mcc:code>							
+            						</mcc:MD_Identifier>						
+    		  					</cit:identifier>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>Northwest Atlantic Fisheries Centre</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>St. John's</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Frédéric Cyr</gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>Frederic.Cyr@dfo-mpo.gc.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Research Scientist</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="owner"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>Maurice Lamontagne Institute, 850, route de la Mer</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Mont-Joli</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Peter S. Galbraith </gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>peter.galbraith@dfo-mpo.gc.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Research Scientist</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="coAuthor"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>Maurice Lamontagne Institute, 850, route de la Mer</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Mont-Joli</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Peter S. Galbraith </gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>peter.galbraith@dfo-mpo.gc.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Research Scientist</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+
+        				</cit:CI_Citation>				
+      			</mri:citation>			
+      
+      			<mri:abstract xsi:type="lan:PT_FreeText_PropertyType">				
+        				<gco:CharacterString>The Newfoundland and Labrador (NL) climate index aims to describe the environmental conditions on the NL shelf and in the Northwest Atlantic as a whole. It consists of annual normalized anomalies of 10 subindices with equal contribution: Winter North Atlantic Oscillation, air temperature, sea ice, icebergs, sea surface temperature, vertically-averaged temperature and salinity at Station~27, cold intermediate layer (CIL) core temperature at Station~27, CIL area on 3 hydrographic sections and bottom temperature on the NL shelf. This index runs from 1951 to 2019 and will be updated annually. Data associated with Cyr, F. and Galbraith, P. S.: A climate index for the Newfoundland and Labrador shelf, Earth Syst. Sci. Data, 13, 1807–1828, https://doi.org/10.5194/essd-13-1807-2021, 2021.</gco:CharacterString>				
+          				<lan:PT_FreeText>					
+            					<lan:textGroup>						
+              						<lan:LocalisedCharacterString locale="#fr">L'indice climatique de Terre-Neuve-et-Labrador (T.-N.-L.) vise à décrire les conditions environnementales sur le plateau de Terre-Neuve-et-Labrador et dans l'Atlantique Nord-Ouest dans son ensemble. Il se compose d'anomalies annuelles normalisées de 10 sous-indices avec une contribution égale : oscillation hivernale de l'Atlantique Nord, température de l'air, glace de mer, icebergs, température de surface de la mer, température moyenne verticale et salinité à la station~27, température centrale de la couche intermédiaire froide (CIL) à la station~27, zone CIL sur 3 sections hydrographiques et température de fond sur le plateau de NL. Cet indice s'étend de 1951 à 2019 et sera mis à jour annuellement. Données associées à Cyr, F. et Galbraith, P. S. : Un indice climatique pour le plateau de Terre-Neuve-et-Labrador, Earth Syst. Sci. Data, 13, 1807—1828, https://doi.org/10.5194/essd-13-1807-2021, 2021.</lan:LocalisedCharacterString>						
+            					</lan:textGroup>					
+          				</lan:PT_FreeText>				
+      			</mri:abstract>			
+      
+      			<mri:credit>				
+        				<gco:CharacterString/>				
+      			</mri:credit>			
+      			<mri:status>				
+        				<mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="onGoing">
+        </mcc:MD_ProgressCode>				
+      			</mri:status>			
+      
+      			<mri:topicCategory>				
+        				<mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>				
+      			</mri:topicCategory>			
+      
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:geographicElement>						
+            						<gex:EX_GeographicBoundingBox>							
+              							<gex:extentTypeCode>								
+                								<gco:Boolean>true</gco:Boolean>								
+              							</gex:extentTypeCode>							
+              							<gex:westBoundLongitude>								
+                								<gco:Decimal>-70.0</gco:Decimal>								
+              							</gex:westBoundLongitude>							
+              							<gex:eastBoundLongitude>								
+                								<gco:Decimal>-40.0</gco:Decimal>								
+              							</gex:eastBoundLongitude>							
+              							<gex:southBoundLatitude>								
+                								<gco:Decimal>38.0</gco:Decimal>								
+              							</gex:southBoundLatitude>							
+              							<gex:northBoundLatitude>								
+                								<gco:Decimal>65.0</gco:Decimal>								
+              							</gex:northBoundLatitude>							
+            						</gex:EX_GeographicBoundingBox>						
+          					</gex:geographicElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:verticalElement>						
+            						<gex:EX_VerticalExtent>							
+              							<gex:minimumValue>								
+                								<gco:Real>0.0</gco:Real>								
+              							</gex:minimumValue>							
+              							<gex:maximumValue>								
+                								<gco:Real>500.0</gco:Real>								
+              							</gex:maximumValue>							
+              							<gex:verticalCRSId>								
+                								<mrs:MD_ReferenceSystem>									
+                  									<mrs:referenceSystemIdentifier>										
+                    										<mcc:MD_Identifier>											
+                      											<mcc:code>												
+                        												<gco:CharacterString>5831</gco:CharacterString>												
+                      											</mcc:code>											
+                      											<mcc:codeSpace>												
+                        												<gco:CharacterString>EPSG</gco:CharacterString>												
+                      											</mcc:codeSpace>											
+                      											<mcc:version>												
+                        												<gco:CharacterString>2012-08-10</gco:CharacterString>												
+                      											</mcc:version>											
+                      											<mcc:description>												
+                        												<gco:CharacterString>EPSG::5831 - Instantaneous Water Level depth - Depth relative to instantaneous water level uncorrected for tide. Not specific to any location or epoch.</gco:CharacterString>												
+                      											</mcc:description>											
+                    										</mcc:MD_Identifier>										
+                  									</mrs:referenceSystemIdentifier>									
+                  									<mrs:referenceSystemType>										
+                    										<mrs:MD_ReferenceSystemTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ReferenceSystemTypeCode" codeListValue="vertical">vertical</mrs:MD_ReferenceSystemTypeCode>										
+                  									</mrs:referenceSystemType>									
+                								</mrs:MD_ReferenceSystem>								
+              							</gex:verticalCRSId>							
+              							<gex:verticalCRS xlink:actuate="onRequest" xlink:href="http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:crs:EPSG::5831" xlink:title="instantaneous water level depth"/>							
+            						</gex:EX_VerticalExtent>						
+          					</gex:verticalElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:temporalElement>						
+            						<gex:EX_TemporalExtent>							
+              							<gex:extent>								
+                								<gml:TimePeriod gml:id="time_period">									
+                  									<gml:beginPosition>1951-01-01T15:30:00.000Z</gml:beginPosition>									
+                  									<gml:endPosition indeterminatePosition="now"/>									
+                								</gml:TimePeriod>								
+              							</gex:extent>							
+            						</gex:EX_TemporalExtent>						
+          					</gex:temporalElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:resourceMaintenance>				
+        				<mmi:MD_MaintenanceInformation>					
+          					<mmi:maintenanceAndUpdateFrequency>						
+            						<mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>						
+          					</mmi:maintenanceAndUpdateFrequency>					
+          
+      					<mmi:maintenanceNote>						
+        						<gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form</gco:CharacterString>						
+      					</mmi:maintenanceNote>					
+        				</mmi:MD_MaintenanceInformation>				
+      			</mri:resourceMaintenance>			
+      
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          					<mri:keyword>						
+            						<gco:CharacterString>Oceans</gco:CharacterString>						
+          					</mri:keyword>					
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>Government of Canada Core Subject Thesaurus</gco:CharacterString>								
+              							</cit:title>							
+              							<cit:date>								
+                								<cit:CI_Date>									
+                  									<cit:date>										
+                    										<gco:Date>2016-10-13</gco:Date>										
+                  									</cit:date>									
+                  									<cit:dateType>										
+                    										<cit:CI_DateTypeCode codeList="http://wiki.esipfed.org/index.php/ISO_19115-3_Codelists#CI_DateTypeCode" codeListValue="revision"/>										
+                  									</cit:dateType>									
+                								</cit:CI_Date>								
+              							</cit:date>							
+              							<cit:edition>								
+                								<gco:CharacterString>N/A</gco:CharacterString>								
+              							</cit:edition>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          
+              					<mri:keyword>						
+                    						<gco:CharacterString>Newfoundland and Labrador</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>Climate</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>Physical Oceanography</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>Ocean</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>Atmosphere</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>Environmental Index</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>Ecosystem Studies</gco:CharacterString>						
+              					</mri:keyword>					
+          
+  
+
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>default</gco:CharacterString>								
+              							</cit:title>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          
+              					<mri:keyword>						
+                    						<gco:CharacterString>seaSurfaceTemperature</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>seaSurfaceSalinity</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>subSurfaceTemperature</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>other</gco:CharacterString>						
+              					</mri:keyword>					
+          
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Température de surface</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Salinité de surface</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Température sous la surface</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Autre</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+  
+
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>eov</gco:CharacterString>								
+              							</cit:title>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      
+      			<mri:resourceConstraints>				
+        				<mco:MD_LegalConstraints>					
+          					<mco:reference>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>Creative Commons Attribution 4.0</gco:CharacterString>								
+              							</cit:title>							
+              							<cit:identifier>								
+                								<mcc:MD_Identifier>									
+                  									<mcc:code>										
+                    										<gco:CharacterString>CC-BY-4.0</gco:CharacterString>										
+                  									</mcc:code>									
+                								</mcc:MD_Identifier>								
+              							</cit:identifier>							
+              							<cit:onlineResource>								
+                								<cit:CI_OnlineResource>									
+                  									<cit:linkage>										
+                    										<gco:CharacterString>https://creativecommons.org/licenses/by/4.0</gco:CharacterString>										
+                  									</cit:linkage>									
+                  									<cit:protocol>										
+                    										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+                  									</cit:protocol>									
+                								</cit:CI_OnlineResource>								
+              							</cit:onlineResource>							
+            						</cit:CI_Citation>						
+          					</mco:reference>					
+          					<mco:useConstraints>						
+            						<mco:MD_RestrictionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_RestrictionCode" codeListValue="licence"/>						
+          					</mco:useConstraints>					
+        				</mco:MD_LegalConstraints>				
+      			</mri:resourceConstraints>			
+      			<mri:resourceConstraints>				
+        				<mco:MD_Constraints>					
+           
+      					<mco:useLimitation>						
+        						<gco:CharacterString/>						
+      					</mco:useLimitation>					
+        				</mco:MD_Constraints>				
+      			</mri:resourceConstraints>			
+      
+      			<mri:supplementalInformation>				
+        				<gco:CharacterString/>				
+      			</mri:supplementalInformation>			
+    		</mri:MD_DataIdentification>		
+  	</mdb:identificationInfo>	
+  	<mdb:distributionInfo>		
+    		<mrd:MD_Distribution>			
+      			<mrd:distributor>				
+        				<mrd:MD_Distributor>					
+          					<mrd:distributorContact>						
+        						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="distributor"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>Maurice Lamontagne Institute, 850, route de la Mer</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Mont-Joli</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Peter S. Galbraith </gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>peter.galbraith@dfo-mpo.gc.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Research Scientist</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+            					</mrd:distributorContact>					
+        				</mrd:MD_Distributor>				
+      			</mrd:distributor>			
+
+      
+      
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://doi.org/10.20383/101.0301</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>DOI</gco:CharacterString>								
+              							</cit:name>							
+              
+      							<cit:description xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Federated Research Data Repository Dataset</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">Jeu de données du dépôt fédéré de données de recherche</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+      
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/NL_Climate_Index.html</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>								
+              							</cit:name>							
+              							<cit:description>								
+                								<gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>								
+              							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+      
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/NL_Climate_Index_all_fields.html</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>								
+              							</cit:name>							
+              							<cit:description>								
+                								<gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>								
+              							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+      
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/NL_Climate_Index_natrual_signs.html</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>								
+              							</cit:name>							
+              							<cit:description>								
+                								<gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>								
+              							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+
+    		</mrd:MD_Distribution>		
+  	</mdb:distributionInfo>	
+  	<mdb:metadataMaintenance>		
+    		<mmi:MD_MaintenanceInformation>			
+      			<mmi:maintenanceAndUpdateFrequency>				
+        				<mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>				
+      			</mmi:maintenanceAndUpdateFrequency>			
+    		</mmi:MD_MaintenanceInformation>		
+  	</mdb:metadataMaintenance>	
+  	<mdb:acquisitionInformation>		
+    		<mac:MI_AcquisitionInformation>			
+      			<mac:scope>				
+        				<mcc:MD_Scope>					
+          					<mcc:level>						
+            						<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>						
+          					</mcc:level>					
+        				</mcc:MD_Scope>				
+      			</mac:scope>			
+      			<mac:platform>				
+        				<mac:MI_Platform>					
+          					<mac:identifier>						
+            						<mcc:MD_Identifier>							
+              							<mcc:authority>								
+                								<cit:CI_Citation>									
+                  
+      									<cit:title>										
+        										<gco:CharacterString/>										
+      									</cit:title>									
+                								</cit:CI_Citation>								
+              							</mcc:authority>							
+              							<mcc:code>								
+                								<gco:CharacterString>Various</gco:CharacterString>								
+              							</mcc:code>							
+            						</mcc:MD_Identifier>						
+          					</mac:identifier>					
+          
+      					<mac:description xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>Data was compiled from a number of platforms, including buoys, ships, gliders, satellites, radar and aircraft.</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Les données ont été compilées à partir de plusieurs plates-formes, y compris des bouées, des navires, des planeurs, des satellites, des radars et des avions.</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</mac:description>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Not available</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>ECCC Weather Stations</gco:CharacterString>										
+          									</mcc:code>									
+          									<mcc:version>										
+            										<gco:CharacterString>Not available</gco:CharacterString>										
+          									</mcc:version>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Weather Station</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">Station météorologique</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Not Available</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>CTD</gco:CharacterString>										
+          									</mcc:code>									
+          									<mcc:version>										
+            										<gco:CharacterString>Not Available</gco:CharacterString>										
+          									</mcc:version>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>CTD</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">CTD</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Not Available</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>Sensors (Various)</gco:CharacterString>										
+          									</mcc:code>									
+          									<mcc:version>										
+            										<gco:CharacterString>Not Available</gco:CharacterString>										
+          									</mcc:version>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Sensors</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">Capteurs</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Not Available</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>Bathythermograph</gco:CharacterString>										
+          									</mcc:code>									
+          									<mcc:version>										
+            										<gco:CharacterString>Not Available</gco:CharacterString>										
+          									</mcc:version>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Bathythermograph</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">Thermographe Bathy</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+        				</mac:MI_Platform>				
+      			</mac:platform>			
+    		</mac:MI_AcquisitionInformation>		
+  	</mdb:acquisitionInformation>	
+      
+</mdb:MD_Metadata>

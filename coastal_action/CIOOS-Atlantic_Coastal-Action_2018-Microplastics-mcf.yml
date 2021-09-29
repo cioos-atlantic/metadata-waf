@@ -18,6 +18,8 @@ metadata:
       title: Creative Commons Attribution 4.0
       code: CC-BY-4.0
       url: 'https://creativecommons.org/licenses/by/4.0/'
+  dates:
+    creation: '2020-05-21'
   # maintenance_note:
   #   en: null
   #   fr: null
@@ -34,8 +36,8 @@ spatial:
 
 identification:
   title:
-    en: 'Atlantic Canada Microplastic Research Project (2017-2020)'
-    fr: 'Projet de recherche sur les microplastiques du Canada atlantique (2017-2020)'
+    en: 'Atlantic Canada Marine Plastic Research Project (2017-2020)'
+    fr: 'Projet de recherche sur les plastique marin du Canada atlantique (2017-2020)'
   abstract:
     en: 'The purpose of the Atlantic Canada Microplastic Research Project (2017-2020) is to determine the quantity of microplastics in 3 near-shore communities of Atlantic Canada.  Data will be used to better inform the conversation and solutions around plastic pollution in the region.  The project is funded by Environment and Climate Change Canada and is in partnership with Clean Annapolis River Project (CARP), ACAP Humber Arm, and Dr. Max Liboiron at the Civic Laboratory for Environmental Action Research (CLEAR) out of Memorial University of Newfoundland (MUN).  Dr.  Max Liboiron is our chief academic advisor on the 3-year project, assisting with project development, methods and protocol, and sampling design.  The project included sampling both surface water and beach sediment at all three study locations.  The surface water trawling equipment was built using CLEAR''s low-aquatic debris instrument (LADI) design.  Data reports are available for 2018 surface water and shoreline sediment results. Remaining 2018 sediment results and 2019 hot-spot data will be available soon.'
     fr: "Le but du Projet de recherche sur les microplastiques du Canada atlantique (2017-2020) est de déterminer la quantité de microplastiques dans trois collectivités côtières du Canada atlantique. Les données serviront à mieux éclairer la conversation et à trouver des solutions concernant la pollution par les plastiques dans la région. Le projet est financé par Environnement et Changement climatique Canada et est en partenariat avec le projet Clean Annapolis River Project (CARP), l'ACAP Humber Arm et le Dr Max Liboiron du Civic Laboratory for Environmental Action Research (CLEAR) de l'Université Memorial de Terre-Neuve (MUN). Le Dr Max Liboiron est notre conseiller académique en chef dans le cadre du projet de 3 ans. Il aide à l'élaboration du projet, aux méthodes et au protocole ainsi qu'à la conception de l'échantillonnage. Le projet comprenait l'échantillonnage des eaux de surface et des sédiments de plage aux trois emplacements de l'étude. L'équipement de chalutage en eaux de surface a été construit à l'aide de la conception de l'instrument à faible débris aquatiques (LADI) de CLEAR. Des rapports de données sont disponibles pour les résultats des eaux de surface et des sédiments riverains de 2018. Les résultats restants de 2018 sur les sédiments et les données sur les points chaud de 2019 seront bientôt disponibles."

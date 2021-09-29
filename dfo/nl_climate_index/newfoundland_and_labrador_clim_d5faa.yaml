@@ -1,0 +1,174 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: d5faadca-f0b6-46f2-9277-d1e76a8e313c
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  use_constraints:
+    licence:
+      title: Creative Commons Attribution 4.0
+      code: CC-BY-4.0
+      url: https://creativecommons.org/licenses/by/4.0
+  dates:
+    revision: '2021-08-27T15:17:05.688Z'
+    publication: '2021-08-27'
+spatial:
+  bbox:
+  - -70.0
+  - 38.0
+  - -40.0
+  - 65.0
+  vertical:
+  - 0.0
+  - 500.0
+identification:
+  title:
+    en: Newfoundland and Labrador climate index
+    fr: Indice climatique de Terre-Neuve-et-Labrador
+  identifier: https://doi.org/10.20383/101.0301
+  abstract:
+    en: 'The Newfoundland and Labrador (NL) climate index aims to describe the environmental
+      conditions on the NL shelf and in the Northwest Atlantic as a whole. It consists
+      of annual normalized anomalies of 10 subindices with equal contribution: Winter
+      North Atlantic Oscillation, air temperature, sea ice, icebergs, sea surface
+      temperature, vertically-averaged temperature and salinity at Station~27, cold
+      intermediate layer (CIL) core temperature at Station~27, CIL area on 3 hydrographic
+      sections and bottom temperature on the NL shelf. This index runs from 1951 to
+      2019 and will be updated annually. Data associated with Cyr, F. and Galbraith,
+      P. S.: A climate index for the Newfoundland and Labrador shelf, Earth Syst.
+      Sci. Data, 13, 1807–1828, https://doi.org/10.5194/essd-13-1807-2021, 2021.'
+    fr: 'L''indice climatique de Terre-Neuve-et-Labrador (T.-N.-L.) vise à décrire
+      les conditions environnementales sur le plateau de Terre-Neuve-et-Labrador et
+      dans l''Atlantique Nord-Ouest dans son ensemble. Il se compose d''anomalies
+      annuelles normalisées de 10 sous-indices avec une contribution égale : oscillation
+      hivernale de l''Atlantique Nord, température de l''air, glace de mer, icebergs,
+      température de surface de la mer, température moyenne verticale et salinité
+      à la station~27, température centrale de la couche intermédiaire froide (CIL)
+      à la station~27, zone CIL sur 3 sections hydrographiques et température de fond
+      sur le plateau de NL. Cet indice s''étend de 1951 à 2019 et sera mis à jour
+      annuellement. Données associées à Cyr, F. et Galbraith, P. S. : Un indice climatique
+      pour le plateau de Terre-Neuve-et-Labrador, Earth Syst. Sci. Data, 13, 1807—1828,
+      https://doi.org/10.5194/essd-13-1807-2021, 2021.'
+  dates:
+    creation: '1951-01-01'
+    publication: '2020-11-16'
+    revision: '2021-03-17'
+  keywords:
+    default:
+      en:
+      - Newfoundland and Labrador
+      - Climate
+      - Physical Oceanography
+      - Ocean
+      - Atmosphere
+      - Environmental Index
+      - Ecosystem Studies
+    eov:
+      en:
+      - seaSurfaceTemperature
+      - seaSurfaceSalinity
+      - subSurfaceTemperature
+      - other
+      fr:
+      - Température de surface
+      - Salinité de surface
+      - Température sous la surface
+      - Autre
+  temporal_begin: '1951-01-01T15:30:00.000Z'
+  status: published
+  progress_code: onGoing
+contact:
+- roles:
+  - custodian
+  - author
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: Northwest Atlantic Fisheries Centre
+    city: St. John's
+    country: Canada
+  individual:
+    name: Frédéric Cyr
+    position: Research Scientist
+    email: Frederic.Cyr@dfo-mpo.gc.ca
+- roles:
+  - owner
+  - coAuthor
+  - distributor
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: Maurice Lamontagne Institute, 850, route de la Mer
+    city: Mont-Joli
+    country: Canada
+  individual:
+    name: 'Peter S. Galbraith '
+    position: Research Scientist
+    email: peter.galbraith@dfo-mpo.gc.ca
+distribution:
+- url: https://doi.org/10.20383/101.0301
+  name: DOI
+  description:
+    en: Federated Research Data Repository Dataset
+    fr: Jeu de données du dépôt fédéré de données de recherche
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/NL_Climate_Index.html
+  name: Newfoundland and Labrador climate index
+  description:
+    en: The Newfoundland and Labrador (NL) climate index aims to describe the environmental
+      conditions on the NL shelf and in the Northwest Atlantic as a whole. It consists
+      of the arithmetic average of 10 annual normalized anomalies (or subindices).
+    fr: L'indice climatique de Terre-Neuve-et-Labrador (NL) vise à décrire les conditions
+      environnementales sur le plateau de Terre-Neuve-et-Labrador et dans l'Atlantique
+      Nord-Ouest dans son ensemble. Il se compose de la moyenne arithmétique de 10
+      anomalies normalisées annuelles (ou sous-indices).
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/NL_Climate_Index_all_fields.html
+  name: Newfoundland and Labrador climate index, All Fields
+  description:
+    en: Individual subindices used to construct the Newfoundland and Labrador climate
+      index. Each subindex is normalized using the 1991-2020 climatological period.
+      Some signs were reversed so that positive anomalies are indicative of warmer
+      conditions (e.g. sea ice)
+    fr: Sous-indices individuels utilisés pour construire l'indice climatique de Terre-Neuve-et-Labrador.
+      Chaque sous-indice est normalisé en fonction de la période climatologique 1991-2020.
+      Certains signes ont été inversés de sorte que les anomalies positives indiquent
+      des conditions plus chaudes (par exemple, glace de mer).
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/NL_Climate_Index_natrual_signs.html
+  name: Newfoundland and Labrador climate index, Natural Signs
+  description:
+    en: Individual subindices of the Newfoundland and Labrador climate index in their
+      natural sign. Each subindex is normalized using the 1991-2020 climatological
+      period.
+    fr: Les sous-indices individuels de l'indice climatique de Terre-Neuve-et-Labrador
+      dans leur signe naturel. Chaque sous-indice est normalisé en fonction de la
+      période climatologique 1991-2020.
+platform:
+  id: Various
+  description:
+    en: Data was compiled from a number of platforms, including buoys, ships, gliders,
+      satellites, radar and aircraft.
+    fr: Les données ont été compilées à partir de plusieurs plates-formes, y compris
+      des bouées, des navires, des planeurs, des satellites, des radars et des avions.
+  instruments:
+  - id: ECCC Weather Stations
+    manufacturer: Not available
+    type:
+      en: Weather Station
+      fr: Station météorologique
+    version: Not available
+  - id: CTD
+    manufacturer: Not Available
+    type:
+      en: CTD
+      fr: CTD
+    version: Not Available
+  - id: Sensors (Various)
+    manufacturer: Not Available
+    type:
+      en: Sensors
+      fr: Capteurs
+    version: Not Available
+  - id: Bathythermograph
+    manufacturer: Not Available
+    type:
+      en: Bathythermograph
+      fr: Thermographe Bathy
+    version: Not Available
