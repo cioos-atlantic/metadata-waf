@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: 7a805beb-53aa-4a03-959d-ed48b6cea492
+  identifier: 203d84a6-1e28-437b-8fc6-9c2629d9b1ab
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-09-27T19:21:08.020Z'
-    publication: '2021-09-27'
+    revision: '2021-09-29T15:16:03.470Z'
+    publication: '2021-09-29'
 spatial:
   bbox:
   - -61.0913
@@ -140,7 +140,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Richmond County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/v6sa-tiit.html
+- url: https://cioosatlantic.ca/erddap/tabledap/v6sa-tiit.html
   name: ERDDAP Data Access
 platform:
 - id: '0667'

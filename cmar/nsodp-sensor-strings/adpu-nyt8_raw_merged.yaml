@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: 9a325181-3ecf-41e4-94ad-46c0f2cb5197
+  identifier: d46f0b0a-0e9d-481d-a1cb-2ce601605ae9
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-09-27T19:19:33.689Z'
-    publication: '2021-09-27'
+    revision: '2021-09-29T15:14:23.742Z'
+    publication: '2021-09-29'
 spatial:
   bbox:
   - -62.66088
@@ -108,7 +108,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Pictou County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/adpu-nyt8.html
+- url: https://cioosatlantic.ca/erddap/tabledap/adpu-nyt8.html
   name: ERDDAP Data Access
 platform:
 - id: Piper Lake

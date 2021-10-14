@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: 1817dc08-3c6f-4e6a-8fc3-744379307bb8
+  identifier: f2ce89a8-202e-44ba-979e-19dd6b3de11e
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-09-27T19:19:18.615Z'
-    publication: '2021-09-27'
+    revision: '2021-09-29T15:14:07.627Z'
+    publication: '2021-09-29'
 spatial:
   bbox:
   - -63.95414
@@ -107,7 +107,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Halifax County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/x9dy-aai9.html
+- url: https://cioosatlantic.ca/erddap/tabledap/x9dy-aai9.html
   name: ERDDAP Data Access
 platform:
 - id: Beaver Point

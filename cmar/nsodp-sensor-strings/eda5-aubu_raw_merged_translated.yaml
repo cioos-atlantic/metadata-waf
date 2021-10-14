@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: 88e0cb62-aaf6-4146-8c67-1e5e731afce2
+  identifier: 8af1faca-b940-478a-b027-bdb3a7d0ffb1
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-09-27T19:20:21.188Z'
-    publication: '2021-09-27'
+    revision: '2021-09-29T15:15:13.825Z'
+    publication: '2021-09-29'
 spatial:
   bbox:
   - -64.25055
@@ -140,7 +140,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Lunenburg County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/eda5-aubu.html
+- url: https://cioosatlantic.ca/erddap/tabledap/eda5-aubu.html
   name: ERDDAP Data Access
 platform:
 - id: Flat Island

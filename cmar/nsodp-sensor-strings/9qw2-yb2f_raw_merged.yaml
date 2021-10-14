@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: cee9bc73-04c5-4103-959b-e0d761afe561
+  identifier: 7a251f87-d58b-41e2-8244-fe3b4c67d994
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-09-27T19:20:52.349Z'
-    publication: '2021-09-27'
+    revision: '2021-09-29T15:15:46.573Z'
+    publication: '2021-09-29'
 spatial:
   bbox:
   - -65.95942
@@ -108,7 +108,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Yarmouth County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/9qw2-yb2f.html
+- url: https://cioosatlantic.ca/erddap/tabledap/9qw2-yb2f.html
   name: ERDDAP Data Access
 platform:
 - id: Lobster Bay

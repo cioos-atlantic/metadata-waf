@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: 35ab9c4d-a0eb-4099-8361-54868c965124
+  identifier: a7fe2aef-d2b3-4647-a1f8-672982e69eff
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-09-27T19:17:57.941Z'
-    publication: '2021-09-27'
+    revision: '2021-09-29T15:12:44.104Z'
+    publication: '2021-09-29'
 spatial:
   bbox:
   - -62.0113
@@ -140,7 +140,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Guysborough County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/eb3n-uxcb.html
+- url: https://cioosatlantic.ca/erddap/tabledap/eb3n-uxcb.html
   name: ERDDAP Data Access
 platform:
 - id: Moose Point

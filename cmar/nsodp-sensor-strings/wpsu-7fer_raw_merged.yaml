@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: 5961427e-bf5f-4796-ac08-8b020afd9093
+  identifier: b62519dc-b778-433e-83bd-63374c988464
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-09-27T19:21:25.107Z'
-    publication: '2021-09-27'
+    revision: '2021-09-29T15:16:21.814Z'
+    publication: '2021-09-29'
 spatial:
   bbox:
   - -66.224861
@@ -108,7 +108,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Digby County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/wpsu-7fer.html
+- url: https://cioosatlantic.ca/erddap/tabledap/wpsu-7fer.html
   name: ERDDAP Data Access
 platform:
 - id: Hourglass Lake
