@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: 5961427e-bf5f-4796-ac08-8b020afd9093
+  identifier: f7eaeb68-00f1-3414-a5a8-35d236fec0f4
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-09-27T19:21:25.107Z'
-    publication: '2021-09-27'
+    revision: '2021-10-14T14:12:38.843Z'
+    publication: '2021-10-14'
 spatial:
   bbox:
   - -66.224861

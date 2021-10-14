@@ -11,7 +11,7 @@
           				</cit:CI_Citation>				
       			</mcc:authority>			
       			<mcc:code>				
-        				<gco:CharacterString>35ab9c4d-a0eb-4099-8361-54868c965124</gco:CharacterString>				
+        				<gco:CharacterString>4ce2100d-41a6-382e-8273-d743919e32f7</gco:CharacterString>				
       			</mcc:code>			
     		</mcc:MD_Identifier>		
   	</mdb:metadataIdentifier>	
@@ -135,7 +135,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:DateTime>2021-09-27T19:17:57.941Z</gco:DateTime>				
+        				<gco:DateTime>2021-10-14T14:08:58.857Z</gco:DateTime>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
@@ -145,7 +145,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:Date>2021-09-27</gco:Date>				
+        				<gco:Date>2021-10-14</gco:Date>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				
@@ -202,7 +202,7 @@
   	<mdb:otherLocale>		
     		<lan:PT_Locale>			
       			<lan:language>				
-        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
         </lan:LanguageCode>				
       			</lan:language>			
       			<lan:country>				
@@ -217,7 +217,7 @@
   	<mdb:otherLocale>		
     		<lan:PT_Locale>			
       			<lan:language>				
-        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
         </lan:LanguageCode>				
       			</lan:language>			
       			<lan:country>				
