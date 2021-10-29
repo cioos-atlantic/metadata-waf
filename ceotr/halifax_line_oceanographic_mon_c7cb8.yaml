@@ -1,0 +1,145 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: c7cb8e9c-f18b-479c-bf41-bf22b86b5d08
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  use_constraints:
+    limitations:
+      en: Haven’t applied appropriate QC on the data yet.
+      fr: N'ont pas encore appliqué le contrôle de qualité approprié sur les données.
+    licence:
+      title: Creative Commons 0
+      code: CC0
+      url: https://creativecommons.org/share-your-work/public-domain/cc0
+  dates:
+    revision: '2021-06-09T12:27:22.978Z'
+    publication: '2021-08-13'
+spatial:
+  bbox:
+  - -63.922
+  - 44.115
+  - -63.449
+  - 44.446
+  vertical:
+  - 0.0
+  - 157.181
+identification:
+  title:
+    en: Halifax line oceanographic monitoring
+    fr: Collection des donnés sur le "OTN Halifax Line"
+  abstract:
+    en: A Teledyne Webb Research Slocum glider was used to collect oceanographic data
+      along the Halifax line
+    fr: Un Teledyne Webb Research Slocum a été utilisé pour recueillir des données
+      océanographiques sur la ligne de Halifax
+  dates:
+    creation: '2011-05-13'
+    publication: '2020-01-29'
+  keywords:
+    default:
+      en:
+      - water density
+      - sea currents
+      - oceanographic missions
+      - water quality
+      - salinity
+      - water temperature
+      fr:
+      - densité eau
+      - courant marin
+      - missions océanographique
+      - qualité eau
+      - salinité
+      - température de l'eau
+    eov:
+      en:
+      - oxygen
+      - subSurfaceSalinity
+      - subSurfaceTemperature
+      - other
+      - seawaterDensity
+      - pressure
+      fr:
+      - Oxygène
+      - Salinité sous la surface
+      - Température sous la surface
+      - Autre
+      - Densité d'eau de mer
+      - Pression
+  temporal_begin: '2011-05-13T15:00:00.000Z'
+  temporal_end: '2011-05-19T15:00:00.000Z'
+  status: published
+  progress_code: historicalArchive
+contact:
+- roles:
+  - custodian
+  organization:
+    name: CEOTR glider group
+    url: https://ceotr.ocean.dal.ca/
+    address: 1355 Oxford Street
+    city: Halifax
+    country: Canada
+    email: ceotr@dal.ca
+  individual:
+    name: Adam Comeau
+    position: Manager of glider operations
+    email: adam.comeau@dal.ca
+- roles:
+  - owner
+  - distributor
+  organization:
+    name: CEOTR
+    address: 1355 Oxford Street
+    city: Halifax
+    country: Canada
+    email: ceotr@dal.ca
+  individual:
+    name: Kate Patterson
+    position: Data Team Manager
+    email: Kate.Patterson@dal.ca
+distribution:
+- url: http://belafonte.ocean.dal.ca:8080/erddap/tabledap/otn200_20110513_1_delayed.html
+  name: ERDDAP
+platform:
+  id: otn200
+  description:
+    en: Teledyne Webb Research Slocum glider, model G3. Slocum gliders are buoyancy
+      driven profiling underwater vehicles.
+  instruments:
+  - description:
+      en: Pumped Seabird CTD mounted on the midsection of the glider.
+    id: gpctd_0031
+    manufacturer: Sea-Bird
+    type:
+      en: Glider Payload CTD
+    version: GPCTD
+  - description:
+      en: Optical sensor to determine oxygen concentration mounted on the aft end
+        of the glider.
+    id: oxy3835_1299
+    manufacturer: Aanderaa
+    type:
+      en: Oxygen optode
+    version: Optode 5013w
+  - description:
+      en: Multispectral irradiance sensor mounted on the midsection of the glider
+        at an angle of 22 degrees from horizontal
+    id: ocr504i_0167
+    manufacturer: Sea-Bird
+    type:
+      en: OCR 504 Multispectral Radiometer
+    version: ocr504i
+  - description:
+      en: Optical sensor to measure CDOM fluorescence and two wavelengths of backscattering
+    id: bb2fls_0768
+    manufacturer: Sea-Bird
+    type:
+      en: Miniature optical sensor
+    version: ECO Puck
+  - description:
+      en: Optical sensor to measure chla fluorescence and two wavelengths of backscattering
+    id: bb2flsv2_0771
+    manufacturer: Sea-Bird
+    type:
+      en: Miniature optical sensor
+    version: ECO Puck
