@@ -1,0 +1,107 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: db15458d-df2c-4efb-b5a0-791e7561a0cb
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  use_constraints:
+    limitations:
+      en: None
+    licence:
+      title: Creative Commons Attribution 4.0
+      code: CC-BY-4.0
+      url: https://creativecommons.org/licenses/by/4.0
+  dates:
+    revision: '2021-09-16T17:26:12.699Z'
+    publication: '2021-09-16'
+spatial:
+  bbox:
+  - -64.4274722
+  - 45.3631389
+  - -64.4274722
+  - 45.3631389
+  vertical:
+  - 30.0
+  - 40.0
+identification:
+  title:
+    en: 'FORCE acoustic Doppler current profiler (ADCP): Currents and waves'
+    fr: 'Profileur de courant Doppler acoustique FORCE (ADCP) : Courants et vagues'
+  abstract:
+    en: This seabed-mounted ADCP, deployed for two months in spring 2018, collected
+      3-D velocity profiles and surface wave statistics at a location within the FORCE
+      Crown Lease Area. Data are provided in raw (*ad2cp) form, and as processed currents
+      and waves. These data were collected as part of a project on evaluating fish
+      sensor capabilities at high flow sites (cf. Viehman et al 2019 in the metadata
+      attachment).
+    fr: Cet ADCP monté sur fond marin, déployé pendant deux mois au printemps 2018,
+      a recueilli des profils de vitesse 3D et des statistiques de vagues de surface
+      à un emplacement situé dans la zone de location FORCE Crown. Les données sont
+      fournies sous forme brute (*ad2cp) et sous forme de courants et d'ondes traités.
+      Ces données ont été collectées dans le cadre d'un projet d'évaluation des capacités
+      des capteurs de poissons sur les sites à haut débit (voir Viehman et al 2019
+      dans la pièce jointe aux métadonnées).
+  dates:
+    creation: '2018-03-30'
+  keywords:
+    default:
+      en:
+      - 3D velocity profile
+      - Surface wave statistics
+      - tide height
+      - temperature
+      - pressure
+      - speed of sound
+      fr:
+      - Vitesse du son
+    eov:
+      en:
+      - subSurfaceCurrents
+      - oceanSound
+      - subSurfaceTemperature
+      - seaSurfaceHeight
+      - other
+      fr:
+      - Courants sous-marins
+      - Température sous la surface
+      - Hauteur de la surface de la mer
+      - Autre
+  temporal_begin: '2018-03-30T15:00:00.000Z'
+  temporal_end: '2018-05-23T15:00:00.000Z'
+  status: published
+  progress_code: completed
+contact:
+- roles:
+  - custodian
+  - owner
+  - distributor
+  organization:
+    name: Fundy Ocean Research Center for Energy (FORCE)
+    url: https://fundyforce.ca/
+  individual:
+    name: Dr. Joel Culina
+    position: Oceanographer
+    email: joel.culina@fundyforce.ca
+distribution:
+- url: https://data.fundyforce.ca/forceCloud/index.php/s/TAEz9gwARDDXCTD?path=%2FRaw%2FMar_2018
+  name: Raw ADCP data files
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/Mar2018_44fa_e1cc_fc53.html
+  name: Averaged Currents Data
+  description:
+    en: ADCP averaged currents
+    fr: Courants moyens ADCP
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/Mar2018_877c_2e5e_2fd0.html
+  name: Wave data
+platform:
+  id: '003'
+  description:
+    en: FAST Moored/ballasted subsea platform
+  instruments:
+  - description:
+      en: Measures velocity profile and waves
+      fr: Mesure le profil de vitesse et les vagues
+    id: '100258'
+    manufacturer: Nortek
+    type:
+      en: Acoustic Doppler current profier (ADCP)
+      fr: Proficateur de courant Doppler acoustique (ADCP)
+    version: Signature 500
