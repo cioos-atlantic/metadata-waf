@@ -1,0 +1,1148 @@
+<?xml version="1.0" ?><mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/2.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/2.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/2.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/2.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/2.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/2.0 https://standards.iso.org/iso/19115/-3/mds/2.0/mds.xsd">	
+
+  	<mdb:metadataIdentifier>		
+    		<mcc:MD_Identifier>			
+      			<mcc:authority>				
+        				<cit:CI_Citation>					
+            					<cit:title>							
+              						<gco:CharacterString>ca.cioos</gco:CharacterString>						
+            					</cit:title>						
+          				</cit:CI_Citation>				
+      			</mcc:authority>			
+      			<mcc:code>				
+        				<gco:CharacterString>0ae8fbae-caae-4c9a-8c51-6d04c8141e20</gco:CharacterString>				
+      			</mcc:code>			
+    		</mcc:MD_Identifier>		
+  	</mdb:metadataIdentifier>	
+  	<mdb:defaultLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:defaultLocale>	
+  	<mdb:metadataScope>		
+    		<mdb:MD_MetadataScope>			
+      			<mdb:resourceScope>				
+        				<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>				
+      			</mdb:resourceScope>			
+    		</mdb:MD_MetadataScope>		
+  	</mdb:metadataScope>	
+      	<mdb:contact>		
+              		<cit:CI_Responsibility>			
+  			<cit:role>				
+    				<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="custodian"/>				
+  			</cit:role>			
+  			<cit:party>				
+    				<cit:CI_Organisation>					
+    
+      					<cit:name>						
+        						<gco:CharacterString>Marine Ecology Lab at St. Francis Xavier University</gco:CharacterString>						
+      					</cit:name>					
+      					<cit:contactInfo>						
+        						<cit:CI_Contact>							
+          							<cit:phone>								
+            								<cit:CI_Telephone>									
+              									<cit:number>										
+              										<gco:CharacterString/>										
+              									</cit:number>									
+            								</cit:CI_Telephone>								
+          							</cit:phone>							
+          							<cit:address>								
+            								<cit:CI_Address>									
+              
+      									<cit:deliveryPoint>										
+        										<gco:CharacterString>2320 Notre Dame Ave.</gco:CharacterString>										
+      									</cit:deliveryPoint>									
+              
+      									<cit:city>										
+        										<gco:CharacterString>Antigonish</gco:CharacterString>										
+      									</cit:city>									
+              
+      									<cit:country>										
+        										<gco:CharacterString>Canada</gco:CharacterString>										
+      									</cit:country>									
+              									<cit:electronicMailAddress>										
+                										<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>										
+              									</cit:electronicMailAddress>									
+            								</cit:CI_Address>								
+          							</cit:address>							
+          							<cit:onlineResource>								
+            								<cit:CI_OnlineResource>									
+              									<cit:linkage>										
+                										<gco:CharacterString>www.MarineEcologyLab.com</gco:CharacterString>										
+              									</cit:linkage>									
+              									<cit:protocol>										
+                										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+              									</cit:protocol>									
+              									<cit:function>										
+                										<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>										
+              									</cit:function>									
+            								</cit:CI_OnlineResource>								
+          							</cit:onlineResource>							
+        						</cit:CI_Contact>						
+      					</cit:contactInfo>					
+      
+      					<cit:individual>						
+        						<cit:CI_Individual>							
+    
+      							<cit:name>								
+        								<gco:CharacterString>Ricardo A. Scrosati</gco:CharacterString>								
+      							</cit:name>							
+    							<cit:contactInfo>								
+      								<cit:CI_Contact>									
+        									<cit:address>										
+          										<cit:CI_Address>											
+            
+      											<cit:deliveryPoint>												
+        												<gco:CharacterString/>												
+      											</cit:deliveryPoint>											
+            
+      											<cit:city>												
+        												<gco:CharacterString/>												
+      											</cit:city>											
+            
+      											<cit:country>												
+        												<gco:CharacterString/>												
+      											</cit:country>											
+            											<cit:electronicMailAddress>												
+              												<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>												
+            											</cit:electronicMailAddress>											
+          										</cit:CI_Address>										
+        									</cit:address>									
+      								</cit:CI_Contact>								
+    							</cit:contactInfo>							
+    
+      							<cit:positionName>								
+        								<gco:CharacterString>Professor</gco:CharacterString>								
+      							</cit:positionName>							
+						</cit:CI_Individual>						
+
+      					</cit:individual>					
+    				</cit:CI_Organisation>				
+
+  			</cit:party>			
+		</cit:CI_Responsibility>		
+
+      	</mdb:contact>	
+
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:DateTime>2022-02-10T16:52:04.280Z</gco:DateTime>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:Date>2022-02-10</gco:Date>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>ISO 19115-1 Geographic information - Metadata</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+        				<gco:CharacterString>First Edition 2014-04-01</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>ISO 19115-2 Geographic information - Metadata</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+        				<gco:CharacterString>Second Edition 2019-01</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+          				<gco:CharacterString>ISO 19115-1 Geographic Information - Metadata Amendment 1</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+          				<gco:CharacterString>2018-02</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataProfile>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>Canadian Integrated Ocean Observing System Metadata Profile of ISO 19115</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:date>				
+        				<cit:CI_Date>					
+          					<cit:date>						
+            						<gco:Date>2019-11-06</gco:Date>						
+          					</cit:date>					
+          					<cit:dateType>						
+            						<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>						
+          					</cit:dateType>					
+        				</cit:CI_Date>				
+      			</cit:date>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataProfile>	
+  	<mdb:otherLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:otherLocale>	
+  	<mdb:otherLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:otherLocale>	
+  	<mdb:identificationInfo>		
+    		<mri:MD_DataIdentification>			
+      			<mri:citation>				
+        				<cit:CI_Citation>					
+          
+      					<cit:title xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>Intertidal Temperature from Coastal Nova Scotia</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Température Intertidale depuis la Côte de la Nouvelle-Écosse</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</cit:title>					
+
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2014-04-14</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2020-06-10</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+          					<cit:identifier>						
+            						<mcc:MD_Identifier>							
+                							<mcc:code>								
+                  								<gco:CharacterString>10.5194/essd-12-2695-2020</gco:CharacterString>								
+                							</mcc:code>							
+            						</mcc:MD_Identifier>						
+    		  					</cit:identifier>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="owner"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Marine Ecology Lab at St. Francis Xavier University</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>2320 Notre Dame Ave.</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Antigonish</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>www.MarineEcologyLab.com</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Ricardo A. Scrosati</gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Professor</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Marine Ecology Lab at St. Francis Xavier University</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>2320 Notre Dame Ave.</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Antigonish</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>www.MarineEcologyLab.com</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Ricardo A. Scrosati</gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Professor</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="originator"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Marine Ecology Lab at St. Francis Xavier University</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>2320 Notre Dame Ave.</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Antigonish</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>www.MarineEcologyLab.com</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Ricardo A. Scrosati</gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Professor</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="principalInvestigator"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Marine Ecology Lab at St. Francis Xavier University</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>2320 Notre Dame Ave.</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Antigonish</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>www.MarineEcologyLab.com</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Ricardo A. Scrosati</gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Professor</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+
+        				</cit:CI_Citation>				
+      			</mri:citation>			
+      
+      			<mri:abstract xsi:type="lan:PT_FreeText_PropertyType">				
+        				<gco:CharacterString>Intertidal habitats are unique because they spend alternating periods of submergence (at high tide) and emergence (at low tide) every day. Thus, intertidal temperature is mainly driven by sea surface temperature (SST) during high tides and by air temperature during low tides. Because of that, the switch from high to low tides and viceversa can determine rapid changes in intertidal thermal conditions. On cold-temperate shores, which are characterized by cold winters and warm summers, intertidal thermal conditions can also change considerably with seasons. Despite this uniqueness, knowledge on intertidal temperature dynamics is more limited than for open seas. This is especially true for wave-exposed intertidal habitats, which, in addition to the unique properties described above, are also characterized by wave splash being able to moderate intertidal thermal extremes during low tides. To address this knowledge gap, we measured temperature every half hour during a period of 5.5 years (2014-2019) at nine wave-exposed rocky intertidal locations along the Atlantic coast of Nova Scotia, Canada. This data set is freely available from the figshare online repository (Scrosati and Ellrich, 2020a; https://doi.org/10.6084/m9.figshare.12462065.v1). We summarize the main properties of this data set by focusing on location-wise values of daily maximum and minimum temperature and daily SST, which we make freely available as a separate data set in figshare (Scrosati et al., 2020; https://doi.org/10.6084/m9.figshare.12453374.v1). Overall, this cold-temperate coast exhibited a wide annual SST range, from a lowest overall value of -1.8 °C in winter to a highest overall value of 22.8 °C in summer. In addition, the latitudinal SST trend along this coast experienced a reversal from winter (when SST increased southwards) to summer (when SST decreased southwards), seemingly driven by alongshore differences in summer coastal upwelling. Daily temperature maxima and minima were more extreme, as expected from their occurrence during low tides, ranging from a lowest overall value of -16.3 °C in winter to a highest overall value of 41.2 °C in summer. Daily maximum temperature in summer varied little along the coast, while daily minimum temperature in winter increased southwards. This data set is the first of its kind for the Atlantic Canadian coast and exemplifies in detail how intertidal temperature varies in wave-exposed environments on a cold-temperate coast.</gco:CharacterString>				
+          				<lan:PT_FreeText>					
+            					<lan:textGroup>						
+              						<lan:LocalisedCharacterString locale="#fr">Les habitats intertidaux sont uniques car ils passent chaque jour des périodes alternées de submersion (à marée haute) et d'émergence (à marée basse). Ainsi, la température intertidale est principalement déterminée par la température de surface de la mer (SST) pendant les marées hautes et par la température de l'air pendant les marées basses. Pour cette raison, le passage des marées hautes aux marées basses et vice-versa peut déterminer des changements rapides des conditions thermiques intertidales. Sur les côtes tempérées froides, caractérisées par des hivers froids et des étés chauds, les conditions thermiques intertidales peuvent également changer considérablement avec les saisons. Malgré ce caractère unique, les connaissances sur la dynamique de la température intertidale sont plus limitées que pour la haute mer. Cela est particulièrement vrai pour les habitats intertidaux exposés aux vagues, qui, outre les propriétés uniques décrites ci-dessus, sont également caractérisés par des éclaboussures de vagues capables de modérer les extrêmes thermiques intertidaux pendant les marées basses. Pour combler cette lacune dans les connaissances, nous avons mesuré la température toutes les demi-heures pendant une période de 5,5 ans (2014-2019) à neuf sites intertidaux rocheux exposés aux vagues le long de la côte atlantique de la Nouvelle-Écosse, au Canada. Cet ensemble de données est disponible gratuitement à partir du référentiel en ligne figshare (Scrosati et Ellrich, 2020a ; https://doi.org/10.6084/m9.figshare.12462065.v1). Nous résumons les principales propriétés de cet ensemble de données en nous concentrant sur les valeurs localisées de la température maximale et minimale quotidienne et de la SST quotidienne, que nous rendons disponibles gratuitement en tant qu'ensemble de données distinct dans figshare (Scrosati et al., 2020 ; https://doi.org/10.6084/m9.figshare.12453374.v1). Dans l'ensemble, cette côte tempérée froide présentait une large plage annuelle de TSM, allant d'une valeur globale la plus basse de -1,8 °C en hiver à une valeur globale la plus élevée de 22,8 °C en été. De plus, la tendance latitudinale du SST le long de cette côte a connu un renversement entre l'hiver (lorsque la SST a augmenté vers le sud) et l'été (lorsque la SST a diminué vers le sud), apparemment en raison des différences le long des côtes dans la remontée d'eau côtière estivale. Les maxima et minimums de température quotidiens étaient plus extrêmes, comme on pouvait s'y attendre en raison de leur présence pendant les marées basses, allant d'une valeur globale minimale de -16,3 °C en hiver à une valeur globale la plus élevée de 41,2 °C en été. La température maximale quotidienne en été variait peu le long de la côte, tandis que la température minimale quotidienne en hiver augmentait vers le sud. Cet ensemble de données est le premier du genre pour la côte canadienne atlantique et illustre en détail comment la température intertidale varie dans les environnements exposés aux vagues sur une côte tempérée froide.</lan:LocalisedCharacterString>						
+            					</lan:textGroup>					
+          				</lan:PT_FreeText>				
+      			</mri:abstract>			
+      
+      			<mri:credit>				
+        				<gco:CharacterString/>				
+      			</mri:credit>			
+      			<mri:status>				
+        				<mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="completed">
+        </mcc:MD_ProgressCode>				
+      			</mri:status>			
+
+      			<mri:topicCategory>				
+        				<mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>				
+      			</mri:topicCategory>			
+
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:geographicElement>						
+            						<gex:EX_BoundingPolygon>							
+              							<gex:extentTypeCode>								
+                								<gco:Boolean>true</gco:Boolean>								
+              							</gex:extentTypeCode>							
+              							<gex:polygon>								
+                								<gml:Polygon gml:id="a1">									
+                  									<gml:exterior>										
+                    										<gml:LinearRing>											
+                      											<gml:coordinates>
+                        -65.81,43.54 -65.62,43.24 -60.87,45.22 -61.10,45.45 -65.81,43.54
+                      </gml:coordinates>											
+                    										</gml:LinearRing>										
+                  									</gml:exterior>									
+                								</gml:Polygon>								
+              							</gex:polygon>							
+            						</gex:EX_BoundingPolygon>						
+          					</gex:geographicElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:verticalElement>						
+            						<gex:EX_VerticalExtent>							
+              							<gex:minimumValue>								
+                								<gco:Real>0.0</gco:Real>								
+              							</gex:minimumValue>							
+              							<gex:maximumValue>								
+                								<gco:Real>0.0</gco:Real>								
+              							</gex:maximumValue>							
+              							<gex:verticalCRSId>								
+                								<mrs:MD_ReferenceSystem>									
+                  									<mrs:referenceSystemIdentifier>										
+                    										<mcc:MD_Identifier>											
+                      											<mcc:code>												
+                        												<gco:CharacterString>5831</gco:CharacterString>												
+                      											</mcc:code>											
+                      											<mcc:codeSpace>												
+                        												<gco:CharacterString>EPSG</gco:CharacterString>												
+                      											</mcc:codeSpace>											
+                      											<mcc:version>												
+                        												<gco:CharacterString>2012-08-10</gco:CharacterString>												
+                      											</mcc:version>											
+                      											<mcc:description>												
+                        												<gco:CharacterString>EPSG::5831 - Instantaneous Water Level depth - Depth relative to instantaneous water level uncorrected for tide. Not specific to any location or epoch.</gco:CharacterString>												
+                      											</mcc:description>											
+                    										</mcc:MD_Identifier>										
+                  									</mrs:referenceSystemIdentifier>									
+                  									<mrs:referenceSystemType>										
+                    										<mrs:MD_ReferenceSystemTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ReferenceSystemTypeCode" codeListValue="vertical">vertical</mrs:MD_ReferenceSystemTypeCode>										
+                  									</mrs:referenceSystemType>									
+                								</mrs:MD_ReferenceSystem>								
+              							</gex:verticalCRSId>							
+              							<gex:verticalCRS xlink:href="http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:crs:EPSG::5831" xlink:title="instantaneous water level depth" xlink:actuate="onRequest"/>							
+            						</gex:EX_VerticalExtent>						
+          					</gex:verticalElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:temporalElement>						
+            						<gex:EX_TemporalExtent>							
+              							<gex:extent>								
+                								<gml:TimePeriod gml:id="time_period">									
+                  									<gml:beginPosition>2014-04-14T15:00:00.000Z</gml:beginPosition>									
+                  									<gml:endPosition>2019-10-26T15:00:00.000Z</gml:endPosition>									
+                								</gml:TimePeriod>								
+              							</gex:extent>							
+            						</gex:EX_TemporalExtent>						
+          					</gex:temporalElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:resourceMaintenance>				
+        				<mmi:MD_MaintenanceInformation>					
+          					<mmi:maintenanceAndUpdateFrequency>						
+            						<mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>						
+          					</mmi:maintenanceAndUpdateFrequency>					
+          
+      					<mmi:maintenanceNote>						
+        						<gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form</gco:CharacterString>						
+      					</mmi:maintenanceNote>					
+        				</mmi:MD_MaintenanceInformation>				
+      			</mri:resourceMaintenance>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          					<mri:keyword>						
+            						<gco:CharacterString>Oceans</gco:CharacterString>						
+          					</mri:keyword>					
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>Government of Canada Core Subject Thesaurus</gco:CharacterString>								
+              							</cit:title>							
+              							<cit:date>								
+                								<cit:CI_Date>									
+                  									<cit:date>										
+                    										<gco:Date>2016-10-13</gco:Date>										
+                  									</cit:date>									
+                  									<cit:dateType>										
+                    										<cit:CI_DateTypeCode codeList="http://wiki.esipfed.org/index.php/ISO_19115-3_Codelists#CI_DateTypeCode" codeListValue="revision"/>										
+                  									</cit:dateType>									
+                								</cit:CI_Date>								
+              							</cit:date>							
+              							<cit:edition>								
+                								<gco:CharacterString>N/A</gco:CharacterString>								
+              							</cit:edition>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          
+              					<mri:keyword>						
+                    						<gco:CharacterString>intertidal</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>temperature</gco:CharacterString>						
+              					</mri:keyword>					
+          
+  
+
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>default</gco:CharacterString>								
+              							</cit:title>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          
+              					<mri:keyword>						
+                    						<gco:CharacterString>seaSurfaceTemperature</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>other</gco:CharacterString>						
+              					</mri:keyword>					
+          
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Température de surface</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Autre</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+  
+
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>eov</gco:CharacterString>								
+              							</cit:title>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+
+      			<mri:resourceConstraints>				
+        				<mco:MD_LegalConstraints>					
+          					<mco:reference>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>{'en': 'Creative Commons Attribution 4.0 Attribution'}</gco:CharacterString>								
+              							</cit:title>							
+              							<cit:identifier>								
+                								<mcc:MD_Identifier>									
+                  									<mcc:code>										
+                    										<gco:CharacterString>CC-BY-4.0</gco:CharacterString>										
+                  									</mcc:code>									
+                								</mcc:MD_Identifier>								
+              							</cit:identifier>							
+              							<cit:onlineResource>								
+                								<cit:CI_OnlineResource>									
+                  									<cit:linkage>										
+                    										<gco:CharacterString>https://creativecommons.org/licenses/by/4.0</gco:CharacterString>										
+                  									</cit:linkage>									
+                  									<cit:protocol>										
+                    										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+                  									</cit:protocol>									
+                								</cit:CI_OnlineResource>								
+              							</cit:onlineResource>							
+            						</cit:CI_Citation>						
+          					</mco:reference>					
+          					<mco:useConstraints>						
+            						<mco:MD_RestrictionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_RestrictionCode" codeListValue="licence"/>						
+          					</mco:useConstraints>					
+        				</mco:MD_LegalConstraints>				
+      			</mri:resourceConstraints>			
+      			<mri:resourceConstraints>				
+        				<mco:MD_Constraints>					
+           
+      					<mco:useLimitation xsi:type="lan:PT_FreeText_PropertyType">						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Aucun</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</mco:useLimitation>					
+        				</mco:MD_Constraints>				
+      			</mri:resourceConstraints>			
+
+      
+      			<mri:supplementalInformation>				
+        				<gco:CharacterString/>				
+      			</mri:supplementalInformation>			
+    		</mri:MD_DataIdentification>		
+  	</mdb:identificationInfo>	
+  	<mdb:distributionInfo>		
+    		<mrd:MD_Distribution>			
+      			<mrd:distributor>				
+        				<mrd:MD_Distributor>					
+          					<mrd:distributorContact>						
+        						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="distributor"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Marine Ecology Lab at St. Francis Xavier University</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>2320 Notre Dame Ave.</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Antigonish</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>www.MarineEcologyLab.com</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Ricardo A. Scrosati</gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>rscrosat@stfx.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Professor</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+            					</mrd:distributorContact>					
+        				</mrd:MD_Distributor>				
+      			</mrd:distributor>			
+
+
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://essd.copernicus.org/articles/12/2695/2020/</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>Scrosati, R.A., J.A. Ellrich &amp; M.J. Freeman (2020). Half-hourly changes in intertidal temperature at nine wave-exposed locations along the Atlantic Canadian coast: a 5.5-year study. Earth System Science Data 12: 2695-2703.</gco:CharacterString>								
+              							</cit:name>							
+              
+      							<cit:description xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Article</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">Article</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/marine_ecology_lab_c17d_14ed_c2f8.html</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>								
+              							</cit:name>							
+              							<cit:description>								
+                								<gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>								
+              							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+
+    		</mrd:MD_Distribution>		
+  	</mdb:distributionInfo>	
+  	<mdb:metadataMaintenance>		
+    		<mmi:MD_MaintenanceInformation>			
+      			<mmi:maintenanceAndUpdateFrequency>				
+        				<mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>				
+      			</mmi:maintenanceAndUpdateFrequency>			
+    		</mmi:MD_MaintenanceInformation>		
+  	</mdb:metadataMaintenance>	
+  	<mdb:acquisitionInformation>		
+    		<mac:MI_AcquisitionInformation>			
+      			<mac:scope>				
+        				<mcc:MD_Scope>					
+          					<mcc:level>						
+            						<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>						
+          					</mcc:level>					
+        				</mcc:MD_Scope>				
+      			</mac:scope>			
+      			<mac:platform>				
+        				<mac:MI_Platform>					
+          					<mac:identifier>						
+            						<mcc:MD_Identifier>							
+              							<mcc:authority>								
+                								<cit:CI_Citation>									
+                  
+      									<cit:title>										
+        										<gco:CharacterString/>										
+      									</cit:title>									
+                								</cit:CI_Citation>								
+              							</mcc:authority>							
+              							<mcc:code>								
+                								<gco:CharacterString>I have no idea</gco:CharacterString>								
+              							</mcc:code>							
+            						</mcc:MD_Identifier>						
+          					</mac:identifier>					
+          
+      					<mac:description xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>Hobo loggers</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Enregistreurs Hobo</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</mac:description>					
+
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Onset</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>Hobo Pendant logger</gco:CharacterString>										
+          									</mcc:code>									
+                   
+            
+      									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
+        										<gco:CharacterString>Hobo Pendant logger</gco:CharacterString>										
+          										<lan:PT_FreeText>											
+            											<lan:textGroup>												
+              												<lan:LocalisedCharacterString locale="#fr">Enregistreur suspendu Hobo</lan:LocalisedCharacterString>												
+            											</lan:textGroup>											
+          										</lan:PT_FreeText>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Hobo Pendant logger</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">Enregistreur suspendu Hobo</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+        				</mac:MI_Platform>				
+      			</mac:platform>			
+    		</mac:MI_AcquisitionInformation>		
+  	</mdb:acquisitionInformation>	
+
+</mdb:MD_Metadata>
