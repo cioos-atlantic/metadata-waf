@@ -1,0 +1,1497 @@
+<?xml version="1.0" ?><mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/2.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/2.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/2.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/2.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/2.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/2.0 https://standards.iso.org/iso/19115/-3/mds/2.0/mds.xsd">	
+
+  	<mdb:metadataIdentifier>		
+    		<mcc:MD_Identifier>			
+      			<mcc:authority>				
+        				<cit:CI_Citation>					
+            					<cit:title>							
+              						<gco:CharacterString>org.coastalaction</gco:CharacterString>						
+            					</cit:title>						
+          				</cit:CI_Citation>				
+      			</mcc:authority>			
+      			<mcc:code>				
+        				<gco:CharacterString>ec2b8fbb-5482-46e2-af71-9e85d58b8922</gco:CharacterString>				
+      			</mcc:code>			
+    		</mcc:MD_Identifier>		
+  	</mdb:metadataIdentifier>	
+  	<mdb:defaultLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:defaultLocale>	
+  	<mdb:metadataScope>		
+    		<mdb:MD_MetadataScope>			
+      			<mdb:resourceScope>				
+        				<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>				
+      			</mdb:resourceScope>			
+    		</mdb:MD_MetadataScope>		
+  	</mdb:metadataScope>	
+      	<mdb:contact>		
+              		<cit:CI_Responsibility>			
+  			<cit:role>				
+    				<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>				
+  			</cit:role>			
+  			<cit:party>				
+    				<cit:CI_Organisation>					
+    
+      					<cit:name>						
+        						<gco:CharacterString>Coastal Action</gco:CharacterString>						
+      					</cit:name>					
+      					<cit:contactInfo>						
+        						<cit:CI_Contact>							
+          							<cit:phone>								
+            								<cit:CI_Telephone>									
+              									<cit:number>										
+              										<gco:CharacterString/>										
+              									</cit:number>									
+            								</cit:CI_Telephone>								
+          							</cit:phone>							
+          							<cit:address>								
+            								<cit:CI_Address>									
+              
+      									<cit:deliveryPoint>										
+        										<gco:CharacterString>Mahone Bay Centre, 45 School Street, PO Box 730</gco:CharacterString>										
+      									</cit:deliveryPoint>									
+              
+      									<cit:city>										
+        										<gco:CharacterString>Mahone Bay, NS</gco:CharacterString>										
+      									</cit:city>									
+              
+      									<cit:country>										
+        										<gco:CharacterString>Canada</gco:CharacterString>										
+      									</cit:country>									
+              									<cit:electronicMailAddress>										
+                										<gco:CharacterString>info@coastalaction.org</gco:CharacterString>										
+              									</cit:electronicMailAddress>									
+            								</cit:CI_Address>								
+          							</cit:address>							
+          							<cit:onlineResource>								
+            								<cit:CI_OnlineResource>									
+              									<cit:linkage>										
+                										<gco:CharacterString>http://coastalaction.org/</gco:CharacterString>										
+              									</cit:linkage>									
+              									<cit:protocol>										
+                										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+              									</cit:protocol>									
+              									<cit:function>										
+                										<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>										
+              									</cit:function>									
+            								</cit:CI_OnlineResource>								
+          							</cit:onlineResource>							
+        						</cit:CI_Contact>						
+      					</cit:contactInfo>					
+      
+      					<cit:individual>						
+        						<cit:CI_Individual>							
+    
+      							<cit:name>								
+        								<gco:CharacterString>Ariel Smith</gco:CharacterString>								
+      							</cit:name>							
+    							<cit:contactInfo>								
+      								<cit:CI_Contact>									
+        									<cit:address>										
+          										<cit:CI_Address>											
+            
+      											<cit:deliveryPoint>												
+        												<gco:CharacterString/>												
+      											</cit:deliveryPoint>											
+            
+      											<cit:city>												
+        												<gco:CharacterString/>												
+      											</cit:city>											
+            
+      											<cit:country>												
+        												<gco:CharacterString/>												
+      											</cit:country>											
+            											<cit:electronicMailAddress>												
+              												<gco:CharacterString>ariel@coastalaction.org</gco:CharacterString>												
+            											</cit:electronicMailAddress>											
+          										</cit:CI_Address>										
+        									</cit:address>									
+      								</cit:CI_Contact>								
+    							</cit:contactInfo>							
+    
+      							<cit:positionName>								
+        								<gco:CharacterString>Coastal &amp; Marine Team Lead</gco:CharacterString>								
+      							</cit:positionName>							
+						</cit:CI_Individual>						
+
+      					</cit:individual>					
+    				</cit:CI_Organisation>				
+
+  			</cit:party>			
+		</cit:CI_Responsibility>		
+
+      	</mdb:contact>	
+      	<mdb:contact>		
+              		<cit:CI_Responsibility>			
+  			<cit:role>				
+    				<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="custodian"/>				
+  			</cit:role>			
+  			<cit:party>				
+    				<cit:CI_Organisation>					
+    
+      					<cit:name>						
+        						<gco:CharacterString>Coastal Action</gco:CharacterString>						
+      					</cit:name>					
+      					<cit:contactInfo>						
+        						<cit:CI_Contact>							
+          							<cit:phone>								
+            								<cit:CI_Telephone>									
+              									<cit:number>										
+              										<gco:CharacterString/>										
+              									</cit:number>									
+            								</cit:CI_Telephone>								
+          							</cit:phone>							
+          							<cit:address>								
+            								<cit:CI_Address>									
+              
+      									<cit:deliveryPoint>										
+        										<gco:CharacterString>Mahone Bay Centre, 45 School Street, PO Box 730</gco:CharacterString>										
+      									</cit:deliveryPoint>									
+              
+      									<cit:city>										
+        										<gco:CharacterString>Mahone Bay, NS</gco:CharacterString>										
+      									</cit:city>									
+              
+      									<cit:country>										
+        										<gco:CharacterString>Canada</gco:CharacterString>										
+      									</cit:country>									
+              									<cit:electronicMailAddress>										
+                										<gco:CharacterString>info@coastalaction.org</gco:CharacterString>										
+              									</cit:electronicMailAddress>									
+            								</cit:CI_Address>								
+          							</cit:address>							
+          							<cit:onlineResource>								
+            								<cit:CI_OnlineResource>									
+              									<cit:linkage>										
+                										<gco:CharacterString>http://coastalaction.org/</gco:CharacterString>										
+              									</cit:linkage>									
+              									<cit:protocol>										
+                										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+              									</cit:protocol>									
+              									<cit:function>										
+                										<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>										
+              									</cit:function>									
+            								</cit:CI_OnlineResource>								
+          							</cit:onlineResource>							
+        						</cit:CI_Contact>						
+      					</cit:contactInfo>					
+      
+      					<cit:individual>						
+        						<cit:CI_Individual>							
+    
+      							<cit:name>								
+        								<gco:CharacterString>Alexa Goodman</gco:CharacterString>								
+      							</cit:name>							
+    							<cit:contactInfo>								
+      								<cit:CI_Contact>									
+        									<cit:address>										
+          										<cit:CI_Address>											
+            
+      											<cit:deliveryPoint>												
+        												<gco:CharacterString/>												
+      											</cit:deliveryPoint>											
+            
+      											<cit:city>												
+        												<gco:CharacterString/>												
+      											</cit:city>											
+            
+      											<cit:country>												
+        												<gco:CharacterString/>												
+      											</cit:country>											
+            											<cit:electronicMailAddress>												
+              												<gco:CharacterString>alexa@coastalaction.org</gco:CharacterString>												
+            											</cit:electronicMailAddress>											
+          										</cit:CI_Address>										
+        									</cit:address>									
+      								</cit:CI_Contact>								
+    							</cit:contactInfo>							
+    
+      							<cit:positionName>								
+        								<gco:CharacterString>Project Coordinator</gco:CharacterString>								
+      							</cit:positionName>							
+						</cit:CI_Individual>						
+
+      					</cit:individual>					
+    				</cit:CI_Organisation>				
+
+  			</cit:party>			
+		</cit:CI_Responsibility>		
+
+      	</mdb:contact>	
+
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:DateTime>2022-03-02T17:27:29.816Z</gco:DateTime>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:Date>2022-03-02</gco:Date>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>ISO 19115-1 Geographic information - Metadata</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+        				<gco:CharacterString>First Edition 2014-04-01</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>ISO 19115-2 Geographic information - Metadata</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+        				<gco:CharacterString>Second Edition 2019-01</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+          				<gco:CharacterString>ISO 19115-1 Geographic Information - Metadata Amendment 1</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+          				<gco:CharacterString>2018-02</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataProfile>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>Canadian Integrated Ocean Observing System Metadata Profile of ISO 19115</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:date>				
+        				<cit:CI_Date>					
+          					<cit:date>						
+            						<gco:Date>2019-11-06</gco:Date>						
+          					</cit:date>					
+          					<cit:dateType>						
+            						<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>						
+          					</cit:dateType>					
+        				</cit:CI_Date>				
+      			</cit:date>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataProfile>	
+  	<mdb:otherLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:otherLocale>	
+  	<mdb:otherLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:otherLocale>	
+  	<mdb:identificationInfo>		
+    		<mri:MD_DataIdentification>			
+      			<mri:citation>				
+        				<cit:CI_Citation>					
+          
+      					<cit:title xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>Atlantic Canada Marine Plastic Research Project (2017-2020)</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Projet de recherche sur les plastiques marins du Canada atlantique (2017-2020)</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</cit:title>					
+
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2018-06-11</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2020-07-30</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2020-08-13</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="owner"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Coastal Action</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>Mahone Bay Centre, 45 School Street, PO Box 730</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Mahone Bay, NS</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>info@coastalaction.org</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>http://coastalaction.org/</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Alexa Goodman</gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>alexa@coastalaction.org</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Project Coordinator</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Coastal Action</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>Mahone Bay Centre, 45 School Street, PO Box 730</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Mahone Bay, NS</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>info@coastalaction.org</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>http://coastalaction.org/</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Alexa Goodman</gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>alexa@coastalaction.org</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Project Coordinator</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="collaborator"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Clean Annapolis River Project (CARP)</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>Clean Annapolis River Project, 314 St. George Street, P.O. Box 395, B0S 1A0</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Annapolis Royal, NS</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>carp@annapolisriver.ca</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>https://www.annapolisriver.ca/</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="collaborator"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>ACAP Humber Arm</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>P.O. Box 564, A2H 6E6</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Corner Brook, NL</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>speddle@acaphumberarm.com</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>http://oceansadvance.net/member/acap-humber-arm/</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="contributor"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Civic Laboratory for Environmental Action Research (CLEAR)</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>Civic Laboratory for Environmental Action Research, SN1107A (Science Building), Memorial University of Newfoundland</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>St. John's, NL</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>mliboiron@mun.ca</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>https://civiclaboratory.nl/</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="contributor"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Surface Science Western Laboratory (University of Western Ontario)</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>The University of Western Ontario, Surface Science Western, 999 Collip Circle, P.O. Box 12, N6G 0J3</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>London, ON</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>info@surfacesciencewestern.com</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>https://www.surfacesciencewestern.com/</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="funder"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Environment and Climate Change Canada (ECCC)</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>Fontaine Building 12th floor, 200 Sacré-Coeur Blvd</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Gatineau, QC</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>ec.enviroinfo.ec@canada.ca</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>https://www.canada.ca/en/environment-climate-change.html</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+
+        				</cit:CI_Citation>				
+      			</mri:citation>			
+      
+      			<mri:abstract xsi:type="lan:PT_FreeText_PropertyType">				
+        				<gco:CharacterString>The purpose of the Atlantic Canada Microplastic Research Project (2017-2020) is to determine the quantity of microplastics in 3 near-shore communities of Atlantic Canada.  Data will be used to better inform the conversation and solutions around plastic pollution in the region.  The project is funded by Environment and Climate Change Canada and is in partnership with Clean Annapolis River Project (CARP), ACAP Humber Arm, and Dr. Max Liboiron at the Civic Laboratory for Environmental Action Research (CLEAR) out of Memorial University of Newfoundland (MUN).  Dr.  Max Liboiron is our chief academic advisor on the 3-year project, assisting with project development, methods and protocol, and sampling design.  The project included sampling both surface water and beach sediment at all three study locations.  The surface water trawling equipment was built using CLEAR''s low-aquatic debris instrument (LADI) design.  Data reports are available for 2018 surface water and shoreline sediment results. Remaining 2018 sediment results and 2019 hot-spot data will be available soon.</gco:CharacterString>				
+          				<lan:PT_FreeText>					
+            					<lan:textGroup>						
+              						<lan:LocalisedCharacterString locale="#fr">Le but du Projet de recherche sur les microplastiques du Canada atlantique (2017-2020) est de déterminer la quantité de microplastiques dans trois collectivités côtières du Canada atlantique. Les données serviront à mieux éclairer la conversation et à trouver des solutions concernant la pollution par les plastiques dans la région. Le projet est financé par Environnement et Changement climatique Canada et est en partenariat avec le projet Clean Annapolis River Project (CARP), l'ACAP Humber Arm et le Dr Max Liboiron du Civic Laboratory for Environmental Action Research (CLEAR) de l'Université Memorial de Terre-Neuve (MUN). Le Dr Max Liboiron est notre conseiller académique en chef dans le cadre du projet de 3 ans. Il aide à l'élaboration du projet, aux méthodes et au protocole ainsi qu'à la conception de l'échantillonnage. Le projet comprenait l'échantillonnage des eaux de surface et des sédiments de plage aux trois emplacements de l'étude. L'équipement de chalutage en eaux de surface a été construit à l'aide de la conception de l'instrument à faible débris aquatiques (LADI) de CLEAR. Des rapports de données sont disponibles pour les résultats des eaux de surface et des sédiments riverains de 2018. Les résultats restants de 2018 sur les sédiments et les données sur les points chaud de 2019 seront bientôt disponibles.</lan:LocalisedCharacterString>						
+            					</lan:textGroup>					
+          				</lan:PT_FreeText>				
+      			</mri:abstract>			
+      
+      			<mri:credit>				
+        				<gco:CharacterString/>				
+      			</mri:credit>			
+      			<mri:status>				
+        				<mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="completed">
+        </mcc:MD_ProgressCode>				
+      			</mri:status>			
+
+      			<mri:topicCategory>				
+        				<mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>				
+      			</mri:topicCategory>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:geographicElement>						
+            						<gex:EX_GeographicBoundingBox>							
+              							<gex:extentTypeCode>								
+                								<gco:Boolean>true</gco:Boolean>								
+              							</gex:extentTypeCode>							
+              							<gex:westBoundLongitude>								
+                								<gco:Decimal>-66.02602865</gco:Decimal>								
+              							</gex:westBoundLongitude>							
+              							<gex:eastBoundLongitude>								
+                								<gco:Decimal>-57.71117735</gco:Decimal>								
+              							</gex:eastBoundLongitude>							
+              							<gex:southBoundLatitude>								
+                								<gco:Decimal>43.808748443</gco:Decimal>								
+              							</gex:southBoundLatitude>							
+              							<gex:northBoundLatitude>								
+                								<gco:Decimal>49.536757117</gco:Decimal>								
+              							</gex:northBoundLatitude>							
+            						</gex:EX_GeographicBoundingBox>						
+          					</gex:geographicElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:verticalElement>						
+            						<gex:EX_VerticalExtent>							
+              							<gex:minimumValue>								
+                								<gco:Real>0.0</gco:Real>								
+              							</gex:minimumValue>							
+              							<gex:maximumValue>								
+                								<gco:Real>0.0</gco:Real>								
+              							</gex:maximumValue>							
+              							<gex:verticalCRSId>								
+                								<mrs:MD_ReferenceSystem>									
+                  									<mrs:referenceSystemIdentifier>										
+                    										<mcc:MD_Identifier>											
+                      											<mcc:code>												
+                        												<gco:CharacterString>5831</gco:CharacterString>												
+                      											</mcc:code>											
+                      											<mcc:codeSpace>												
+                        												<gco:CharacterString>EPSG</gco:CharacterString>												
+                      											</mcc:codeSpace>											
+                      											<mcc:version>												
+                        												<gco:CharacterString>2012-08-10</gco:CharacterString>												
+                      											</mcc:version>											
+                      											<mcc:description>												
+                        												<gco:CharacterString>EPSG::5831 - Instantaneous Water Level depth - Depth relative to instantaneous water level uncorrected for tide. Not specific to any location or epoch.</gco:CharacterString>												
+                      											</mcc:description>											
+                    										</mcc:MD_Identifier>										
+                  									</mrs:referenceSystemIdentifier>									
+                  									<mrs:referenceSystemType>										
+                    										<mrs:MD_ReferenceSystemTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ReferenceSystemTypeCode" codeListValue="vertical">vertical</mrs:MD_ReferenceSystemTypeCode>										
+                  									</mrs:referenceSystemType>									
+                								</mrs:MD_ReferenceSystem>								
+              							</gex:verticalCRSId>							
+              							<gex:verticalCRS xlink:href="http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:crs:EPSG::5831" xlink:title="instantaneous water level depth" xlink:actuate="onRequest"/>							
+            						</gex:EX_VerticalExtent>						
+          					</gex:verticalElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:temporalElement>						
+            						<gex:EX_TemporalExtent>							
+              							<gex:extent>								
+                								<gml:TimePeriod gml:id="time_period">									
+                  									<gml:beginPosition>2018-06-11T14:30:00.000Z</gml:beginPosition>									
+                  									<gml:endPosition>2018-10-31T14:30:00.000Z</gml:endPosition>									
+                								</gml:TimePeriod>								
+              							</gex:extent>							
+            						</gex:EX_TemporalExtent>						
+          					</gex:temporalElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:resourceMaintenance>				
+        				<mmi:MD_MaintenanceInformation>					
+          					<mmi:maintenanceAndUpdateFrequency>						
+            						<mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>						
+          					</mmi:maintenanceAndUpdateFrequency>					
+          
+      					<mmi:maintenanceNote>						
+        						<gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form</gco:CharacterString>						
+      					</mmi:maintenanceNote>					
+        				</mmi:MD_MaintenanceInformation>				
+      			</mri:resourceMaintenance>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          					<mri:keyword>						
+            						<gco:CharacterString>Oceans</gco:CharacterString>						
+          					</mri:keyword>					
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>Government of Canada Core Subject Thesaurus</gco:CharacterString>								
+              							</cit:title>							
+              							<cit:date>								
+                								<cit:CI_Date>									
+                  									<cit:date>										
+                    										<gco:Date>2016-10-13</gco:Date>										
+                  									</cit:date>									
+                  									<cit:dateType>										
+                    										<cit:CI_DateTypeCode codeList="http://wiki.esipfed.org/index.php/ISO_19115-3_Codelists#CI_DateTypeCode" codeListValue="revision"/>										
+                  									</cit:dateType>									
+                								</cit:CI_Date>								
+              							</cit:date>							
+              							<cit:edition>								
+                								<gco:CharacterString>N/A</gco:CharacterString>								
+              							</cit:edition>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          
+              					<mri:keyword>						
+                    						<gco:CharacterString>sea currents</gco:CharacterString>						
+              					</mri:keyword>					
+          
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">courant marin</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+  
+
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>default</gco:CharacterString>								
+              							</cit:title>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          
+              					<mri:keyword>						
+                    						<gco:CharacterString>marineDebris</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>seaState</gco:CharacterString>						
+              					</mri:keyword>					
+          
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Débris marins</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">État de la mer</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+  
+
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>eov</gco:CharacterString>								
+              							</cit:title>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+
+      			<mri:resourceConstraints>				
+        				<mco:MD_LegalConstraints>					
+          					<mco:reference>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>{'en': 'Creative Commons Attribution 4.0 Attribution'}</gco:CharacterString>								
+              							</cit:title>							
+              							<cit:identifier>								
+                								<mcc:MD_Identifier>									
+                  									<mcc:code>										
+                    										<gco:CharacterString>CC-BY-4.0</gco:CharacterString>										
+                  									</mcc:code>									
+                								</mcc:MD_Identifier>								
+              							</cit:identifier>							
+              							<cit:onlineResource>								
+                								<cit:CI_OnlineResource>									
+                  									<cit:linkage>										
+                    										<gco:CharacterString>https://creativecommons.org/licenses/by/4.0</gco:CharacterString>										
+                  									</cit:linkage>									
+                  									<cit:protocol>										
+                    										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+                  									</cit:protocol>									
+                								</cit:CI_OnlineResource>								
+              							</cit:onlineResource>							
+            						</cit:CI_Citation>						
+          					</mco:reference>					
+          					<mco:useConstraints>						
+            						<mco:MD_RestrictionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_RestrictionCode" codeListValue="licence"/>						
+          					</mco:useConstraints>					
+        				</mco:MD_LegalConstraints>				
+      			</mri:resourceConstraints>			
+      			<mri:resourceConstraints>				
+        				<mco:MD_Constraints>					
+           
+      					<mco:useLimitation xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>We did not calibrate a particular instrument on this date/ other reasons for data quality issues that may affect reusability</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Nous n'avons pas étalonné un instrument particulier à cette date ni d'autres raisons pour lesquelles des problèmes de qualité des données pourraient avoir une incidence sur la réutilisation</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</mco:useLimitation>					
+        				</mco:MD_Constraints>				
+      			</mri:resourceConstraints>			
+
+      
+      			<mri:supplementalInformation>				
+        				<gco:CharacterString/>				
+      			</mri:supplementalInformation>			
+    		</mri:MD_DataIdentification>		
+  	</mdb:identificationInfo>	
+  	<mdb:distributionInfo>		
+    		<mrd:MD_Distribution>			
+      			<mrd:distributor>				
+        				<mrd:MD_Distributor>					
+          					<mrd:distributorContact>						
+        						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="distributor"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>CIOOS Atlantic</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>Steele Ocean Sciences Building, Dalhousie University 1355 Oxford St., P.O. Box 15000, B3H 4R2</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>Halifax, NS</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+              													<cit:electronicMailAddress>														
+                														<gco:CharacterString>info@cioosatlantic.ca</gco:CharacterString>														
+              													</cit:electronicMailAddress>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>https://cioosatlantic.ca/</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+            					</mrd:distributorContact>					
+        				</mrd:MD_Distributor>				
+      			</mrd:distributor>			
+
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/coastal_action_7471_9460_c025.html</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>								
+              							</cit:name>							
+              							<cit:description>								
+                								<gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>								
+              							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://www.coastalaction.org/microplastics.html</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>Project Website</gco:CharacterString>								
+              							</cit:name>							
+              
+      							<cit:description>								
+        								<gco:CharacterString/>								
+      							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://www.coastalaction.org/uploads/1/2/2/2/122203881/atlantic_canada_microplastic_research_project_-_2018_surface_water_report_-_may_8.pdf</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>2018 SURFACE WATER RESULTS SUMMARY</gco:CharacterString>								
+              							</cit:name>							
+              
+      							<cit:description>								
+        								<gco:CharacterString/>								
+      							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://www.coastalaction.org/uploads/1/2/2/2/122203881/atlantic_canada_microplastic_project_2018_sediment_report_summary.pdf</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>2018 SHORELINE SEDIMENT REPORT</gco:CharacterString>								
+              							</cit:name>							
+              
+      							<cit:description>								
+        								<gco:CharacterString/>								
+      							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+
+    		</mrd:MD_Distribution>		
+  	</mdb:distributionInfo>	
+  	<mdb:metadataMaintenance>		
+    		<mmi:MD_MaintenanceInformation>			
+      			<mmi:maintenanceAndUpdateFrequency>				
+        				<mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>				
+      			</mmi:maintenanceAndUpdateFrequency>			
+    		</mmi:MD_MaintenanceInformation>		
+  	</mdb:metadataMaintenance>	
+  	<mdb:acquisitionInformation>		
+    		<mac:MI_AcquisitionInformation>			
+      			<mac:scope>				
+        				<mcc:MD_Scope>					
+          					<mcc:level>						
+            						<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>						
+          					</mcc:level>					
+        				</mcc:MD_Scope>				
+      			</mac:scope>			
+      			<mac:platform>				
+        				<mac:MI_Platform>					
+          					<mac:identifier>						
+            						<mcc:MD_Identifier>							
+              							<mcc:authority>								
+                								<cit:CI_Citation>									
+                  
+      									<cit:title>										
+        										<gco:CharacterString/>										
+      									</cit:title>									
+                								</cit:CI_Citation>								
+              							</mcc:authority>							
+              							<mcc:code>								
+                								<gco:CharacterString>bay_of_fundy-humber_arm-lahave-lab_coastal_action</gco:CharacterString>								
+              							</mcc:code>							
+            						</mcc:MD_Identifier>						
+          					</mac:identifier>					
+          
+      					<mac:description xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>Multiple boats of different types for each location and a lab for analyzing the plastic samples</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Plusieurs bateaux de différents types pour chaque site et un laboratoire pour analyser les échantillons de plastique</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</mac:description>					
+
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>General Oceanics</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>flowmeter-bay_of_fundy</gco:CharacterString>										
+          									</mcc:code>									
+          									<mcc:version>										
+            										<gco:CharacterString>1.0</gco:CharacterString>										
+          									</mcc:version>									
+                   
+            
+      									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
+        										<gco:CharacterString>General Oceanics flowmeter with standard rotor</gco:CharacterString>										
+          										<lan:PT_FreeText>											
+            											<lan:textGroup>												
+              												<lan:LocalisedCharacterString locale="#fr">Débitmètre General Oceanics avec rotor standard</lan:LocalisedCharacterString>												
+            											</lan:textGroup>											
+          										</lan:PT_FreeText>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>2030r</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">2030r</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>General Oceanics</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>flowmeter-humber_arm</gco:CharacterString>										
+          									</mcc:code>									
+          									<mcc:version>										
+            										<gco:CharacterString>1.0</gco:CharacterString>										
+          									</mcc:version>									
+                   
+            
+      									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
+        										<gco:CharacterString>General Oceanics flowmeter with standard rotor</gco:CharacterString>										
+          										<lan:PT_FreeText>											
+            											<lan:textGroup>												
+              												<lan:LocalisedCharacterString locale="#fr">Débitmètre General Oceanics avec rotor standard</lan:LocalisedCharacterString>												
+            											</lan:textGroup>											
+          										</lan:PT_FreeText>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>2030r</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">2030r</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>General Oceanics</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>flowmeter-lahave</gco:CharacterString>										
+          									</mcc:code>									
+          									<mcc:version>										
+            										<gco:CharacterString>1.0</gco:CharacterString>										
+          									</mcc:version>									
+                   
+            
+      									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
+        										<gco:CharacterString>General Oceanics flowmeter with standard rotor</gco:CharacterString>										
+          										<lan:PT_FreeText>											
+            											<lan:textGroup>												
+              												<lan:LocalisedCharacterString locale="#fr">Débitmètre General Oceanics avec rotor standard</lan:LocalisedCharacterString>												
+            											</lan:textGroup>											
+          										</lan:PT_FreeText>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>2030r</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">2030r</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Olympus</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>microscope-coastal_action</gco:CharacterString>										
+          									</mcc:code>									
+          									<mcc:version>										
+            										<gco:CharacterString>1.0</gco:CharacterString>										
+          									</mcc:version>									
+                   
+            
+      									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
+        										<gco:CharacterString>Olympus SZ61 Microscope</gco:CharacterString>										
+          										<lan:PT_FreeText>											
+            											<lan:textGroup>												
+              												<lan:LocalisedCharacterString locale="#fr">Microscope Olympus SZ61</lan:LocalisedCharacterString>												
+            											</lan:textGroup>											
+          										</lan:PT_FreeText>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>SZ61</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">SZ61</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+        				</mac:MI_Platform>				
+      			</mac:platform>			
+    		</mac:MI_AcquisitionInformation>		
+  	</mdb:acquisitionInformation>	
+
+</mdb:MD_Metadata>

@@ -1,0 +1,232 @@
+contact:
+- individual:
+    email: ariel@coastalaction.org
+    name: Ariel Smith
+    position: Coastal & Marine Team Lead
+  organization:
+    address: Mahone Bay Centre, 45 School Street, PO Box 730
+    city: Mahone Bay, NS
+    country: Canada
+    email: info@coastalaction.org
+    name: Coastal Action
+    url: http://coastalaction.org/
+  roles:
+  - pointOfContact
+- individual:
+    email: alexa@coastalaction.org
+    name: Alexa Goodman
+    position: Project Coordinator
+  organization:
+    address: Mahone Bay Centre, 45 School Street, PO Box 730
+    city: Mahone Bay, NS
+    country: Canada
+    email: info@coastalaction.org
+    name: Coastal Action
+    url: http://coastalaction.org/
+  roles:
+  - custodian
+  - owner
+  - author
+- organization:
+    address: Steele Ocean Sciences Building, Dalhousie University 1355 Oxford St.,
+      P.O. Box 15000, B3H 4R2
+    city: Halifax, NS
+    country: Canada
+    email: info@cioosatlantic.ca
+    name: CIOOS Atlantic
+    url: https://cioosatlantic.ca/
+  roles:
+  - distributor
+- organization:
+    address: Clean Annapolis River Project, 314 St. George Street, P.O. Box 395, B0S
+      1A0
+    city: Annapolis Royal, NS
+    country: Canada
+    email: carp@annapolisriver.ca
+    name: Clean Annapolis River Project (CARP)
+    url: https://www.annapolisriver.ca/
+  roles:
+  - collaborator
+- organization:
+    address: P.O. Box 564, A2H 6E6
+    city: Corner Brook, NL
+    country: Canada
+    email: speddle@acaphumberarm.com
+    name: ACAP Humber Arm
+    url: http://oceansadvance.net/member/acap-humber-arm/
+  roles:
+  - collaborator
+- organization:
+    address: Civic Laboratory for Environmental Action Research, SN1107A (Science
+      Building), Memorial University of Newfoundland
+    city: St. John's, NL
+    country: Canada
+    email: mliboiron@mun.ca
+    name: Civic Laboratory for Environmental Action Research (CLEAR)
+    url: https://civiclaboratory.nl/
+  roles:
+  - contributor
+- organization:
+    address: The University of Western Ontario, Surface Science Western, 999 Collip
+      Circle, P.O. Box 12, N6G 0J3
+    city: London, ON
+    country: Canada
+    email: info@surfacesciencewestern.com
+    name: Surface Science Western Laboratory (University of Western Ontario)
+    url: https://www.surfacesciencewestern.com/
+  roles:
+  - contributor
+- organization:
+    address: Fontaine Building 12th floor, 200 Sacré-Coeur Blvd
+    city: Gatineau, QC
+    country: Canada
+    email: ec.enviroinfo.ec@canada.ca
+    name: Environment and Climate Change Canada (ECCC)
+    url: https://www.canada.ca/en/environment-climate-change.html
+  roles:
+  - funder
+distribution:
+- description:
+    en: ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a
+      subset of the dataset and download the data via OPeNDAP or in many different
+      file types.
+    fr: Version de l'ERDDAP de la page Web OpenDap .html pour cet ensemble de données.
+      Spécifiez un sous-ensemble du jeu de données et téléchargez les données via
+      OpenDap ou dans de nombreux types de fichiers différents.
+  name: ERDDAP Dataset - Atlantic Canada Marine Plastic Research Project (2017-2020)
+  url: https://cioosatlantic.ca/erddap/tabledap/coastal_action_7471_9460_c025.html
+- name: Project Website
+  url: https://www.coastalaction.org/microplastics.html
+- name: 2018 SURFACE WATER RESULTS SUMMARY
+  url: https://www.coastalaction.org/uploads/1/2/2/2/122203881/atlantic_canada_microplastic_research_project_-_2018_surface_water_report_-_may_8.pdf
+- name: 2018 SHORELINE SEDIMENT REPORT
+  url: https://www.coastalaction.org/uploads/1/2/2/2/122203881/atlantic_canada_microplastic_project_2018_sediment_report_summary.pdf
+identification:
+  abstract:
+    en: The purpose of the Atlantic Canada Microplastic Research Project (2017-2020)
+      is to determine the quantity of microplastics in 3 near-shore communities of
+      Atlantic Canada.  Data will be used to better inform the conversation and solutions
+      around plastic pollution in the region.  The project is funded by Environment
+      and Climate Change Canada and is in partnership with Clean Annapolis River Project
+      (CARP), ACAP Humber Arm, and Dr. Max Liboiron at the Civic Laboratory for Environmental
+      Action Research (CLEAR) out of Memorial University of Newfoundland (MUN).  Dr.  Max
+      Liboiron is our chief academic advisor on the 3-year project, assisting with
+      project development, methods and protocol, and sampling design.  The project
+      included sampling both surface water and beach sediment at all three study locations.  The
+      surface water trawling equipment was built using CLEAR''s low-aquatic debris
+      instrument (LADI) design.  Data reports are available for 2018 surface water
+      and shoreline sediment results. Remaining 2018 sediment results and 2019 hot-spot
+      data will be available soon.
+    fr: Le but du Projet de recherche sur les microplastiques du Canada atlantique
+      (2017-2020) est de déterminer la quantité de microplastiques dans trois collectivités
+      côtières du Canada atlantique. Les données serviront à mieux éclairer la conversation
+      et à trouver des solutions concernant la pollution par les plastiques dans la
+      région. Le projet est financé par Environnement et Changement climatique Canada
+      et est en partenariat avec le projet Clean Annapolis River Project (CARP), l'ACAP
+      Humber Arm et le Dr Max Liboiron du Civic Laboratory for Environmental Action
+      Research (CLEAR) de l'Université Memorial de Terre-Neuve (MUN). Le Dr Max Liboiron
+      est notre conseiller académique en chef dans le cadre du projet de 3 ans. Il
+      aide à l'élaboration du projet, aux méthodes et au protocole ainsi qu'à la conception
+      de l'échantillonnage. Le projet comprenait l'échantillonnage des eaux de surface
+      et des sédiments de plage aux trois emplacements de l'étude. L'équipement de
+      chalutage en eaux de surface a été construit à l'aide de la conception de l'instrument
+      à faible débris aquatiques (LADI) de CLEAR. Des rapports de données sont disponibles
+      pour les résultats des eaux de surface et des sédiments riverains de 2018. Les
+      résultats restants de 2018 sur les sédiments et les données sur les points chaud
+      de 2019 seront bientôt disponibles.
+  dates:
+    creation: '2018-06-11'
+    publication: '2020-07-30'
+    revision: '2020-08-13'
+  keywords:
+    default:
+      en:
+      - sea currents
+      fr:
+      - courant marin
+    eov:
+      en:
+      - marineDebris
+      - seaState
+      fr:
+      - Débris marins
+      - État de la mer
+  progress_code: completed
+  status: submitted
+  temporal_begin: '2018-06-11T14:30:00.000Z'
+  temporal_end: '2018-10-31T14:30:00.000Z'
+  title:
+    en: Atlantic Canada Marine Plastic Research Project (2017-2020)
+    fr: Projet de recherche sur les plastiques marins du Canada atlantique (2017-2020)
+metadata:
+  dates:
+    revision: '2022-03-02T15:03:27.904Z'
+  identifier: ec2b8fbb-5482-46e2-af71-9e85d58b8922
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: org.coastalaction
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+    limitations:
+      en: We did not calibrate a particular instrument on this date/ other reasons
+        for data quality issues that may affect reusability
+      fr: Nous n'avons pas étalonné un instrument particulier à cette date ni d'autres
+        raisons pour lesquelles des problèmes de qualité des données pourraient avoir
+        une incidence sur la réutilisation
+platform:
+  description:
+    en: Multiple boats of different types for each location and a lab for analyzing
+      the plastic samples
+    fr: Plusieurs bateaux de différents types pour chaque site et un laboratoire pour
+      analyser les échantillons de plastique
+  id: bay_of_fundy-humber_arm-lahave-lab_coastal_action
+  instruments:
+  - description:
+      en: General Oceanics flowmeter with standard rotor
+      fr: Débitmètre General Oceanics avec rotor standard
+    id: flowmeter-bay_of_fundy
+    manufacturer: General Oceanics
+    type:
+      en: 2030r
+      fr: 2030r
+    version: '1.0'
+  - description:
+      en: General Oceanics flowmeter with standard rotor
+      fr: Débitmètre General Oceanics avec rotor standard
+    id: flowmeter-humber_arm
+    manufacturer: General Oceanics
+    type:
+      en: 2030r
+      fr: 2030r
+    version: '1.0'
+  - description:
+      en: General Oceanics flowmeter with standard rotor
+      fr: Débitmètre General Oceanics avec rotor standard
+    id: flowmeter-lahave
+    manufacturer: General Oceanics
+    type:
+      en: 2030r
+      fr: 2030r
+    version: '1.0'
+  - description:
+      en: Olympus SZ61 Microscope
+      fr: Microscope Olympus SZ61
+    id: microscope-coastal_action
+    manufacturer: Olympus
+    type:
+      en: SZ61
+      fr: SZ61
+    version: '1.0'
+spatial:
+  bbox:
+  - -66.02602865
+  - 43.808748443
+  - -57.71117735
+  - 49.536757117
+  vertical:
+  - 0.0
+  - 0.0
