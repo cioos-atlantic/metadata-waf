@@ -1,17 +1,16 @@
-<?xml version="1.0" ?><mdb:MD_Metadata xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/2.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/2.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/2.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/2.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/2.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/2.0 https://standards.iso.org/iso/19115/-3/mds/2.0/mds.xsd">	
+<?xml version="1.0" ?><mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/2.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/2.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/2.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/2.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/2.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/2.0 https://standards.iso.org/iso/19115/-3/mds/2.0/mds.xsd">	
 
   	<mdb:metadataIdentifier>		
     		<mcc:MD_Identifier>			
       			<mcc:authority>				
         				<cit:CI_Citation>					
-            
-      					<cit:title>						
-        						<gco:CharacterString>ca.coos</gco:CharacterString>						
-      					</cit:title>					
+            					<cit:title>							
+              						<gco:CharacterString>ca.cioos</gco:CharacterString>						
+            					</cit:title>						
           				</cit:CI_Citation>				
       			</mcc:authority>			
       			<mcc:code>				
-        				<gco:CharacterString>07b11e7e-54f1-4bcc-8383-1beb102a473c</gco:CharacterString>				
+        				<gco:CharacterString>a36e40f1-5f5b-4602-b18a-5c4f4b3f2a43</gco:CharacterString>				
       			</mcc:code>			
     		</mcc:MD_Identifier>		
   	</mdb:metadataIdentifier>	
@@ -46,7 +45,7 @@
     				<cit:CI_Organisation>					
     
       					<cit:name>						
-        						<gco:CharacterString>FORCE</gco:CharacterString>						
+        						<gco:CharacterString>Fundy Ocean Research Center for Energy (FORCE)</gco:CharacterString>						
       					</cit:name>					
       					<cit:contactInfo>						
         						<cit:CI_Contact>							
@@ -69,8 +68,11 @@
       									</cit:city>									
               
       									<cit:country>										
-        										<gco:CharacterString>Canada</gco:CharacterString>										
+        										<gco:CharacterString/>										
       									</cit:country>									
+              									<cit:electronicMailAddress>										
+                										<gco:CharacterString>info@fundyforce.ca</gco:CharacterString>										
+              									</cit:electronicMailAddress>									
             								</cit:CI_Address>								
           							</cit:address>							
           							<cit:onlineResource>								
@@ -89,79 +91,33 @@
         						</cit:CI_Contact>						
       					</cit:contactInfo>					
       
-      					<cit:individual>						
-        						<cit:CI_Individual>							
-    
-      							<cit:name>								
-        								<gco:CharacterString>Joel Culina</gco:CharacterString>								
-      							</cit:name>							
-    							<cit:contactInfo>								
-      								<cit:CI_Contact>									
-        									<cit:address>										
-          										<cit:CI_Address>											
-            
-      											<cit:deliveryPoint>												
-        												<gco:CharacterString/>												
-      											</cit:deliveryPoint>											
-            
-      											<cit:city>												
-        												<gco:CharacterString/>												
-      											</cit:city>											
-            
-      											<cit:country>												
-        												<gco:CharacterString/>												
-      											</cit:country>											
-            											<cit:electronicMailAddress>												
-              												<gco:CharacterString>joel.culina@fundyforce.ca</gco:CharacterString>												
-            											</cit:electronicMailAddress>											
-          										</cit:CI_Address>										
-        									</cit:address>									
-      								</cit:CI_Contact>								
-    							</cit:contactInfo>							
-    
-      							<cit:positionName>								
-        								<gco:CharacterString/>								
-      							</cit:positionName>							
-						</cit:CI_Individual>						
-
-      					</cit:individual>					
     				</cit:CI_Organisation>				
 
   			</cit:party>			
 		</cit:CI_Responsibility>		
 
-      	</mdb:contact>
-		<mdb:dateInfo>
-				<cit:CI_Date>
-					<cit:date>
-								<gco:Date>2016-12-02</gco:Date>
-						</cit:date>
-						<cit:dateType>
-								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
-						</cit:dateType>
-				</cit:CI_Date>
-		</mdb:dateInfo>
-		<mdb:dateInfo>
-				<cit:CI_Date>
-						<cit:date>
-								<gco:Date>2016-12-02</gco:Date>
-						</cit:date>
-						<cit:dateType>
-								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
-						</cit:dateType>
-				</cit:CI_Date>
-		</mdb:dateInfo>
-		<mdb:dateInfo>
-				<cit:CI_Date>
-						<cit:date>
-								<gco:Date>2021-05-03</gco:Date>
-						</cit:date>
-						<cit:dateType>
-								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
-						</cit:dateType>
-				</cit:CI_Date>
-		</mdb:dateInfo>
+      	</mdb:contact>	
 
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:DateTime>2022-05-30T19:35:49.503Z</gco:DateTime>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:Date>2021-10-13</gco:Date>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
   	<mdb:metadataStandard>		
     		<cit:CI_Citation>			
       			<cit:title>				
@@ -212,7 +168,7 @@
   	<mdb:otherLocale>		
     		<lan:PT_Locale>			
       			<lan:language>				
-        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
         </lan:LanguageCode>				
       			</lan:language>			
       			<lan:country>				
@@ -227,7 +183,7 @@
   	<mdb:otherLocale>		
     		<lan:PT_Locale>			
       			<lan:language>				
-        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
         </lan:LanguageCode>				
       			</lan:language>			
       			<lan:country>				
@@ -248,10 +204,21 @@
         						<gco:CharacterString>FORCE Meteorological Tower</gco:CharacterString>						
           						<lan:PT_FreeText>							
             							<lan:textGroup>								
-              								<lan:LocalisedCharacterString locale="#fr">Tour météorologique FORCE</lan:LocalisedCharacterString>								
+              								<lan:LocalisedCharacterString locale="#fr">Tour Météorologique FORCE</lan:LocalisedCharacterString>								
             							</lan:textGroup>							
           						</lan:PT_FreeText>						
-      					</cit:title>
+      					</cit:title>					
+
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2016-12-02</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
 
           					<cit:citedResponsibleParty>						
             						<cit:CI_Responsibility>							
@@ -262,7 +229,7 @@
     								<cit:CI_Organisation>									
     
       									<cit:name>										
-        										<gco:CharacterString>FORCE</gco:CharacterString>										
+        										<gco:CharacterString>Fundy Ocean Research Center for Energy (FORCE)</gco:CharacterString>										
       									</cit:name>									
       									<cit:contactInfo>										
         										<cit:CI_Contact>											
@@ -285,7 +252,7 @@
       													</cit:city>													
               
       													<cit:country>														
-        														<gco:CharacterString>Canada</gco:CharacterString>														
+        														<gco:CharacterString/>														
       													</cit:country>													
               													<cit:electronicMailAddress>														
                 														<gco:CharacterString>info@fundyforce.ca</gco:CharacterString>														
@@ -319,10 +286,12 @@
       			</mri:citation>			
       
       			<mri:abstract xsi:type="lan:PT_FreeText_PropertyType">				
-        				<gco:CharacterString>Variables:  a)	Rain (mm) b)	Air Temp (°C) c)	Wind Dir (°) d)	Wind Speed (m/s) e)	Pressure Raw (Pa) f)	Wind Speed Max 2 min (m/s) g)	Wind Speed Max 15 min (m/s) h)	Solar Radiation (MJ) i)	Wind Speed Median 15 min (m/s) j)	Relative Humidity (%) k)	Air Temp Max 1 min (°C) l)	Pressure (mbar) m)	Elevation Correction n)	Wind Speed Avg 15 min (m/s) o)	Potential Temperature (°C) p)	Date (UTC) q)	Solar Raw r)	Wind Dir Avg 15 min (°) s)	Solar Radiation (kW); Temporal frequency: 15 mins; Temporal coverage: Dec 2016-present; Spatial coverage: Fixed met tower; How: standard sensor suite; Why: Informing meteorological conditions at the FORCE site</gco:CharacterString>				
+        				<gco:CharacterString>Meteorological tower at the FORCE Visitor Centre. Temporal frequency: 15 mins; temporal coverage: Dec 2016-present.
+Variables: a) Rain (mm); b) Air Temp (°C); c) Wind Dir (°); d) Wind Speed (m/s); e) Pressure Raw (Pa); f) Wind Speed Max 2 min (m/s); g) Wind Speed Max 15 min (m/s); h) Solar Radiation (MJ); i) Wind Speed Median 15 min (m/s); j) Relative Humidity (%); k) Air Temp Max 1 min (°C); l) Pressure (mbar); m) Elevation Correction; n) Wind Speed Avg 15 min (m/s); o) Potential Temperature (°C); p) Date (UTC); q) Solar Raw; r) Wind Dir Avg 15 min (°); s) Solar Radiation (kW).</gco:CharacterString>				
           				<lan:PT_FreeText>					
             					<lan:textGroup>						
-              						<lan:LocalisedCharacterString locale="#fr">Variables : a) Pluie (mm) b) Température de l'air (°C) c) Dir du vent (°) d) Vitesse du vent (m/s) e) Pression Brut (Pa) f) Vitesse du vent Max 2 min (m/s) g) Vitesse du vent Max 15 min (m/s) h) Rayonnement solaire (MJ) i) Vitesse médiane 15 min (m/s) j) Humidité relative ( %) k) Température de l'air Max 1 min (°C) l) Pression (mbar) m) Correction d'altitude n) Vitesse du vent Moyenne 15 min (m/s) o) Température potentielle (°C) p) Date (UTC) q) Solaire Raw r) Dir éolien Moyenne 15 min (°) s) Rayonnement solaire (kW) ; Fréquence temporelle : 15 min ; Couverture temporelle : déc. 2016-présent ; Couverture spatiale : Tour fixe ; Comment : suite de capteurs standard ; Pourquoi : informer les conditions météorologiques au Site FORCE</lan:LocalisedCharacterString>						
+              						<lan:LocalisedCharacterString locale="#fr">Tour météorologique du centre d'accueil FORCE. Fréquence temporelle : 15 minutes ; couverture temporelle : décembre 2016 à présent.
+Variables : a) Pluie (mm) ; b) Température de l'air (°C) ; c) Dir du vent (°) ; d) Vitesse du vent (m/s) ; e) Pression brute (Pa) ; f) Vitesse du vent Max 2 min (m/s) ; g) Vitesse du vent Max 15 min (m/s) ; h) Rayonnement solaire (MJ) ; i) Vitesse du vent médiane 15 min (m/s) ; j) Humidité relative (%) ; k) Température de l'air max 1 min (°C) ; l) Pression (mbar) ; m) Élévation Correction ; n) Vitesse du vent Moyenne 15 min (m/s) ; o) Température potentielle (°C) ; p) Date (UTC) ; q) Solaire brut ; r) Vent Dir Moyenne 15 min (°) ; s) Rayonnement solaire (kW).</lan:LocalisedCharacterString>						
             					</lan:textGroup>					
           				</lan:PT_FreeText>				
       			</mri:abstract>			
@@ -331,14 +300,13 @@
         				<gco:CharacterString/>				
       			</mri:credit>			
       			<mri:status>				
-        				<mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="published">
+        				<mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="onGoing">
         </mcc:MD_ProgressCode>				
       			</mri:status>			
-      
+
       			<mri:topicCategory>				
         				<mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>				
       			</mri:topicCategory>			
-      
       			<mri:extent>				
         				<gex:EX_Extent>					
           					<gex:geographicElement>						
@@ -367,10 +335,10 @@
           					<gex:verticalElement>						
             						<gex:EX_VerticalExtent>							
               							<gex:minimumValue>								
-                								<gco:Real>0.0</gco:Real>								
+                								<gco:Real>20.0</gco:Real>								
               							</gex:minimumValue>							
               							<gex:maximumValue>								
-                								<gco:Real>0.0</gco:Real>								
+                								<gco:Real>30.0</gco:Real>								
               							</gex:maximumValue>							
               							<gex:verticalCRSId>								
                 								<mrs:MD_ReferenceSystem>									
@@ -395,7 +363,7 @@
                   									</mrs:referenceSystemType>									
                 								</mrs:MD_ReferenceSystem>								
               							</gex:verticalCRSId>							
-              							<gex:verticalCRS xlink:actuate="onRequest" xlink:href="http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:crs:EPSG::5831" xlink:title="instantaneous water level depth"/>							
+              							<gex:verticalCRS xlink:href="http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:crs:EPSG::5831" xlink:title="instantaneous water level depth" xlink:actuate="onRequest"/>							
             						</gex:EX_VerticalExtent>						
           					</gex:verticalElement>					
         				</gex:EX_Extent>				
@@ -406,7 +374,7 @@
             						<gex:EX_TemporalExtent>							
               							<gex:extent>								
                 								<gml:TimePeriod gml:id="time_period">									
-                  									<gml:beginPosition>2016-12-02T16:00:00.000Z</gml:beginPosition>									
+                  									<gml:beginPosition>2016-12-02T17:00:00.000Z</gml:beginPosition>									
                   									<gml:endPosition indeterminatePosition="now"/>									
                 								</gml:TimePeriod>								
               							</gex:extent>							
@@ -425,7 +393,6 @@
       					</mmi:maintenanceNote>					
         				</mmi:MD_MaintenanceInformation>				
       			</mri:resourceMaintenance>			
-      
       			<mri:descriptiveKeywords>				
         				<mri:MD_Keywords>					
           					<mri:keyword>						
@@ -457,63 +424,63 @@
         				<mri:MD_Keywords>					
           
               					<mri:keyword>						
-                    						<gco:CharacterString>wind</gco:CharacterString>						
+                    						<gco:CharacterString>Wind</gco:CharacterString>						
               					</mri:keyword>					
               					<mri:keyword>						
-                    						<gco:CharacterString>atmospheric pressure</gco:CharacterString>						
+                    						<gco:CharacterString>Atmospheric pressure</gco:CharacterString>						
               					</mri:keyword>					
               					<mri:keyword>						
-                    						<gco:CharacterString>rain</gco:CharacterString>						
+                    						<gco:CharacterString>Rain</gco:CharacterString>						
               					</mri:keyword>					
               					<mri:keyword>						
-                    						<gco:CharacterString>air temperature</gco:CharacterString>						
+                    						<gco:CharacterString>Air temperature</gco:CharacterString>						
               					</mri:keyword>					
               					<mri:keyword>						
-                    						<gco:CharacterString>solar radiation</gco:CharacterString>						
+                    						<gco:CharacterString>Solar radiation</gco:CharacterString>						
               					</mri:keyword>					
               					<mri:keyword>						
-                    						<gco:CharacterString>meteorology</gco:CharacterString>						
+                    						<gco:CharacterString>pressure</gco:CharacterString>						
               					</mri:keyword>					
           
                 					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
                   						<lan:PT_FreeText>							
                     							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">vents</lan:LocalisedCharacterString>								
+                      								<lan:LocalisedCharacterString locale="#fr">Vents</lan:LocalisedCharacterString>								
                     							</lan:textGroup>							
                   						</lan:PT_FreeText>						
                 					</mri:keyword>					
                 					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
                   						<lan:PT_FreeText>							
                     							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">pression atmosphérique</lan:LocalisedCharacterString>								
+                      								<lan:LocalisedCharacterString locale="#fr">Pression atmosphérique</lan:LocalisedCharacterString>								
                     							</lan:textGroup>							
                   						</lan:PT_FreeText>						
                 					</mri:keyword>					
                 					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
                   						<lan:PT_FreeText>							
                     							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">pluie</lan:LocalisedCharacterString>								
+                      								<lan:LocalisedCharacterString locale="#fr">Pluie</lan:LocalisedCharacterString>								
                     							</lan:textGroup>							
                   						</lan:PT_FreeText>						
                 					</mri:keyword>					
                 					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
                   						<lan:PT_FreeText>							
                     							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">température de l'air</lan:LocalisedCharacterString>								
+                      								<lan:LocalisedCharacterString locale="#fr">Température de l'air</lan:LocalisedCharacterString>								
                     							</lan:textGroup>							
                   						</lan:PT_FreeText>						
                 					</mri:keyword>					
                 					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
                   						<lan:PT_FreeText>							
                     							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">radiation solaire</lan:LocalisedCharacterString>								
+                      								<lan:LocalisedCharacterString locale="#fr">Radiation solaire</lan:LocalisedCharacterString>								
                     							</lan:textGroup>							
                   						</lan:PT_FreeText>						
                 					</mri:keyword>					
                 					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
                   						<lan:PT_FreeText>							
                     							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">météorologie</lan:LocalisedCharacterString>								
+                      								<lan:LocalisedCharacterString locale="#fr">Météorologie</lan:LocalisedCharacterString>								
                     							</lan:textGroup>							
                   						</lan:PT_FreeText>						
                 					</mri:keyword>					
@@ -553,13 +520,13 @@
           					</mri:thesaurusName>					
         				</mri:MD_Keywords>				
       			</mri:descriptiveKeywords>			
-      
+
       			<mri:resourceConstraints>				
         				<mco:MD_LegalConstraints>					
           					<mco:reference>						
             						<cit:CI_Citation>							
               							<cit:title>								
-                								<gco:CharacterString>Creative Commons Attribution 4.0</gco:CharacterString>								
+                								<gco:CharacterString>{'en': 'Creative Commons Attribution 4.0 Attribution'}</gco:CharacterString>								
               							</cit:title>							
               							<cit:identifier>								
                 								<mcc:MD_Identifier>									
@@ -586,18 +553,11 @@
         				</mco:MD_LegalConstraints>				
       			</mri:resourceConstraints>			
       			<mri:resourceConstraints>				
-        				<mco:MD_Constraints>					
+        				<mco:MD_Constraints>
            
-      					<mco:useLimitation xsi:type="lan:PT_FreeText_PropertyType">						
-        						<gco:CharacterString>License</gco:CharacterString>						
-          						<lan:PT_FreeText>							
-            							<lan:textGroup>								
-              								<lan:LocalisedCharacterString locale="#fr">License</lan:LocalisedCharacterString>								
-            							</lan:textGroup>							
-          						</lan:PT_FreeText>						
-      					</mco:useLimitation>					
-        				</mco:MD_Constraints>				
+        </mco:MD_Constraints>				
       			</mri:resourceConstraints>			
+
       
       			<mri:supplementalInformation>				
         				<gco:CharacterString/>				
@@ -617,7 +577,7 @@
     								<cit:CI_Organisation>									
     
       									<cit:name>										
-        										<gco:CharacterString>FORCE</gco:CharacterString>										
+        										<gco:CharacterString>Fundy Ocean Research Center for Energy (FORCE)</gco:CharacterString>										
       									</cit:name>									
       									<cit:contactInfo>										
         										<cit:CI_Contact>											
@@ -640,7 +600,7 @@
       													</cit:city>													
               
       													<cit:country>														
-        														<gco:CharacterString>Canada</gco:CharacterString>														
+        														<gco:CharacterString/>														
       													</cit:country>													
               													<cit:electronicMailAddress>														
                 														<gco:CharacterString>info@fundyforce.ca</gco:CharacterString>														
@@ -672,41 +632,19 @@
         				</mrd:MD_Distributor>				
       			</mrd:distributor>			
 
-      
+
       			<mrd:transferOptions>				
         				<mrd:MD_DigitalTransferOptions>					
           					<mrd:onLine>						
             						<cit:CI_OnlineResource>							
               							<cit:linkage>								
-                								<gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/force_3b1e_d478_b537.html</gco:CharacterString>								
+                								<gco:CharacterString>https://fundyforcelive.ca/#!/</gco:CharacterString>								
               							</cit:linkage>							
               							<cit:protocol>								
                 								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
               							</cit:protocol>							
               							<cit:name>								
-                								<gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>								
-              							</cit:name>							
-              							<cit:description>								
-                								<gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>								
-              							</cit:description>							
-            						</cit:CI_OnlineResource>						
-          					</mrd:onLine>					
-        				</mrd:MD_DigitalTransferOptions>				
-      			</mrd:transferOptions>			
-      
-      
-      			<mrd:transferOptions>				
-        				<mrd:MD_DigitalTransferOptions>					
-          					<mrd:onLine>						
-            						<cit:CI_OnlineResource>							
-              							<cit:linkage>								
-                								<gco:CharacterString>https://fundyforcelive.ca</gco:CharacterString>								
-              							</cit:linkage>							
-              							<cit:protocol>								
-                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
-              							</cit:protocol>							
-              							<cit:name>								
-                								<gco:CharacterString>FORCE Data website</gco:CharacterString>								
+                								<gco:CharacterString>FORCE live data site</gco:CharacterString>								
               							</cit:name>							
               
       							<cit:description>								
@@ -748,7 +686,7 @@
                 								</cit:CI_Citation>								
               							</mcc:authority>							
               							<mcc:code>								
-                								<gco:CharacterString>1</gco:CharacterString>								
+                								<gco:CharacterString>None</gco:CharacterString>								
               							</mcc:code>							
             						</mcc:MD_Identifier>						
           					</mac:identifier>					
@@ -762,18 +700,28 @@
           						</lan:PT_FreeText>						
       					</mac:description>					
 
-          
           					<mac:instrument>						
     						<mac:MI_Instrument>							
       							<mac:identifier>								
         								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>RM Young</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
           									<mcc:code>										
-            										<gco:CharacterString>1</gco:CharacterString>										
+            										<gco:CharacterString>FORCE-Wind-Sensor</gco:CharacterString>										
           									</mcc:code>									
+          									<mcc:version>										
+            										<gco:CharacterString>05103-10-L</gco:CharacterString>										
+          									</mcc:version>									
                    
             
       									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
-        										<gco:CharacterString>Wind speed sensor</gco:CharacterString>										
+        										<gco:CharacterString>Measures wind velocity in-situ</gco:CharacterString>										
           										<lan:PT_FreeText>											
             											<lan:textGroup>												
               												<lan:LocalisedCharacterString locale="#fr">Capteur de vitesse du vent</lan:LocalisedCharacterString>												
@@ -784,7 +732,7 @@
       							</mac:identifier>							
         
       							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>Anemometer</gco:CharacterString>								
+        								<gco:CharacterString>Wind Speed Sensor</gco:CharacterString>								
           								<lan:PT_FreeText>									
             									<lan:textGroup>										
               										<lan:LocalisedCharacterString locale="#fr">Anémomètre</lan:LocalisedCharacterString>										
@@ -794,9 +742,30 @@
     						</mac:MI_Instrument>						
   					</mac:instrument>					
 
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:code>										
+            										<gco:CharacterString/>										
+          									</mcc:code>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type>								
+        								<gco:CharacterString/>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
         				</mac:MI_Platform>				
       			</mac:platform>			
     		</mac:MI_AcquisitionInformation>		
   	</mdb:acquisitionInformation>	
-      
+
 </mdb:MD_Metadata>
