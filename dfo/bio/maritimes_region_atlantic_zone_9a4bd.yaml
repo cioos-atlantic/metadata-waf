@@ -1,0 +1,200 @@
+contact:
+- individual:
+    email: Lindsay.Beazley@dfo-mpo.gc.ca
+    name: Lindsay Beazley
+    position: Maritimes Region AZMP Operational Lead
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - custodian
+  - pointOfContact
+- individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: BIO Data Services
+    position: Data Management
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - distributor
+- individual:
+    name: Marine Environmental Data Section (MEDS)
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+  roles:
+  - owner
+distribution:
+- description:
+    en: Core sampling protocols for the Atlantic Zone Monitoring Program
+    fr: Principaux protocoles d'échantillonnage pour le Programme de surveillance
+      de la zone atlantique
+  name: Atlantic Zonal Monitoring Program Sampling Protocol
+  url: https://waves-vagues.dfo-mpo.gc.ca/Library/265754.pdf
+- description:
+    en: Fisheries and Oceans Canada website for the Atlantic Zone Monitoring Program
+      (AZMP)
+    fr: Site Web de Pêches et Océans Canada pour le Programme de surveillance de la
+      zone atlantique (MPZA)
+  name: Atlantic Zone Monitoring Program (AZMP)
+  url: https://www.dfo-mpo.gc.ca/science/data-donnees/azmp-pmza/index-eng.html
+- description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: Site Web contenant des publications produites par le Secrétariat canadien
+      de consultation scientifique
+  name: Canadian Science Advisory Secretariat (CSAS) Publications
+  url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+- name: ERDDAP AZMP CTD Data
+  url: https://dev.cioosatlantic.ca/erddap/tabledap/atlantic_zone_monitoring_program.html
+- name: AZMP Cruise Reports
+  url: https://cioosatlantic.ca/raw/dfo/bio/ctd/cruise_reports/
+identification:
+  abstract:
+    en: The Atlantic Zone Monitoring Program (AZMP) was implemented in 1998 with the
+      aim of detecting and tracking climate change and variability in the northwest
+      Atlantic, evaluating changes in the physical, chemical and biological ocean
+      properties and predator-prey dynamics of marine resources, thereby enhancing
+      Canada's ability to understand, describe, and forecast the state of the marine
+      ecosystem. AZMP's sampling scheme in the Maritimes Region involves oceanographic
+      sampling at two high-frequency (biweekly to monthly) fixed coastal stations,
+      biannual sampling at stratified-random locations during DFO-led Ecosystem Trawl
+      Surveys, biannual sampling along fixed cross-shelf sections (Cabot Strait Line,
+      Louisbourg Line, Halifax Line, Browns Bank Line, and the Northeast Channel);
+      the latter of which may also include opportunistic sampling at stations in the
+      Laurentian Channel, Gulf of Maine, and various Marine Protected Areas (MPAs)
+      in support of ancillary research programs and initiatives. AZMP sampling is
+      conducted according to standard procedures (see https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6)
+      and includes the collection of CTD profiles and water samples for the determination
+      of physical (e.g., T, S), chemical (e.g., nutrients, oxygen, pH), and biological
+      (chl a) variables and vertical ring net tows. The data collected are synthesized
+      into two annual reports on the physical and chemical/biological changes in the
+      Maritimes Region, and are also used to evaluate changes across the Atlantic
+      zone.
+    fr: Le Programme de surveillance de la zone atlantique (PMZA) a été mis en œuvre
+      en 1998 dans le but de détecter et de suivre les changements climatiques et
+      la variabilité dans l'Atlantique Nord-Ouest, d'évaluer les changements dans
+      les propriétés physiques, chimiques et biologiques de l'océan et la dynamique
+      prédateur-proie des ressources marines, améliorant ainsi le Canada. de comprendre,
+      de décrire et de prévoir l'état de l'écosystème marin. Le schéma d'échantillonnage
+      de l'AZMP dans la région des Maritimes comprend un échantillonnage océanographique
+      à deux stations côtières fixes à haute fréquence (bihebdomadaire à mensuelle),
+      un échantillonnage semestriel à des emplacements stratifiés aléatoires pendant
+      les relevés au chalut écosystémique dirigés par le MPO, un échantillonnage biannuel
+      le long de sections transversales fixes (Cabot Strait Line, Louisbourg Line,
+      Halifax Line, Browns Bank Line et Northeast Channel) ; ces derniers peuvent
+      également inclure un échantillonnage opportuniste dans les stations du chenal
+      Laurentien, du golfe du Maine et de diverses aires marines protégées (AMP) à
+      l'appui de programmes et d'initiatives de recherche auxiliaire. L'échantillonnage
+      AZMP est effectué conformément aux procédures normalisées (voir https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6)
+      et comprend la collecte de profils CTD et d'échantillons d'eau pour la détermination
+      des variables physiques (p. ex. T, S), chimiques (nutriments, oxygène, pH) et
+      biologiques (chl a) et verticales remorquage de filet d'anneau. Les données
+      recueillies sont synthétisées dans deux rapports annuels sur les changements
+      physiques et chimiques et biologiques dans la région des Maritimes, et sont
+      également utilisées pour évaluer les changements dans la zone atlantique.
+  dates:
+    creation: '1998-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - chlorophyll a
+      - water temperature
+      - remote sensing
+      - fluorescence
+      - water density
+      - sampling
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - nitrate
+      - phosphate
+      - silicate
+      - potential temperature
+      - potential density
+      - seawater density
+      fr:
+      - changement climatique
+      - salinité
+      - chlorophylle a
+      - température de l'eau
+      - télédétection
+      - fluorescence
+      - densité eau
+      - échantillonnage
+      - missions océanographique
+      - physico-chimie
+      - pression
+      - nitrate
+      - phosphate
+      - silicate
+      - température potentielle
+      - densité potentielle
+      - densité d'eau de mer
+    eov:
+      en:
+      - oxygen
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - nutrients
+      - inorganicCarbon
+      - dissolvedOrganicCarbon
+      fr:
+      - Oxygène
+      - Salinité de surface
+      - Température de surface
+      - Température sous la surface
+      - Salinité sous la surface
+      - Autre
+      - Nutriments
+      - Carbone inorganique
+      - Carbone organique dissous
+  progress_code: onGoing
+  status: published
+  temporal_begin: '1998-01-01T16:00:00.000Z'
+  title:
+    en: Maritimes Region Atlantic Zone Monitoring Program (AZMP)
+    fr: Programme de surveillance de la zone Atlantique de la région des Maritimes
+      (PMZA)
+metadata:
+  dates:
+    publication: '2022-06-14'
+    revision: '2022-06-14T15:08:29.363Z'
+  identifier: 9a4bd73f-12a2-40ff-a7c7-b961a1d11311
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Availability of data varies both between and within years due to mission
+        cancellations.
+spatial:
+  bbox:
+  - -70.2724
+  - 41.8667
+  - -55.84
+  - 47.5833
+  vertical:
+  - 1.0
+  - 3363.0

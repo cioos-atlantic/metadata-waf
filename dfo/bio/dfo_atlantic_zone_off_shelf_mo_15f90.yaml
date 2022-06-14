@@ -1,0 +1,255 @@
+contact:
+- individual:
+    email: Marc.Ringuette@dfo-mpo.gc.ca
+    name: Marc Ringuette
+    position: Maritimes Region AZOMP Operational Lead
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - custodian
+  - pointOfContact
+- individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: BIO Data Services
+    position: Data Management
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - distributor
+- individual:
+    name: Marine Environmental Data Section (MEDS)
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+  roles:
+  - owner
+distribution:
+- description:
+    en: Core sampling protocols for the Atlantic Zone Monitoring Program
+    fr: Principaux protocoles d'échantillonnage pour le Programme de surveillance
+      de la zone atlantique
+  name: Atlantic Zonal Monitoring Program Sampling Protocol
+  url: https://waves-vagues.dfo-mpo.gc.ca/Library/265754.pdf
+- description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: Site Web contenant des publications produites par le Secrétariat canadien
+      de consultation scientifique
+  name: Canadian Science Advisory Secretariat (CSAS) Publications
+  url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+- description:
+    en: website for The Global Ocean Ship-based Hydrographic Investigations Program
+      (GO-SHIP)
+    fr: site web du Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)
+  name: The Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)
+  url: https://www.go-ship.org/
+- description:
+    en: National Department of Fisheries and Oceans (DFO) archive for plankton and
+      chemical data
+    fr: Archives du ministère national des Pêches et des Océans (MPO) pour les données
+      sur le plancton et les produits chimiques
+  name: BioChem DFO Database for plankton and chemical data
+  url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
+- name: ERDDAP AZOMP CTD Data
+  url: https://dev.cioosatlantic.ca/erddap/tabledap/atlantic_zone_off_shelf_monitoring_program.html
+identification:
+  abstract:
+    en: "The Atlantic Zone Off-Shelf Monitoring Program (AZOMP) collects and analyzes\
+      \ physical, chemical, and biological oceanographic observations from the continental\
+      \ slope and deep waters of the Northwest Atlantic, with the overall goal of\
+      \ monitoring variability in ocean climate and plankton affecting ecosystems\
+      \ off Atlantic Canada and climate systems at both regional and global scales.\
+      \ \n\nAnnual measurements in the Labrador Sea began in 1990 as a contribution\
+      \ to the World Climate Research Program and have evolved into a multidisciplinary\
+      \ regional monitoring effort and part of the Global Ocean Ship-based Hydrographic\
+      \ Investigations Program (GO-SHIP).\n\nAZOMP's sampling scheme off Atlantic\
+      \ Canada and the Labrador Sea involves annual sampling of both the extended\
+      \ Halifax Line, deep-water stations over the Scotian Slope and Rise located\
+      \ at the end of AZMP’s Halifax Line, and the Atlantic Repeat 7-West (AR7W) line,\
+      \ a 880 km-line running from Misery Point, Labrador to Cape Desolation, Greenland.\
+      \ Opportunistic sampling may also occur at stations in the Strait of Belle Ilse,\
+      \ station 27, Labrador Shelf, and OSNAP West line in support of ancillary research\
+      \ programs and initiatives. AZOMP sampling is conducted according to standard\
+      \ procedures (https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6) and includes:\
+      \ 1- the collection of CTD and Lowered-ADCP profiles and water samples for the\
+      \ determination of physical (e.g., T, S, currents), chemical (e.g., nutrients,\
+      \ pH, transient gases for water mass determination and tracers for ventilation\
+      \ and carbon sequestration studies), and biological (e.g., chl a) variables;\
+      \ 2-  multi net tows for zooplankton;  and 3- vertical ring net tows for plankton.\
+      \ In addition XBTs and Argo floats are commonly deployed and vessel-mounted\
+      \ ADCP is used to determine current profiles. The data collected are synthesized\
+      \ into annual reports on the physical,  chemical and biological changes in Atlantic\
+      \ Canada and the Labrador Sea.”  One primary focus is on changes in the intensity\
+      \ of winter overturning of surface and intermediate-depth waters resulting in\
+      \ water mass formation and is part of the thermohaline circulation that affects\
+      \ the global climate. Convection also transfers atmospheric gases from the surface\
+      \ to intermediate depths, reducing the rate of increase of carbon dioxide in\
+      \ the atmosphere but increasing the acidity of the ocean."
+    fr: "Le programme de surveillance hors plateau de la zone atlantique (AZOMP) recueille\
+      \ et analyse les observations océanographiques physiques, chimiques et biologiques\
+      \ du talus continental et des eaux profondes de l'Atlantique Nord-Ouest, dans\
+      \ le but global de surveiller la variabilité du climat océanique et du plancton\
+      \ affectant les écosystèmes au large Le Canada atlantique et les systèmes climatiques\
+      \ à l'échelle régionale et mondiale. \n\nLes mesures annuelles dans la mer du\
+      \ Labrador ont débuté en 1990 en tant que contribution au Programme mondial\
+      \ de recherche sur le climat et sont devenues un effort de surveillance régional\
+      \ multidisciplinaire faisant partie du Global Ocean Ship-based Hydrographic\
+      \ Investigations Program (GO-SHIP).\n\nLe plan d'échantillonnage de l'AZOMP\
+      \ au large du Canada atlantique et de la mer du Labrador comprend un échantillonnage\
+      \ annuel de la ligne Halifax prolongée, des stations en eau profonde au-dessus\
+      \ du Scotian Slope and Rise situées à l'extrémité de la ligne Halifax de l'AZMP,\
+      \ et de la ligne Atlantic Repeat 7-West (AR7W), une ligne de 880 km partant\
+      \ de Misery Point, au Labrador jusqu'au cap Desolation, au Groenland. L'échantillonnage\
+      \ opportuniste peut également avoir lieu à des stations du détroit de Belle\
+      \ Ilse, de la station 27, du plateau du Labrador et de la ligne OSNAP West à\
+      \ l'appui de programmes et d'initiatives de recherche connexes. L'échantillonnage\
+      \ AZOMP est effectué selon des procédures standard (https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6)\
+      \ et comprend : 1- la collecte de profils CTD et abaissés ADCP et d'échantillons\
+      \ d'eau pour la détermination des caractéristiques physiques (par exemple, T,\
+      \ S, courants), chimiques (par exemple, nutriments, pH, gaz transitoires pour\
+      \ l'eau) détermination de la masse et traceurs pour les études de ventilation\
+      \ et de séquestration du carbone) et biologiques (p. ex. chl a) ; 2- traits\
+      \ de filets multiples pour le zooplancton ; et 3- traits de filets annulaires\
+      \ verticaux pour le plancton. De plus, les XBT et les flotteurs Argo sont couramment\
+      \ déployés et l'ADCP embarqué est utilisé pour déterminer les profils actuels.\
+      \ Les données recueillies sont synthétisées dans des rapports annuels sur les\
+      \ changements physiques, chimiques et biologiques au Canada atlantique et dans\
+      \ la mer du Labrador. » L'un des principaux objectifs est les changements dans\
+      \ l'intensité du renversement hivernal des eaux de surface et des eaux de profondeur\
+      \ intermédiaire entraînant la formation de masse d'eau et faisant partie de\
+      \ la circulation thermohaline qui affecte le climat mondial. La convection transfère\
+      \ également les gaz atmosphériques de la surface vers des profondeurs intermédiaires,\
+      \ ce qui réduit le taux d'augmentation du dioxyde de carbone dans l'atmosphère\
+      \ mais augmente l'acidité de l'océan."
+  dates:
+    creation: '1998-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - chlorophyll a
+      - water temperature
+      - remote sensing
+      - fluorescence
+      - water density
+      - sampling
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - nitrate
+      - phosphate
+      - silicate
+      - potential temperature
+      - potential density
+      - seawater density
+      - sea currents
+      - tracers
+      - PCO2
+      - ADCP
+      - CTD
+      - nutrients
+      - phytoplankton
+      - carbon dioxide
+      fr:
+      - changement climatique
+      - salinité
+      - chlorophylle a
+      - température de l'eau
+      - télédétection
+      - fluorescence
+      - densité eau
+      - échantillonnage
+      - missions océanographique
+      - physico-chimie
+      - pression
+      - nitrate
+      - phosphate
+      - silicate
+      - température potentielle
+      - densité potentielle
+      - densité d'eau de mer
+      - courant marin
+      - phytoplancton
+    eov:
+      en:
+      - oxygen
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - nutrients
+      - inorganicCarbon
+      - dissolvedOrganicCarbon
+      - transientTracers
+      - particulateMatter
+      - subSurfaceCurrents
+      - surfaceCurrents
+      - oceanColour
+      - phytoplanktonBiomassAndDiversity
+      - zooplanktonBiomassAndDiversity
+      fr:
+      - Oxygène
+      - Salinité de surface
+      - Température de surface
+      - Température sous la surface
+      - Salinité sous la surface
+      - Autre
+      - Nutriments
+      - Carbone inorganique
+      - Carbone organique dissous
+      - Traceurs transitoires
+      - Matière particulaire
+      - Courants sous-marins
+      - Courants de surface
+      - Couleur des océans
+      - Biomasse et diversité de phytoplancton
+      - Biomasse et diversité de zooplancton
+  progress_code: onGoing
+  status: published
+  temporal_begin: '1998-01-01T16:00:00.000Z'
+  title:
+    en: DFO Atlantic Zone Off-Shelf Monitoring Program (AZOMP)
+    fr: Programme de surveillance de la zone Atlantique de la région des Maritimes
+      (PMZA) (Copte)
+metadata:
+  dates:
+    publication: '2022-06-14'
+    revision: '2022-06-14T15:10:53.704Z'
+  identifier: 15f90eab-21ed-447d-aea7-8fe98ea27fe5
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Availability of data varies both between and within years due to mission
+        cancellations.
+      fr: La disponibilité des données varie d'une année à l'autre en raison des annulations
+        de missions.
+spatial:
+  bbox:
+  - -63.7
+  - 37.7
+  - -48.1
+  - 60.6
+  vertical:
+  - 1.0
+  - 5500.0

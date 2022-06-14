@@ -1,0 +1,1256 @@
+<?xml version="1.0" ?><mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/2.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/2.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/2.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/2.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/2.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/2.0 https://standards.iso.org/iso/19115/-3/mds/2.0/mds.xsd">	
+
+  	<mdb:metadataIdentifier>		
+    		<mcc:MD_Identifier>			
+      			<mcc:authority>				
+        				<cit:CI_Citation>					
+            					<cit:title>							
+              						<gco:CharacterString>ca.cioos</gco:CharacterString>						
+            					</cit:title>						
+          				</cit:CI_Citation>				
+      			</mcc:authority>			
+      			<mcc:code>				
+        				<gco:CharacterString>15f90eab-21ed-447d-aea7-8fe98ea27fe5</gco:CharacterString>				
+      			</mcc:code>			
+    		</mcc:MD_Identifier>		
+  	</mdb:metadataIdentifier>	
+  	<mdb:defaultLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:defaultLocale>	
+  	<mdb:metadataScope>		
+    		<mdb:MD_MetadataScope>			
+      			<mdb:resourceScope>				
+        				<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>				
+      			</mdb:resourceScope>			
+    		</mdb:MD_MetadataScope>		
+  	</mdb:metadataScope>	
+      	<mdb:contact>		
+              		<cit:CI_Responsibility>			
+  			<cit:role>				
+    				<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="custodian"/>				
+  			</cit:role>			
+  			<cit:party>				
+    				<cit:CI_Organisation>					
+    
+      					<cit:name>						
+        						<gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>						
+      					</cit:name>					
+      					<cit:contactInfo>						
+        						<cit:CI_Contact>							
+          							<cit:phone>								
+            								<cit:CI_Telephone>									
+              									<cit:number>										
+              										<gco:CharacterString/>										
+              									</cit:number>									
+            								</cit:CI_Telephone>								
+          							</cit:phone>							
+          							<cit:address>								
+            								<cit:CI_Address>									
+              
+      									<cit:deliveryPoint>										
+        										<gco:CharacterString>1 Challenger Drive</gco:CharacterString>										
+      									</cit:deliveryPoint>									
+              
+      									<cit:city>										
+        										<gco:CharacterString>DARTMOUTH</gco:CharacterString>										
+      									</cit:city>									
+              
+      									<cit:country>										
+        										<gco:CharacterString>Canada</gco:CharacterString>										
+      									</cit:country>									
+            								</cit:CI_Address>								
+          							</cit:address>							
+          							<cit:onlineResource>								
+            								<cit:CI_OnlineResource>									
+              									<cit:linkage>										
+                										<gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>										
+              									</cit:linkage>									
+              									<cit:protocol>										
+                										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+              									</cit:protocol>									
+              									<cit:function>										
+                										<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>										
+              									</cit:function>									
+            								</cit:CI_OnlineResource>								
+          							</cit:onlineResource>							
+        						</cit:CI_Contact>						
+      					</cit:contactInfo>					
+      
+      					<cit:individual>						
+        						<cit:CI_Individual>							
+    
+      							<cit:name>								
+        								<gco:CharacterString>Marc Ringuette</gco:CharacterString>								
+      							</cit:name>							
+    							<cit:contactInfo>								
+      								<cit:CI_Contact>									
+        									<cit:address>										
+          										<cit:CI_Address>											
+            
+      											<cit:deliveryPoint>												
+        												<gco:CharacterString/>												
+      											</cit:deliveryPoint>											
+            
+      											<cit:city>												
+        												<gco:CharacterString/>												
+      											</cit:city>											
+            
+      											<cit:country>												
+        												<gco:CharacterString/>												
+      											</cit:country>											
+            											<cit:electronicMailAddress>												
+              												<gco:CharacterString>Marc.Ringuette@dfo-mpo.gc.ca</gco:CharacterString>												
+            											</cit:electronicMailAddress>											
+          										</cit:CI_Address>										
+        									</cit:address>									
+      								</cit:CI_Contact>								
+    							</cit:contactInfo>							
+    
+      							<cit:positionName>								
+        								<gco:CharacterString>Maritimes Region AZOMP Operational Lead</gco:CharacterString>								
+      							</cit:positionName>							
+						</cit:CI_Individual>						
+
+      					</cit:individual>					
+    				</cit:CI_Organisation>				
+
+  			</cit:party>			
+		</cit:CI_Responsibility>		
+
+      	</mdb:contact>	
+      	<mdb:contact>		
+              		<cit:CI_Responsibility>			
+  			<cit:role>				
+    				<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>				
+  			</cit:role>			
+  			<cit:party>				
+    				<cit:CI_Organisation>					
+    
+      					<cit:name>						
+        						<gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>						
+      					</cit:name>					
+      					<cit:contactInfo>						
+        						<cit:CI_Contact>							
+          							<cit:phone>								
+            								<cit:CI_Telephone>									
+              									<cit:number>										
+              										<gco:CharacterString/>										
+              									</cit:number>									
+            								</cit:CI_Telephone>								
+          							</cit:phone>							
+          							<cit:address>								
+            								<cit:CI_Address>									
+              
+      									<cit:deliveryPoint>										
+        										<gco:CharacterString>1 Challenger Drive</gco:CharacterString>										
+      									</cit:deliveryPoint>									
+              
+      									<cit:city>										
+        										<gco:CharacterString>DARTMOUTH</gco:CharacterString>										
+      									</cit:city>									
+              
+      									<cit:country>										
+        										<gco:CharacterString>Canada</gco:CharacterString>										
+      									</cit:country>									
+            								</cit:CI_Address>								
+          							</cit:address>							
+          							<cit:onlineResource>								
+            								<cit:CI_OnlineResource>									
+              									<cit:linkage>										
+                										<gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>										
+              									</cit:linkage>									
+              									<cit:protocol>										
+                										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+              									</cit:protocol>									
+              									<cit:function>										
+                										<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>										
+              									</cit:function>									
+            								</cit:CI_OnlineResource>								
+          							</cit:onlineResource>							
+        						</cit:CI_Contact>						
+      					</cit:contactInfo>					
+      
+      					<cit:individual>						
+        						<cit:CI_Individual>							
+    
+      							<cit:name>								
+        								<gco:CharacterString>Marc Ringuette</gco:CharacterString>								
+      							</cit:name>							
+    							<cit:contactInfo>								
+      								<cit:CI_Contact>									
+        									<cit:address>										
+          										<cit:CI_Address>											
+            
+      											<cit:deliveryPoint>												
+        												<gco:CharacterString/>												
+      											</cit:deliveryPoint>											
+            
+      											<cit:city>												
+        												<gco:CharacterString/>												
+      											</cit:city>											
+            
+      											<cit:country>												
+        												<gco:CharacterString/>												
+      											</cit:country>											
+            											<cit:electronicMailAddress>												
+              												<gco:CharacterString>Marc.Ringuette@dfo-mpo.gc.ca</gco:CharacterString>												
+            											</cit:electronicMailAddress>											
+          										</cit:CI_Address>										
+        									</cit:address>									
+      								</cit:CI_Contact>								
+    							</cit:contactInfo>							
+    
+      							<cit:positionName>								
+        								<gco:CharacterString>Maritimes Region AZOMP Operational Lead</gco:CharacterString>								
+      							</cit:positionName>							
+						</cit:CI_Individual>						
+
+      					</cit:individual>					
+    				</cit:CI_Organisation>				
+
+  			</cit:party>			
+		</cit:CI_Responsibility>		
+
+      	</mdb:contact>	
+
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:DateTime>2022-06-14T15:10:53.704Z</gco:DateTime>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:Date>2022-06-14</gco:Date>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>ISO 19115-1 Geographic information - Metadata</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+        				<gco:CharacterString>First Edition 2014-04-01</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>ISO 19115-2 Geographic information - Metadata</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+        				<gco:CharacterString>Second Edition 2019-01</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+          				<gco:CharacterString>ISO 19115-1 Geographic Information - Metadata Amendment 1</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+          				<gco:CharacterString>2018-02</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataProfile>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>Canadian Integrated Ocean Observing System Metadata Profile of ISO 19115</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:date>				
+        				<cit:CI_Date>					
+          					<cit:date>						
+            						<gco:Date>2019-11-06</gco:Date>						
+          					</cit:date>					
+          					<cit:dateType>						
+            						<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>						
+          					</cit:dateType>					
+        				</cit:CI_Date>				
+      			</cit:date>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataProfile>	
+  	<mdb:otherLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:otherLocale>	
+  	<mdb:otherLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:otherLocale>	
+  	<mdb:identificationInfo>		
+    		<mri:MD_DataIdentification>			
+      			<mri:citation>				
+        				<cit:CI_Citation>					
+          
+      					<cit:title xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>DFO Atlantic Zone Off-Shelf Monitoring Program (AZOMP)</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Programme de surveillance de la zone Atlantique de la région des Maritimes (PMZA) (Copte)</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</cit:title>					
+
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>1998-01-01</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="owner"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>1 Challenger Drive</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>DARTMOUTH</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>Marine Environmental Data Section (MEDS)</gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>
+      </cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString/>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+
+        				</cit:CI_Citation>				
+      			</mri:citation>			
+      
+      			<mri:abstract xsi:type="lan:PT_FreeText_PropertyType">				
+        				<gco:CharacterString>The Atlantic Zone Off-Shelf Monitoring Program (AZOMP) collects and analyzes physical, chemical, and biological oceanographic observations from the continental slope and deep waters of the Northwest Atlantic, with the overall goal of monitoring variability in ocean climate and plankton affecting ecosystems off Atlantic Canada and climate systems at both regional and global scales. 
+Annual measurements in the Labrador Sea began in 1990 as a contribution to the World Climate Research Program and have evolved into a multidisciplinary regional monitoring effort and part of the Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP).
+AZOMP's sampling scheme off Atlantic Canada and the Labrador Sea involves annual sampling of both the extended Halifax Line, deep-water stations over the Scotian Slope and Rise located at the end of AZMP’s Halifax Line, and the Atlantic Repeat 7-West (AR7W) line, a 880 km-line running from Misery Point, Labrador to Cape Desolation, Greenland. Opportunistic sampling may also occur at stations in the Strait of Belle Ilse, station 27, Labrador Shelf, and OSNAP West line in support of ancillary research programs and initiatives. AZOMP sampling is conducted according to standard procedures (https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6) and includes: 1- the collection of CTD and Lowered-ADCP profiles and water samples for the determination of physical (e.g., T, S, currents), chemical (e.g., nutrients, pH, transient gases for water mass determination and tracers for ventilation and carbon sequestration studies), and biological (e.g., chl a) variables; 2-  multi net tows for zooplankton;  and 3- vertical ring net tows for plankton. In addition XBTs and Argo floats are commonly deployed and vessel-mounted ADCP is used to determine current profiles. The data collected are synthesized into annual reports on the physical,  chemical and biological changes in Atlantic Canada and the Labrador Sea.”  One primary focus is on changes in the intensity of winter overturning of surface and intermediate-depth waters resulting in water mass formation and is part of the thermohaline circulation that affects the global climate. Convection also transfers atmospheric gases from the surface to intermediate depths, reducing the rate of increase of carbon dioxide in the atmosphere but increasing the acidity of the ocean.</gco:CharacterString>				
+          				<lan:PT_FreeText>					
+            					<lan:textGroup>						
+              						<lan:LocalisedCharacterString locale="#fr">Le programme de surveillance hors plateau de la zone atlantique (AZOMP) recueille et analyse les observations océanographiques physiques, chimiques et biologiques du talus continental et des eaux profondes de l'Atlantique Nord-Ouest, dans le but global de surveiller la variabilité du climat océanique et du plancton affectant les écosystèmes au large Le Canada atlantique et les systèmes climatiques à l'échelle régionale et mondiale. 
+Les mesures annuelles dans la mer du Labrador ont débuté en 1990 en tant que contribution au Programme mondial de recherche sur le climat et sont devenues un effort de surveillance régional multidisciplinaire faisant partie du Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP).
+Le plan d'échantillonnage de l'AZOMP au large du Canada atlantique et de la mer du Labrador comprend un échantillonnage annuel de la ligne Halifax prolongée, des stations en eau profonde au-dessus du Scotian Slope and Rise situées à l'extrémité de la ligne Halifax de l'AZMP, et de la ligne Atlantic Repeat 7-West (AR7W), une ligne de 880 km partant de Misery Point, au Labrador jusqu'au cap Desolation, au Groenland. L'échantillonnage opportuniste peut également avoir lieu à des stations du détroit de Belle Ilse, de la station 27, du plateau du Labrador et de la ligne OSNAP West à l'appui de programmes et d'initiatives de recherche connexes. L'échantillonnage AZOMP est effectué selon des procédures standard (https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6) et comprend : 1- la collecte de profils CTD et abaissés ADCP et d'échantillons d'eau pour la détermination des caractéristiques physiques (par exemple, T, S, courants), chimiques (par exemple, nutriments, pH, gaz transitoires pour l'eau) détermination de la masse et traceurs pour les études de ventilation et de séquestration du carbone) et biologiques (p. ex. chl a) ; 2- traits de filets multiples pour le zooplancton ; et 3- traits de filets annulaires verticaux pour le plancton. De plus, les XBT et les flotteurs Argo sont couramment déployés et l'ADCP embarqué est utilisé pour déterminer les profils actuels. Les données recueillies sont synthétisées dans des rapports annuels sur les changements physiques, chimiques et biologiques au Canada atlantique et dans la mer du Labrador. » L'un des principaux objectifs est les changements dans l'intensité du renversement hivernal des eaux de surface et des eaux de profondeur intermédiaire entraînant la formation de masse d'eau et faisant partie de la circulation thermohaline qui affecte le climat mondial. La convection transfère également les gaz atmosphériques de la surface vers des profondeurs intermédiaires, ce qui réduit le taux d'augmentation du dioxyde de carbone dans l'atmosphère mais augmente l'acidité de l'océan.</lan:LocalisedCharacterString>						
+            					</lan:textGroup>					
+          				</lan:PT_FreeText>				
+      			</mri:abstract>			
+      
+      			<mri:credit>				
+        				<gco:CharacterString/>				
+      			</mri:credit>			
+      			<mri:status>				
+        				<mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="onGoing">
+        </mcc:MD_ProgressCode>				
+      			</mri:status>			
+
+      			<mri:topicCategory>				
+        				<mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>				
+      			</mri:topicCategory>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:geographicElement>						
+            						<gex:EX_GeographicBoundingBox>							
+              							<gex:extentTypeCode>								
+                								<gco:Boolean>true</gco:Boolean>								
+              							</gex:extentTypeCode>							
+              							<gex:westBoundLongitude>								
+                								<gco:Decimal>-63.7</gco:Decimal>								
+              							</gex:westBoundLongitude>							
+              							<gex:eastBoundLongitude>								
+                								<gco:Decimal>-48.1</gco:Decimal>								
+              							</gex:eastBoundLongitude>							
+              							<gex:southBoundLatitude>								
+                								<gco:Decimal>37.7</gco:Decimal>								
+              							</gex:southBoundLatitude>							
+              							<gex:northBoundLatitude>								
+                								<gco:Decimal>60.6</gco:Decimal>								
+              							</gex:northBoundLatitude>							
+            						</gex:EX_GeographicBoundingBox>						
+          					</gex:geographicElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:verticalElement>						
+            						<gex:EX_VerticalExtent>							
+              							<gex:minimumValue>								
+                								<gco:Real>1.0</gco:Real>								
+              							</gex:minimumValue>							
+              							<gex:maximumValue>								
+                								<gco:Real>5500.0</gco:Real>								
+              							</gex:maximumValue>							
+              							<gex:verticalCRSId>								
+                								<mrs:MD_ReferenceSystem>									
+                  									<mrs:referenceSystemIdentifier>										
+                    										<mcc:MD_Identifier>											
+                      											<mcc:code>												
+                        												<gco:CharacterString>5831</gco:CharacterString>												
+                      											</mcc:code>											
+                      											<mcc:codeSpace>												
+                        												<gco:CharacterString>EPSG</gco:CharacterString>												
+                      											</mcc:codeSpace>											
+                      											<mcc:version>												
+                        												<gco:CharacterString>2012-08-10</gco:CharacterString>												
+                      											</mcc:version>											
+                      											<mcc:description>												
+                        												<gco:CharacterString>EPSG::5831 - Instantaneous Water Level depth - Depth relative to instantaneous water level uncorrected for tide. Not specific to any location or epoch.</gco:CharacterString>												
+                      											</mcc:description>											
+                    										</mcc:MD_Identifier>										
+                  									</mrs:referenceSystemIdentifier>									
+                  									<mrs:referenceSystemType>										
+                    										<mrs:MD_ReferenceSystemTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ReferenceSystemTypeCode" codeListValue="vertical">vertical</mrs:MD_ReferenceSystemTypeCode>										
+                  									</mrs:referenceSystemType>									
+                								</mrs:MD_ReferenceSystem>								
+              							</gex:verticalCRSId>							
+              							<gex:verticalCRS xlink:href="http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:crs:EPSG::5831" xlink:title="instantaneous water level depth" xlink:actuate="onRequest"/>							
+            						</gex:EX_VerticalExtent>						
+          					</gex:verticalElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:temporalElement>						
+            						<gex:EX_TemporalExtent>							
+              							<gex:extent>								
+                								<gml:TimePeriod gml:id="time_period">									
+                  									<gml:beginPosition>1998-01-01T16:00:00.000Z</gml:beginPosition>									
+                  									<gml:endPosition indeterminatePosition="now"/>									
+                								</gml:TimePeriod>								
+              							</gex:extent>							
+            						</gex:EX_TemporalExtent>						
+          					</gex:temporalElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:resourceMaintenance>				
+        				<mmi:MD_MaintenanceInformation>					
+          					<mmi:maintenanceAndUpdateFrequency>						
+            						<mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>						
+          					</mmi:maintenanceAndUpdateFrequency>					
+          
+      					<mmi:maintenanceNote>						
+        						<gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form</gco:CharacterString>						
+      					</mmi:maintenanceNote>					
+        				</mmi:MD_MaintenanceInformation>				
+      			</mri:resourceMaintenance>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          					<mri:keyword>						
+            						<gco:CharacterString>Oceans</gco:CharacterString>						
+          					</mri:keyword>					
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>Government of Canada Core Subject Thesaurus</gco:CharacterString>								
+              							</cit:title>							
+              							<cit:date>								
+                								<cit:CI_Date>									
+                  									<cit:date>										
+                    										<gco:Date>2016-10-13</gco:Date>										
+                  									</cit:date>									
+                  									<cit:dateType>										
+                    										<cit:CI_DateTypeCode codeList="http://wiki.esipfed.org/index.php/ISO_19115-3_Codelists#CI_DateTypeCode" codeListValue="revision"/>										
+                  									</cit:dateType>									
+                								</cit:CI_Date>								
+              							</cit:date>							
+              							<cit:edition>								
+                								<gco:CharacterString>N/A</gco:CharacterString>								
+              							</cit:edition>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          
+              					<mri:keyword>						
+                    						<gco:CharacterString>climate change</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>salinity</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>chlorophyll a</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>water temperature</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>remote sensing</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>fluorescence</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>water density</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>sampling</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>oceanographic missions</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>physical-chemical</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>pressure</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>nitrate</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>phosphate</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>silicate</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>potential temperature</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>potential density</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>seawater density</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>sea currents</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>tracers</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>PCO2</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>ADCP</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>CTD</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>nutrients</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>phytoplankton</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>carbon dioxide</gco:CharacterString>						
+              					</mri:keyword>					
+          
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">changement climatique</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">salinité</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">chlorophylle a</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">température de l'eau</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">télédétection</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">fluorescence</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">densité eau</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">échantillonnage</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">missions océanographique</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">physico-chimie</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">pression</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">nitrate</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">phosphate</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">silicate</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">température potentielle</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">densité potentielle</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">densité d'eau de mer</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">courant marin</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">phytoplancton</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+  
+
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>default</gco:CharacterString>								
+              							</cit:title>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          
+              					<mri:keyword>						
+                    						<gco:CharacterString>oxygen</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>seaSurfaceSalinity</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>seaSurfaceTemperature</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>subSurfaceTemperature</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>subSurfaceSalinity</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>other</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>nutrients</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>inorganicCarbon</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>dissolvedOrganicCarbon</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>transientTracers</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>particulateMatter</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>subSurfaceCurrents</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>surfaceCurrents</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>oceanColour</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>phytoplanktonBiomassAndDiversity</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>zooplanktonBiomassAndDiversity</gco:CharacterString>						
+              					</mri:keyword>					
+          
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Oxygène</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Salinité de surface</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Température de surface</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Température sous la surface</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Salinité sous la surface</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Autre</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Nutriments</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Carbone inorganique</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Carbone organique dissous</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Traceurs transitoires</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Matière particulaire</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Courants sous-marins</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Courants de surface</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Couleur des océans</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Biomasse et diversité de phytoplancton</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">Biomasse et diversité de zooplancton</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+  
+
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>eov</gco:CharacterString>								
+              							</cit:title>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+
+      			<mri:resourceConstraints>				
+        				<mco:MD_LegalConstraints>					
+          					<mco:reference>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>{'en': 'Open Government Licence - Canada', 'fr': 'Licence du gouvernement ouvert – Canada '}</gco:CharacterString>								
+              							</cit:title>							
+              							<cit:identifier>								
+                								<mcc:MD_Identifier>									
+                  									<mcc:code>										
+                    										<gco:CharacterString>government-open-license-canada</gco:CharacterString>										
+                  									</mcc:code>									
+                								</mcc:MD_Identifier>								
+              							</cit:identifier>							
+              							<cit:onlineResource>								
+                								<cit:CI_OnlineResource>									
+                  									<cit:linkage>										
+                    										<gco:CharacterString>https://open.canada.ca/en/open-government-licence-canada</gco:CharacterString>										
+                  									</cit:linkage>									
+                  									<cit:protocol>										
+                    										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+                  									</cit:protocol>									
+                								</cit:CI_OnlineResource>								
+              							</cit:onlineResource>							
+            						</cit:CI_Citation>						
+          					</mco:reference>					
+          					<mco:useConstraints>						
+            						<mco:MD_RestrictionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_RestrictionCode" codeListValue="licence"/>						
+          					</mco:useConstraints>					
+        				</mco:MD_LegalConstraints>				
+      			</mri:resourceConstraints>			
+      			<mri:resourceConstraints>				
+        				<mco:MD_Constraints>					
+           
+      					<mco:useLimitation xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>Availability of data varies both between and within years due to mission cancellations.</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">La disponibilité des données varie d'une année à l'autre en raison des annulations de missions.</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</mco:useLimitation>					
+        				</mco:MD_Constraints>				
+      			</mri:resourceConstraints>			
+
+      
+      			<mri:supplementalInformation>				
+        				<gco:CharacterString/>				
+      			</mri:supplementalInformation>			
+    		</mri:MD_DataIdentification>		
+  	</mdb:identificationInfo>	
+  	<mdb:distributionInfo>		
+    		<mrd:MD_Distribution>			
+      			<mrd:distributor>				
+        				<mrd:MD_Distributor>					
+          					<mrd:distributorContact>						
+        						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="distributor"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString>1 Challenger Drive</gco:CharacterString>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString>DARTMOUTH</gco:CharacterString>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString>Canada</gco:CharacterString>														
+      													</cit:country>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString>BIO Data Services</gco:CharacterString>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>BIO.Datashop@dfo-mpo.gc.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Data Management</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+            					</mrd:distributorContact>					
+        				</mrd:MD_Distributor>				
+      			</mrd:distributor>			
+
+
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://waves-vagues.dfo-mpo.gc.ca/Library/265754.pdf</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>Atlantic Zonal Monitoring Program Sampling Protocol</gco:CharacterString>								
+              							</cit:name>							
+              
+      							<cit:description xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Core sampling protocols for the Atlantic Zone Monitoring Program</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">Principaux protocoles d'échantillonnage pour le Programme de surveillance de la zone atlantique</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>Canadian Science Advisory Secretariat (CSAS) Publications</gco:CharacterString>								
+              							</cit:name>							
+              
+      							<cit:description xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Website containing publications produced under the Canadian Science Advisory Secretariat</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">Site Web contenant des publications produites par le Secrétariat canadien de consultation scientifique</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://www.go-ship.org/</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>The Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)</gco:CharacterString>								
+              							</cit:name>							
+              
+      							<cit:description xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>website for The Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">site web du Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>BioChem DFO Database for plankton and chemical data</gco:CharacterString>								
+              							</cit:name>							
+              
+      							<cit:description xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>National Department of Fisheries and Oceans (DFO) archive for plankton and chemical data</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr">Archives du ministère national des Pêches et des Océans (MPO) pour les données sur le plancton et les produits chimiques</lan:LocalisedCharacterString>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/atlantic_zone_off_shelf_monitoring_program.html</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>								
+              							</cit:name>							
+              							<cit:description>								
+                								<gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>								
+              							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+
+    		</mrd:MD_Distribution>		
+  	</mdb:distributionInfo>	
+  	<mdb:metadataMaintenance>		
+    		<mmi:MD_MaintenanceInformation>			
+      			<mmi:maintenanceAndUpdateFrequency>				
+        				<mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>				
+      			</mmi:maintenanceAndUpdateFrequency>			
+    		</mmi:MD_MaintenanceInformation>		
+  	</mdb:metadataMaintenance>	
+
+</mdb:MD_Metadata>
