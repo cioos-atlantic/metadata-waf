@@ -1,17 +1,16 @@
-<?xml version="1.0" ?><mdb:MD_Metadata xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/2.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/2.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/2.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/2.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/2.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/2.0 https://standards.iso.org/iso/19115/-3/mds/2.0/mds.xsd">	
+<?xml version="1.0" ?><mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/2.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/2.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/2.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/2.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/2.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/2.0 https://standards.iso.org/iso/19115/-3/mds/2.0/mds.xsd">	
 
   	<mdb:metadataIdentifier>		
     		<mcc:MD_Identifier>			
       			<mcc:authority>				
         				<cit:CI_Citation>					
-            
-      					<cit:title>						
-        						<gco:CharacterString>ca.cioos</gco:CharacterString>						
-      					</cit:title>					
+            					<cit:title>							
+              						<gco:CharacterString>ca.cioos</gco:CharacterString>						
+            					</cit:title>						
           				</cit:CI_Citation>				
       			</mcc:authority>			
       			<mcc:code>				
-        				<gco:CharacterString>7f468362-e624-485a-9e20-ea779dbe175e</gco:CharacterString>				
+        				<gco:CharacterString>48c63fe2-c8e1-4696-9ef7-334d5742dee8</gco:CharacterString>				
       			</mcc:code>			
     		</mcc:MD_Identifier>		
   	</mdb:metadataIdentifier>	
@@ -46,7 +45,7 @@
     				<cit:CI_Organisation>					
     
       					<cit:name>						
-        						<gco:CharacterString>College of the North Atlantic</gco:CharacterString>						
+        						<gco:CharacterString>Marine Institute, MUN</gco:CharacterString>						
       					</cit:name>					
       					<cit:contactInfo>						
         						<cit:CI_Contact>							
@@ -61,25 +60,25 @@
             								<cit:CI_Address>									
               
       									<cit:deliveryPoint>										
-        										<gco:CharacterString>105 Main Street P.O. Box 370</gco:CharacterString>										
+        										<gco:CharacterString>P.O. Box 4920</gco:CharacterString>										
       									</cit:deliveryPoint>									
               
       									<cit:city>										
-        										<gco:CharacterString>Burin Bay Arm, NL</gco:CharacterString>										
+        										<gco:CharacterString>Holyrood</gco:CharacterString>										
       									</cit:city>									
               
       									<cit:country>										
         										<gco:CharacterString>Canada</gco:CharacterString>										
       									</cit:country>									
               									<cit:electronicMailAddress>										
-                										<gco:CharacterString>ar@cna.nl.ca</gco:CharacterString>										
+                										<gco:CharacterString>kirk.regular@mi.mun.ca</gco:CharacterString>										
               									</cit:electronicMailAddress>									
             								</cit:CI_Address>								
           							</cit:address>							
           							<cit:onlineResource>								
             								<cit:CI_OnlineResource>									
               									<cit:linkage>										
-                										<gco:CharacterString>https://www.cna.nl.ca</gco:CharacterString>										
+                										<gco:CharacterString>www.mi.mun.ca/ctec</gco:CharacterString>										
               									</cit:linkage>									
               									<cit:protocol>										
                 										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
@@ -96,7 +95,7 @@
         						<cit:CI_Individual>							
     
       							<cit:name>								
-        								<gco:CharacterString>Justin Elms</gco:CharacterString>								
+        								<gco:CharacterString>Kirk Regular</gco:CharacterString>								
       							</cit:name>							
     							<cit:contactInfo>								
       								<cit:CI_Contact>									
@@ -115,7 +114,7 @@
         												<gco:CharacterString/>												
       											</cit:country>											
             											<cit:electronicMailAddress>												
-              												<gco:CharacterString>justin.elms@cna.nl.ca</gco:CharacterString>												
+              												<gco:CharacterString>kirk.regular@mi.mun.ca</gco:CharacterString>												
             											</cit:electronicMailAddress>											
           										</cit:CI_Address>										
         									</cit:address>									
@@ -123,7 +122,104 @@
     							</cit:contactInfo>							
     
       							<cit:positionName>								
-        								<gco:CharacterString>Researcher, Office of Applied Research and Innovation (OARI)</gco:CharacterString>								
+        								<gco:CharacterString>Marine Geomatics</gco:CharacterString>								
+      							</cit:positionName>							
+						</cit:CI_Individual>						
+
+      					</cit:individual>					
+    				</cit:CI_Organisation>				
+
+  			</cit:party>			
+		</cit:CI_Responsibility>		
+
+      	</mdb:contact>	
+      	<mdb:contact>		
+              		<cit:CI_Responsibility>			
+  			<cit:role>				
+    				<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>				
+  			</cit:role>			
+  			<cit:party>				
+    				<cit:CI_Organisation>					
+    
+      					<cit:name>						
+        						<gco:CharacterString>Marine Institute, MUN</gco:CharacterString>						
+      					</cit:name>					
+      					<cit:contactInfo>						
+        						<cit:CI_Contact>							
+          							<cit:phone>								
+            								<cit:CI_Telephone>									
+              									<cit:number>										
+              										<gco:CharacterString/>										
+              									</cit:number>									
+            								</cit:CI_Telephone>								
+          							</cit:phone>							
+          							<cit:address>								
+            								<cit:CI_Address>									
+              
+      									<cit:deliveryPoint>										
+        										<gco:CharacterString>P.O. Box 4920</gco:CharacterString>										
+      									</cit:deliveryPoint>									
+              
+      									<cit:city>										
+        										<gco:CharacterString>Holyrood</gco:CharacterString>										
+      									</cit:city>									
+              
+      									<cit:country>										
+        										<gco:CharacterString>Canada</gco:CharacterString>										
+      									</cit:country>									
+              									<cit:electronicMailAddress>										
+                										<gco:CharacterString>kirk.regular@mi.mun.ca</gco:CharacterString>										
+              									</cit:electronicMailAddress>									
+            								</cit:CI_Address>								
+          							</cit:address>							
+          							<cit:onlineResource>								
+            								<cit:CI_OnlineResource>									
+              									<cit:linkage>										
+                										<gco:CharacterString>www.mi.mun.ca/ctec</gco:CharacterString>										
+              									</cit:linkage>									
+              									<cit:protocol>										
+                										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+              									</cit:protocol>									
+              									<cit:function>										
+                										<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>										
+              									</cit:function>									
+            								</cit:CI_OnlineResource>								
+          							</cit:onlineResource>							
+        						</cit:CI_Contact>						
+      					</cit:contactInfo>					
+      
+      					<cit:individual>						
+        						<cit:CI_Individual>							
+    
+      							<cit:name>								
+        								<gco:CharacterString>Kirk Regular</gco:CharacterString>								
+      							</cit:name>							
+    							<cit:contactInfo>								
+      								<cit:CI_Contact>									
+        									<cit:address>										
+          										<cit:CI_Address>											
+            
+      											<cit:deliveryPoint>												
+        												<gco:CharacterString/>												
+      											</cit:deliveryPoint>											
+            
+      											<cit:city>												
+        												<gco:CharacterString/>												
+      											</cit:city>											
+            
+      											<cit:country>												
+        												<gco:CharacterString/>												
+      											</cit:country>											
+            											<cit:electronicMailAddress>												
+              												<gco:CharacterString>kirk.regular@mi.mun.ca</gco:CharacterString>												
+            											</cit:electronicMailAddress>											
+          										</cit:CI_Address>										
+        									</cit:address>									
+      								</cit:CI_Contact>								
+    							</cit:contactInfo>							
+    
+      							<cit:positionName>								
+        								<gco:CharacterString>Marine Geomatics</gco:CharacterString>								
       							</cit:positionName>							
 						</cit:CI_Individual>						
 
@@ -138,7 +234,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:DateTime>2021-05-19T12:55:03.758Z</gco:DateTime>				
+        				<gco:DateTime>2022-04-19T16:04:00.656Z</gco:DateTime>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
@@ -148,7 +244,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:Date>2021-05-19</gco:Date>				
+        				<gco:Date>2022-04-22</gco:Date>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				
@@ -238,10 +334,10 @@
         				<cit:CI_Citation>					
           
       					<cit:title xsi:type="lan:PT_FreeText_PropertyType">						
-        						<gco:CharacterString>Wave Energy Research Centre Weather Archive</gco:CharacterString>						
+        						<gco:CharacterString>Seafloor Mapping for Onshore/Offshore Bedrock Correlation in Offshore Basins,  Western Newfoundland</gco:CharacterString>						
           						<lan:PT_FreeText>							
             							<lan:textGroup>								
-              								<lan:LocalisedCharacterString locale="#fr">Centre de recherche sur l'énergie des vagues Archives météorologiques</lan:LocalisedCharacterString>								
+              								<lan:LocalisedCharacterString locale="#fr">Cartographie du fond marin pour la corrélation du socle rocheux onrier/extracôtier dans les bassins extracôtiers,</lan:LocalisedCharacterString>								
             							</lan:textGroup>							
           						</lan:PT_FreeText>						
       					</cit:title>					
@@ -249,7 +345,7 @@
           					<cit:date>						
             						<cit:CI_Date>							
               							<cit:date>								
-                								<gco:Date>2012-01-25</gco:Date>								
+                								<gco:Date>2014-07-08</gco:Date>								
               							</cit:date>							
               							<cit:dateType>								
                 								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>								
@@ -259,10 +355,20 @@
           					<cit:date>						
             						<cit:CI_Date>							
               							<cit:date>								
-                								<gco:Date>2013-05-14</gco:Date>								
+                								<gco:Date>2014-07-21</gco:Date>								
               							</cit:date>							
               							<cit:dateType>								
                 								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2016-11-28</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>								
               							</cit:dateType>							
             						</cit:CI_Date>						
           					</cit:date>					
@@ -276,7 +382,7 @@
     								<cit:CI_Organisation>									
     
       									<cit:name>										
-        										<gco:CharacterString>College of the North Atlantic</gco:CharacterString>										
+        										<gco:CharacterString>Marine Institute, MUN</gco:CharacterString>										
       									</cit:name>									
       									<cit:contactInfo>										
         										<cit:CI_Contact>											
@@ -291,25 +397,25 @@
             												<cit:CI_Address>													
               
       													<cit:deliveryPoint>														
-        														<gco:CharacterString>105 Main Street P.O. Box 370</gco:CharacterString>														
+        														<gco:CharacterString>P.O. Box 4920</gco:CharacterString>														
       													</cit:deliveryPoint>													
               
       													<cit:city>														
-        														<gco:CharacterString>Burin Bay Arm, NL</gco:CharacterString>														
+        														<gco:CharacterString>Holyrood</gco:CharacterString>														
       													</cit:city>													
               
       													<cit:country>														
         														<gco:CharacterString>Canada</gco:CharacterString>														
       													</cit:country>													
               													<cit:electronicMailAddress>														
-                														<gco:CharacterString>ar@cna.nl.ca</gco:CharacterString>														
+                														<gco:CharacterString>kirk.regular@mi.mun.ca</gco:CharacterString>														
               													</cit:electronicMailAddress>													
             												</cit:CI_Address>												
           											</cit:address>											
           											<cit:onlineResource>												
             												<cit:CI_OnlineResource>													
               													<cit:linkage>														
-                														<gco:CharacterString>https://www.cna.nl.ca</gco:CharacterString>														
+                														<gco:CharacterString>www.mi.mun.ca/ctec</gco:CharacterString>														
               													</cit:linkage>													
               													<cit:protocol>														
                 														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
@@ -326,7 +432,7 @@
         										<cit:CI_Individual>											
     
       											<cit:name>												
-        												<gco:CharacterString>Justin Elms</gco:CharacterString>												
+        												<gco:CharacterString>Kirk Regular</gco:CharacterString>												
       											</cit:name>											
     											<cit:contactInfo>												
       												<cit:CI_Contact>													
@@ -345,7 +451,7 @@
         																<gco:CharacterString/>																
       															</cit:country>															
             															<cit:electronicMailAddress>																
-              																<gco:CharacterString>justin.elms@cna.nl.ca</gco:CharacterString>																
+              																<gco:CharacterString>kirk.regular@mi.mun.ca</gco:CharacterString>																
             															</cit:electronicMailAddress>															
           														</cit:CI_Address>														
         													</cit:address>													
@@ -353,7 +459,7 @@
     											</cit:contactInfo>											
     
       											<cit:positionName>												
-        												<gco:CharacterString>Researcher, Office of Applied Research and Innovation (OARI)</gco:CharacterString>												
+        												<gco:CharacterString>Marine Geomatics</gco:CharacterString>												
       											</cit:positionName>											
 										</cit:CI_Individual>										
 
@@ -367,13 +473,13 @@
           					<cit:citedResponsibleParty>						
             						<cit:CI_Responsibility>							
   							<cit:role>								
-    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="originator"/>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="coAuthor"/>								
   							</cit:role>							
   							<cit:party>								
     								<cit:CI_Organisation>									
     
       									<cit:name>										
-        										<gco:CharacterString>College of the North Atlantic</gco:CharacterString>										
+        										<gco:CharacterString>Marine Institute, MUN</gco:CharacterString>										
       									</cit:name>									
       									<cit:contactInfo>										
         										<cit:CI_Contact>											
@@ -388,25 +494,25 @@
             												<cit:CI_Address>													
               
       													<cit:deliveryPoint>														
-        														<gco:CharacterString>105 Main Street P.O. Box 370</gco:CharacterString>														
+        														<gco:CharacterString>P.O. Box 4920</gco:CharacterString>														
       													</cit:deliveryPoint>													
               
       													<cit:city>														
-        														<gco:CharacterString>Burin Bay Arm, NL</gco:CharacterString>														
+        														<gco:CharacterString>Holyrood</gco:CharacterString>														
       													</cit:city>													
               
       													<cit:country>														
         														<gco:CharacterString>Canada</gco:CharacterString>														
       													</cit:country>													
               													<cit:electronicMailAddress>														
-                														<gco:CharacterString>ar@cna.nl.ca</gco:CharacterString>														
+                														<gco:CharacterString>kirk.regular@mi.mun.ca</gco:CharacterString>														
               													</cit:electronicMailAddress>													
             												</cit:CI_Address>												
           											</cit:address>											
           											<cit:onlineResource>												
             												<cit:CI_OnlineResource>													
               													<cit:linkage>														
-                														<gco:CharacterString>https://www.cna.nl.ca</gco:CharacterString>														
+                														<gco:CharacterString>www.mi.mun.ca/ctec</gco:CharacterString>														
               													</cit:linkage>													
               													<cit:protocol>														
                 														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
@@ -423,7 +529,7 @@
         										<cit:CI_Individual>											
     
       											<cit:name>												
-        												<gco:CharacterString>Dr. Mike Graham</gco:CharacterString>												
+        												<gco:CharacterString>Kirk Regular</gco:CharacterString>												
       											</cit:name>											
     											<cit:contactInfo>												
       												<cit:CI_Contact>													
@@ -442,7 +548,7 @@
         																<gco:CharacterString/>																
       															</cit:country>															
             															<cit:electronicMailAddress>																
-              																<gco:CharacterString>mike.graham@cna.nl.ca</gco:CharacterString>																
+              																<gco:CharacterString>kirk.regular@mi.mun.ca</gco:CharacterString>																
             															</cit:electronicMailAddress>															
           														</cit:CI_Address>														
         													</cit:address>													
@@ -450,7 +556,7 @@
     											</cit:contactInfo>											
     
       											<cit:positionName>												
-        												<gco:CharacterString>Director of Special Projects (Retired)</gco:CharacterString>												
+        												<gco:CharacterString>Marine Geomatics</gco:CharacterString>												
       											</cit:positionName>											
 										</cit:CI_Individual>										
 
@@ -466,10 +572,10 @@
       			</mri:citation>			
       
       			<mri:abstract xsi:type="lan:PT_FreeText_PropertyType">				
-        				<gco:CharacterString>The Wave Energy Research Centre (WERC) was established in 2011 by College of the North Atlantic (CNA) to conduct research on the use of ocean wave energy to supply sea water to land based aquaculture.  The site in Lord's Cove, NL is fully instrumented for wave and weather data collection and contains a pilot land -based multi-trophic aquaculture farm. The meteorological station at Lord’s Cove is located at 46°52'43.20&quot;N, 55°40'10.32&quot;W near the public wharf in the town of Lord’s Cove NL Canada. The 10 m tower was erected 2 m from one of our buildings approximately 7 m above sea level and 40 m from the high tide line (Fig. 1). Due to local terrain, it was impossible to find a site with ideal fetch for wind measurements. Although there is excellent fetch for the site in the southern half of the compass (at least 200 m over water), there are nearby (approximately 60 m away) terrain features and structures to the north. For this reason, wind measured from the northern quadrants may be site specific and should be interpreted with caution. The station instrumentation includes an RM Young marine anemometer (model # 05106C-10) mounted at 10 m, a Kipp &amp; Zonen silicon pyranometer (model “SP Lite2”) mounted on a horizontal arm 1 m south from the tower centre at a height of 4 m, a &quot;Hydroclip&quot; RH/T sensor (Model HC2-S3-L)  mounted on the tower  in a 10-plate radiation shield (Campbell Scientific 41003-X)  also at a height of 3 m,  a Texas Electronics TE525M tipping bucket rain and a RM Young 52202-L heated tipping bucket rain gauge, both mounted at 3.5 m on separate supports 3 m southwest of the tower. Data is collected by a Campbell Scientific CR10X logger powered from a solar-charged battery, isolating the system from AC noise. Data is transmitted every 10 minutes to a computer via VHF radio. The data logger is programmed to take measurements every three seconds and analyze these data over 2-minute (for sustained wind), 10-minute and 24–hour (midnight to midnight) periods.  Historical data  Fours datasets are available: 1.	Daily Lord’s Cove Weather Data 2.	Lord’s Cove Weather:  10 Minute Intervals:  Retrieves 10-minute weather data between the dates specified. 3.	Sustained Winds:  Returns sustained (i.e. minimum in 2 minutes) wind speed (Km/hr) every 2 minutes in period.  4.	Quick Wind and Temperature:  this report returns 10-min vector magnitude and air temperatures between the specified dates and produces simple series plots at the end of the report.  (Note:  plot does not indicate periods where data is missing).</gco:CharacterString>				
+        				<gco:CharacterString>This project will demonstrate the benefits of a sedimentary basin-to-seafloor integration of geophysical, geological and bathymetric data to map the offshore extent of Carboniferous bedrock, offshore western Newfoundland.  In particular, the research will prove the significant advantages of combining conventional industry (seismic and well) and potential field (aeromagnetic/gravity) data with high-resolution seismic and multibeam bathymetric data to map  offshore bedrock contacts and unconformities, structures (faults, fold axes) and features (gas vents) with unrivaled precision compared to stand-alone interpretations.</gco:CharacterString>				
           				<lan:PT_FreeText>					
             					<lan:textGroup>						
-              						<lan:LocalisedCharacterString locale="#fr">Le Wave Energy Research Centre (WRC) a été créé en 2011 par le Collège de l'Atlantique Nord (CNA) pour mener des recherches sur l'utilisation de l'énergie des vagues océaniques pour alimenter l'eau de mer à l'aquaculture terrestre. Le site de Lord's Cove (T.-N.-L.) est entièrement instrumenté pour la collecte de données sur les vagues et les conditions météorologiques et contient une ferme aquacole multitrophique pilote basée sur terre. La station météorologique de Lord's Cove est située au 46°52'43,20&quot; N, 55°40'10,32&quot; O. près du quai public de la ville de Lord's Cove (Terre-Neuve-et-Labrador). La tour de 10 m a été érigée à 2 m d'un de nos bâtiments à environ 7 m au-dessus du niveau de la mer et à 40 m de la ligne de marée haute (figure 1). En raison du terrain local, il était impossible de trouver un site avec une extraction idéale pour mesurer le vent. Bien qu'il y ait un excellent accès pour le site dans la moitié sud de la boussole (au moins 200 m au-dessus de l'eau), il y a des caractéristiques et des structures du terrain à proximité (environ 60 m plus loin) au nord. Pour cette raison, le vent mesuré dans les quadrants septentrionaux peut être spécifique au site et doit être interprété avec prudence. L'instrumentation de la station comprend un anémomètre marin RM Young (modèle no 05106C-10) monté à 10 m, un pyranomètre en silicium Kipp &amp; Zonen (modèle « SP Lite2 ») monté sur un bras horizontal à 1 m au sud du centre de la tour à une hauteur de 4 m, un capteur RH/T « Hydroclip » (modèle HC2-S3-L) monté sur la tour en 10- bouclier de rayonnement de plaque (Campbell Scientific 41003-X) également à une hauteur de 3 m, un seau basculant de la pluie Texas Electronics TE525M et un pluviomètre à basculement chauffé RM Young 52202-L, tous deux montés à 3,5 m sur des supports séparés à 3 m au sud-ouest de la tour. Les données sont collectées par un enregistreur Campbell Scientific CR10X alimenté par une batterie solaire, isolant le système du bruit AC. Les données sont transmises toutes les 10 minutes à un ordinateur par radio VHF. L'enregistreur de données est programmé pour effectuer des mesures toutes les trois secondes et analyser ces données sur des périodes de 2 minutes (pour un vent soutenu), 10 minutes et 24 heures (minuit à minuit). Données historiques Des ensembles de données Fours sont disponibles : 1. Données météorologiques quotidiennes de Lord's Cove 2. Météo de Lord's Cove : Intervalles de 10 minutes : Récupère les données météorologiques de 10 minutes entre les dates indiquées. 3. Vents soutenus : Retourne soutenue (c.-à-d. au minimum en 2 minutes) vitesse du vent (km/h) toutes les 2 minutes au cours de la période. 4. Vent rapide et température : ce rapport renvoie la magnitude vectorielle de 10 min et la température de l'air entre les dates spécifiées et produit des diagrammes simples en série à la fin du rapport. (Remarque : le diagramme n'indique pas les périodes où les données sont manquantes).</lan:LocalisedCharacterString>						
+              						<lan:LocalisedCharacterString locale="#fr">Ce projet démontrera les avantages d'une intégration sédimentaire du bassin au fond marin de données géophysiques, géologiques et bathymétriques pour cartographier l'étendue extracôtière du substrat rocheux carbonifère, au large de l'ouest de Terre-Neuve. En particulier, la recherche montrera les avantages importants de combiner des données industrielles conventionnelles (sismiques et puits) et de champ potentiel (aéromagnétique/gravité) avec des données sismiques et bathymétriques multifaisceaux haute résolution pour cartographier les contacts et les inconformités du substrat rocheux offshore, les structures (failles, axes de pliage) et des caractéristiques (évents de gaz) avec une précision inégalée par rapport aux interprétations autonomes.</lan:LocalisedCharacterString>						
             					</lan:textGroup>					
           				</lan:PT_FreeText>				
       			</mri:abstract>			
@@ -478,33 +584,33 @@
         				<gco:CharacterString/>				
       			</mri:credit>			
       			<mri:status>				
-        				<mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="onGoing">
+        				<mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="historicalArchive">
         </mcc:MD_ProgressCode>				
       			</mri:status>			
 
       			<mri:topicCategory>				
         				<mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>				
       			</mri:topicCategory>			
+
       			<mri:extent>				
         				<gex:EX_Extent>					
           					<gex:geographicElement>						
-            						<gex:EX_GeographicBoundingBox>							
+            						<gex:EX_BoundingPolygon>							
               							<gex:extentTypeCode>								
                 								<gco:Boolean>true</gco:Boolean>								
               							</gex:extentTypeCode>							
-              							<gex:westBoundLongitude>								
-                								<gco:Decimal>-55.66953</gco:Decimal>								
-              							</gex:westBoundLongitude>							
-              							<gex:eastBoundLongitude>								
-                								<gco:Decimal>-55.66953</gco:Decimal>								
-              							</gex:eastBoundLongitude>							
-              							<gex:southBoundLatitude>								
-                								<gco:Decimal>46.87861</gco:Decimal>								
-              							</gex:southBoundLatitude>							
-              							<gex:northBoundLatitude>								
-                								<gco:Decimal>46.87861</gco:Decimal>								
-              							</gex:northBoundLatitude>							
-            						</gex:EX_GeographicBoundingBox>						
+              							<gex:polygon>								
+                								<gml:Polygon gml:id="a1">									
+                  									<gml:exterior>										
+                    										<gml:LinearRing>											
+                      											<gml:coordinates>
+                        -59.5705,47.7791 -59.8311,48.1264 -59.5759,48.2278 -59.4254,48.1734 -59.3586,48.2004 -59.1888,48.0601 -59.4447,47.91197 -59.3676,47.7948 -59.5716,47.7798 -59.5705,47.7791
+                      </gml:coordinates>											
+                    										</gml:LinearRing>										
+                  									</gml:exterior>									
+                								</gml:Polygon>								
+              							</gex:polygon>							
+            						</gex:EX_BoundingPolygon>						
           					</gex:geographicElement>					
         				</gex:EX_Extent>				
       			</mri:extent>			
@@ -513,10 +619,10 @@
           					<gex:verticalElement>						
             						<gex:EX_VerticalExtent>							
               							<gex:minimumValue>								
-                								<gco:Real>-10.5</gco:Real>								
+                								<gco:Real>23.6</gco:Real>								
               							</gex:minimumValue>							
               							<gex:maximumValue>								
-                								<gco:Real>-17.0</gco:Real>								
+                								<gco:Real>528.3</gco:Real>								
               							</gex:maximumValue>							
               							<gex:verticalCRSId>								
                 								<mrs:MD_ReferenceSystem>									
@@ -541,7 +647,7 @@
                   									</mrs:referenceSystemType>									
                 								</mrs:MD_ReferenceSystem>								
               							</gex:verticalCRSId>							
-              							<gex:verticalCRS xlink:actuate="onRequest" xlink:href="http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:crs:EPSG::5831" xlink:title="instantaneous water level depth"/>							
+              							<gex:verticalCRS xlink:href="http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:crs:EPSG::5831" xlink:title="instantaneous water level depth" xlink:actuate="onRequest"/>							
             						</gex:EX_VerticalExtent>						
           					</gex:verticalElement>					
         				</gex:EX_Extent>				
@@ -552,8 +658,8 @@
             						<gex:EX_TemporalExtent>							
               							<gex:extent>								
                 								<gml:TimePeriod gml:id="time_period">									
-                  									<gml:beginPosition>2012-01-25T15:30:00.000Z</gml:beginPosition>									
-                  									<gml:endPosition indeterminatePosition="now"/>									
+                  									<gml:beginPosition>2014-07-08T14:30:00.000Z</gml:beginPosition>									
+                  									<gml:endPosition>2014-07-16T14:30:00.000Z</gml:endPosition>									
                 								</gml:TimePeriod>								
               							</gex:extent>							
             						</gex:EX_TemporalExtent>						
@@ -602,73 +708,22 @@
         				<mri:MD_Keywords>					
           
               					<mri:keyword>						
-                    						<gco:CharacterString>wind</gco:CharacterString>						
+                    						<gco:CharacterString>Bathymetry</gco:CharacterString>						
               					</mri:keyword>					
               					<mri:keyword>						
-                    						<gco:CharacterString>atmospheric pressure</gco:CharacterString>						
+                    						<gco:CharacterString>Hydrography</gco:CharacterString>						
               					</mri:keyword>					
               					<mri:keyword>						
-                    						<gco:CharacterString>air temperature</gco:CharacterString>						
+                    						<gco:CharacterString>Seabed</gco:CharacterString>						
               					</mri:keyword>					
               					<mri:keyword>						
-                    						<gco:CharacterString>rain</gco:CharacterString>						
-              					</mri:keyword>					
-              					<mri:keyword>						
-                    						<gco:CharacterString>solar irradiance</gco:CharacterString>						
-              					</mri:keyword>					
-              					<mri:keyword>						
-                    						<gco:CharacterString>relative humidity</gco:CharacterString>						
-              					</mri:keyword>					
-              					<mri:keyword>						
-                    						<gco:CharacterString>dew point</gco:CharacterString>						
+                    						<gco:CharacterString>Multibeam</gco:CharacterString>						
               					</mri:keyword>					
           
                 					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
                   						<lan:PT_FreeText>							
                     							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">vents</lan:LocalisedCharacterString>								
-                    							</lan:textGroup>							
-                  						</lan:PT_FreeText>						
-                					</mri:keyword>					
-                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
-                  						<lan:PT_FreeText>							
-                    							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">pression atmosphérique</lan:LocalisedCharacterString>								
-                    							</lan:textGroup>							
-                  						</lan:PT_FreeText>						
-                					</mri:keyword>					
-                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
-                  						<lan:PT_FreeText>							
-                    							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">température de l'air</lan:LocalisedCharacterString>								
-                    							</lan:textGroup>							
-                  						</lan:PT_FreeText>						
-                					</mri:keyword>					
-                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
-                  						<lan:PT_FreeText>							
-                    							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">pluie</lan:LocalisedCharacterString>								
-                    							</lan:textGroup>							
-                  						</lan:PT_FreeText>						
-                					</mri:keyword>					
-                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
-                  						<lan:PT_FreeText>							
-                    							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">irradiance solaire</lan:LocalisedCharacterString>								
-                    							</lan:textGroup>							
-                  						</lan:PT_FreeText>						
-                					</mri:keyword>					
-                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
-                  						<lan:PT_FreeText>							
-                    							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">humidité relative</lan:LocalisedCharacterString>								
-                    							</lan:textGroup>							
-                  						</lan:PT_FreeText>						
-                					</mri:keyword>					
-                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
-                  						<lan:PT_FreeText>							
-                    							<lan:textGroup>								
-                      								<lan:LocalisedCharacterString locale="#fr">point de rosée</lan:LocalisedCharacterString>								
+                      								<lan:LocalisedCharacterString locale="#fr">Vitesse du son</lan:LocalisedCharacterString>								
                     							</lan:textGroup>							
                   						</lan:PT_FreeText>						
                 					</mri:keyword>					
@@ -714,7 +769,7 @@
           					<mco:reference>						
             						<cit:CI_Citation>							
               							<cit:title>								
-                								<gco:CharacterString>Creative Commons Attribution 4.0</gco:CharacterString>								
+                								<gco:CharacterString>{'en': 'Creative Commons Attribution 4.0 Attribution'}</gco:CharacterString>								
               							</cit:title>							
               							<cit:identifier>								
                 								<mcc:MD_Identifier>									
@@ -743,8 +798,13 @@
       			<mri:resourceConstraints>				
         				<mco:MD_Constraints>					
            
-      					<mco:useLimitation>						
-        						<gco:CharacterString/>						
+      					<mco:useLimitation xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>Not to be used for navigational purposes.</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Ne pas utiliser à des fins de navigation.</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
       					</mco:useLimitation>					
         				</mco:MD_Constraints>				
       			</mri:resourceConstraints>			
@@ -768,7 +828,7 @@
     								<cit:CI_Organisation>									
     
       									<cit:name>										
-        										<gco:CharacterString>College of the North Atlantic</gco:CharacterString>										
+        										<gco:CharacterString>Marine Institute, MUN</gco:CharacterString>										
       									</cit:name>									
       									<cit:contactInfo>										
         										<cit:CI_Contact>											
@@ -783,25 +843,25 @@
             												<cit:CI_Address>													
               
       													<cit:deliveryPoint>														
-        														<gco:CharacterString>105 Main Street P.O. Box 370</gco:CharacterString>														
+        														<gco:CharacterString>P.O. Box 4920</gco:CharacterString>														
       													</cit:deliveryPoint>													
               
       													<cit:city>														
-        														<gco:CharacterString>Burin Bay Arm, NL</gco:CharacterString>														
+        														<gco:CharacterString>Holyrood</gco:CharacterString>														
       													</cit:city>													
               
       													<cit:country>														
         														<gco:CharacterString>Canada</gco:CharacterString>														
       													</cit:country>													
               													<cit:electronicMailAddress>														
-                														<gco:CharacterString>ar@cna.nl.ca</gco:CharacterString>														
+                														<gco:CharacterString>kirk.regular@mi.mun.ca</gco:CharacterString>														
               													</cit:electronicMailAddress>													
             												</cit:CI_Address>												
           											</cit:address>											
           											<cit:onlineResource>												
             												<cit:CI_OnlineResource>													
               													<cit:linkage>														
-                														<gco:CharacterString>https://www.cna.nl.ca</gco:CharacterString>														
+                														<gco:CharacterString>www.mi.mun.ca/ctec</gco:CharacterString>														
               													</cit:linkage>													
               													<cit:protocol>														
                 														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
@@ -818,7 +878,7 @@
         										<cit:CI_Individual>											
     
       											<cit:name>												
-        												<gco:CharacterString>Justin Elms</gco:CharacterString>												
+        												<gco:CharacterString>Kirk Regular</gco:CharacterString>												
       											</cit:name>											
     											<cit:contactInfo>												
       												<cit:CI_Contact>													
@@ -837,7 +897,7 @@
         																<gco:CharacterString/>																
       															</cit:country>															
             															<cit:electronicMailAddress>																
-              																<gco:CharacterString>justin.elms@cna.nl.ca</gco:CharacterString>																
+              																<gco:CharacterString>kirk.regular@mi.mun.ca</gco:CharacterString>																
             															</cit:electronicMailAddress>															
           														</cit:CI_Address>														
         													</cit:address>													
@@ -845,7 +905,7 @@
     											</cit:contactInfo>											
     
       											<cit:positionName>												
-        												<gco:CharacterString>Researcher, Office of Applied Research and Innovation (OARI)</gco:CharacterString>												
+        												<gco:CharacterString>Marine Geomatics</gco:CharacterString>												
       											</cit:positionName>											
 										</cit:CI_Individual>										
 
@@ -865,85 +925,23 @@
           					<mrd:onLine>						
             						<cit:CI_OnlineResource>							
               							<cit:linkage>								
-                								<gco:CharacterString>http://werc.servehttp.com</gco:CharacterString>								
+                								<gco:CharacterString>https://www.smartatlantic.ca/data/bathymetry/Bay_St_George-201407/</gco:CharacterString>								
               							</cit:linkage>							
               							<cit:protocol>								
                 								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
               							</cit:protocol>							
               							<cit:name>								
-                								<gco:CharacterString>Wave Environment Research Centre (WERC)</gco:CharacterString>								
+                								<gco:CharacterString>Geotiff @5m resolution</gco:CharacterString>								
               							</cit:name>							
               
       							<cit:description xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>Wave Environment Research Centre (WERC) website</gco:CharacterString>								
+        								<gco:CharacterString>Bathymetric CUBE surface rendered at 5m resolution</gco:CharacterString>								
           								<lan:PT_FreeText>									
             									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr">Site Web du Centre de recherche sur l'environnement Wave (WRC)</lan:LocalisedCharacterString>										
+              										<lan:LocalisedCharacterString locale="#fr">Surface bathymétrique CUBE rendue à une résolution de 5 m</lan:LocalisedCharacterString>										
             									</lan:textGroup>									
           								</lan:PT_FreeText>								
       							</cit:description>							
-            						</cit:CI_OnlineResource>						
-          					</mrd:onLine>					
-        				</mrd:MD_DigitalTransferOptions>				
-      			</mrd:transferOptions>			
-      			<mrd:transferOptions>				
-        				<mrd:MD_DigitalTransferOptions>					
-          					<mrd:onLine>						
-            						<cit:CI_OnlineResource>							
-              							<cit:linkage>								
-                								<gco:CharacterString>https://www.smartatlantic.ca/erddap/tabledap/cna_werc_weather_daily_avg.html</gco:CharacterString>								
-              							</cit:linkage>							
-              							<cit:protocol>								
-                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
-              							</cit:protocol>							
-              							<cit:name>								
-                								<gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>								
-              							</cit:name>							
-              							<cit:description>								
-                								<gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>								
-              							</cit:description>							
-            						</cit:CI_OnlineResource>						
-          					</mrd:onLine>					
-        				</mrd:MD_DigitalTransferOptions>				
-      			</mrd:transferOptions>			
-
-      			<mrd:transferOptions>				
-        				<mrd:MD_DigitalTransferOptions>					
-          					<mrd:onLine>						
-            						<cit:CI_OnlineResource>							
-              							<cit:linkage>								
-                								<gco:CharacterString>https://www.smartatlantic.ca/erddap/tabledap/cna_werc_weather_10-min_avg.html</gco:CharacterString>								
-              							</cit:linkage>							
-              							<cit:protocol>								
-                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
-              							</cit:protocol>							
-              							<cit:name>								
-                								<gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>								
-              							</cit:name>							
-              							<cit:description>								
-                								<gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>								
-              							</cit:description>							
-            						</cit:CI_OnlineResource>						
-          					</mrd:onLine>					
-        				</mrd:MD_DigitalTransferOptions>				
-      			</mrd:transferOptions>			
-
-      			<mrd:transferOptions>				
-        				<mrd:MD_DigitalTransferOptions>					
-          					<mrd:onLine>						
-            						<cit:CI_OnlineResource>							
-              							<cit:linkage>								
-                								<gco:CharacterString>https://www.smartatlantic.ca/erddap/tabledap/cna_werc_sustained_wind_2-min_avg.html</gco:CharacterString>								
-              							</cit:linkage>							
-              							<cit:protocol>								
-                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
-              							</cit:protocol>							
-              							<cit:name>								
-                								<gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>								
-              							</cit:name>							
-              							<cit:description>								
-                								<gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>								
-              							</cit:description>							
             						</cit:CI_OnlineResource>						
           					</mrd:onLine>					
         				</mrd:MD_DigitalTransferOptions>				
@@ -980,16 +978,16 @@
                 								</cit:CI_Citation>								
               							</mcc:authority>							
               							<mcc:code>								
-                								<gco:CharacterString>werc-weather-tower-10m</gco:CharacterString>								
+                								<gco:CharacterString>IMO: 8219607</gco:CharacterString>								
               							</mcc:code>							
             						</mcc:MD_Identifier>						
           					</mac:identifier>					
           
       					<mac:description xsi:type="lan:PT_FreeText_PropertyType">						
-        						<gco:CharacterString>10m tower</gco:CharacterString>						
+        						<gco:CharacterString>MV Anne S. Pierce</gco:CharacterString>						
           						<lan:PT_FreeText>							
             							<lan:textGroup>								
-              								<lan:LocalisedCharacterString locale="#fr">Tour de 10m</lan:LocalisedCharacterString>								
+              								<lan:LocalisedCharacterString locale="#fr">MV Anne S. Pierce</lan:LocalisedCharacterString>								
             							</lan:textGroup>							
           						</lan:PT_FreeText>						
       					</mac:description>					
@@ -1002,23 +1000,23 @@
             										<cit:CI_Citation>											
               
       											<cit:title>												
-        												<gco:CharacterString>RM Young</gco:CharacterString>												
+        												<gco:CharacterString>Kongsberg</gco:CharacterString>												
       											</cit:title>											
               										</cit:CI_Citation>										
           									</mcc:authority>									
           									<mcc:code>										
-            										<gco:CharacterString>werc-anemometer</gco:CharacterString>										
+            										<gco:CharacterString>212</gco:CharacterString>										
           									</mcc:code>									
           									<mcc:version>										
-            										<gco:CharacterString>model # 05106C-10</gco:CharacterString>										
+            										<gco:CharacterString>EM710 1x2 degree</gco:CharacterString>										
           									</mcc:version>									
                    
             
       									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
-        										<gco:CharacterString>RM Young marine anemometer (model # 05106C-10) mounted at 10 m</gco:CharacterString>										
+        										<gco:CharacterString>This EM710 was installed on the MV Anne S. Pierce using an Applanix POSMV v4 for navigation and motion data.</gco:CharacterString>										
           										<lan:PT_FreeText>											
             											<lan:textGroup>												
-              												<lan:LocalisedCharacterString locale="#fr">Anémomètre marin RM Young (modèle # 05106C-10) monté à 10 m</lan:LocalisedCharacterString>												
+              												<lan:LocalisedCharacterString locale="#fr">Cet EM710 a été installé sur le MV Anne S. Pierce à l'aide d'un Applanix POSMV v4 pour les données de navigation et de mouvement.</lan:LocalisedCharacterString>												
             											</lan:textGroup>											
           										</lan:PT_FreeText>										
       									</mcc:description>									
@@ -1026,220 +1024,10 @@
       							</mac:identifier>							
         
       							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>Anemometer</gco:CharacterString>								
+        								<gco:CharacterString>Multibeam Echo Sounder</gco:CharacterString>								
           								<lan:PT_FreeText>									
             									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr">Anémomètre</lan:LocalisedCharacterString>										
-            									</lan:textGroup>									
-          								</lan:PT_FreeText>								
-      							</mac:type>							
-    						</mac:MI_Instrument>						
-  					</mac:instrument>					
-
-          					<mac:instrument>						
-    						<mac:MI_Instrument>							
-      							<mac:identifier>								
-        								<mcc:MD_Identifier>									
-          									<mcc:authority>										
-            										<cit:CI_Citation>											
-              
-      											<cit:title>												
-        												<gco:CharacterString>Kipp &amp; Zonen</gco:CharacterString>												
-      											</cit:title>											
-              										</cit:CI_Citation>										
-          									</mcc:authority>									
-          									<mcc:code>										
-            										<gco:CharacterString>werc-pyranometer</gco:CharacterString>										
-          									</mcc:code>									
-          									<mcc:version>										
-            										<gco:CharacterString>model “SP Lite2”</gco:CharacterString>										
-          									</mcc:version>									
-                   
-            
-      									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
-        										<gco:CharacterString>Kipp &amp; Zonen silicon pyranometer (model “SP Lite2”) mounted on a horizontal arm 1 m south from the tower centre at a height of 4 m</gco:CharacterString>										
-          										<lan:PT_FreeText>											
-            											<lan:textGroup>												
-              												<lan:LocalisedCharacterString locale="#fr">Pyranomètre en silicium Kipp &amp; Zonen (modèle « SP Lite2 ») monté sur un bras horizontal à 1 m au sud du centre de la tour à une hauteur de 4 m</lan:LocalisedCharacterString>												
-            											</lan:textGroup>											
-          										</lan:PT_FreeText>										
-      									</mcc:description>									
-        								</mcc:MD_Identifier>								
-      							</mac:identifier>							
-        
-      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>silicon pyranometer</gco:CharacterString>								
-          								<lan:PT_FreeText>									
-            									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr">pyranomètre de silicium</lan:LocalisedCharacterString>										
-            									</lan:textGroup>									
-          								</lan:PT_FreeText>								
-      							</mac:type>							
-    						</mac:MI_Instrument>						
-  					</mac:instrument>					
-
-          					<mac:instrument>						
-    						<mac:MI_Instrument>							
-      							<mac:identifier>								
-        								<mcc:MD_Identifier>									
-          									<mcc:authority>										
-            										<cit:CI_Citation>											
-              
-      											<cit:title>												
-        												<gco:CharacterString>Hydroclip</gco:CharacterString>												
-      											</cit:title>											
-              										</cit:CI_Citation>										
-          									</mcc:authority>									
-          									<mcc:code>										
-            										<gco:CharacterString>werc-rht-sensor</gco:CharacterString>										
-          									</mcc:code>									
-          									<mcc:version>										
-            										<gco:CharacterString>Model HC2-S3-L)</gco:CharacterString>										
-          									</mcc:version>									
-                   
-            
-      									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
-        										<gco:CharacterString>&quot;Hydroclip&quot; RH/T sensor (Model HC2-S3-L) mounted on the tower in a 10-plate radiation shield (Campbell Scientific 41003-X)</gco:CharacterString>										
-          										<lan:PT_FreeText>											
-            											<lan:textGroup>												
-              												<lan:LocalisedCharacterString locale="#fr">Capteur RH/T « Hydroclip » (modèle HC2-S3-L) monté sur la tour dans un écran anti-rayonnement à 10 plaques</lan:LocalisedCharacterString>												
-            											</lan:textGroup>											
-          										</lan:PT_FreeText>										
-      									</mcc:description>									
-        								</mcc:MD_Identifier>								
-      							</mac:identifier>							
-        
-      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>RH/T sensor</gco:CharacterString>								
-          								<lan:PT_FreeText>									
-            									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr">Capteur RH/T</lan:LocalisedCharacterString>										
-            									</lan:textGroup>									
-          								</lan:PT_FreeText>								
-      							</mac:type>							
-    						</mac:MI_Instrument>						
-  					</mac:instrument>					
-
-          					<mac:instrument>						
-    						<mac:MI_Instrument>							
-      							<mac:identifier>								
-        								<mcc:MD_Identifier>									
-          									<mcc:authority>										
-            										<cit:CI_Citation>											
-              
-      											<cit:title>												
-        												<gco:CharacterString>Texas Electronics</gco:CharacterString>												
-      											</cit:title>											
-              										</cit:CI_Citation>										
-          									</mcc:authority>									
-          									<mcc:code>										
-            										<gco:CharacterString>werc-tipping-bucket-1</gco:CharacterString>										
-          									</mcc:code>									
-          									<mcc:version>										
-            										<gco:CharacterString>TE525M </gco:CharacterString>										
-          									</mcc:version>									
-                   
-            
-      									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
-        										<gco:CharacterString>Texas Electronics TE525M tipping bucket rain gauge mounted at 3.5 m on a separate support, 3 m southwest of the tower</gco:CharacterString>										
-          										<lan:PT_FreeText>											
-            											<lan:textGroup>												
-              												<lan:LocalisedCharacterString locale="#fr">Texas Electronics TE525M Pluviomètre benne benne montée à 3,5 m sur support séparé, 3 m au sud-ouest de la tour</lan:LocalisedCharacterString>												
-            											</lan:textGroup>											
-          										</lan:PT_FreeText>										
-      									</mcc:description>									
-        								</mcc:MD_Identifier>								
-      							</mac:identifier>							
-        
-      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>tipping bucket rain gauge</gco:CharacterString>								
-          								<lan:PT_FreeText>									
-            									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr">jauge de pluie benne basculante</lan:LocalisedCharacterString>										
-            									</lan:textGroup>									
-          								</lan:PT_FreeText>								
-      							</mac:type>							
-    						</mac:MI_Instrument>						
-  					</mac:instrument>					
-
-          					<mac:instrument>						
-    						<mac:MI_Instrument>							
-      							<mac:identifier>								
-        								<mcc:MD_Identifier>									
-          									<mcc:authority>										
-            										<cit:CI_Citation>											
-              
-      											<cit:title>												
-        												<gco:CharacterString>RM Young</gco:CharacterString>												
-      											</cit:title>											
-              										</cit:CI_Citation>										
-          									</mcc:authority>									
-          									<mcc:code>										
-            										<gco:CharacterString>werc-tipping-bucket-2</gco:CharacterString>										
-          									</mcc:code>									
-          									<mcc:version>										
-            										<gco:CharacterString>52202-L</gco:CharacterString>										
-          									</mcc:version>									
-                   
-            
-      									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
-        										<gco:CharacterString>RM Young 52202-L heated tipping bucket rain gauge, both mounted at 3.5 m on a separate support, 3 m southwest of the tower</gco:CharacterString>										
-          										<lan:PT_FreeText>											
-            											<lan:textGroup>												
-              												<lan:LocalisedCharacterString locale="#fr">Pluviomètre RM Young 52202-L à basculement chauffant, tous deux montés à 3,5 m sur un support séparé, à 3 m au sud-ouest de la tour</lan:LocalisedCharacterString>												
-            											</lan:textGroup>											
-          										</lan:PT_FreeText>										
-      									</mcc:description>									
-        								</mcc:MD_Identifier>								
-      							</mac:identifier>							
-        
-      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>heated tipping bucket rain gauge</gco:CharacterString>								
-          								<lan:PT_FreeText>									
-            									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr">Pluviomètre benne chauffée</lan:LocalisedCharacterString>										
-            									</lan:textGroup>									
-          								</lan:PT_FreeText>								
-      							</mac:type>							
-    						</mac:MI_Instrument>						
-  					</mac:instrument>					
-
-          					<mac:instrument>						
-    						<mac:MI_Instrument>							
-      							<mac:identifier>								
-        								<mcc:MD_Identifier>									
-          									<mcc:authority>										
-            										<cit:CI_Citation>											
-              
-      											<cit:title>												
-        												<gco:CharacterString>Campbell Scientific</gco:CharacterString>												
-      											</cit:title>											
-              										</cit:CI_Citation>										
-          									</mcc:authority>									
-          									<mcc:code>										
-            										<gco:CharacterString>werc-data-logger</gco:CharacterString>										
-          									</mcc:code>									
-          									<mcc:version>										
-            										<gco:CharacterString>CR10X</gco:CharacterString>										
-          									</mcc:version>									
-                   
-            
-      									<mcc:description xsi:type="lan:PT_FreeText_PropertyType">										
-        										<gco:CharacterString>Campbell Scientific CR10X data logger powered from a solar-charged battery</gco:CharacterString>										
-          										<lan:PT_FreeText>											
-            											<lan:textGroup>												
-              												<lan:LocalisedCharacterString locale="#fr">Enregistreur de données Campbell Scientific CR10X alimenté par une batterie solaire</lan:LocalisedCharacterString>												
-            											</lan:textGroup>											
-          										</lan:PT_FreeText>										
-      									</mcc:description>									
-        								</mcc:MD_Identifier>								
-      							</mac:identifier>							
-        
-      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>Datalogger for Measurement and Control</gco:CharacterString>								
-          								<lan:PT_FreeText>									
-            									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr">Enregistreur de données pour la mesure et le contrôle</lan:LocalisedCharacterString>										
+              										<lan:LocalisedCharacterString locale="#fr">Échosondeur multifaisceaux</lan:LocalisedCharacterString>										
             									</lan:textGroup>									
           								</lan:PT_FreeText>								
       							</mac:type>							
