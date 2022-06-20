@@ -8,7 +8,15 @@ contact:
   - owner
   - distributor
 distribution:
-- name: FORCE live data site
+- description:
+    en: CIOOS Atlantic dataset ERDDAP link
+    fr: Liaison ERDDAP du jeu de données de l'Atlantique du CIOOS
+  name: CIOOS Atlantic ERDDAP
+  url: https://dev.cioosatlantic.ca/erddap/tabledap/force_3b1e_d478_b537.html
+- description:
+    en: Daily JSON files updated every 15 minutes
+    fr: Fichiers JSON quotidiens mis à jour toutes les 15 minutes
+  name: FORCE live data site
   url: https://fundyforcelive.ca/#!/
 identification:
   abstract:
@@ -33,7 +41,7 @@ identification:
       Date (UTC) ; q) Solaire brut ; r) Vent Dir Moyenne 15 min (°) ; s) Rayonnement
       solaire (kW).'
   dates:
-    creation: '2016-12-02'
+    creation: '2016-12-09'
   keywords:
     default:
       en:
@@ -56,15 +64,15 @@ identification:
       fr:
       - Autre
   progress_code: onGoing
-  status: published
-  temporal_begin: '2016-12-02T17:00:00.000Z'
+  status: submitted
+  temporal_begin: '2016-12-09T16:00:00.000Z'
   title:
     en: FORCE Meteorological Tower
     fr: Tour Météorologique FORCE
 metadata:
   dates:
     publication: '2021-10-13'
-    revision: '2022-05-30T19:35:49.503Z'
+    revision: '2022-06-20T17:05:14.185Z'
   identifier: a36e40f1-5f5b-4602-b18a-5c4f4b3f2a43
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
@@ -92,7 +100,6 @@ platform:
       en: Wind Speed Sensor
       fr: Anémomètre
     version: 05103-10-L
-  - {}
 spatial:
   bbox:
   - -64.403
@@ -100,5 +107,5 @@ spatial:
   - -64.403
   - 45.3713
   vertical:
-  - 20.0
-  - 30.0
+  - 10.9
+  - 10.9
