@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-10-14T16:51:06.470Z'
-    publication: '2021-10-14'
+    revision: '2022-06-20T19:51:12.864Z'
+    publication: '2022-06-20'
 spatial:
   bbox:
   - -61.0913
@@ -25,56 +25,70 @@ spatial:
   - 30.0
 identification:
   title:
-    en: 'Coastal Monitoring Program Data: Richmond County'
+    en: Richmond County Water Quality Data
     fr: ''
   abstract:
-    en: 'The Centre for Marine Applied Research (CMAR) measures environmental data
+    en: 'The Centre for Marine Applied Research (CMAR) measures essential ocean variables
       throughout Nova Scotia’s coastal waters as part of the Coastal Monitoring Program.
       This program was initiated by the Nova Scotia Department of Fisheries and Aquaculture
-      in 2012 and CMAR became involved in 2017. CMAR collects temperature (degrees
-      Celsius), dissolved oxygen (% saturation), and intermittent salinity (practical
-      salinity units) data using autonomous sensors attached to moored lines, called
-      ‘sensor strings’. Each string is attached to the seafloor by an anchored acoustic
-      release and suspended by a sub-surface buoy, with sensors attached at various
-      depths. Sensor strings are typically deployed for several months, and data are
-      measured every 1 minute to 1 hour depending on the sensor. Data are retrieved
-      by triggering the acoustic release, enabling the sensor string to float to the
-      surface for data download. Some data are excluded from the final dataset during
-      quality control processes.   The Coastal Monitoring Program data is organized
-      by county. These datasets are very large, typically exceeding the number of
-      rows that can be viewed in Excel. We recommend using the filter options of the
-      Open Data Portal to filter to the WATERBODY, STATION, DEPTH, VARIABLE, and/or
-      TIMESTAMP of interest before exporting. A chart derived from the dataset also
-      allows for interactive filtering and export (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Richmond-County-Daily-A/5p9y-iyag).   Coastal
-      Monitoring Program data for other Nova Scotia counties is also available through
-      the Open Data Portal. The "Coastal Monitoring Program: Station Locations" dataset
-      on the Portal shows locations with available data (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
+      in 2012 and CMAR became involved in 2017. CMAR collects water quality data (temperature,
+      dissolved oxygen, and intermittent salinity) using autonomous sensors deployed
+      on “sensor strings”. A sensor string typically consists of a line anchored to
+      the sea floor by an acoustic release and suspended by a sub-surface buoy, with
+      sensors attached at various depths below the surface (as measured at low tide).
+      Alternatively, a string may be attached to surface moorings, including floating
+      docks, buoys, and equipment. Sensor strings are deployed for several months,
+      and data are measured every 1 minute to 1 hour. Sensors are retrieved for data
+      offload by triggering the acoustic release when applicable, by directly removing
+      from surface moorings, or occasionally by divers or dragging.  The Coastal Monitoring
+      Program data is organized by county. These datasets are very large, typically
+      exceeding the number of rows that can be viewed in Excel. CMAR recommends using
+      the filter options of the Open Data Portal to filter to the WATERBODY, STATION,
+      DEPTH, VARIABLE, and/or TIMESTAMP of interest before exporting. A chart derived
+      from the dataset also allows for interactive filtering and export (https://data.novascotia.ca/Nature-and-Environment/Richmond-County-Water-Quality-Data-Daily-Average-V/5p9y-iyag).
+      Water Quality Data for other Nova Scotia counties is also available through
+      the Open Data Portal. The "Nova Scotia Water Quality Data: Station Locations"
+      dataset on the Portal shows locations with available data (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
       Summary reports by county are available on the CMAR website (https://cmar.ca/2020/07/14/coastal-monitoring-program/).
-      Data collection and retrieval are ongoing. The datasets and reports may be revised
-      pending ongoing data collection and analyses.Contains information licensed under
-      the Open Government Licence – Nova Scotia. If you have accessed any of the Coastal
-      Monitoring Program data, CMAR would appreciate your feedback through this quick
-      [questionaire](https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform).'
+      Data can also be downloaded from the ERDAPP server through the Canadian Integrated
+      Ocean Observing System (CIOOS) platform (https://catalogue.cioosatlantic.ca/dataset?q=cmar).
+      Data collection and retrieval are ongoing. Some data are excluded from the final
+      dataset during quality control processes. The datasets and reports may be revised
+      pending ongoing data collection and analyses.  A note on units: For Halifax
+      and Lunenburg counties, dissolved oxygen was measured in units of percent saturation
+      or mg/L, depending on the sensor. For all other counties, dissolved oxygen was
+      measured in units of percent saturation. Measurements in mg/L were corrected
+      for salinity using the Garcia-Gordon (1992) salinity correction factor with
+      a salinity value of 30.6 practical salinity units (based on available data for
+      the region). This correction factor is not required for values recorded in percent
+      saturation. Please contact info@cmar.ca for more information.  If you have accessed
+      any of the Coastal Monitoring Program data, CMAR would appreciate your feedback
+      through this quick questionnaire (https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform).
+      Please acknowledge the Centre for Marine Applied Research in any published material
+      that uses this data.Contains information licensed under the Open Government
+      Licence – Nova Scotia. If you have accessed any of the Coastal Monitoring Program
+      data, CMAR would appreciate your feedback through this quick [questionaire](https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform).'
     fr: ''
   dates:
     creation: '2021-01-20'
     publication: '2021-01-20'
-    revision: '2021-04-06'
+    revision: '2022-01-05'
   keywords:
     default:
       en:
+      - coastal monitoring program
+      - richmond county
       - aquaculture
       - climate change
       - coast
-      - coastal monitoring program
       - dissolved oxygen
       - downloadable data
       - ecosystem
       - environment
       - environmental monitoring
+      - essential ocean variables
       - fisheries
       - fishing
-      - richmond county
       - nova scotia
       - oceanography
       - salinity
@@ -108,7 +122,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Richmond County'
-- url: https://cioosatlantic.ca/erddap/tabledap/v6sa-tiit.html
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/v6sa-tiit.html
   name: ERDDAP Data Access
 platform:
 - id: '0667'
@@ -166,6 +180,18 @@ platform:
       fr: ''
     version: ''
   - id: VR2AR-548042
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-675014
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-549342
     manufacturer: Vemco
     type:
       en: Sensor

@@ -12,20 +12,20 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2021-10-14T16:51:25.350Z'
-    publication: '2021-10-14'
+    revision: '2022-06-20T19:51:49.319Z'
+    publication: '2022-06-20'
 spatial:
   bbox:
   - -66.224861
   - 44.32015
   - -65.92824
-  - 44.5328
+  - 44.539117
   vertical:
-  - 2.0
+  - 0.41
   - 32.0
 identification:
   title:
-    en: 'Coastal Monitoring Program Data: Digby County'
+    en: Digby County Water Quality Data
     fr: ''
   abstract:
     en: 'The Centre for Marine Applied Research (CMAR) measures environmental data
@@ -59,22 +59,22 @@ identification:
   dates:
     creation: '2021-01-19'
     publication: '2021-01-19'
-    revision: '2021-02-17'
+    revision: '2022-01-05'
   keywords:
     default:
       en:
+      - coastal monitoring program
+      - digby county
       - aquaculture
       - climate change
-      - coast
-      - coastal monitoring program
       - dissolved oxygen
       - downloadable data
       - ecosystem
       - environment
       - environmental monitoring
+      - essential ocean variables
       - fisheries
       - fishing
-      - digby county
       - nova scotia
       - oceanography
       - salinity
@@ -108,7 +108,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Digby County'
-- url: https://cioosatlantic.ca/erddap/tabledap/wpsu-7fer.html
+- url: https://dev.cioosatlantic.ca/erddap/tabledap/wpsu-7fer.html
   name: ERDDAP Data Access
 platform:
 - id: Hourglass Lake
@@ -151,6 +151,36 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+- id: Sissiboo
+  description:
+    en: Sissiboo
+  instruments:
+  - id: aquaMeasure-671046
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: '5007'
+  description:
+    en: '5007'
+  instruments:
+  - id: HOBO-20495242
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: '5008'
+  description:
+    en: '5008'
+  instruments:
+  - id: aquaMeasure-680325
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Centreville
   description:
     en: Centreville
@@ -168,6 +198,12 @@ platform:
       fr: ''
     version: ''
   - id: aquaMeasure-670380
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671044
     manufacturer: Innovasea
     type:
       en: Sensor
@@ -233,6 +269,42 @@ platform:
   description:
     en: Long Beach
   instruments:
+  - id: HOBO-21082880
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082886
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082887
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21083049
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670366
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-550757
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-20820322
     manufacturer: ONSET
     type:
@@ -265,6 +337,12 @@ platform:
     version: ''
   - id: VR2AR-548038
     manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670359
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
@@ -347,13 +425,13 @@ platform:
   description:
     en: Long Island 2
   instruments:
-  - id: HOBO-20820324
-    manufacturer: ONSET
+  - id: aquaMeasure-670350
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20820327
+  - id: HOBO-20820324
     manufacturer: ONSET
     type:
       en: Sensor
@@ -365,8 +443,20 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-20820327
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-20820381
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-548039
+    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
@@ -379,6 +469,42 @@ platform:
     version: ''
   - id: VR2AR-549341
     manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082882
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082883
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082888
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21083051
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-550756
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670379
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
@@ -413,6 +539,70 @@ platform:
     version: ''
   - id: aquaMeasure-675015
     manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Sandy Cove St. Mary's
+  description:
+    en: Sandy Cove St. Mary's
+  instruments:
+  - id: HOBO-21082891
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21083048
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21083050
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670370
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-549345
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671011
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820351
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820380
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10817410
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-549340
+    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
