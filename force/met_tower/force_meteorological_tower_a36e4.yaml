@@ -1,0 +1,111 @@
+contact:
+- organization:
+    email: info@fundyforce.ca
+    name: Fundy Ocean Research Center for Energy (FORCE)
+    url: https://fundyforce.ca
+  roles:
+  - custodian
+  - owner
+  - distributor
+distribution:
+- description:
+    en: CIOOS Atlantic dataset ERDDAP link
+    fr: Liaison ERDDAP du jeu de données de l'Atlantique du CIOOS
+  name: CIOOS Atlantic ERDDAP
+  url: https://dev.cioosatlantic.ca/erddap/tabledap/force_3b1e_d478_b537.html
+- description:
+    en: Daily JSON files updated every 15 minutes
+    fr: Fichiers JSON quotidiens mis à jour toutes les 15 minutes
+  name: FORCE live data site
+  url: https://fundyforcelive.ca/#!/
+identification:
+  abstract:
+    en: 'Meteorological tower at the FORCE Visitor Centre. Temporal frequency: 15
+      mins; temporal coverage: Dec 2016-present.
+
+      Variables: a) Rain (mm); b) Air Temp (°C); c) Wind Dir (°); d) Wind Speed (m/s);
+      e) Pressure Raw (Pa); f) Wind Speed Max 2 min (m/s); g) Wind Speed Max 15 min
+      (m/s); h) Solar Radiation (MJ); i) Wind Speed Median 15 min (m/s); j) Relative
+      Humidity (%); k) Air Temp Max 1 min (°C); l) Pressure (mbar); m) Elevation Correction;
+      n) Wind Speed Avg 15 min (m/s); o) Potential Temperature (°C); p) Date (UTC);
+      q) Solar Raw; r) Wind Dir Avg 15 min (°); s) Solar Radiation (kW).'
+    fr: 'Tour météorologique du centre d''accueil FORCE. Fréquence temporelle : 15
+      minutes ; couverture temporelle : décembre 2016 à présent.
+
+      Variables : a) Pluie (mm) ; b) Température de l''air (°C) ; c) Dir du vent (°) ;
+      d) Vitesse du vent (m/s) ; e) Pression brute (Pa) ; f) Vitesse du vent Max 2
+      min (m/s) ; g) Vitesse du vent Max 15 min (m/s) ; h) Rayonnement solaire (MJ) ;
+      i) Vitesse du vent médiane 15 min (m/s) ; j) Humidité relative (%) ; k) Température
+      de l''air max 1 min (°C) ; l) Pression (mbar) ; m) Élévation Correction ; n)
+      Vitesse du vent Moyenne 15 min (m/s) ; o) Température potentielle (°C) ; p)
+      Date (UTC) ; q) Solaire brut ; r) Vent Dir Moyenne 15 min (°) ; s) Rayonnement
+      solaire (kW).'
+  dates:
+    creation: '2016-12-09'
+  keywords:
+    default:
+      en:
+      - Wind
+      - Atmospheric pressure
+      - Rain
+      - Air temperature
+      - Solar radiation
+      - pressure
+      fr:
+      - Vents
+      - Pression atmosphérique
+      - Pluie
+      - Température de l'air
+      - Radiation solaire
+      - Météorologie
+    eov:
+      en:
+      - other
+      fr:
+      - Autre
+  progress_code: onGoing
+  status: submitted
+  temporal_begin: '2016-12-09T16:00:00.000Z'
+  title:
+    en: FORCE Meteorological Tower
+    fr: Tour Météorologique FORCE
+metadata:
+  dates:
+    publication: '2021-10-13'
+    revision: '2022-06-20T17:05:14.185Z'
+  identifier: a36e40f1-5f5b-4602-b18a-5c4f4b3f2a43
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+    limitations:
+      en: None
+platform:
+  description:
+    en: Met Tower
+    fr: Tour Met
+  id: None
+  instruments:
+  - description:
+      en: Measures wind velocity in-situ
+      fr: Capteur de vitesse du vent
+    id: FORCE-Wind-Sensor
+    manufacturer: RM Young
+    type:
+      en: Wind Speed Sensor
+      fr: Anémomètre
+    version: 05103-10-L
+spatial:
+  bbox:
+  - -64.403
+  - 45.3713
+  - -64.403
+  - 45.3713
+  vertical:
+  - 10.9
+  - 10.9
