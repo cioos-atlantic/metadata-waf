@@ -44,8 +44,8 @@ distribution:
 - description:
     en: Fisheries and Oceans Canada website for the Atlantic Zone Monitoring Program
       (AZMP)
-    fr: Site Web de Pêches et Océans Canada pour le Programme de surveillance de la
-      zone atlantique (MPZA)
+    fr: Site Web de Pêches et Océans Canada pour le Programme de monitorage de la
+      zone Atlantique (PMZA)
   name: Atlantic Zone Monitoring Program (AZMP)
   url: https://www.dfo-mpo.gc.ca/science/data-donnees/azmp-pmza/index-eng.html
 - description:
@@ -59,6 +59,13 @@ distribution:
   url: https://dev.cioosatlantic.ca/erddap/tabledap/atlantic_zone_monitoring_program.html
 - name: AZMP Cruise Reports
   url: https://cioosatlantic.ca/raw/dfo/bio/ctd/cruise_reports/
+- description:
+    en: National Department of Fisheries and Oceans (DFO) archive for plankton and
+      chemical data
+    fr: Archives du ministère national des Pêches et des Océans (MPO) pour les données
+      sur le plancton et les produits chimiques
+  name: BioChem DFO Database for plankton and chemical data
+  url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
 identification:
   abstract:
     en: The Atlantic Zone Monitoring Program (AZMP) was implemented in 1998 with the
@@ -173,8 +180,8 @@ identification:
       (PMZA)
 metadata:
   dates:
-    publication: '2022-06-14'
-    revision: '2022-06-14T15:08:29.363Z'
+    publication: '2022-06-20'
+    revision: '2022-06-20T18:56:34.510Z'
   identifier: 9a4bd73f-12a2-40ff-a7c7-b961a1d11311
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
