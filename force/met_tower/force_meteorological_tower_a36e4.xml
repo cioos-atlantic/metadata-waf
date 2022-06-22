@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/2.0 https://standards.iso.org/iso/19115/-3/mds/2.0/mds.xsd"
+  xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/2.0 https://schemas.isotc211.org/19115/-3/mdb/2.0/mdb.xsd"
   xmlns:gml="http://www.opengis.net/gml/3.2"
   xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0"
   xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0"
@@ -112,7 +112,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2022-06-20T17:05:14.185Z</gco:DateTime>
+        <gco:DateTime>2022-06-22T19:32:35.246Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -122,7 +122,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2021-10-13</gco:Date>
+        <gco:Date>2022-06-22</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -179,7 +179,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra"></lan:LanguageCode>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng"></lan:LanguageCode>
       </lan:language>
       <lan:country>
         <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN"></lan:CountryCode>
@@ -192,7 +192,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng"></lan:LanguageCode>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra"></lan:LanguageCode>
       </lan:language>
       <lan:country>
         <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN"></lan:CountryCode>
@@ -327,10 +327,10 @@ Variables : a) Pluie (mm) ; b) Température de l&#39;air (°C) ; c) Dir du ve
           <gex:verticalElement>
             <gex:EX_VerticalExtent>
               <gex:minimumValue>
-                <gco:Real>10.9</gco:Real>
+                <gco:Real>25.0</gco:Real>
               </gex:minimumValue>
               <gex:maximumValue>
-                <gco:Real>10.9</gco:Real>
+                <gco:Real>25.0</gco:Real>
               </gex:maximumValue>
               <gex:verticalCRSId>
                 <mrs:MD_ReferenceSystem>
@@ -607,7 +607,7 @@ Variables : a) Pluie (mm) ; b) Température de l&#39;air (°C) ; c) Dir du ve
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/force_3b1e_d478_b537.html</gco:CharacterString>
+                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/force_3b1e_d478_b537.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -682,7 +682,7 @@ Variables : a) Pluie (mm) ; b) Température de l&#39;air (°C) ; c) Dir du ve
                 </cit:CI_Citation>
               </mcc:authority>
               <mcc:code>
-                <gco:CharacterString>None</gco:CharacterString>
+                <gco:CharacterString>met_tower_1</gco:CharacterString>
               </mcc:code>
             </mcc:MD_Identifier>
           </mac:identifier>
@@ -731,6 +731,12 @@ Variables : a) Pluie (mm) ; b) Température de l&#39;air (°C) ; c) Dir du ve
               </mac:type>
             </mac:MI_Instrument>
           </mac:instrument>
+          <mac:instrument/>
+          <mac:otherProperty xlink:href="http://vocab.nerc.ac.uk/collection/L06/current/" xlink:title="SeaVoX Platform Categories">
+            <gco:Record>
+              <gco:CharacterString>land/onshore structure</gco:CharacterString>
+            </gco:Record>
+          </mac:otherProperty>
         </mac:MI_Platform>
       </mac:platform>
     </mac:MI_AcquisitionInformation>

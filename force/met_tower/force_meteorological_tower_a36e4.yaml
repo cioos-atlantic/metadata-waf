@@ -12,7 +12,7 @@ distribution:
     en: CIOOS Atlantic dataset ERDDAP link
     fr: Liaison ERDDAP du jeu de données de l'Atlantique du CIOOS
   name: CIOOS Atlantic ERDDAP
-  url: https://dev.cioosatlantic.ca/erddap/tabledap/force_3b1e_d478_b537.html
+  url: https://cioosatlantic.ca/erddap/tabledap/force_3b1e_d478_b537.html
 - description:
     en: Daily JSON files updated every 15 minutes
     fr: Fichiers JSON quotidiens mis à jour toutes les 15 minutes
@@ -64,15 +64,15 @@ identification:
       fr:
       - Autre
   progress_code: onGoing
-  status: submitted
+  status: published
   temporal_begin: '2016-12-09T16:00:00.000Z'
   title:
     en: FORCE Meteorological Tower
     fr: Tour Météorologique FORCE
 metadata:
   dates:
-    publication: '2021-10-13'
-    revision: '2022-06-20T17:05:14.185Z'
+    publication: '2022-06-22'
+    revision: '2022-06-22T19:32:35.246Z'
   identifier: a36e40f1-5f5b-4602-b18a-5c4f4b3f2a43
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
@@ -89,7 +89,7 @@ platform:
   description:
     en: Met Tower
     fr: Tour Met
-  id: None
+  id: met_tower_1
   instruments:
   - description:
       en: Measures wind velocity in-situ
@@ -100,6 +100,7 @@ platform:
       en: Wind Speed Sensor
       fr: Anémomètre
     version: 05103-10-L
+  type: land/onshore structure
 spatial:
   bbox:
   - -64.403
@@ -107,5 +108,5 @@ spatial:
   - -64.403
   - 45.3713
   vertical:
-  - 10.9
-  - 10.9
+  - 25.0
+  - 25.0
