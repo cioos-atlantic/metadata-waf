@@ -27,7 +27,7 @@ distribution:
     en: CIOOS Atlantic dataset ERDDAP link
     fr: Liaison ERDDAP du jeu de données de SIOOC Atlantique
   name: CIOOS Atlantic ERDDAP
-  url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_8f10_9c65_13cb.html
+  url: https://cioosatlantic.ca/erddap/tabledap/cmar_8f10_9c65_13cb.html
 - description:
     en: XEOS Online data access (login required)
     fr: Accès aux données en ligne XEOS (connexion requise)
@@ -124,7 +124,7 @@ identification:
 metadata:
   dates:
     publication: '2022-06-22'
-    revision: '2022-06-22T18:02:15.453Z'
+    revision: '2022-06-22T18:22:04.094Z'
   identifier: e7cd77c7-0ea2-4059-b233-c8f9a5656e95
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form

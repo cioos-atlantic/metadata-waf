@@ -112,7 +112,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2022-06-22T18:00:24.604Z</gco:DateTime>
+        <gco:DateTime>2022-06-22T18:33:46.410Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -777,7 +777,7 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/cmar_c5a5_c41c_2090.html</gco:CharacterString>
+                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/cmar_c5a5_c41c_2090.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
