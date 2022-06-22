@@ -194,13 +194,12 @@ identification:
   status: published
   temporal_begin: '1998-01-01T16:00:00.000Z'
   title:
-    en: The Maritimes Region Ecosystem Survey
-    fr: Programme de surveillance de la zone Atlantique de la région des Maritimes
-      (PMZA) (Copte)
+    en: Maritimes Region Ecosystem Survey
+    fr: Étude de l'écosystème de la région Maritime
 metadata:
   dates:
-    publication: '2022-06-20'
-    revision: '2022-06-20T18:36:48.688Z'
+    publication: '2022-06-22'
+    revision: '2022-06-22T19:25:16.847Z'
   identifier: 0270f89c-1b0a-43ea-b687-829a011c089e
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form

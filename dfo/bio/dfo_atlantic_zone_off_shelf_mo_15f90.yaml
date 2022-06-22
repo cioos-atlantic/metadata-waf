@@ -223,13 +223,13 @@ identification:
   status: published
   temporal_begin: '1998-01-01T16:00:00.000Z'
   title:
-    en: DFO Atlantic Zone Off-Shelf Monitoring Program (AZOMP)
-    fr: Programme de surveillance de la zone Atlantique de la région des Maritimes
-      (PMZA) (Copte)
+    en: Maritimes Region Atlantic Zone Off-Shelf Monitoring Program (AZOMP)
+    fr: Programme de Monitorage de la Zone Atlantique au large du plateau continental
+      (PMZOA)
 metadata:
   dates:
-    publication: '2022-06-14'
-    revision: '2022-06-17T17:00:02.653Z'
+    publication: '2022-06-22'
+    revision: '2022-06-22T19:26:07.141Z'
   identifier: 15f90eab-21ed-447d-aea7-8fe98ea27fe5
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
