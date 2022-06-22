@@ -1,14 +1,14 @@
 contact:
 - organization:
     address: 27 Parker St.
-    city: Dartmouth, NS, B2Y 4T5
+    city: Dartmouth, NS
     country: Canada
     email: info@cmar.ca
     name: Centre for Marine Applied Research (CMAR)
     url: https://www.cmar.ca
   roles:
-  - owner
   - custodian
+  - owner
 - individual:
     email: scott@xeostech.com
     name: Scott Tobin
@@ -27,7 +27,7 @@ distribution:
     en: CIOOS Atlantic dataset ERDDAP link
     fr: Liaison ERDDAP du jeu de données de SIOOC Atlantique
   name: CIOOS Atlantic ERDDAP
-  url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html
+  url: https://dev.cioosatlantic.ca/erddap/tabledap/cmar_c5a5_c41c_2090.html
 - description:
     en: XEOS Online data access (login required)
     fr: Accès aux données en ligne XEOS (connexion requise)
@@ -37,29 +37,30 @@ identification:
   abstract:
     en: This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic
       buoy from Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed
-      in Jordan Bay, Nova Scotia. It measures wave data (Maximum Wave Height, Significant
-      Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave Spread) using
-      a Brizo wave sensor manufactured by Xeos, sea temperature using a T Node sensor,
-      and meteorological data (Wind Speed, Wind Direction, Air Pressure, Humidity,
-      Air Temperature, Rain Intensity, and Hail Intensity) using Vaisala sensors.
-      The data is streamed to CIOOS every 20 minutes. The data will be used to support
-      science-based decision making and advancement of Nova Scotia's coastal resources.
+      in Chedabucto Bay, Nova Scotia. It measures wave data (Maximum Wave Height,
+      Significant Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave
+      Spread) using a Brizo wave sensor manufactured by Xeos, sea temperature using
+      a T Node sensor, and meteorological data (Wind Speed, Wind Direction, Air Pressure,
+      Humidity, Air Temperature, Rain Intensity, and Hail Intensity) using Vaisala
+      sensors. The data is streamed to CIOOS every 20 minutes. The data will be used
+      to support science-based decision making and advancement of Nova Scotia's coastal
+      resources.
     fr: Cet ensemble de données est recueilli au moyen d'une bouée météorologique/océanographique
       de 3 mètres de haut et de 1 mètre de diamètre de Xeos Technologies Inc., de
-      Dartmouth (Nouvelle-Écosse). La bouée est déployée dans la baie Jordan, en Nouvelle-Écosse.
-      Il mesure les données des vagues (hauteur maximale des vagues, hauteur significative
-      des vagues, période de pointe, direction moyenne des vagues et propagation moyenne
-      des vagues) à l'aide d'un capteur Brizo fabriqué par Xeos, température de la
-      mer à l'aide d'un capteur Nœud T et données météorologiques (vitesse du vent,
-      direction du vent, pression de l'air, humidité, température de l'air, Intensité
-      de pluie et intensité de grêle) à l'aide de capteurs Vaisala. Les données sont
-      diffusées à SIOOC toutes les 20 minutes. Les données serviront à appuyer la
-      prise de décisions fondées sur des données scientifiques et l'avancement des
-      ressources côtières de la Nouvelle-Écosse.
+      Dartmouth (Nouvelle-Écosse). La bouée est déployée dans la baie Chedabucto,
+      en Nouvelle-Écosse. Il mesure les données des vagues (hauteur maximale des vagues,
+      hauteur significative des vagues, période de pointe, direction moyenne des vagues
+      et propagation moyenne des vagues) à l'aide d'un capteur Brizo fabriqué par
+      Xeos, température de la mer à l'aide d'un capteur Nœud T et données météorologiques
+      (vitesse du vent, direction du vent, pression de l'air, humidité, température
+      de l'air, Intensité de pluie et intensité de grêle) à l'aide de capteurs Vaisala.
+      Les données sont diffusées à SIOOC toutes les 20 minutes. Les données serviront
+      à appuyer la prise de décisions fondées sur des données scientifiques et l'avancement
+      des ressources côtières de la Nouvelle-Écosse.
   dates:
-    creation: '2019-10-22'
-    publication: '2020-11-09'
-    revision: '2021-10-28'
+    creation: '2020-07-07'
+    publication: '2020-07-07'
+    revision: '2021-04-02'
   keywords:
     default:
       en:
@@ -75,44 +76,58 @@ identification:
       - relative_humidity
       - air_temperature
       - stratiform_rainfall_rate
-      - wind_from_direction
       - battery_temp_c
       - Timestamp
+      - Battery Level - Volts
+      - Temperature
+      - Significant Wave Height
+      - Peak Wave period
+      - Maximum Wave Height
+      - Wave Direction
+      - Wave Spread
+      - Sample Quality
+      - water temperature
+      - Wind Speed
+      - Wind Direction
+      - atmospheric pressure
+      - Air Pressure
+      - Humidity Percent
+      - Air Temperature
+      - Rain Intensity
+      - Hail Intensity
+      - Compass Direction
+      - Wind From
+      - wind
+      - waves
+      - meteorology
       - pressure
       fr:
-      - horodatage
-      - Niveau de batterie - Volts
-      - température
-      - vitesse du vent
-      - direction du vent
-      - pression de l'air
-      - pourcentage d'humidité
-      - température de l'air
-      - intensité de la pluie
-      - intensité de la grêle
-      - direction de la boussole
-      - vent de la direction
+      - température de l'eau
+      - pression atmosphérique
+      - vents
+      - vagues
+      - météorologie
       - pression
     eov:
       en:
-      - subSurfaceTemperature
       - seaState
       - seaSurfaceHeight
+      - subSurfaceTemperature
       fr:
-      - Température sous la surface
       - État de la mer
       - Niveau de l'eau
+      - Température sous la surface
   progress_code: onGoing
   status: published
-  temporal_begin: '2019-10-22T16:48:00.000Z'
+  temporal_begin: '2020-07-07T15:00:00.000Z'
   title:
-    en: CMAR - Jordan Bay
-    fr: CMAR - Jordan Bay
+    en: CMAR - Chedabucto Bay
+    fr: CMAR - Chedabucto Bay
 metadata:
   dates:
     publication: '2022-06-22'
-    revision: '2022-06-22T18:01:48.349Z'
-  identifier: da35094d-0de5-4982-a604-d158cdcbe9ad
+    revision: '2022-06-22T18:00:24.604Z'
+  identifier: 439a887e-81bd-423e-9f0d-bf0f259364be
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   naming_authority: ca.cioos
@@ -129,13 +144,13 @@ platform:
   description:
     en: Redeployable moored buoy
     fr: Bouée amarrée redéployable
-  id: Xeos Buoy 001 - (299 - 576)
+  id: Buoy 003
   instruments:
   - description:
       en: 'Xeos Brizo GNSS directional waveheight receiver. Instrument manual: http://manuals.xeostech.com/BrizoFirmware'
-      fr: 'Xeos Brizo Récepteur GNSS de hauteur des vagues directionnelle. Manuel
-        de l''instrument : http://manuals.xeostech.com/BrizoFirmware'
-    id: Xeos Brizo 299
+      fr: 'Xeos Brizo Récepteur GNSS de hauteur des vagues directionnelle. Manuel         de
+        l''instrument : http://manuals.xeostech.com/BrizoFirmware'
+    id: Buoy 003 - (333)
     manufacturer: Xeos Technologies, inc.
     type:
       en: Xeos Brizo GNSS directional waveheight receiver.
@@ -144,25 +159,25 @@ platform:
       en: 'Xeos Rover - Surface Iridium Satellite Beacon with GPS Location. Instrument
         manual: https://manuals.xeostech.com/Rover/'
       fr: 'Xeos Rover - Balise satellite Iridium Surface avec emplacement GPS. Manuel
-        de l''instrument : https://manuals.xeostech.com/Rover/'
-    id: Xeos Rover 576
+        de l''''instrument : https://manuals.xeostech.com/Rover/'
+    id: Buoy 003 0 (333 - 1013)
     manufacturer: Xeos Technologies, inc.
     type:
       en: Surface Iridium Satellite Beacon with GPS Location
       fr: Balise satellite Iridium Surface avec emplacement GPS
   - description:
       en: 'Vaisala Weather Transmitter WXT530 Series. Instrument manual: https://www.vaisala.com/sites/default/files/documents/WEA-MET-G-WXT530%20Datasheet__Low.pdf'
-      fr: 'Émetteur météo Vaisala série WXT530. Manuel de l''instrument : https://www.vaisala.com/sites/default/files/documents/WEA-MET-G-WXT530%20Datasheet__Low.pdf'
+      fr: 'Émetteur météo Vaisala série WXT530. Manuel de l''''instrument : https://www.vaisala.com/sites/default/files/documents/WEA-MET-G-WXT530%20Datasheet__Low.pdf'
     id: Vaisala-WTX536
     manufacturer: Vaisala Corporation
     type:
       en: Weather transmitter
       fr: Émetteur météo
   - description:
-      en: 'NexSens T-Node FR thermistor string water temperature sensor. Instrument
-        manual: https://www.nexsens.com/pdf/T-NodeFR_datasheet.pdf'
-      fr: 'Capteur de température de l''eau à chaîne NexSens T-Node FR Manuel de l''instrument :
+      en: 'NexSens T-Node FR thermistor string water temperature sensor. Instrument         manual:
         https://www.nexsens.com/pdf/T-NodeFR_datasheet.pdf'
+      fr: 'Capteur de température de l''''eau à chaîne NexSens T-Node FR Manuel de
+        l''''instrument: https://www.nexsens.com/pdf/T-NodeFR_datasheet.pdf'
     id: NexSens T-Node FR
     manufacturer: NexSens
     type:
@@ -171,10 +186,10 @@ platform:
   type: moored surface buoy
 spatial:
   bbox:
-  - -65.19418839
-  - 43.69840101
-  - -65.19418839
-  - 43.69840101
+  - -61.137831
+  - 45.388502
+  - -61.137831
+  - 45.388502
   vertical:
   - 0.0
   - 10.0

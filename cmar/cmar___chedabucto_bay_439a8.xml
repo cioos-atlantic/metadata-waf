@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>da35094d-0de5-4982-a604-d158cdcbe9ad</gco:CharacterString>
+        <gco:CharacterString>439a887e-81bd-423e-9f0d-bf0f259364be</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -80,7 +80,7 @@
                     <gco:CharacterString>27 Parker St.</gco:CharacterString>
                   </cit:deliveryPoint>
                   <cit:city>
-                    <gco:CharacterString>Dartmouth, NS, B2Y 4T5</gco:CharacterString>
+                    <gco:CharacterString>Dartmouth, NS</gco:CharacterString>
                   </cit:city>
                   <cit:country>
                     <gco:CharacterString>Canada</gco:CharacterString>
@@ -112,7 +112,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2022-06-22T18:01:48.349Z</gco:DateTime>
+        <gco:DateTime>2022-06-22T18:00:24.604Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -207,17 +207,17 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>CMAR - Jordan Bay</gco:CharacterString>
+            <gco:CharacterString>CMAR - Chedabucto Bay</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">CMAR - Jordan Bay</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">CMAR - Chedabucto Bay</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2019-10-22</gco:Date>
+                <gco:Date>2020-07-07</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -227,7 +227,7 @@
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2020-11-09</gco:Date>
+                <gco:Date>2020-07-07</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -237,7 +237,7 @@
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2021-10-28</gco:Date>
+                <gco:Date>2021-04-02</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -269,7 +269,7 @@
                             <gco:CharacterString>27 Parker St.</gco:CharacterString>
                           </cit:deliveryPoint>
                           <cit:city>
-                            <gco:CharacterString>Dartmouth, NS, B2Y 4T5</gco:CharacterString>
+                            <gco:CharacterString>Dartmouth, NS</gco:CharacterString>
                           </cit:city>
                           <cit:country>
                             <gco:CharacterString>Canada</gco:CharacterString>
@@ -301,10 +301,10 @@
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic buoy from Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed in Jordan Bay, Nova Scotia. It measures wave data (Maximum Wave Height, Significant Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave Spread) using a Brizo wave sensor manufactured by Xeos, sea temperature using a T Node sensor, and meteorological data (Wind Speed, Wind Direction, Air Pressure, Humidity, Air Temperature, Rain Intensity, and Hail Intensity) using Vaisala sensors. The data is streamed to CIOOS every 20 minutes. The data will be used to support science-based decision making and advancement of Nova Scotia&#39;s coastal resources.</gco:CharacterString>
+        <gco:CharacterString>This dataset is collected using a 3 metre tall, 1 metre in diameter meteorological/oceanographic buoy from Xeos Technologies Inc., of Dartmouth, Nova Scotia. The buoy is deployed in Chedabucto Bay, Nova Scotia. It measures wave data (Maximum Wave Height, Significant Wave Height, Peak Wave Period, Mean Wave Direction, and Mean Wave Spread) using a Brizo wave sensor manufactured by Xeos, sea temperature using a T Node sensor, and meteorological data (Wind Speed, Wind Direction, Air Pressure, Humidity, Air Temperature, Rain Intensity, and Hail Intensity) using Vaisala sensors. The data is streamed to CIOOS every 20 minutes. The data will be used to support science-based decision making and advancement of Nova Scotia&#39;s coastal resources.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">Cet ensemble de données est recueilli au moyen d&#39;une bouée météorologique/océanographique de 3 mètres de haut et de 1 mètre de diamètre de Xeos Technologies Inc., de Dartmouth (Nouvelle-Écosse). La bouée est déployée dans la baie Jordan, en Nouvelle-Écosse. Il mesure les données des vagues (hauteur maximale des vagues, hauteur significative des vagues, période de pointe, direction moyenne des vagues et propagation moyenne des vagues) à l&#39;aide d&#39;un capteur Brizo fabriqué par Xeos, température de la mer à l&#39;aide d&#39;un capteur Nœud T et données météorologiques (vitesse du vent, direction du vent, pression de l&#39;air, humidité, température de l&#39;air, Intensité de pluie et intensité de grêle) à l&#39;aide de capteurs Vaisala. Les données sont diffusées à SIOOC toutes les 20 minutes. Les données serviront à appuyer la prise de décisions fondées sur des données scientifiques et l&#39;avancement des ressources côtières de la Nouvelle-Écosse.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Cet ensemble de données est recueilli au moyen d&#39;une bouée météorologique/océanographique de 3 mètres de haut et de 1 mètre de diamètre de Xeos Technologies Inc., de Dartmouth (Nouvelle-Écosse). La bouée est déployée dans la baie Chedabucto, en Nouvelle-Écosse. Il mesure les données des vagues (hauteur maximale des vagues, hauteur significative des vagues, période de pointe, direction moyenne des vagues et propagation moyenne des vagues) à l&#39;aide d&#39;un capteur Brizo fabriqué par Xeos, température de la mer à l&#39;aide d&#39;un capteur Nœud T et données météorologiques (vitesse du vent, direction du vent, pression de l&#39;air, humidité, température de l&#39;air, Intensité de pluie et intensité de grêle) à l&#39;aide de capteurs Vaisala. Les données sont diffusées à SIOOC toutes les 20 minutes. Les données serviront à appuyer la prise de décisions fondées sur des données scientifiques et l&#39;avancement des ressources côtières de la Nouvelle-Écosse.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
@@ -325,16 +325,16 @@
                 <gco:Boolean>true</gco:Boolean>
               </gex:extentTypeCode>
               <gex:westBoundLongitude>
-                <gco:Decimal>-65.19418839</gco:Decimal>
+                <gco:Decimal>-61.137831</gco:Decimal>
               </gex:westBoundLongitude>
               <gex:eastBoundLongitude>
-                <gco:Decimal>-65.19418839</gco:Decimal>
+                <gco:Decimal>-61.137831</gco:Decimal>
               </gex:eastBoundLongitude>
               <gex:southBoundLatitude>
-                <gco:Decimal>43.69840101</gco:Decimal>
+                <gco:Decimal>45.388502</gco:Decimal>
               </gex:southBoundLatitude>
               <gex:northBoundLatitude>
-                <gco:Decimal>43.69840101</gco:Decimal>
+                <gco:Decimal>45.388502</gco:Decimal>
               </gex:northBoundLatitude>
             </gex:EX_GeographicBoundingBox>
           </gex:geographicElement>
@@ -384,7 +384,7 @@
             <gex:EX_TemporalExtent>
               <gex:extent>
                 <gml:TimePeriod gml:id="time_period">
-                  <gml:beginPosition>2019-10-22T16:48:00.000Z</gml:beginPosition>
+                  <gml:beginPosition>2020-07-07T15:00:00.000Z</gml:beginPosition>
                   <gml:endPosition indeterminatePosition="now" />
                 </gml:TimePeriod>
               </gex:extent>
@@ -468,13 +468,76 @@
             <gco:CharacterString>stratiform_rainfall_rate</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>wind_from_direction</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
             <gco:CharacterString>battery_temp_c</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>Timestamp</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Battery Level - Volts</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Temperature</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Significant Wave Height</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Peak Wave period</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Maximum Wave Height</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Wave Direction</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Wave Spread</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Sample Quality</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>water temperature</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Wind Speed</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Wind Direction</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>atmospheric pressure</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Air Pressure</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Humidity Percent</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Air Temperature</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Rain Intensity</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Hail Intensity</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Compass Direction</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>Wind From</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>wind</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>waves</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>meteorology</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>pressure</gco:CharacterString>
@@ -482,84 +545,35 @@
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">horodatage</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">température de l&#39;eau</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Niveau de batterie - Volts</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">pression atmosphérique</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">température</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">vents</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">vitesse du vent</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">vagues</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">direction du vent</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">pression de l&#39;air</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">pourcentage d&#39;humidité</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">température de l&#39;air</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">intensité de la pluie</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">intensité de la grêle</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">direction de la boussole</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">vent de la direction</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">météorologie</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
@@ -582,20 +596,13 @@
       <mri:descriptiveKeywords>
         <mri:MD_Keywords>
           <mri:keyword>
-            <gco:CharacterString>subSurfaceTemperature</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
             <gco:CharacterString>seaState</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>seaSurfaceHeight</gco:CharacterString>
           </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Température sous la surface</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
+          <mri:keyword>
+            <gco:CharacterString>subSurfaceTemperature</gco:CharacterString>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
@@ -608,6 +615,13 @@
             <lan:PT_FreeText>
               <lan:textGroup>
                 <lan:LocalisedCharacterString locale="#fr">Niveau de l&#39;eau</lan:LocalisedCharacterString>
+              </lan:textGroup>
+            </lan:PT_FreeText>
+          </mri:keyword>
+          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+            <lan:PT_FreeText>
+              <lan:textGroup>
+                <lan:LocalisedCharacterString locale="#fr">Température sous la surface</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
@@ -763,7 +777,7 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/cmar_fca0_698a_0716.html</gco:CharacterString>
+                <gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/cmar_c5a5_c41c_2090.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -838,7 +852,7 @@
                 </cit:CI_Citation>
               </mcc:authority>
               <mcc:code>
-                <gco:CharacterString>Xeos Buoy 001 - (299 - 576)</gco:CharacterString>
+                <gco:CharacterString>Buoy 003</gco:CharacterString>
               </mcc:code>
             </mcc:MD_Identifier>
           </mac:identifier>
@@ -862,13 +876,13 @@
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>Xeos Brizo 299</gco:CharacterString>
+                    <gco:CharacterString>Buoy 003 - (333)</gco:CharacterString>
                   </mcc:code>
                   <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
                     <gco:CharacterString>Xeos Brizo GNSS directional waveheight receiver. Instrument manual: http://manuals.xeostech.com/BrizoFirmware</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">Xeos Brizo Récepteur GNSS de hauteur des vagues directionnelle. Manuel de l&#39;instrument : http://manuals.xeostech.com/BrizoFirmware</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Xeos Brizo Récepteur GNSS de hauteur des vagues directionnelle. Manuel         de l&#39;instrument : http://manuals.xeostech.com/BrizoFirmware</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -896,13 +910,13 @@
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>Xeos Rover 576</gco:CharacterString>
+                    <gco:CharacterString>Buoy 003 0 (333 - 1013)</gco:CharacterString>
                   </mcc:code>
                   <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
                     <gco:CharacterString>Xeos Rover - Surface Iridium Satellite Beacon with GPS Location. Instrument manual: https://manuals.xeostech.com/Rover/</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">Xeos Rover - Balise satellite Iridium Surface avec emplacement GPS. Manuel de l&#39;instrument : https://manuals.xeostech.com/Rover/</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Xeos Rover - Balise satellite Iridium Surface avec emplacement GPS. Manuel de l&#39;&#39;instrument : https://manuals.xeostech.com/Rover/</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -936,7 +950,7 @@
                     <gco:CharacterString>Vaisala Weather Transmitter WXT530 Series. Instrument manual: https://www.vaisala.com/sites/default/files/documents/WEA-MET-G-WXT530%20Datasheet__Low.pdf</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">Émetteur météo Vaisala série WXT530. Manuel de l&#39;instrument : https://www.vaisala.com/sites/default/files/documents/WEA-MET-G-WXT530%20Datasheet__Low.pdf</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Émetteur météo Vaisala série WXT530. Manuel de l&#39;&#39;instrument : https://www.vaisala.com/sites/default/files/documents/WEA-MET-G-WXT530%20Datasheet__Low.pdf</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -967,10 +981,10 @@
                     <gco:CharacterString>NexSens T-Node FR</gco:CharacterString>
                   </mcc:code>
                   <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>NexSens T-Node FR thermistor string water temperature sensor. Instrument manual: https://www.nexsens.com/pdf/T-NodeFR_datasheet.pdf</gco:CharacterString>
+                    <gco:CharacterString>NexSens T-Node FR thermistor string water temperature sensor. Instrument         manual: https://www.nexsens.com/pdf/T-NodeFR_datasheet.pdf</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">Capteur de température de l&#39;eau à chaîne NexSens T-Node FR Manuel de l&#39;instrument : https://www.nexsens.com/pdf/T-NodeFR_datasheet.pdf</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Capteur de température de l&#39;&#39;eau à chaîne NexSens T-Node FR Manuel de l&#39;&#39;instrument: https://www.nexsens.com/pdf/T-NodeFR_datasheet.pdf</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
