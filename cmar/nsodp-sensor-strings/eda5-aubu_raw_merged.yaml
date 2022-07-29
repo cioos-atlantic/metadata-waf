@@ -121,7 +121,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Lunenburg County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/eda5-aubu.html
+- url: https://cioosatlantic.ca/erddap/tabledap/eda5-aubu.html
   name: ERDDAP Data Access
 platform:
 - id: Flat Island

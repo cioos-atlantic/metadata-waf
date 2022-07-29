@@ -172,7 +172,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Guysborough County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/eb3n-uxcb.html
+- url: https://cioosatlantic.ca/erddap/tabledap/eb3n-uxcb.html
   name: ERDDAP Data Access
 platform:
 - id: Moose Point

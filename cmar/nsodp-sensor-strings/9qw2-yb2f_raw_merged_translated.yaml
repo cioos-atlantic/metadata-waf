@@ -172,7 +172,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Yarmouth County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/9qw2-yb2f.html
+- url: https://cioosatlantic.ca/erddap/tabledap/9qw2-yb2f.html
   name: ERDDAP Data Access
 platform:
 - id: Lobster Bay

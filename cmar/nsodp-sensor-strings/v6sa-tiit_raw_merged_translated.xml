@@ -919,7 +919,7 @@
           					<mrd:onLine>						
             						<cit:CI_OnlineResource>							
               							<cit:linkage>								
-                								<gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/v6sa-tiit.html</gco:CharacterString>								
+                								<gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/v6sa-tiit.html</gco:CharacterString>								
               							</cit:linkage>							
               							<cit:protocol>								
                 								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
