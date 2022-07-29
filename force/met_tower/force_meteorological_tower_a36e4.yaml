@@ -12,7 +12,7 @@ distribution:
     en: CIOOS Atlantic dataset ERDDAP link
     fr: Liaison ERDDAP du jeu de données de l'Atlantique du CIOOS
   name: CIOOS Atlantic ERDDAP
-  url: https://cioosatlantic.ca/erddap/tabledap/force_3b1e_d478_b537.html
+  url: https://cioosatlantic.ca/erddap/tabledap/force_meteorological_tower.html
 - description:
     en: Daily JSON files updated every 15 minutes
     fr: Fichiers JSON quotidiens mis à jour toutes les 15 minutes
@@ -71,8 +71,8 @@ identification:
     fr: Tour Météorologique FORCE
 metadata:
   dates:
-    publication: '2022-06-22'
-    revision: '2022-06-22T19:32:35.246Z'
+    publication: '2022-06-23'
+    revision: '2022-06-23T21:00:45.671Z'
   identifier: a36e40f1-5f5b-4602-b18a-5c4f4b3f2a43
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form

@@ -62,8 +62,8 @@ distribution:
       sur le plancton et les produits chimiques
   name: BioChem DFO Database for plankton and chemical data
   url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
-- name: Maritime Region Ecosystem Survey ERDDAP data
-  url: https://dev.cioosatlantic.ca/erddap/tabledap/maritime_region_ecosystem_survey.html
+- name: Maritimes Region Ecosystem Survey ERDDAP data
+  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_ecosystem_survey.html
 identification:
   abstract:
     en: "The Fisheries and Oceans Canada (DFO) first implemented annual, standardized\
@@ -199,7 +199,7 @@ identification:
 metadata:
   dates:
     publication: '2022-06-22'
-    revision: '2022-06-22T19:25:16.847Z'
+    revision: '2022-06-22T20:13:37.868Z'
   identifier: 0270f89c-1b0a-43ea-b687-829a011c089e
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
