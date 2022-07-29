@@ -135,7 +135,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:DateTime>2022-06-20T19:48:02.827Z</gco:DateTime>				
+        				<gco:DateTime>2022-07-21T19:18:18.344Z</gco:DateTime>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
@@ -145,7 +145,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:Date>2022-06-20</gco:Date>				
+        				<gco:Date>2022-07-21</gco:Date>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				
@@ -554,7 +554,7 @@
             						<gex:EX_TemporalExtent>							
               							<gex:extent>								
                 								<gml:TimePeriod gml:id="time_period">									
-                  									<gml:beginPosition>2018-02-21T22:10:00.000Z</gml:beginPosition>									
+                  									<gml:beginPosition>2018-02-21T18:10:00.000Z</gml:beginPosition>									
                   									<gml:endPosition indeterminatePosition="now"/>									
                 								</gml:TimePeriod>								
               							</gex:extent>							
@@ -919,7 +919,7 @@
           					<mrd:onLine>						
             						<cit:CI_OnlineResource>							
               							<cit:linkage>								
-                								<gco:CharacterString>https://dev.cioosatlantic.ca/erddap/tabledap/x9dy-aai9.html</gco:CharacterString>								
+                								<gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/x9dy-aai9.html</gco:CharacterString>								
               							</cit:linkage>							
               							<cit:protocol>								
                 								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
@@ -1281,13 +1281,13 @@
                 								</cit:CI_Citation>								
               							</mcc:authority>							
               							<mcc:code>								
-                								<gco:CharacterString>Owl's Head</gco:CharacterString>								
+                								<gco:CharacterString>Owls Head</gco:CharacterString>								
               							</mcc:code>							
             						</mcc:MD_Identifier>						
           					</mac:identifier>					
           
       					<mac:description>						
-        						<gco:CharacterString>Owl's Head</gco:CharacterString>						
+        						<gco:CharacterString>Owls Head</gco:CharacterString>						
       					</mac:description>					
 
           
@@ -2564,41 +2564,6 @@
               										</cit:CI_Citation>										
           									</mcc:authority>									
           									<mcc:code>										
-            										<gco:CharacterString>HOBO-20291487</gco:CharacterString>										
-          									</mcc:code>									
-                   
-            
-      									<mcc:description>										
-        										<gco:CharacterString/>										
-      									</mcc:description>									
-        								</mcc:MD_Identifier>								
-      							</mac:identifier>							
-        
-      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>Sensor</gco:CharacterString>								
-          								<lan:PT_FreeText>									
-            									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr"/>										
-            									</lan:textGroup>									
-          								</lan:PT_FreeText>								
-      							</mac:type>							
-    						</mac:MI_Instrument>						
-  					</mac:instrument>					
-
-          
-          					<mac:instrument>						
-    						<mac:MI_Instrument>							
-      							<mac:identifier>								
-        								<mcc:MD_Identifier>									
-          									<mcc:authority>										
-            										<cit:CI_Citation>											
-              
-      											<cit:title>												
-        												<gco:CharacterString>ONSET</gco:CharacterString>												
-      											</cit:title>											
-              										</cit:CI_Citation>										
-          									</mcc:authority>									
-          									<mcc:code>										
             										<gco:CharacterString>HOBO-20834030</gco:CharacterString>										
           									</mcc:code>									
                    
@@ -2670,6 +2635,41 @@
           									</mcc:authority>									
           									<mcc:code>										
             										<gco:CharacterString>HOBO-10755251</gco:CharacterString>										
+          									</mcc:code>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Sensor</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr"/>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>ONSET</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>HOBO-20291487</gco:CharacterString>										
           									</mcc:code>									
                    
             

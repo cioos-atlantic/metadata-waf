@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-06-20T19:51:12.864Z'
-    publication: '2022-06-20'
+    revision: '2022-07-21T19:23:52.800Z'
+    publication: '2022-07-21'
 spatial:
   bbox:
   - -61.0913
@@ -122,7 +122,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Richmond County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/v6sa-tiit.html
+- url: https://cioosatlantic.ca/erddap/tabledap/v6sa-tiit.html
   name: ERDDAP Data Access
 platform:
 - id: '0667'

@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-06-20T19:52:07.866Z'
-    publication: '2022-06-20'
+    revision: '2022-07-21T19:25:37.559Z'
+    publication: '2022-07-21'
 spatial:
   bbox:
   - -61.36382192
@@ -122,7 +122,7 @@ distribution:
   name: Chart
 - url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
   name: 'Coastal Monitoring Program Report: Inverness County'
-- url: https://dev.cioosatlantic.ca/erddap/tabledap/a9za-3t63.html
+- url: https://cioosatlantic.ca/erddap/tabledap/a9za-3t63.html
   name: ERDDAP Data Access
 platform:
 - id: Pulp Mill
