@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-06-20T19:44:50.675Z'
-    publication: '2022-06-20'
+    revision: '2022-07-21T19:14:25.298Z'
+    publication: '2022-07-21'
 spatial:
   bbox:
   - -62.0113
@@ -389,19 +389,13 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-675009
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
   - id: HOBO-20308044
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-670376
+  - id: aquaMeasure-675009
     manufacturer: Innovasea
     type:
       en: Sensor
@@ -409,6 +403,12 @@ platform:
     version: ''
   - id: HOBO-20763559
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670376
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
@@ -503,18 +503,6 @@ platform:
   description:
     en: Seal Cove
   instruments:
-  - id: HOBO-20330412
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquaMeasure-671020
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
   - id: HOBO-20291470
     manufacturer: ONSET
     type:
@@ -529,6 +517,18 @@ platform:
     version: ''
   - id: VR2AR-548043
     manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671020
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20330412
+    manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
@@ -567,8 +567,8 @@ platform:
   description:
     en: Meal Rock
   instruments:
-  - id: HOBO-20495209
-    manufacturer: ONSET
+  - id: aquaMeasure-680158
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
@@ -591,14 +591,14 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-680158
-    manufacturer: Innovasea
+  - id: VR2AR-547100
+    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: VR2AR-547100
-    manufacturer: Vemco
+  - id: HOBO-20495209
+    manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
@@ -843,6 +843,18 @@ platform:
   description:
     en: Center Bay
   instruments:
+  - id: aquaMeasure-675286
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-545767
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-10755213
     manufacturer: ONSET
     type:
@@ -855,20 +867,8 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-675286
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
   - id: HOBO-20308045
     manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: VR2AR-545767
-    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
@@ -1023,12 +1023,6 @@ platform:
   description:
     en: Fishermans Island
   instruments:
-  - id: aquaMeasure-671009
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
   - id: HOBO-10755244
     manufacturer: ONSET
     type:
@@ -1049,6 +1043,12 @@ platform:
     version: ''
   - id: HOBO-20291447
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671009
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
@@ -1111,12 +1111,6 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-671013
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
   - id: HOBO-10755206
     manufacturer: ONSET
     type:
@@ -1125,6 +1119,12 @@ platform:
     version: ''
   - id: HOBO-20330419
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671013
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
@@ -1181,17 +1181,27 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-- id: Wine Harbour
+- id: Yankee Cove
   description:
-    en: Wine Harbour
+    en: Yankee Cove
   instruments:
-  - id: HOBO-10777103
+  - id: HOBO-10778921
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
+- id: Wine Harbour
+  description:
+    en: Wine Harbour
+  instruments:
   - id: HOBO-20495227
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10777103
     manufacturer: ONSET
     type:
       en: Sensor

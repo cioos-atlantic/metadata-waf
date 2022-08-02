@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-06-20T19:50:42.527Z'
-    publication: '2022-06-20'
+    revision: '2022-07-21T19:23:22.779Z'
+    publication: '2022-07-21'
 spatial:
   bbox:
   - -65.95942
@@ -255,13 +255,13 @@ platform:
   description:
     en: Ram Island
   instruments:
-  - id: aquaMeasure-670373
+  - id: aquaMeasure-680324
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-680324
+  - id: aquaMeasure-670373
     manufacturer: Innovasea
     type:
       en: Sensor

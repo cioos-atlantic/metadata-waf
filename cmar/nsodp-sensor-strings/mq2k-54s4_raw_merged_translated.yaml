@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-06-20T19:53:31.869Z'
-    publication: '2022-06-20'
+    revision: '2022-07-21T19:27:33.140Z'
+    publication: '2022-07-21'
 spatial:
   bbox:
   - -65.43374
@@ -155,7 +155,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2018-02-13T17:00:00.000Z'
+  temporal_begin: '2018-02-13T19:35:27.000Z'
 contact:
 - roles:
   - owner
@@ -293,81 +293,7 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-- id: Taylors Rock
-  description:
-    en: Taylors Rock
-  instruments:
-  - id: HOBO-20291461
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20291482
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20291486
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
   - id: aquaMeasure-670289
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: VR2AR-547092
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: McNutts Island
-  description:
-    en: McNutts Island
-  instruments:
-  - id: aquaMeasure-670286
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquaMeasure-670287
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: VR2AR-547097
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20291437
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20291452
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-10755256
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquaMeasure-670285
     manufacturer: Innovasea
     type:
       en: Sensor

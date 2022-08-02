@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-06-20T19:49:51.072Z'
-    publication: '2022-06-20'
+    revision: '2022-07-21T19:22:06.738Z'
+    publication: '2022-07-21'
 spatial:
   bbox:
   - -64.25055
@@ -246,14 +246,20 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20291450
+  - id: HOBO-10755230
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: VR2AR-547091
-    manufacturer: Vemco
+  - id: HOBO-20827226
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291450
+    manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
@@ -270,14 +276,8 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-10755230
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20827226
-    manufacturer: ONSET
+  - id: VR2AR-547091
+    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
@@ -510,13 +510,13 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20495248
+  - id: HOBO-20834033
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20834033
+  - id: HOBO-20495248
     manufacturer: ONSET
     type:
       en: Sensor
@@ -568,6 +568,24 @@ platform:
   description:
     en: Tilley Point
   instruments:
+  - id: HOBO-20687285
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20834024
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755265
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-20495244
     manufacturer: ONSET
     type:
@@ -593,24 +611,6 @@ platform:
       fr: ''
     version: ''
   - id: HOBO-20291477
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20687285
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20834024
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-10755265
     manufacturer: ONSET
     type:
       en: Sensor

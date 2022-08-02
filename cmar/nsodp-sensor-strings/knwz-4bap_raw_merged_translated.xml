@@ -135,7 +135,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:DateTime>2022-06-20T19:50:18.338Z</gco:DateTime>				
+        				<gco:DateTime>2022-07-21T19:22:37.483Z</gco:DateTime>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
@@ -145,7 +145,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:Date>2022-06-20</gco:Date>				
+        				<gco:Date>2022-07-21</gco:Date>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				

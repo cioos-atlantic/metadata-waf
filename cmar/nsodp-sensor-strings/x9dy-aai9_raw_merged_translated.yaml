@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-06-20T19:48:02.827Z'
-    publication: '2022-06-20'
+    revision: '2022-07-21T19:18:18.344Z'
+    publication: '2022-07-21'
 spatial:
   bbox:
   - -63.95414
@@ -155,7 +155,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2018-02-21T22:10:00.000Z'
+  temporal_begin: '2018-02-21T18:10:00.000Z'
 contact:
 - roles:
   - owner
@@ -227,9 +227,9 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-- id: Owl's Head
+- id: Owls Head
   description:
-    en: Owl's Head
+    en: Owls Head
   instruments:
   - id: VR2AR-547114
     manufacturer: Vemco
@@ -435,12 +435,6 @@ platform:
   description:
     en: Shut-In Island
   instruments:
-  - id: HOBO-20291487
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
   - id: HOBO-20834030
     manufacturer: ONSET
     type:
@@ -454,6 +448,12 @@ platform:
       fr: ''
     version: ''
   - id: HOBO-10755251
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291487
     manufacturer: ONSET
     type:
       en: Sensor

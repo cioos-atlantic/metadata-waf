@@ -135,7 +135,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:DateTime>2022-06-20T19:51:49.319Z</gco:DateTime>				
+        				<gco:DateTime>2022-07-21T19:25:15.416Z</gco:DateTime>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
@@ -145,7 +145,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:Date>2022-06-20</gco:Date>				
+        				<gco:Date>2022-07-21</gco:Date>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				
@@ -2906,12 +2906,12 @@
             										<cit:CI_Citation>											
               
       											<cit:title>												
-        												<gco:CharacterString>Innovasea</gco:CharacterString>												
+        												<gco:CharacterString>ONSET</gco:CharacterString>												
       											</cit:title>											
               										</cit:CI_Citation>										
           									</mcc:authority>									
           									<mcc:code>										
-            										<gco:CharacterString>aquaMeasure-670350</gco:CharacterString>										
+            										<gco:CharacterString>HOBO-20820324</gco:CharacterString>										
           									</mcc:code>									
                    
             
@@ -2941,12 +2941,12 @@
             										<cit:CI_Citation>											
               
       											<cit:title>												
-        												<gco:CharacterString>ONSET</gco:CharacterString>												
+        												<gco:CharacterString>Innovasea</gco:CharacterString>												
       											</cit:title>											
               										</cit:CI_Citation>										
           									</mcc:authority>									
           									<mcc:code>										
-            										<gco:CharacterString>HOBO-20820324</gco:CharacterString>										
+            										<gco:CharacterString>aquaMeasure-670350</gco:CharacterString>										
           									</mcc:code>									
                    
             
@@ -3413,216 +3413,6 @@
                 								</cit:CI_Citation>								
               							</mcc:authority>							
               							<mcc:code>								
-                								<gco:CharacterString>Sandy Cove St Marys</gco:CharacterString>								
-              							</mcc:code>							
-            						</mcc:MD_Identifier>						
-          					</mac:identifier>					
-          
-      					<mac:description>						
-        						<gco:CharacterString>Sandy Cove St Marys</gco:CharacterString>						
-      					</mac:description>					
-
-          
-          					<mac:instrument>						
-    						<mac:MI_Instrument>							
-      							<mac:identifier>								
-        								<mcc:MD_Identifier>									
-          									<mcc:authority>										
-            										<cit:CI_Citation>											
-              
-      											<cit:title>												
-        												<gco:CharacterString>ONSET</gco:CharacterString>												
-      											</cit:title>											
-              										</cit:CI_Citation>										
-          									</mcc:authority>									
-          									<mcc:code>										
-            										<gco:CharacterString>HOBO-10817410</gco:CharacterString>										
-          									</mcc:code>									
-                   
-            
-      									<mcc:description>										
-        										<gco:CharacterString/>										
-      									</mcc:description>									
-        								</mcc:MD_Identifier>								
-      							</mac:identifier>							
-        
-      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>Sensor</gco:CharacterString>								
-          								<lan:PT_FreeText>									
-            									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr"/>										
-            									</lan:textGroup>									
-          								</lan:PT_FreeText>								
-      							</mac:type>							
-    						</mac:MI_Instrument>						
-  					</mac:instrument>					
-
-          
-          					<mac:instrument>						
-    						<mac:MI_Instrument>							
-      							<mac:identifier>								
-        								<mcc:MD_Identifier>									
-          									<mcc:authority>										
-            										<cit:CI_Citation>											
-              
-      											<cit:title>												
-        												<gco:CharacterString>ONSET</gco:CharacterString>												
-      											</cit:title>											
-              										</cit:CI_Citation>										
-          									</mcc:authority>									
-          									<mcc:code>										
-            										<gco:CharacterString>HOBO-20820351</gco:CharacterString>										
-          									</mcc:code>									
-                   
-            
-      									<mcc:description>										
-        										<gco:CharacterString/>										
-      									</mcc:description>									
-        								</mcc:MD_Identifier>								
-      							</mac:identifier>							
-        
-      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>Sensor</gco:CharacterString>								
-          								<lan:PT_FreeText>									
-            									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr"/>										
-            									</lan:textGroup>									
-          								</lan:PT_FreeText>								
-      							</mac:type>							
-    						</mac:MI_Instrument>						
-  					</mac:instrument>					
-
-          
-          					<mac:instrument>						
-    						<mac:MI_Instrument>							
-      							<mac:identifier>								
-        								<mcc:MD_Identifier>									
-          									<mcc:authority>										
-            										<cit:CI_Citation>											
-              
-      											<cit:title>												
-        												<gco:CharacterString>ONSET</gco:CharacterString>												
-      											</cit:title>											
-              										</cit:CI_Citation>										
-          									</mcc:authority>									
-          									<mcc:code>										
-            										<gco:CharacterString>HOBO-20820379</gco:CharacterString>										
-          									</mcc:code>									
-                   
-            
-      									<mcc:description>										
-        										<gco:CharacterString/>										
-      									</mcc:description>									
-        								</mcc:MD_Identifier>								
-      							</mac:identifier>							
-        
-      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>Sensor</gco:CharacterString>								
-          								<lan:PT_FreeText>									
-            									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr"/>										
-            									</lan:textGroup>									
-          								</lan:PT_FreeText>								
-      							</mac:type>							
-    						</mac:MI_Instrument>						
-  					</mac:instrument>					
-
-          
-          					<mac:instrument>						
-    						<mac:MI_Instrument>							
-      							<mac:identifier>								
-        								<mcc:MD_Identifier>									
-          									<mcc:authority>										
-            										<cit:CI_Citation>											
-              
-      											<cit:title>												
-        												<gco:CharacterString>Vemco</gco:CharacterString>												
-      											</cit:title>											
-              										</cit:CI_Citation>										
-          									</mcc:authority>									
-          									<mcc:code>										
-            										<gco:CharacterString>VR2AR-549342</gco:CharacterString>										
-          									</mcc:code>									
-                   
-            
-      									<mcc:description>										
-        										<gco:CharacterString/>										
-      									</mcc:description>									
-        								</mcc:MD_Identifier>								
-      							</mac:identifier>							
-        
-      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>Sensor</gco:CharacterString>								
-          								<lan:PT_FreeText>									
-            									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr"/>										
-            									</lan:textGroup>									
-          								</lan:PT_FreeText>								
-      							</mac:type>							
-    						</mac:MI_Instrument>						
-  					</mac:instrument>					
-
-          
-          					<mac:instrument>						
-    						<mac:MI_Instrument>							
-      							<mac:identifier>								
-        								<mcc:MD_Identifier>									
-          									<mcc:authority>										
-            										<cit:CI_Citation>											
-              
-      											<cit:title>												
-        												<gco:CharacterString>Innovasea</gco:CharacterString>												
-      											</cit:title>											
-              										</cit:CI_Citation>										
-          									</mcc:authority>									
-          									<mcc:code>										
-            										<gco:CharacterString>aquaMeasure-675015</gco:CharacterString>										
-          									</mcc:code>									
-                   
-            
-      									<mcc:description>										
-        										<gco:CharacterString/>										
-      									</mcc:description>									
-        								</mcc:MD_Identifier>								
-      							</mac:identifier>							
-        
-      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
-        								<gco:CharacterString>Sensor</gco:CharacterString>								
-          								<lan:PT_FreeText>									
-            									<lan:textGroup>										
-              										<lan:LocalisedCharacterString locale="#fr"/>										
-            									</lan:textGroup>									
-          								</lan:PT_FreeText>								
-      							</mac:type>							
-    						</mac:MI_Instrument>						
-  					</mac:instrument>					
-
-        				</mac:MI_Platform>				
-      			</mac:platform>			
-    		</mac:MI_AcquisitionInformation>		
-  	</mdb:acquisitionInformation>	
-  	<mdb:acquisitionInformation>		
-    		<mac:MI_AcquisitionInformation>			
-      			<mac:scope>				
-        				<mcc:MD_Scope>					
-          					<mcc:level>						
-            						<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>						
-          					</mcc:level>					
-        				</mcc:MD_Scope>				
-      			</mac:scope>			
-      			<mac:platform>				
-        				<mac:MI_Platform>					
-          					<mac:identifier>						
-            						<mcc:MD_Identifier>							
-              							<mcc:authority>								
-                								<cit:CI_Citation>									
-                  
-      									<cit:title>										
-        										<gco:CharacterString/>										
-      									</cit:title>									
-                								</cit:CI_Citation>								
-              							</mcc:authority>							
-              							<mcc:code>								
                 								<gco:CharacterString>Sandy Cove St. Mary's</gco:CharacterString>								
               							</mcc:code>							
             						</mcc:MD_Identifier>						
@@ -3962,6 +3752,111 @@
           									</mcc:authority>									
           									<mcc:code>										
             										<gco:CharacterString>VR2AR-549340</gco:CharacterString>										
+          									</mcc:code>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Sensor</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr"/>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>ONSET</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>HOBO-20820379</gco:CharacterString>										
+          									</mcc:code>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Sensor</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr"/>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Vemco</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>VR2AR-549342</gco:CharacterString>										
+          									</mcc:code>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Sensor</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr"/>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Innovasea</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>aquaMeasure-675015</gco:CharacterString>										
           									</mcc:code>									
                    
             

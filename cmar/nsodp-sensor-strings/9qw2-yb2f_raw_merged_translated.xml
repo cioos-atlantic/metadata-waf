@@ -135,7 +135,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:DateTime>2022-06-20T19:50:42.527Z</gco:DateTime>				
+        				<gco:DateTime>2022-07-21T19:23:22.779Z</gco:DateTime>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
@@ -145,7 +145,7 @@
   	<mdb:dateInfo>		
     		<cit:CI_Date>			
       			<cit:date>				
-        				<gco:Date>2022-06-20</gco:Date>				
+        				<gco:Date>2022-07-21</gco:Date>				
       			</cit:date>			
       			<cit:dateType>				
         				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				
@@ -202,7 +202,7 @@
   	<mdb:otherLocale>		
     		<lan:PT_Locale>			
       			<lan:language>				
-        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
         </lan:LanguageCode>				
       			</lan:language>			
       			<lan:country>				
@@ -217,7 +217,7 @@
   	<mdb:otherLocale>		
     		<lan:PT_Locale>			
       			<lan:language>				
-        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
         </lan:LanguageCode>				
       			</lan:language>			
       			<lan:country>				
@@ -1759,7 +1759,7 @@
               										</cit:CI_Citation>										
           									</mcc:authority>									
           									<mcc:code>										
-            										<gco:CharacterString>aquaMeasure-670373</gco:CharacterString>										
+            										<gco:CharacterString>aquaMeasure-680324</gco:CharacterString>										
           									</mcc:code>									
                    
             
@@ -1794,7 +1794,7 @@
               										</cit:CI_Citation>										
           									</mcc:authority>									
           									<mcc:code>										
-            										<gco:CharacterString>aquaMeasure-680324</gco:CharacterString>										
+            										<gco:CharacterString>aquaMeasure-670373</gco:CharacterString>										
           									</mcc:code>									
                    
             
