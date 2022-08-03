@@ -175,13 +175,14 @@ identification:
   status: published
   temporal_begin: '1998-01-01T16:00:00.000Z'
   title:
-    en: Maritimes Region Atlantic Zone Monitoring Program (AZMP)
-    fr: Programme de surveillance de la zone Atlantique de la région des Maritimes
-      (PMZA)
+    en: Maritimes Region Atlantic Zone Monitoring Program (AZMP) Rosette Vertical
+      Profiles
+    fr: Programme de surveillance de la zone atlantique de la région des Maritimes
+      (PMZA) profils verticaux des rosettes
 metadata:
   dates:
-    publication: '2022-06-22'
-    revision: '2022-06-22T20:12:02.539Z'
+    publication: '2022-08-03'
+    revision: '2022-08-03T19:29:08.035Z'
   identifier: 9a4bd73f-12a2-40ff-a7c7-b961a1d11311
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form

@@ -220,7 +220,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2022-06-22T20:13:37.868Z</gco:DateTime>
+        <gco:DateTime>2022-08-03T19:38:08.212Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -230,7 +230,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2022-06-22</gco:Date>
+        <gco:Date>2022-08-03</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -315,10 +315,10 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>Maritimes Region Ecosystem Survey</gco:CharacterString>
+            <gco:CharacterString>Maritimes Region Ecosystem Survey Rosette Vertical Profiles</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Étude de l&#39;écosystème de la région Maritime</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Étude de l&#39;écosystème de la région Maritime profils verticaux des rosettes</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>

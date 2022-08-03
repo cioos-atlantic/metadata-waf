@@ -194,12 +194,12 @@ identification:
   status: published
   temporal_begin: '1998-01-01T16:00:00.000Z'
   title:
-    en: Maritimes Region Ecosystem Survey
-    fr: Étude de l'écosystème de la région Maritime
+    en: Maritimes Region Ecosystem Survey Rosette Vertical Profiles
+    fr: Étude de l'écosystème de la région Maritime profils verticaux des rosettes
 metadata:
   dates:
-    publication: '2022-06-22'
-    revision: '2022-06-22T20:13:37.868Z'
+    publication: '2022-08-03'
+    revision: '2022-08-03T19:38:08.212Z'
   identifier: 0270f89c-1b0a-43ea-b687-829a011c089e
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
