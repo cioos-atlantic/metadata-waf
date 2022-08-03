@@ -63,6 +63,10 @@ distribution:
   url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
 - name: ERDDAP AZOMP CTD Data
   url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_off_shelf_monitoring_program.html
+- description:
+    en: DFO BIO official program website
+  name: Atlantic Zone Off-Shelf Monitoring Program
+  url: https://www.bio.gc.ca/science/monitoring-monitorage/azomp-pmzao/azomp-pmzao-en.php
 identification:
   abstract:
     en: "The Atlantic Zone Off-Shelf Monitoring Program (AZOMP) collects and analyzes\
@@ -228,8 +232,8 @@ identification:
       (PMZOA)
 metadata:
   dates:
-    publication: '2022-06-22'
-    revision: '2022-06-22T20:12:41.925Z'
+    publication: '2022-08-02'
+    revision: '2022-08-02T19:47:30.387Z'
   identifier: 15f90eab-21ed-447d-aea7-8fe98ea27fe5
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
