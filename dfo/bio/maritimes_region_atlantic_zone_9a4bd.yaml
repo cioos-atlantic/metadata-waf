@@ -56,7 +56,7 @@ distribution:
   name: Canadian Science Advisory Secretariat (CSAS) Publications
   url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
 - name: ERDDAP AZMP CTD Data
-  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_monitoring_program.html
+  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_monitoring_program_rosette_vertical_profiles.html
 - name: AZMP Cruise Reports
   url: https://cioosatlantic.ca/raw/dfo/bio/ctd/cruise_reports/
 - description:
@@ -182,7 +182,7 @@ identification:
 metadata:
   dates:
     publication: '2022-08-03'
-    revision: '2022-08-03T19:29:08.035Z'
+    revision: '2022-08-03T19:59:28.245Z'
   identifier: 9a4bd73f-12a2-40ff-a7c7-b961a1d11311
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
