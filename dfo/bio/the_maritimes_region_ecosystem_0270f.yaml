@@ -63,7 +63,7 @@ distribution:
   name: BioChem DFO Database for plankton and chemical data
   url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
 - name: Maritimes Region Ecosystem Survey ERDDAP data
-  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_ecosystem_survey.html
+  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_ecosystem_survey_rosette_vertical_profiles.html
 identification:
   abstract:
     en: "The Fisheries and Oceans Canada (DFO) first implemented annual, standardized\
@@ -194,12 +194,12 @@ identification:
   status: published
   temporal_begin: '1998-01-01T16:00:00.000Z'
   title:
-    en: Maritimes Region Ecosystem Survey
-    fr: Étude de l'écosystème de la région Maritime
+    en: Maritimes Region Ecosystem Survey Rosette Vertical Profiles
+    fr: Étude de l'écosystème de la région Maritime profils verticaux des rosettes
 metadata:
   dates:
-    publication: '2022-06-22'
-    revision: '2022-06-22T20:13:37.868Z'
+    publication: '2022-08-03'
+    revision: '2022-08-03T20:01:02.635Z'
   identifier: 0270f89c-1b0a-43ea-b687-829a011c089e
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form

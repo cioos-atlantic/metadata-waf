@@ -62,7 +62,11 @@ distribution:
   name: BioChem DFO Database for plankton and chemical data
   url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
 - name: ERDDAP AZOMP CTD Data
-  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_off_shelf_monitoring_program.html
+  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_off_shelf_monitoring_program_rosette_vertical_profiles.html
+- description:
+    en: DFO BIO official program website
+  name: Atlantic Zone Off-Shelf Monitoring Program
+  url: https://www.bio.gc.ca/science/monitoring-monitorage/azomp-pmzao/azomp-pmzao-en.php
 identification:
   abstract:
     en: "The Atlantic Zone Off-Shelf Monitoring Program (AZOMP) collects and analyzes\
@@ -223,13 +227,14 @@ identification:
   status: published
   temporal_begin: '1998-01-01T16:00:00.000Z'
   title:
-    en: Maritimes Region Atlantic Zone Off-Shelf Monitoring Program (AZOMP)
+    en: Maritimes Region Atlantic Zone Off-Shelf Monitoring Program (AZOMP) Rosette
+      Vertical Profiles
     fr: Programme de Monitorage de la Zone Atlantique au large du plateau continental
-      (PMZOA)
+      (PMZOA) profils verticaux des rosettes
 metadata:
   dates:
-    publication: '2022-06-22'
-    revision: '2022-06-22T20:12:41.925Z'
+    publication: '2022-08-03'
+    revision: '2022-08-03T20:00:10.514Z'
   identifier: 15f90eab-21ed-447d-aea7-8fe98ea27fe5
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form

@@ -105,7 +105,7 @@
           <cit:individual>
             <cit:CI_Individual>
               <cit:name>
-                <gco:CharacterString>Lindsay Beazley</gco:CharacterString>
+                <gco:CharacterString>Beazley, Lindsay</gco:CharacterString>
               </cit:name>
               <cit:contactInfo>
                 <cit:CI_Contact>
@@ -186,7 +186,7 @@
           <cit:individual>
             <cit:CI_Individual>
               <cit:name>
-                <gco:CharacterString>Lindsay Beazley</gco:CharacterString>
+                <gco:CharacterString>Beazley, Lindsay</gco:CharacterString>
               </cit:name>
               <cit:contactInfo>
                 <cit:CI_Contact>
@@ -217,10 +217,91 @@
       </cit:party>
     </cit:CI_Responsibility>
   </mdb:contact>
+  <mdb:contact>
+    <cit:CI_Responsibility>
+      <cit:role>
+        <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="distributor"/>
+      </cit:role>
+      <cit:party>
+        <cit:CI_Organisation>
+          <cit:name>
+            <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
+          </cit:name>
+          <cit:contactInfo>
+            <cit:CI_Contact>
+              <cit:phone>
+                <cit:CI_Telephone>
+                  <cit:number>
+                    <gco:CharacterString></gco:CharacterString>
+                  </cit:number>
+                </cit:CI_Telephone>
+              </cit:phone>
+              <cit:address>
+                <cit:CI_Address>
+                  <cit:deliveryPoint>
+                    <gco:CharacterString>1 Challenger Drive</gco:CharacterString>
+                  </cit:deliveryPoint>
+                  <cit:city>
+                    <gco:CharacterString>DARTMOUTH</gco:CharacterString>
+                  </cit:city>
+                  <cit:country>
+                    <gco:CharacterString>Canada</gco:CharacterString>
+                  </cit:country>
+                </cit:CI_Address>
+              </cit:address>
+              <cit:onlineResource>
+                <cit:CI_OnlineResource>
+                  <cit:linkage>
+                    <gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>
+                  </cit:linkage>
+                  <cit:protocol>
+                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
+                  </cit:protocol>
+                  <cit:function>
+                    <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
+                  </cit:function>
+                </cit:CI_OnlineResource>
+              </cit:onlineResource>
+            </cit:CI_Contact>
+          </cit:contactInfo>
+          <cit:individual>
+            <cit:CI_Individual>
+              <cit:name>
+                <gco:CharacterString>Data Services, BIO</gco:CharacterString>
+              </cit:name>
+              <cit:contactInfo>
+                <cit:CI_Contact>
+                  <cit:address>
+                    <cit:CI_Address>
+                      <cit:deliveryPoint>
+                        <gco:CharacterString></gco:CharacterString>
+                      </cit:deliveryPoint>
+                      <cit:city>
+                        <gco:CharacterString></gco:CharacterString>
+                      </cit:city>
+                      <cit:country>
+                        <gco:CharacterString></gco:CharacterString>
+                      </cit:country>
+                      <cit:electronicMailAddress>
+                        <gco:CharacterString>BIO.Datashop@dfo-mpo.gc.ca</gco:CharacterString>
+                      </cit:electronicMailAddress>
+                    </cit:CI_Address>
+                  </cit:address>
+                </cit:CI_Contact>
+              </cit:contactInfo>
+              <cit:positionName>
+                <gco:CharacterString>Data Management</gco:CharacterString>
+              </cit:positionName>
+            </cit:CI_Individual>
+          </cit:individual>
+        </cit:CI_Organisation>
+      </cit:party>
+    </cit:CI_Responsibility>
+  </mdb:contact>
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2022-06-22T20:12:02.539Z</gco:DateTime>
+        <gco:DateTime>2022-11-15T15:09:38.178Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -230,7 +311,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2022-06-22</gco:Date>
+        <gco:Date>2022-11-15</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -315,10 +396,10 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>Maritimes Region Atlantic Zone Monitoring Program (AZMP)</gco:CharacterString>
+            <gco:CharacterString>Maritimes Region Atlantic Zone Monitoring Program (AZMP) Rosette Vertical Profiles</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Programme de surveillance de la zone Atlantique de la région des Maritimes (PMZA)</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Programme de surveillance de la zone atlantique de la région des Maritimes (PMZA) profils verticaux des rosettes</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -382,7 +463,7 @@
                   <cit:individual>
                     <cit:CI_Individual>
                       <cit:name>
-                        <gco:CharacterString>Marine Environmental Data Section (MEDS)</gco:CharacterString>
+                        <gco:CharacterString>Environmental Data Section (MEDS), Marine</gco:CharacterString>
                       </cit:name>
                       <cit:contactInfo>
                         <cit:CI_Contact></cit:CI_Contact>
@@ -911,7 +992,7 @@
                   <cit:individual>
                     <cit:CI_Individual>
                       <cit:name>
-                        <gco:CharacterString>BIO Data Services</gco:CharacterString>
+                        <gco:CharacterString>Data Services, BIO</gco:CharacterString>
                       </cit:name>
                       <cit:contactInfo>
                         <cit:CI_Contact>
@@ -944,6 +1025,26 @@
           </mrd:distributorContact>
         </mrd:MD_Distributor>
       </mrd:distributor>
+      <mrd:transferOptions>
+        <mrd:MD_DigitalTransferOptions>
+          <mrd:onLine>
+            <cit:CI_OnlineResource>
+              <cit:linkage>
+                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_monitoring_program_rosette_vertical_profiles.html</gco:CharacterString>
+              </cit:linkage>
+              <cit:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </cit:protocol>
+              <cit:name>
+                <gco:CharacterString>ERDDAP AZMP CTD Data</gco:CharacterString>
+              </cit:name>
+              <cit:description>
+                <gco:CharacterString></gco:CharacterString>
+              </cit:description>
+            </cit:CI_OnlineResource>
+          </mrd:onLine>
+        </mrd:MD_DigitalTransferOptions>
+      </mrd:transferOptions>
       <mrd:transferOptions>
         <mrd:MD_DigitalTransferOptions>
           <mrd:onLine>
@@ -1014,26 +1115,6 @@
                     <lan:LocalisedCharacterString locale="#fr">Site Web contenant des publications produites par le Secrétariat canadien de consultation scientifique</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
-              </cit:description>
-            </cit:CI_OnlineResource>
-          </mrd:onLine>
-        </mrd:MD_DigitalTransferOptions>
-      </mrd:transferOptions>
-      <mrd:transferOptions>
-        <mrd:MD_DigitalTransferOptions>
-          <mrd:onLine>
-            <cit:CI_OnlineResource>
-              <cit:linkage>
-                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_monitoring_program.html</gco:CharacterString>
-              </cit:linkage>
-              <cit:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </cit:protocol>
-              <cit:name>
-                <gco:CharacterString>ERDDAP AZMP CTD Data</gco:CharacterString>
-              </cit:name>
-              <cit:description>
-                <gco:CharacterString></gco:CharacterString>
               </cit:description>
             </cit:CI_OnlineResource>
           </mrd:onLine>

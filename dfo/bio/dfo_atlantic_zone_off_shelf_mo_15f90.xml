@@ -220,7 +220,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2022-06-22T20:12:41.925Z</gco:DateTime>
+        <gco:DateTime>2022-08-03T20:00:10.514Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -230,7 +230,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2022-06-22</gco:Date>
+        <gco:Date>2022-08-03</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -315,10 +315,10 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>Maritimes Region Atlantic Zone Off-Shelf Monitoring Program (AZOMP)</gco:CharacterString>
+            <gco:CharacterString>Maritimes Region Atlantic Zone Off-Shelf Monitoring Program (AZOMP) Rosette Vertical Profiles</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Programme de Monitorage de la Zone Atlantique au large du plateau continental (PMZOA)</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Programme de Monitorage de la Zone Atlantique au large du plateau continental (PMZOA) profils verticaux des rosettes</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -1170,7 +1170,7 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_off_shelf_monitoring_program.html</gco:CharacterString>
+                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_off_shelf_monitoring_program_rosette_vertical_profiles.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -1180,6 +1180,26 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
               </cit:name>
               <cit:description>
                 <gco:CharacterString></gco:CharacterString>
+              </cit:description>
+            </cit:CI_OnlineResource>
+          </mrd:onLine>
+        </mrd:MD_DigitalTransferOptions>
+      </mrd:transferOptions>
+      <mrd:transferOptions>
+        <mrd:MD_DigitalTransferOptions>
+          <mrd:onLine>
+            <cit:CI_OnlineResource>
+              <cit:linkage>
+                <gco:CharacterString>https://www.bio.gc.ca/science/monitoring-monitorage/azomp-pmzao/azomp-pmzao-en.php</gco:CharacterString>
+              </cit:linkage>
+              <cit:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </cit:protocol>
+              <cit:name>
+                <gco:CharacterString>Atlantic Zone Off-Shelf Monitoring Program</gco:CharacterString>
+              </cit:name>
+              <cit:description>
+                <gco:CharacterString>DFO BIO official program website</gco:CharacterString>
               </cit:description>
             </cit:CI_OnlineResource>
           </mrd:onLine>
