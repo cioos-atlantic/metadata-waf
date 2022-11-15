@@ -1,7 +1,8 @@
 contact:
-- individual:
+- inCitation: false
+  individual:
     email: Clark.Richards@dfo-mpo.gc.ca
-    name: Clark Richards
+    name: Richards, Clark
     position: Maritimes Region Barrow Strait Operational Lead and Researcher
   organization:
     address: 1 Challenger Drive
@@ -12,9 +13,10 @@ contact:
   roles:
   - custodian
   - pointOfContact
-- individual:
+- inCitation: false
+  individual:
     email: BIO.Datashop@dfo-mpo.gc.ca
-    name: BIO Data Services
+    name: Data Services, BIO
     position: Data Management
   organization:
     address: 1 Challenger Drive
@@ -24,8 +26,9 @@ contact:
     url: https://www.dfo-mpo.gc.ca/index-eng.html
   roles:
   - distributor
-- individual:
-    name: Marine Environmental Data Section (MEDS)
+- inCitation: true
+  individual:
+    name: Environmental Data Section (MEDS), Marine
   organization:
     address: 1 Challenger Drive
     city: DARTMOUTH
@@ -40,116 +43,134 @@ distribution:
       end of the Northwest Passage providing hourly ocean and ice conditions
     fr: Site Web de Pêches et Océans Canada pour l'observatoire océanique à l'extrémité
       est du passage du Nord-Ouest, fournissant l'état horaire de l'océan et des glaces.
-  name: DFO's Real-Time Arctic Ocean Observatory
+  name:
+    en: DFO's Real-Time Arctic Ocean Observatory
   url: https://www.bio.gc.ca/science/newtech-technouvelles/observatory-observatoire-en.php
 - description:
     en: National Department of Fisheries and Oceans (DFO) archive for plankton and
       chemical data
     fr: Archives du ministère national des Pêches et des Océans (MPO) pour les données
       sur le plancton et les produits chimiques
-  name: BioChem DFO Database for plankton and chemical data
+  name:
+    en: BioChem DFO Database for plankton and chemical data
   url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
 - description:
     en: The Barrow Strait Real Time Observatory website streaming live data
     fr: Le site Web de l'Observatoire en temps réel du détroit de Barrow diffusant
-  name: The Barrow Strait Real Time Observatory operated by Fisheries and Oceans Canada
-    (DFO)
+  name:
+    en: The Barrow Strait Real Time Observatory operated by Fisheries and Oceans Canada
+      (DFO)
   url: https://noise.phys.ocean.dal.ca/barrow/
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #157'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #157'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  1998-1999'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  1998-1999'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/264542.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #161'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #161'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  1999-2000'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  1999-2000'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/270890.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #165'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #165'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  2000-2001'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  2000-2001'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/281063.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #166'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #166'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  2001-2002'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  2001-2002'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/318528.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #167'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #167'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  2002-2003'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  2002-2003'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/321132.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #173'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #173'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  2003-2004'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  2003-2004'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334710.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #193'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #193'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  2004-2005'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  2004-2005'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334712.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #190'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #190'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  2005-2006'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  2005-2006'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/341327.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #192'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #192'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  2006-2007'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  2006-2007'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/350346.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #193'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #193'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  2007-2008'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  2007-2008'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/350349.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #191'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #191'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  2008-2009'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  2008-2009'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/350342.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #194'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #194'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  2009-2010'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  2009-2010'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40609923.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #195'
     fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
       #195'
-  name: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
-    and CTD Observations from Barrow Strait  2010-2011'
+  name:
+    en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
+      and CTD Observations from Barrow Strait  2010-2011'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/356445.pdf
-- name: Barrow Strait cruise reports
+- name:
+    en: Barrow Strait cruise reports
   url: https://cioosatlantic.ca/raw/dfo/bio/ctd/cruise_reports/
-- name: Barrow Strait ERDDAP data
-  url: https://dev.cioosatlantic.ca/erddap/tabledap/bio_barrow_strait_program_rosette.html
+- name:
+    en: Barrow Strait ERDDAP data
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_barrow_strait_program_rosette.html
 identification:
   abstract:
     en: 'The Barrow Strait flow observational program started in 1998 and continued
@@ -252,8 +273,8 @@ identification:
       de rosette verticales
 metadata:
   dates:
-    publication: '2022-08-18'
-    revision: '2022-08-18T18:59:40.309Z'
+    publication: '2022-11-15'
+    revision: '2022-11-15T13:53:01.768Z'
   identifier: b8482740-31d9-4dd4-87bc-cee1780dffbb
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
