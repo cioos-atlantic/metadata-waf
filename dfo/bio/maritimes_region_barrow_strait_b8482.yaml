@@ -38,6 +38,9 @@ contact:
   roles:
   - owner
 distribution:
+- name:
+    en: Barrow Strait ERDDAP data
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_barrow_strait_program_rosette.html
 - description:
     en: Fisheries and Oceans Canada website for the ocean observatory at the eastern
       end of the Northwest Passage providing hourly ocean and ice conditions
@@ -168,9 +171,6 @@ distribution:
 - name:
     en: Barrow Strait cruise reports
   url: https://cioosatlantic.ca/raw/dfo/bio/ctd/cruise_reports/
-- name:
-    en: Barrow Strait ERDDAP data
-  url: https://cioosatlantic.ca/erddap/tabledap/bio_barrow_strait_program_rosette.html
 identification:
   abstract:
     en: 'The Barrow Strait flow observational program started in 1998 and continued
@@ -274,7 +274,7 @@ identification:
 metadata:
   dates:
     publication: '2022-11-15'
-    revision: '2022-11-15T13:53:01.768Z'
+    revision: '2022-11-15T15:57:30.573Z'
   identifier: b8482740-31d9-4dd4-87bc-cee1780dffbb
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
