@@ -41,7 +41,7 @@ contact:
 distribution:
 - name:
     en: Historical Arctic Profile ERDDAP data
-  url: https://dev.cioosatlantic.ca/erddap/tabledap/bio_historical_arctic_ctd.html
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_historical_arctic_ctd.html
 - description:
     en: Irwin, B,  P. Dickie, M. Hodgson, and T. Platt, 1988. Primary production and
       nutrients on the Labrador Shelf, in Hudson Strait and Hudson Bay in August and
@@ -202,8 +202,8 @@ identification:
     fr: Profils verticaux des rosettes historiques de l'Arctique de la région des
 metadata:
   dates:
-    publication: '2022-11-15'
-    revision: '2022-11-15T16:03:58.675Z'
+    publication: '2022-11-16'
+    revision: '2022-11-16T19:27:13.499Z'
   identifier: c9cf760c-4f85-4e2b-9f4b-d502bee54d5a
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
