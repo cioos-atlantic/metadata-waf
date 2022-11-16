@@ -1,0 +1,155 @@
+contact:
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - distributor
+  - custodian
+- inCitation: true
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+  roles:
+  - owner
+distribution:
+- name:
+    en: Gulf of St. Lawrence Profile ERDDAP data
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_annual_ice_forecast_hydrographic_survey_st_lawrence_ctd.html
+- name:
+    en: Cruise reports
+    fr: Rapports de croisière
+  url: https://cioosatlantic.ca/raw/dfo/bio/ctd/cruise_reports/
+identification:
+  abstract:
+    en: 'The annual Ice Forecast Hydrographic Survey Gulf Of St. Lawrence historic
+      data set is from 1972 to 1995.  It was an annual program with missions in the
+      months of  November - January covering 35 stations in the Gulf Of St. Lawrence.
+      The purpose was to obtain temperature-salinity measurements in the upper 100
+      m of water from 35 stations in the Gulf of St. Lawrence for preparation of seasonal
+      ice outlook by the Ice Climatology Branch and later the Ice Forecast Central
+      Office of the Department of Environment Atmospheric Environment Service.  The
+      data measured included: profile CTD, dissolved oxygen and nutrient data, oxygen
+      isotope, Ra isotope, sediment cores,  satellite transmitting thermistor buoys
+      to monitor the cooling, and doppler current profiler to measure ice motion and
+      currents.'
+    fr: 'L''ensemble de données historiques annuel du Service hydrographique de prévision
+      des glaces pour le golfe du Saint-Laurent couvre la période de 1972 à 1995.
+      Il s''agissait d''un programme annuel avec des missions au cours des mois de
+      novembre à janvier couvrant 35 stations dans le golfe du Saint-Laurent. L''objectif
+      était d''obtenir des mesures de la température et de la salinité dans les 100
+      m supérieurs de l''eau à partir de 35 stations dans le golfe du Saint-Laurent
+      pour la préparation des prévisions saisonnières des glaces par la Direction
+      de la climatologie des glaces et plus tard par le Bureau central de prévision
+      des glaces du Service de l''environnement atmosphérique du ministère de l''Environnement.
+      Les données mesurées comprenaient : le profil CTD, les données sur l''oxygène
+      dissous et les nutriments, l''isotope de l''oxygène, l''isotope Ra, des carottes
+      de sédiments, des bouées thermistrices de transmission par satellite pour surveiller
+      le refroidissement et un profileur de courant Doppler pour mesurer le mouvement
+      des glaces et les courants.'
+  dates:
+    creation: '1972-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - seawater density
+      - sea currents
+      - sea ice
+      fr:
+      - changement climatique
+      - salinité
+      - chlorophylle a
+      - température de l'eau
+      - télédétection
+      - fluorescence
+      - densité eau
+      - échantillonnage
+      - missions océanographique
+      - physico-chimie
+      - pression
+      - nitrate
+      - phosphate
+      - silicate
+      - température potentielle
+      - densité potentielle
+      - densité d'eau de mer
+      - courant marin
+      - glace de mer
+    eov:
+      en:
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - seaIce
+      - subSurfaceCurrents
+      - surfaceCurrents
+      - oxygen
+      - nutrients
+      - stableCarbonIsotopes
+      fr:
+      - Salinité de surface
+      - Température de surface
+      - Température sous la surface
+      - Salinité sous la surface
+      - Autre
+      - Glace de mer
+      - Courants sous-marins
+      - Courants de surface
+      - Oxygène
+      - Nutriments
+      - Isotopes stables du carbone
+  progress_code: completed
+  status: published
+  temporal_begin: '1972-01-01T16:00:00.000Z'
+  temporal_end: '1995-12-31T16:00:00.000Z'
+  title:
+    en: Maritimes Region Annual Ice Forecast Hydrographic Survey Gulf Of St. Lawrence
+      Rosette Vertical Profiles
+    fr: Programme d'observation dans la région du débit du détroit de Barrow profils
+      de rosette verticales (Copte)
+metadata:
+  dates:
+    publication: '2022-11-16'
+    revision: '2022-11-16T19:15:25.902Z'
+  identifier: 57d45e01-c759-45bb-a6a2-584312838734
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+spatial:
+  bbox:
+  - -68.0
+  - 45.5
+  - -56.0
+  - 52.0
+  vertical:
+  - 1.0
+  - 250.0

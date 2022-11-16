@@ -1,0 +1,192 @@
+contact:
+- inCitation: false
+  individual:
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: Cardoso, Diana
+    position: Maritimes Region data manager
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+  roles:
+  - owner
+distribution:
+- name:
+    en: West Greenland Profile ERDDAP data
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_historical_west_greenland_ctd.html
+- description:
+    en: Buch E., 1998; Oceanographic investigations in west Greenland waters, 1981-1997.  NAFO
+      SCR documents ; 98/24
+    fr: Buch E., 1998 ; Enquêtes océanographiques dans les eaux de l'ouest du Groenland,
+      1981-1997. Documents du SCR de l'OPANO ; 98/24
+  name:
+    en: Northwest Atlantic Fisheries Organization (NAFO) Scientific Council Research
+      Documents (SCR) 98/24
+    fr: Documents de recherche du Conseil scientifique (SCR) de l'Organisation des
+      pêches de l'Atlantique Nord-Ouest (NAFO) 98/24
+  url: https://www.nafo.int/Portals/0/PDFs/sc/1998/scr-98-024.pdf
+- description:
+    en: Stein, M., 1992; On the consistency of thermal events in the East Greenland/West
+      Greenland current system, NAFO SCR documents ; 92/20
+    fr: Stein, M., 1992 ; Sur la cohérence des événements thermiques dans le système
+      de courant de l'est du Groenland et de l'ouest du Groenland, documents SCR de
+      la NAFO ; 92/20
+  name:
+    en: Northwest Atlantic Fisheries Organization (NAFO) Scientific Council Research
+      Documents (SCR) 92/20
+    fr: Documents de recherche du Conseil scientifique (SCR) 92/20 de l'Organisation
+      des pêches de l'Atlantique Nord-Ouest (NAFO)
+  url: https://www.nafo.int/Portals/0/PDFs/sc/1992/scr-92-020.pdf
+- description:
+    en: Stein, M., 1992; Variability of Climate - Impact on Cod Recruitment off West
+      Greenland? NAFO SCR documents ; 92/19
+    fr: 'Stein, M., 1992 ; Variabilité du climat : impact sur le recrutement de morue
+      au large de l''ouest du Groenland ? Documents du SCR de l''OPANO ; 92/19'
+  name:
+    en: Northwest Atlantic Fisheries Organization (NAFO) Scientific Council Research
+      Documents (SCR) 92/19
+    fr: Documents de recherche du Conseil scientifique (SCR) 92/19 de l'Organisation
+      des pêches de l'Atlantique Nord-Ouest (NAFO)
+  url: https://www.nafo.int/Portals/0/PDFs/sc/1992/scr-92-019.pdf
+identification:
+  abstract:
+    en: West Greenland monitoring program a partnership between DFO Bedford Institute
+      of Oceanography and Greenland Fisheries Research Institute.  This historical
+      data set is from 1989 to 1994 with one mission per year in the west Greenland
+      region.  The principal investigators were Ken Drinkwater and Erik Buch using
+      the platforms Adolf Jensen and Tulugaq.  This work was also part of the World
+      Ocean Circulation Experiment (WOCE) project and attempted to further the understanding
+      of the variability in West Greenland waters and continue the long term data
+      collection in the region to measure climate changes.
+    fr: Le programme de surveillance de l'ouest du Groenland est un partenariat entre
+      l'Institut océanographique de Bedford du ministère des Pêches et des Océans
+      et l'Institut de recherche Cet ensemble de données historiques couvre la période
+      de 1989 à 1994, avec une mission par an dans la région ouest du Groenland. Les
+      principaux chercheurs étaient Ken Drinkwater et Erik Buch, utilisant les plateformes
+      Adolf Jensen et Tulugaq. Ce travail s'inscrivait également dans le cadre du
+      projet World Ocean Circulation Experiment (WOCE) et visait à mieux comprendre
+      la variabilité des eaux de l'ouest du Groenland et à poursuivre la collecte
+      de données à long terme dans la région afin de mesurer les changements climatiques.
+  dates:
+    creation: '1989-05-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      - sea currents
+      - sea ice
+      fr:
+      - changement climatique
+      - salinité
+      - chlorophylle a
+      - température de l'eau
+      - télédétection
+      - fluorescence
+      - densité eau
+      - échantillonnage
+      - missions océanographique
+      - physico-chimie
+      - pression
+      - nitrate
+      - phosphate
+      - silicate
+      - température potentielle
+      - densité potentielle
+      - densité d'eau de mer
+      - courant marin
+      - glace de mer
+    eov:
+      en:
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - subSurfaceCurrents
+      - surfaceCurrents
+      - oxygen
+      - nutrients
+      fr:
+      - Salinité de surface
+      - Température de surface
+      - Température sous la surface
+      - Salinité sous la surface
+      - Autre
+      - Courants sous-marins
+      - Courants de surface
+      - Oxygène
+      - Nutriments
+  progress_code: completed
+  status: published
+  temporal_begin: '1989-05-01T15:00:00.000Z'
+  temporal_end: '1994-09-01T15:00:00.000Z'
+  title:
+    en: Maritimes Region Historical West Greenland monitoring program  Rosette Vertical
+      Profiles
+    fr: Programme de surveillance historique de l'ouest du Groenland de la région
+      des Maritimes Profils verticaux
+metadata:
+  dates:
+    publication: '2022-11-16'
+    revision: '2022-11-16T19:16:48.773Z'
+  identifier: 07d9b310-6511-11ed-9022-0242ac120002
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Availability of data varies both between and within years due to mission
+        cancellations.
+      fr: La disponibilité des données varie entre les années et au cours des années
+        en raison des annulations de missions.
+spatial:
+  bbox:
+  - -60.0
+  - 56.5
+  - -39.0
+  - 73.0
+  vertical:
+  - 1.0
+  - 1000.0

@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>15f90eab-21ed-447d-aea7-8fe98ea27fe5</gco:CharacterString>
+        <gco:CharacterString>07d9b310-6511-11ed-9022-0242ac120002</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -105,7 +105,7 @@
           <cit:individual>
             <cit:CI_Individual>
               <cit:name>
-                <gco:CharacterString>Ringuette, Marc</gco:CharacterString>
+                <gco:CharacterString>Cardoso, Diana</gco:CharacterString>
               </cit:name>
               <cit:contactInfo>
                 <cit:CI_Contact>
@@ -121,14 +121,14 @@
                         <gco:CharacterString></gco:CharacterString>
                       </cit:country>
                       <cit:electronicMailAddress>
-                        <gco:CharacterString>Marc.Ringuette@dfo-mpo.gc.ca</gco:CharacterString>
+                        <gco:CharacterString>Diana.Cardoso@dfo-mpo.gc.ca</gco:CharacterString>
                       </cit:electronicMailAddress>
                     </cit:CI_Address>
                   </cit:address>
                 </cit:CI_Contact>
               </cit:contactInfo>
               <cit:positionName>
-                <gco:CharacterString>Maritimes Region AZOMP Operational Lead</gco:CharacterString>
+                <gco:CharacterString>Maritimes Region data manager</gco:CharacterString>
               </cit:positionName>
             </cit:CI_Individual>
           </cit:individual>
@@ -186,7 +186,7 @@
           <cit:individual>
             <cit:CI_Individual>
               <cit:name>
-                <gco:CharacterString>Ringuette, Marc</gco:CharacterString>
+                <gco:CharacterString>Cardoso, Diana</gco:CharacterString>
               </cit:name>
               <cit:contactInfo>
                 <cit:CI_Contact>
@@ -202,14 +202,14 @@
                         <gco:CharacterString></gco:CharacterString>
                       </cit:country>
                       <cit:electronicMailAddress>
-                        <gco:CharacterString>Marc.Ringuette@dfo-mpo.gc.ca</gco:CharacterString>
+                        <gco:CharacterString>Diana.Cardoso@dfo-mpo.gc.ca</gco:CharacterString>
                       </cit:electronicMailAddress>
                     </cit:CI_Address>
                   </cit:address>
                 </cit:CI_Contact>
               </cit:contactInfo>
               <cit:positionName>
-                <gco:CharacterString>Maritimes Region AZOMP Operational Lead</gco:CharacterString>
+                <gco:CharacterString>Maritimes Region data manager</gco:CharacterString>
               </cit:positionName>
             </cit:CI_Individual>
           </cit:individual>
@@ -301,7 +301,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2022-11-15T18:25:37.496Z</gco:DateTime>
+        <gco:DateTime>2022-11-16T19:16:48.773Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -311,7 +311,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2022-11-15</gco:Date>
+        <gco:Date>2022-11-16</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -396,17 +396,17 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>Maritimes Region Atlantic Zone Off-Shelf Monitoring Program (AZOMP) Rosette Vertical Profiles</gco:CharacterString>
+            <gco:CharacterString>Maritimes Region Historical West Greenland monitoring program  Rosette Vertical Profiles</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Programme de Monitorage de la Zone Atlantique au large du plateau continental (PMZOA) profils verticaux des rosettes</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Programme de surveillance historique de l&#39;ouest du Groenland de la région des Maritimes Profils verticaux</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>1998-01-01</gco:Date>
+                <gco:Date>1989-05-01</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -480,18 +480,10 @@
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>The Atlantic Zone Off-Shelf Monitoring Program (AZOMP) collects and analyzes physical, chemical, and biological oceanographic observations from the continental slope and deep basins of the Northwest Atlantic, with the overarching goal of monitoring variability in ocean climate and plankton affecting ecosystems off Atlantic Canada and climate systems at both regional and global scales. 
-
-Annual measurements in the Labrador Sea began in 1990 as a contribution to the World Ocean Circulation Experiment (WOCE) and have evolved into a multidisciplinary regional monitoring effort and part of the Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP).
-
-AZOMP&#39;s sampling scheme off Atlantic Canada and the Labrador Sea involves annual sampling of both the Atlantic Repeat 7-West (AR7W) line, a 880 km-line running across the Labrador Sea from Labrador to Greenland coast and extended Halifax Line, deep-water stations over the Scotian Slope and Rise located at the end of AZMP’s Halifax Line. Opportunistic sampling also may occur at stations in the Strait of Belle Ilse, station 27, Labrador Shelf, and OSNAP West line in support of ancillary research programs and initiatives. AZOMP sampling is conducted according to standard Go-Ship protocols  (https://www.go-ship.org/HydroMan.html) and includes: 1- the collection of CTD and Lowered-ADCP profiles and water samples for the determination of physical (e.g., T, S, currents), chemical (e.g., nutrients, Carbonate system, transient gases for water mass determination and/or ventilation and carbon sequestration studies), and biological (e.g., chl a, Primary production and optical properties) variables; 2-  Stratified multi net tows for zooplankton;  and 3- vertical ring net tows for plankton. In addition XBTs and Argo floats are commonly deployed and vessel-mounted ADCP is used to water masses structures at a smaller scale. The data collected are synthesized into annual reports on the physical, chemical and biological changes in Atlantic Canadian waters and the Labrador Sea. One primary focus is on changes in the intensity of winter overturning of surface and intermediate-depth waters resulting in deep water mass formation and is part of the thermohaline circulation that affects the global climate. Convection also transfers atmospheric gases from the surface to intermediate depths, reducing the rate of increase of carbon dioxide in the atmosphere but increasing the acidity of the ocean.</gco:CharacterString>
+        <gco:CharacterString>West Greenland monitoring program a partnership between DFO Bedford Institute of Oceanography and Greenland Fisheries Research Institute.  This historical data set is from 1989 to 1994 with one mission per year in the west Greenland region.  The principal investigators were Ken Drinkwater and Erik Buch using the platforms Adolf Jensen and Tulugaq.  This work was also part of the World Ocean Circulation Experiment (WOCE) project and attempted to further the understanding of the variability in West Greenland waters and continue the long term data collection in the region to measure climate changes.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">Le Programme de Monitorage de la Zone Atlantique au large du plateau continental (PMZAO) recueille et analyse les observations océanographiques physiques, chimiques et biologiques du talus continental et des eaux profondes de l&#39;Atlantique Nord-Ouest, dans le but global de monitorer la variabilité du climat océanique et du plancton affectant les écosystèmes au large des côtes atlantiques canadiennes et des systèmes climatiques à l&#39;échelle régionale et globale. 
-
-Les mesures annuelles dans la mer du Labrador ont débuté en 1990 en tant que contribution à la « World Ocean Circulation Experiment » (WOCE) et ont évolué en un effort de monitorage régional multidisciplinaire faisant partie du réseau Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP) (https://www.go-ship.org/HydroMan.html).
-
-Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du Labrador comprend un échantillonnage annuel de l’Atlantic Repeat 7-West (AR7W), un transect de 880 km qui s’étend de la côte du Labrador jusqu’au côtes du Groenland et de la ligne Halifax du PMZA étendue par le sud vers la plaine abyssale. Un échantillonnage opportuniste peut également avoir lieu dans le détroit de Belle Ilse, à la station 27, sur le plateau du Labrador et  la ligne 53 nord de OSNAP et en appuie à d’autres programmes ancillaires. L&#39;échantillonnage du PMZAO est effectué selon les standard du programme Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP) (https://www.go-ship.org/HydroMan.html) et comprend : 1- la collecte de profils CTD et LADCP et d&#39;échantillons d&#39;eau pour la détermination des caractéristiques physiques (p. ex. T, S, courants), chimiques (p. ex. , nutriments, pH, gaz traces détermination de la masse et/ou pour estimer la ventilation et de séquestration du carbone) et biologiques (p. ex. chl-a, production primaire et propriétés optiques) ; 2- traits de filets conique verticaux et stratifiés pour les mesures d’abondance et la description de la communauté mesozooplanctonique.  De plus, les bathythermographes (XBT), les bouées Argo sont couramment déployés et l&#39;ADCP embarqué sont utilisés pour déterminer la structure de la colonne d’eau à plus petite échelle. Les données recueillies sont synthétisées dans des rapports annuels sur les changements physiques, chimiques et biologiques dans les eaux du Canada atlantique et dans la mer du Labrador. L&#39;accent est mis sur les changements d&#39;intensité du retournement hivernal des eaux de surface et des strates intermédiaire, qui entraîne la formation de masses d&#39;eau profonde et fait partie de la circulation thermohaline qui affecte le climat mondial. La convection transfère également les gaz atmosphériques de la surface vers des profondeurs intermédiaires, ce qui réduit le taux d&#39;augmentation du dioxyde de carbone dans l&#39;atmosphère mais augmente l&#39;acidité de l&#39;océan.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Le programme de surveillance de l&#39;ouest du Groenland est un partenariat entre l&#39;Institut océanographique de Bedford du ministère des Pêches et des Océans et l&#39;Institut de recherche Cet ensemble de données historiques couvre la période de 1989 à 1994, avec une mission par an dans la région ouest du Groenland. Les principaux chercheurs étaient Ken Drinkwater et Erik Buch, utilisant les plateformes Adolf Jensen et Tulugaq. Ce travail s&#39;inscrivait également dans le cadre du projet World Ocean Circulation Experiment (WOCE) et visait à mieux comprendre la variabilité des eaux de l&#39;ouest du Groenland et à poursuivre la collecte de données à long terme dans la région afin de mesurer les changements climatiques.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
@@ -499,7 +491,7 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
         <gco:CharacterString></gco:CharacterString>
       </mri:credit>
       <mri:status>
-        <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="onGoing"></mcc:MD_ProgressCode>
+        <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="completed"></mcc:MD_ProgressCode>
       </mri:status>
       <mri:topicCategory>
         <mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>
@@ -512,16 +504,16 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
                 <gco:Boolean>true</gco:Boolean>
               </gex:extentTypeCode>
               <gex:westBoundLongitude>
-                <gco:Decimal>-63.7</gco:Decimal>
+                <gco:Decimal>-60.0</gco:Decimal>
               </gex:westBoundLongitude>
               <gex:eastBoundLongitude>
-                <gco:Decimal>-48.1</gco:Decimal>
+                <gco:Decimal>-39.0</gco:Decimal>
               </gex:eastBoundLongitude>
               <gex:southBoundLatitude>
-                <gco:Decimal>37.7</gco:Decimal>
+                <gco:Decimal>56.5</gco:Decimal>
               </gex:southBoundLatitude>
               <gex:northBoundLatitude>
-                <gco:Decimal>60.6</gco:Decimal>
+                <gco:Decimal>73.0</gco:Decimal>
               </gex:northBoundLatitude>
             </gex:EX_GeographicBoundingBox>
           </gex:geographicElement>
@@ -535,7 +527,7 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
                 <gco:Real>1.0</gco:Real>
               </gex:minimumValue>
               <gex:maximumValue>
-                <gco:Real>5500.0</gco:Real>
+                <gco:Real>1000.0</gco:Real>
               </gex:maximumValue>
               <gex:verticalCRSId>
                 <mrs:MD_ReferenceSystem>
@@ -571,8 +563,8 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
             <gex:EX_TemporalExtent>
               <gex:extent>
                 <gml:TimePeriod gml:id="time_period">
-                  <gml:beginPosition>1998-01-01T16:00:00.000Z</gml:beginPosition>
-                  <gml:endPosition indeterminatePosition="now" />
+                  <gml:beginPosition>1989-05-01T15:00:00.000Z</gml:beginPosition>
+                  <gml:endPosition>1994-09-01T15:00:00.000Z</gml:endPosition>
                 </gml:TimePeriod>
               </gex:extent>
             </gex:EX_TemporalExtent>
@@ -625,22 +617,10 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
             <gco:CharacterString>salinity</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>chlorophyll a</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
             <gco:CharacterString>water temperature</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>remote sensing</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>fluorescence</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
             <gco:CharacterString>water density</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>sampling</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>oceanographic missions</gco:CharacterString>
@@ -650,15 +630,6 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>pressure</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>nitrate</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>phosphate</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>silicate</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>potential temperature</gco:CharacterString>
@@ -673,25 +644,7 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
             <gco:CharacterString>sea currents</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>tracers</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>PCO2</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>ADCP</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>CTD</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>nutrients</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>phytoplankton</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>carbon dioxide</gco:CharacterString>
+            <gco:CharacterString>sea ice</gco:CharacterString>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
@@ -822,7 +775,7 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">phytoplancton</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">glace de mer</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
@@ -837,9 +790,6 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
       </mri:descriptiveKeywords>
       <mri:descriptiveKeywords>
         <mri:MD_Keywords>
-          <mri:keyword>
-            <gco:CharacterString>oxygen</gco:CharacterString>
-          </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>seaSurfaceSalinity</gco:CharacterString>
           </mri:keyword>
@@ -856,41 +806,16 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
             <gco:CharacterString>other</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>nutrients</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>inorganicCarbon</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>dissolvedOrganicCarbon</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>transientTracers</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>particulateMatter</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
             <gco:CharacterString>subSurfaceCurrents</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>surfaceCurrents</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>oceanColour</gco:CharacterString>
+            <gco:CharacterString>oxygen</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>phytoplanktonBiomassAndDiversity</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>zooplanktonBiomassAndDiversity</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Oxygène</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
+            <gco:CharacterString>nutrients</gco:CharacterString>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
@@ -930,41 +855,6 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Nutriments</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Carbone inorganique</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Carbone organique dissous</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Traceurs transitoires</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Matière particulaire</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
                 <lan:LocalisedCharacterString locale="#fr">Courants sous-marins</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
@@ -979,21 +869,14 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Couleur des océans</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Oxygène</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Biomasse et diversité de phytoplancton</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Biomasse et diversité de zooplancton</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Nutriments</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
@@ -1048,7 +931,7 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
             <gco:CharacterString>Availability of data varies both between and within years due to mission cancellations.</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">La disponibilité des données varie d&#39;une année à l&#39;autre en raison des annulations de missions.</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">La disponibilité des données varie entre les années et au cours des années en raison des annulations de missions.</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mco:useLimitation>
@@ -1151,13 +1034,13 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_off_shelf_monitoring_program_rosette_vertical_profiles.html</gco:CharacterString>
+                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/bio_historical_west_greenland_ctd.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
               </cit:protocol>
               <cit:name>
-                <gco:CharacterString>ERDDAP AZOMP CTD Data</gco:CharacterString>
+                <gco:CharacterString>West Greenland Profile ERDDAP data</gco:CharacterString>
               </cit:name>
               <cit:description>
                 <gco:CharacterString></gco:CharacterString>
@@ -1171,19 +1054,24 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://waves-vagues.dfo-mpo.gc.ca/Library/265754.pdf</gco:CharacterString>
+                <gco:CharacterString>https://www.nafo.int/Portals/0/PDFs/sc/1998/scr-98-024.pdf</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
               </cit:protocol>
-              <cit:name>
-                <gco:CharacterString>Atlantic Zonal Monitoring Program Sampling Protocol</gco:CharacterString>
-              </cit:name>
-              <cit:description xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>Core sampling protocols for the Atlantic Zone Monitoring Program</gco:CharacterString>
+              <cit:name xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Northwest Atlantic Fisheries Organization (NAFO) Scientific Council Research Documents (SCR) 98/24</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Principaux protocoles d&#39;échantillonnage pour le Programme de surveillance de la zone atlantique</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Documents de recherche du Conseil scientifique (SCR) de l&#39;Organisation des pêches de l&#39;Atlantique Nord-Ouest (NAFO) 98/24</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:name>
+              <cit:description xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Buch E., 1998; Oceanographic investigations in west Greenland waters, 1981-1997.  NAFO SCR documents ; 98/24</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup>
+                    <lan:LocalisedCharacterString locale="#fr">Buch E., 1998 ; Enquêtes océanographiques dans les eaux de l&#39;ouest du Groenland, 1981-1997. Documents du SCR de l&#39;OPANO ; 98/24</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </cit:description>
@@ -1196,19 +1084,24 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp</gco:CharacterString>
+                <gco:CharacterString>https://www.nafo.int/Portals/0/PDFs/sc/1992/scr-92-020.pdf</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
               </cit:protocol>
-              <cit:name>
-                <gco:CharacterString>Canadian Science Advisory Secretariat (CSAS) Publications</gco:CharacterString>
-              </cit:name>
-              <cit:description xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>Website containing publications produced under the Canadian Science Advisory Secretariat</gco:CharacterString>
+              <cit:name xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Northwest Atlantic Fisheries Organization (NAFO) Scientific Council Research Documents (SCR) 92/20</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Site Web contenant des publications produites par le Secrétariat canadien de consultation scientifique</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Documents de recherche du Conseil scientifique (SCR) 92/20 de l&#39;Organisation des pêches de l&#39;Atlantique Nord-Ouest (NAFO)</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:name>
+              <cit:description xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Stein, M., 1992; On the consistency of thermal events in the East Greenland/West Greenland current system, NAFO SCR documents ; 92/20</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup>
+                    <lan:LocalisedCharacterString locale="#fr">Stein, M., 1992 ; Sur la cohérence des événements thermiques dans le système de courant de l&#39;est du Groenland et de l&#39;ouest du Groenland, documents SCR de la NAFO ; 92/20</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </cit:description>
@@ -1221,66 +1114,26 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://www.go-ship.org/</gco:CharacterString>
+                <gco:CharacterString>https://www.nafo.int/Portals/0/PDFs/sc/1992/scr-92-019.pdf</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
               </cit:protocol>
-              <cit:name>
-                <gco:CharacterString>The Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)</gco:CharacterString>
-              </cit:name>
-              <cit:description xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>website for The Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)</gco:CharacterString>
+              <cit:name xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Northwest Atlantic Fisheries Organization (NAFO) Scientific Council Research Documents (SCR) 92/19</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">site web du Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Documents de recherche du Conseil scientifique (SCR) 92/19 de l&#39;Organisation des pêches de l&#39;Atlantique Nord-Ouest (NAFO)</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
-              </cit:description>
-            </cit:CI_OnlineResource>
-          </mrd:onLine>
-        </mrd:MD_DigitalTransferOptions>
-      </mrd:transferOptions>
-      <mrd:transferOptions>
-        <mrd:MD_DigitalTransferOptions>
-          <mrd:onLine>
-            <cit:CI_OnlineResource>
-              <cit:linkage>
-                <gco:CharacterString>https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php</gco:CharacterString>
-              </cit:linkage>
-              <cit:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </cit:protocol>
-              <cit:name>
-                <gco:CharacterString>BioChem DFO Database for plankton and chemical data</gco:CharacterString>
               </cit:name>
               <cit:description xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>National Department of Fisheries and Oceans (DFO) archive for plankton and chemical data</gco:CharacterString>
+                <gco:CharacterString>Stein, M., 1992; Variability of Climate - Impact on Cod Recruitment off West Greenland? NAFO SCR documents ; 92/19</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Archives du ministère national des Pêches et des Océans (MPO) pour les données sur le plancton et les produits chimiques</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Stein, M., 1992 ; Variabilité du climat : impact sur le recrutement de morue au large de l&#39;ouest du Groenland ? Documents du SCR de l&#39;OPANO ; 92/19</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
-              </cit:description>
-            </cit:CI_OnlineResource>
-          </mrd:onLine>
-        </mrd:MD_DigitalTransferOptions>
-      </mrd:transferOptions>
-      <mrd:transferOptions>
-        <mrd:MD_DigitalTransferOptions>
-          <mrd:onLine>
-            <cit:CI_OnlineResource>
-              <cit:linkage>
-                <gco:CharacterString>https://www.bio.gc.ca/science/monitoring-monitorage/azomp-pmzao/azomp-pmzao-en.php</gco:CharacterString>
-              </cit:linkage>
-              <cit:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </cit:protocol>
-              <cit:name>
-                <gco:CharacterString>Atlantic Zone Off-Shelf Monitoring Program</gco:CharacterString>
-              </cit:name>
-              <cit:description>
-                <gco:CharacterString>DFO BIO official program website</gco:CharacterString>
               </cit:description>
             </cit:CI_OnlineResource>
           </mrd:onLine>

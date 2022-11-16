@@ -1,0 +1,226 @@
+contact:
+- inCitation: false
+  individual:
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: Cardoso, Diana
+    position: Maritimes Region oceanographic data manager
+  organization:
+    address: Bedford Institute of Oceanography, Fisheries and Oceans Canada
+    city: Dartmouth
+    country: Canada
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: DFO
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+  roles:
+  - owner
+distribution:
+- name:
+    en: Historical Arctic Profile ERDDAP data
+  url: https://dev.cioosatlantic.ca/erddap/tabledap/bio_historical_arctic_ctd.html
+- description:
+    en: Irwin, B,  P. Dickie, M. Hodgson, and T. Platt, 1988. Primary production and
+      nutrients on the Labrador Shelf, in Hudson Strait and Hudson Bay in August and
+      September 1982.  Canadian data report of fisheries and aquatic sciences ; 692
+    fr: Irwin, B, P. Dickie, M. Hodgson et T. Platt, 1988. Production primaire et
+      nutriments sur le plateau du Labrador, dans le détroit d'Hudson et la baie d'Hudson
+      en août et septembre 1982. Rapport de données canadien sur les pêches et les
+      sciences aquatiques ; 692
+  name:
+    en: Irwin, B,  P. Dickie, M. Hodgson, and T. Platt, 1988. Primary production and
+      nutrients on the Labrador Shelf, in Hudson Strait and Hudson Bay in August and
+      September 1982.  Canadian data report of fisheries and aquatic sciences ; 692
+    fr: Irwin, B, P. Dickie, M. Hodgson et T. Platt, 1988. Production primaire et
+      nutriments sur le plateau du Labrador, dans le détroit d'Hudson et la baie d'Hudson
+      en août et septembre 1982. Rapport de données canadien sur les pêches et les
+      sciences aquatiques ; 692
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/106097.pdf
+- description:
+    en: 'J.R. Birch, D.B. Fissel, D.D. Lemon, A.B. Cornford, R.H. Herlinveaux, R.A.
+      Lake, and B.D. Smiley, 1983. Arctic Data Compilation and Appraisal. Volume 5.
+      Baffin Bay: Physical Oceanography - Temperature, Salinity, Currents and Water
+      Levels. Can. Data Rep. Hydrogr. Ocean Sci. 5: (Vol. 5) 372 p'
+    fr: 'J.R. Birch, D.B. Fissel, D.D. Lemon, A.B. Cornford, R.H. Herlinveaux, R.A.
+      Lake et B.D. Smiley, 1983. Compilation et évaluation des données sur l''Arctique.
+      Tome 5. Baie de Baffin : océanographie physique - Température, salinité, courants
+      et niveaux d''eau. Peut. Data Rep. Hydrogr. Ocean Sci. 5 : (Volume 5) 372 p'
+  name:
+    en: 'J.R. Birch, D.B. Fissel, D.D. Lemon, A.B. Cornford, R.H. Herlinveaux, R.A.
+      Lake, and B.D. Smiley, 1983. Arctic Data Compilation and Appraisal. Volume 5.
+      Baffin Bay: Physical Oceanography - Temperature, Salinity, Currents and Water
+      Levels. Can. Data Rep. Hydrogr. Ocean Sci. 5: (Vol. 5) 372 p'
+    fr: 'J.R. Birch, D.B. Fissel, D.D. Lemon, A.B. Cornford, R.H. Herlinveaux, R.A.
+      Lake et B.D. Smiley, 1983. Compilation et évaluation des données sur l''Arctique.
+      Tome 5. Baie de Baffin : océanographie physique - Température, salinité, courants
+      et niveaux d''eau. Peut. Data Rep. Hydrogr. Ocean Sci. 5 : (Volume 5) 372 p'
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/106641.pdf
+- description:
+    en: Irwin, B., Platt, T., Caverhill, C, 1985.  Primary production and other related
+      measurements in the eastern Canadian Arctic during the summer of 1983.  Canadian
+      data report of fisheries and aquatic sciences ; 510
+    fr: Irwin, B., Platt, T., Caverhill, C, 1985. Production primaire et autres mesures
+      connexes dans l'est de l'Arctique canadien au cours de l'été 1983. Rapport de
+      données canadien sur les pêches et les sciences aquatiques ; 510
+  name:
+    en: Irwin, B., Platt, T., Caverhill, C, 1985.  Primary production and other related
+      measurements in the eastern Canadian Arctic during the summer of 1983.  Canadian
+      data report of fisheries and aquatic sciences ; 510
+    fr: Irwin, B., Platt, T., Caverhill, C, 1985. Production primaire et autres mesures
+      connexes dans l'est de l'Arctique canadien au cours de l'été 1983. Rapport de
+      données canadien sur les pêches et les sciences aquatiques ; 510
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/101336.pdf
+- description:
+    en: 'E. Peter Jones & Leif G. Anderson (1994) Northern hudson bay and foxe basin:
+      Water masses, circulation and productivity, Atmosphere-Ocean, 32:2, 361-374,
+      DOI:10.1080/07055900.1994.9649502'
+    fr: 'E. Peter Jones et Leif G. Anderson (1994) Nord de la baie d''Hudson et du
+      bassin de Foxe : masses d''eau, circulation et productivité, Atmosphère-Océan,
+      32:2, 361-374, DOI:10.1080/07055900.1994.9649502'
+  name:
+    en: 'E. Peter Jones & Leif G. Anderson (1994) Northern hudson bay and foxe basin:
+      Water masses, circulation and productivity, Atmosphere-Ocean, 32:2, 361-374,
+      DOI:10.1080/07055900.1994.9649502'
+    fr: 'E. Peter Jones et Leif G. Anderson (1994) Nord de la baie d''Hudson et du
+      bassin de Foxe : masses d''eau, circulation et productivité, Atmosphère-Océan,
+      32:2, 361-374, DOI:10.1080/07055900.1994.9649502'
+  url: https://www.tandfonline.com/doi/abs/10.1080/07055900.1994.9649502
+- description:
+    en: 'Dunbar, MJ. 1982.Oceanographic research in Hudson and James Bays. Naturaliste
+      Canadien Vol. 109, Iss. 4,  (0, 1982): 677-683.'
+    fr: 'Dunbar, MJ. 1982. Recherches océanographiques dans les baies d''Hudson et
+      James. Naturaliste Canadien vol. 109, numéro 4, (0, 1982) : 677-683.'
+  name:
+    en: 'Dunbar, MJ. 1982.Oceanographic research in Hudson and James Bays. Naturaliste
+      Canadien Vol. 109, Iss. 4,  (0, 1982): 677-683.'
+    fr: 'Dunbar, MJ. 1982. Recherches océanographiques dans les baies d''Hudson et
+      James. Naturaliste Canadien vol. 109, numéro 4, (0, 1982) : 677-683.'
+  url: https://www.proquest.com/scholarly-journals/oceanographic-research-hudson-james-bays/docview/13858156/se-2?accountid=27308
+- description:
+    en: Lazier, J.R.N., 1988. Temperature and salinity changes in the deep Labrador
+      Sea, 1962-1986.  Deep-Sea Research, Vol. 35, No. 8, pp. 1247-1253, 1988
+    fr: Lazier, J.R.N., 1988. Changements de température et de salinité dans les profondeurs
+      de la mer du Labrador, 1962-1986. Deep-Sea Research, vol. 35, n° 8, p. 1247
+      à 1253, 1988
+  name:
+    en: Lazier, J.R.N., 1988. Temperature and salinity changes in the deep Labrador
+      Sea, 1962-1986.  Deep-Sea Research, Vol. 35, No. 8, pp. 1247-1253, 1988
+    fr: Lazier, J.R.N., 1988. Changements de température et de salinité dans les profondeurs
+      de la mer du Labrador, 1962-1986. Deep-Sea Research, vol. 35, n° 8, p. 1247
+      à 1253, 1988
+  url: https://doi.org/10.1016/0198-0149(88)90080-5
+identification:
+  abstract:
+    en: Historical missions to the Arctic region in which DFO Bedford Institute of
+      Oceanography participated in between 1975 and 1990 and one mission in 2013.
+      These missions were part of various projects and visited several areas within
+      the Arctic such as;  Hudson Bay, James Bay, Baffin Bay, Baffin Island Fjords,  Lancaster
+      Sound, Davis Strait, Hudson Strait,  Labrador Sea, Northwest Passage, Greenland
+      and the Norwegian Sea.
+    fr: Missions historiques dans la région arctique auxquelles l'Institut océanographique
+      de Bedford du MPO a participé entre 1975 et 1990 et une mission en 2013. Ces
+      missions faisaient partie de divers projets et ont visité plusieurs régions
+      de l'Arctique, notamment la baie d'Hudson, la baie James, la baie de Baffin,
+      les fjords de l'île de Baffin, le détroit de Lancaster, le détroit de Davis,
+      le détroit d'Hudson, la mer du Labrador, le passage du Nord-Ouest, le Groenland
+      et la mer de Norvège.
+  dates:
+    creation: '1975-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      - fluorescence
+      fr:
+      - changement climatique
+      - salinité
+      - température de l'eau
+      - fluorescence
+      - densité eau
+      - échantillonnage
+      - missions océanographique
+      - physico-chimie
+      - pression
+      - température potentielle
+      - densité potentielle
+      - densité d'eau de mer
+    eov:
+      en:
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - oxygen
+      - nutrients
+      fr:
+      - Salinité de surface
+      - Température de surface
+      - Température sous la surface
+      - Salinité sous la surface
+      - Autre
+      - Oxygène
+      - Nutriments
+  progress_code: completed
+  status: published
+  temporal_begin: '1975-01-01T16:00:00.000Z'
+  temporal_end: '2013-12-01T16:00:00.000Z'
+  title:
+    en: Maritimes Region Historical Arctic  Rosette Vertical Profiles
+    fr: Profils verticaux des rosettes historiques de l'Arctique de la région des
+metadata:
+  dates:
+    publication: '2022-11-15'
+    revision: '2022-11-15T16:03:58.675Z'
+  identifier: c9cf760c-4f85-4e2b-9f4b-d502bee54d5a
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+spatial:
+  bbox:
+  - -98.0
+  - 50.7
+  - -35.0
+  - 79.0
+  vertical:
+  - 1.0
+  - 6000.0

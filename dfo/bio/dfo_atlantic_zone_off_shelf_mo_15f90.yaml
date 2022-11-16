@@ -1,7 +1,8 @@
 contact:
-- individual:
+- inCitation: false
+  individual:
     email: Marc.Ringuette@dfo-mpo.gc.ca
-    name: Marc Ringuette
+    name: Ringuette, Marc
     position: Maritimes Region AZOMP Operational Lead
   organization:
     address: 1 Challenger Drive
@@ -12,9 +13,10 @@ contact:
   roles:
   - custodian
   - pointOfContact
-- individual:
+- inCitation: false
+  individual:
     email: BIO.Datashop@dfo-mpo.gc.ca
-    name: BIO Data Services
+    name: Data Services, BIO
     position: Data Management
   organization:
     address: 1 Challenger Drive
@@ -24,8 +26,9 @@ contact:
     url: https://www.dfo-mpo.gc.ca/index-eng.html
   roles:
   - distributor
-- individual:
-    name: Marine Environmental Data Section (MEDS)
+- inCitation: true
+  individual:
+    name: Environmental Data Section (MEDS), Marine
   organization:
     address: 1 Challenger Drive
     city: DARTMOUTH
@@ -35,37 +38,43 @@ contact:
   roles:
   - owner
 distribution:
+- name:
+    en: ERDDAP AZOMP CTD Data
+  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_off_shelf_monitoring_program_rosette_vertical_profiles.html
 - description:
     en: Core sampling protocols for the Atlantic Zone Monitoring Program
     fr: Principaux protocoles d'échantillonnage pour le Programme de surveillance
       de la zone atlantique
-  name: Atlantic Zonal Monitoring Program Sampling Protocol
+  name:
+    en: Atlantic Zonal Monitoring Program Sampling Protocol
   url: https://waves-vagues.dfo-mpo.gc.ca/Library/265754.pdf
 - description:
     en: Website containing publications produced under the Canadian Science Advisory
       Secretariat
     fr: Site Web contenant des publications produites par le Secrétariat canadien
       de consultation scientifique
-  name: Canadian Science Advisory Secretariat (CSAS) Publications
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
   url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
 - description:
     en: website for The Global Ocean Ship-based Hydrographic Investigations Program
       (GO-SHIP)
     fr: site web du Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)
-  name: The Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)
+  name:
+    en: The Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)
   url: https://www.go-ship.org/
 - description:
     en: National Department of Fisheries and Oceans (DFO) archive for plankton and
       chemical data
     fr: Archives du ministère national des Pêches et des Océans (MPO) pour les données
       sur le plancton et les produits chimiques
-  name: BioChem DFO Database for plankton and chemical data
+  name:
+    en: BioChem DFO Database for plankton and chemical data
   url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
-- name: ERDDAP AZOMP CTD Data
-  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_off_shelf_monitoring_program_rosette_vertical_profiles.html
 - description:
     en: DFO BIO official program website
-  name: Atlantic Zone Off-Shelf Monitoring Program
+  name:
+    en: Atlantic Zone Off-Shelf Monitoring Program
   url: https://www.bio.gc.ca/science/monitoring-monitorage/azomp-pmzao/azomp-pmzao-en.php
 identification:
   abstract:
@@ -233,8 +242,8 @@ identification:
       (PMZOA) profils verticaux des rosettes
 metadata:
   dates:
-    publication: '2022-08-03'
-    revision: '2022-08-03T20:00:10.514Z'
+    publication: '2022-11-15'
+    revision: '2022-11-15T18:25:37.496Z'
   identifier: 15f90eab-21ed-447d-aea7-8fe98ea27fe5
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
