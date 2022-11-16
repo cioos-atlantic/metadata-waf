@@ -301,7 +301,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2022-11-15T18:25:37.496Z</gco:DateTime>
+        <gco:DateTime>2022-11-16T20:04:04.118Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -311,7 +311,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2022-11-15</gco:Date>
+        <gco:Date>2022-11-16</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -1151,7 +1151,7 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_off_shelf_monitoring_program_rosette_vertical_profiles.html</gco:CharacterString>
+                <gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/atlantic_zone_off_shelf_monitoring_program.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

@@ -40,7 +40,7 @@ contact:
 distribution:
 - name:
     en: ERDDAP AZOMP CTD Data
-  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_off_shelf_monitoring_program_rosette_vertical_profiles.html
+  url: https://cioosatlantic.ca/erddap/tabledap/atlantic_zone_off_shelf_monitoring_program.html
 - description:
     en: Core sampling protocols for the Atlantic Zone Monitoring Program
     fr: Principaux protocoles d'échantillonnage pour le Programme de surveillance
@@ -242,8 +242,8 @@ identification:
       (PMZOA) profils verticaux des rosettes
 metadata:
   dates:
-    publication: '2022-11-15'
-    revision: '2022-11-15T18:25:37.496Z'
+    publication: '2022-11-16'
+    revision: '2022-11-16T20:04:04.118Z'
   identifier: 15f90eab-21ed-447d-aea7-8fe98ea27fe5
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
