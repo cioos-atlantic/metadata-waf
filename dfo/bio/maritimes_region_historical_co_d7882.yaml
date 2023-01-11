@@ -1,0 +1,202 @@
+contact:
+- inCitation: false
+  individual:
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: Cardoso, Diana
+    position: Maritimes Region oceanographic data manager
+  organization:
+    address: Bedford Institute of Oceanography, Fisheries and Oceans Canada
+    city: Dartmouth
+    country: Canada
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: DFO
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+  roles:
+  - owner
+distribution:
+- name:
+    en: ERDDAP Maritimes region historical coastal profile data
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_historical_coastal_ctd.html
+- description:
+    en: 'Gurbutt, P.A; Petrie, B; Jordan, F.  1993.  The physical oceanography of
+      the Bras d''Or lakes : data analysis and modelling.  Canadian technical report
+      of hydrography and ocean sciences. 147: vii, 61 pp.'
+    fr: 'Gurbutt, P.A. ; Petrie, B. ; Jordan, F. 1993. L''océanographie physique des
+      lacs Bras d''Or : analyse des données et modélisation. Rapport technique canadien
+      sur l''hydrographie et les sciences de la mer. 147 : vii, 61 p.'
+  name:
+    en: 'Gurbutt, P.A; Petrie, B; Jordan, F.  1993.  The physical oceanography of
+      the Bras d''Or lakes : data analysis and modelling.  Canadian technical report
+      of hydrography and ocean sciences. 147: vii, 61 pp.'
+    fr: 'Gurbutt, P.A. ; Petrie, B. ; Jordan, F. 1993. L''océanographie physique des
+      lacs Bras d''Or : analyse des données et modélisation. Rapport technique canadien
+      sur l''hydrographie et les sciences de la mer. 147 : vii, 61 p.'
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/148083.pdf
+- description:
+    en: Krauel, D.P. 1975. The physical oceanography of the Bras d'Or Lakes, 1972-1974.  Technical
+      report (Canada. Fisheries and Marine Service. Research and Development Directorate)
+      ; 570
+    fr: Krauel, D. P. 1975. L'océanographie physique des lacs Bras d'Or, 1972-1974.
+      Rapport technique (Canada). Service des pêches et de la marine. Direction de
+      la recherche et du développement) ; 570
+  name:
+    en: Krauel, D.P. 1975. The physical oceanography of the Bras d'Or Lakes, 1972-1974.  Technical
+      report (Canada. Fisheries and Marine Service. Research and Development Directorate)
+      ; 570
+    fr: Krauel, D. P. 1975. L'océanographie physique des lacs Bras d'Or, 1972-1974.
+      Rapport technique (Canada). Service des pêches et de la marine. Direction de
+      la recherche et du développement) ; 570
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/52266.pdf
+- description:
+    en: 'W.K.W. Li, P.M. Dickie and J.A. Spry.  1998. Plankton Monitoring Programme
+      in the Bedford Basin, 1991-1997. Canadian data report of fisheries and aquatic
+      sciences 1036:  vii, 342 pp.'
+    fr: 'W.K.W. Li, P.M. Dickie et J.A. Spry. 1998. Programme de surveillance du plancton
+      dans le bassin de Bedford, 1991-1997. Rapport de données sur les sciences halieutiques
+      et aquatiques au Canada 1036 : vii, 342 p.'
+  name:
+    en: 'W.K.W. Li, P.M. Dickie and J.A. Spry.  1998. Plankton Monitoring Programme
+      in the Bedford Basin, 1991-1997. Canadian data report of fisheries and aquatic
+      sciences 1036:  vii, 342 pp.'
+    fr: 'W.K.W. Li, P.M. Dickie et J.A. Spry. 1998. Programme de surveillance du plancton
+      dans le bassin de Bedford, 1991-1997. Rapport de données sur les sciences halieutiques
+      et aquatiques au Canada 1036 : vii, 342 p.'
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/223563.pdf
+- description:
+    en: 'P.D. Keizer, G. Bugden, D.V. Subba Rao, and P.M. Strain. 1996. Long-term
+      monitoring program : Indian Point and Sambro, Nova Scotia, for the period July
+      1992 to December 1994. Canadian data report of fisheries and aquatic sciences.  980:
+      v, 20 pp.'
+    fr: 'P.D. Keizer, G. Bugden, D. V. Subba Rao et P.M. Strain. 1996. Programme de
+      surveillance à long terme : Indian Point et Sambro, Nouvelle-Écosse, pour la
+      période de juillet 1992 à décembre 1994. Rapport de données sur les sciences
+      halieutiques et aquatiques au Canada. 980 : v, 20 p.'
+  name:
+    en: 'P.D. Keizer, G. Bugden, D.V. Subba Rao, and P.M. Strain. 1996. Long-term
+      monitoring program : Indian Point and Sambro, Nova Scotia, for the period July
+      1992 to December 1994. Canadian data report of fisheries and aquatic sciences.  980:
+      v, 20 pp.'
+    fr: 'P.D. Keizer, G. Bugden, D. V. Subba Rao et P.M. Strain. 1996. Programme de
+      surveillance à long terme : Indian Point et Sambro, Nouvelle-Écosse, pour la
+      période de juillet 1992 à décembre 1994. Rapport de données sur les sciences
+      halieutiques et aquatiques au Canada. 980 : v, 20 p.'
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/199959.pdf
+identification:
+  abstract:
+    en: Historical coastal missions in which DFO Bedford Institute of Oceanography
+      participated in between 1969 and present which collected rosette vertical profile
+      data. These missions were part of various projects in several coastal areas
+      around Nova Scotia and Southern New Brunswick.
+    fr: Missions côtières historiques auxquelles l'Institut océanographique de Bedford
+      du MPO a participé entre 1969 et aujourd'hui et qui ont permis de recueillir
+      des données de profil vertical par rosette. Ces missions s'inscrivaient dans
+      le cadre de divers projets dans plusieurs zones côtières de la Nouvelle-Écosse
+      et du sud du Nouveau-Brunswick.
+  dates:
+    creation: '1969-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      - chlorophyll a
+      - oxygen
+      fr:
+      - changement climatique
+      - salinité
+      - chlorophylle a
+      - température de l'eau
+      - télédétection
+      - fluorescence
+      - densité eau
+      - échantillonnage
+      - missions océanographique
+      - physico-chimie
+      - pression
+      - température potentielle
+      - densité potentielle
+      - densité d'eau de mer
+      - oxygen
+    eov:
+      en:
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - oxygen
+      fr:
+      - Salinité de surface
+      - Température de surface
+      - Température sous la surface
+      - Salinité sous la surface
+      - Autre
+      - Oxygène
+  progress_code: completed
+  status: published
+  temporal_begin: '1969-01-01T16:00:00.000Z'
+  title:
+    en: Maritimes Region Historical Coastal Rosette Vertical Profiles
+    fr: Profils verticaux des rosettes historiques de l'Arctique de la région des
+metadata:
+  dates:
+    publication: '2023-01-11'
+    revision: '2023-01-11T16:40:03.709Z'
+  identifier: d7882563-b9c3-4a10-8723-3aa2f556a478
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Availability of data varies both between and within years due to mission
+        cancellations.
+      fr: La disponibilité des données varie entre les années et au cours des années
+        en raison des annulations de missions.
+spatial:
+  bbox:
+  - -68.35
+  - 42.82
+  - -58.38
+  - 47.76
+  vertical:
+  - 1.0
+  - 200.0

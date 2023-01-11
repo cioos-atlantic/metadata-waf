@@ -1,0 +1,225 @@
+contact:
+- inCitation: false
+  individual:
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: Cardoso, Diana
+    position: Maritimes Oceanographic data manager
+  organization:
+    address: Bedford Institute of Oceanography, Fisheries and Oceans Canada
+    city: Dartmouth
+    country: Canada
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: DFO
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+  roles:
+  - owner
+distribution:
+- name:
+    en: Historical and offshore ERDDAP data
+    fr: Données ERDDAP historiques et offshore
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_historical_offshore_international_ctd.html
+- description:
+    en: 'Hendry RM. Hydrographic Measurements from C.S.S. HUDSON Cruise 82-002. Canadian
+      technical report of hydrography and ocean sciences, Vol 118. Dartmouth, N.S:
+      Bedford Institute of Oceanography; 1989.'
+    fr: 'Hendry, M.R. Mesures hydrographiques du C.S.S. HUDSON Cruise 82-002. Rapport
+      technique canadien sur l''hydrographie et les sciences océaniques, vol. 118.
+      Dartmouth, Nouvelle-Écosse : Institut océanographique de Bedford ; 1989.'
+  name:
+    en: 'Hendry RM. Hydrographic Measurements from C.S.S. HUDSON Cruise 82-002. Canadian
+      technical report of hydrography and ocean sciences, Vol 118. Dartmouth, N.S:
+      Bedford Institute of Oceanography; 1989.'
+    fr: 'Hendry, M.R. Mesures hydrographiques du C.S.S. HUDSON Cruise 82-002. Rapport
+      technique canadien sur l''hydrographie et les sciences océaniques, vol. 118.
+      Dartmouth, Nouvelle-Écosse : Institut océanographique de Bedford ; 1989.'
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/112320.pdf
+- description:
+    en: Sandstrom, H., Elliott, J.A., Atlas of physical oceanographic data for current
+      surge studies on the Grand Banks of Newfoundland, 1985. Department of Fisheries
+      and Oceans Canada. Bedford Institute of Oceanography.  Canadian technical report
+      of hydrography and ocean sciences, 0711-6764 ; no. 1211989
+    fr: Sandstrom, H., Elliott, J.A., Atlas des données océanographiques physiques
+      pour les études actuelles sur les crues sur les Grands Bancs de Terre-Neuve,
+      1985. Ministère des Pêches et des Océans du Canada. Institut océanographique
+      de Bedford. Rapport technique canadien sur l'hydrographie et les sciences océaniques,
+      0711-6764 ; n° 1211989
+  name:
+    en: Sandstrom, H., Elliott, J.A., Atlas of physical oceanographic data for current
+      surge studies on the Grand Banks of Newfoundland, 1985. Department of Fisheries
+      and Oceans Canada. Bedford Institute of Oceanography.  Canadian technical report
+      of hydrography and ocean sciences, 0711-6764 ; no. 1211989
+    fr: Sandstrom, H., Elliott, J.A., Atlas des données océanographiques physiques
+      pour les études actuelles sur les crues sur les Grands Bancs de Terre-Neuve,
+      1985. Ministère des Pêches et des Océans du Canada. Institut océanographique
+      de Bedford. Rapport technique canadien sur l'hydrographie et les sciences océaniques,
+      0711-6764 ; n° 1211989
+  url: https://cat.fsl-bsf.scitech.gc.ca/record=b3686108~S1
+- description:
+    en: Greenan, B. J. W., Yashayaev, I., Head, E. J. H., Harrison, G., Azetsu-Scott,
+      K., Li, W. K. W., Loder, J. W., Geshelin, Y.,2010.  Interdisciplinary oceanographic
+      observations of orphan knoll.  Northwest Atlantic Fisheries Organization (NAFO)
+      SCR documents ; 10/19.
+    fr: Greenan, B.J.W., Yashayaev, I., Head, E.J.H., Harrison, G., Azetsu-Scott,
+      K., Li, W.K.W., Loder, J.W., Geshelin, Y., 2010. Observations océanographiques
+      interdisciplinaires d'Orphan Knoll. Documents du SCR de l'Organisation des pêches
+      de l'Atlantique Nord-Ouest (NAFO) ; 10/19.
+  name:
+    en: Greenan, B. J. W., Yashayaev, I., Head, E. J. H., Harrison, G., Azetsu-Scott,
+      K., Li, W. K. W., Loder, J. W., Geshelin, Y.,2010.  Interdisciplinary oceanographic
+      observations of orphan knoll.  Northwest Atlantic Fisheries Organization (NAFO)
+      SCR documents ; 10/19.
+    fr: Greenan, B.J.W., Yashayaev, I., Head, E.J.H., Harrison, G., Azetsu-Scott,
+      K., Li, W.K.W., Loder, J.W., Geshelin, Y., 2010. Observations océanographiques
+      interdisciplinaires d'Orphan Knoll. Documents du SCR de l'Organisation des pêches
+      de l'Atlantique Nord-Ouest (NAFO) ; 10/19.
+  url: https://archive.nafo.int/open/sc/2010/scr10-019.pdf
+- description:
+    en: Colbourne, E. B., & Foote, K. D. (1998). Oceanographic variability on the
+      flemish cap. Northwest Atlantic Fisheries Organization. Northwest Atlantic Fisheries
+      Organization (NAFO) SCR documents ; 98/35.
+    fr: Colbourne, E.B., & Foote, K.D. (1998). Variabilité océanographique sur la
+      calotte flamande. Organisation des pêches de l'Atlantique Nord-Ouest. Documents
+      du SCR de l'Organisation des pêches de l'Atlantique Nord-Ouest (NAFO) ; 98/35.
+  name:
+    en: Colbourne, E. B., & Foote, K. D. (1998). Oceanographic variability on the
+      flemish cap. Northwest Atlantic Fisheries Organization. Northwest Atlantic Fisheries
+      Organization (NAFO) SCR documents ; 98/35.
+    fr: Colbourne, E.B., & Foote, K.D. (1998). Variabilité océanographique sur la
+      calotte flamande. Organisation des pêches de l'Atlantique Nord-Ouest. Documents
+      du SCR de l'Organisation des pêches de l'Atlantique Nord-Ouest (NAFO) ; 98/35.
+  url: https://www.nafo.int/Portals/0/PDFs/sc/1998/scr-98-035.pdf
+- description:
+    en: 'Cruise Report: Dawson 1976-1991 C. Department of Fisheries and Oceans. Bedford
+      Institute of Oceanography.'
+    fr: 'Rapport de croisière : Dawson 1976-1991 C. Ministère des Pêches et des Océans.
+      Institut océanographique de Bedford.'
+  name:
+    en: 'Cruise Report: Dawson 1976-1991 C. Department of Fisheries and Oceans. Bedford
+      Institute of Oceanography.'
+    fr: 'Rapport de croisière : Dawson 1976-1991 C. Ministère des Pêches et des Océans.
+      Institut océanographique de Bedford.'
+  url: https://cat.fsl-bsf.scitech.gc.ca/record=b4050117~S1
+identification:
+  abstract:
+    en: 'Historical missions offshore in which DFO Bedford Institute of Oceanography
+      participated in between 1969 and present which collected Rosette Vertical Profile
+      data. These missions were part of various projects and visited several areas
+      within Canadian and international waters such as: Labrador Sea, Scotian Shelf,
+      Gulf of Maine, Gulf of St Lawrence, Denmark Strait, Bay of Fundy, Newfoundland
+      Basin, Mid-Atlantic Ridge, Caribbean Barbados, Bermuda, Newfoundland Shelf,
+      Canary Basin, Northwest Atlantic and the Norwegian Sea.'
+    fr: 'Missions historiques au large auxquelles l''Institut océanographique de Bedford
+      du MPO a participé entre 1969 et aujourd''hui et qui ont permis de recueillir
+      des données sur le profil vertical de Rosette. Ces missions faisaient partie
+      de divers projets et ont visité plusieurs zones des eaux canadiennes et internationales,
+      notamment : la mer du Labrador, le plateau néo-écossais, le golfe du Maine,
+      le golfe du Saint-Laurent, le détroit du Danemark, la baie de Fundy, le bassin
+      de Terre-Neuve, la dorsale médio-atlantique, la Barbade des Caraïbes, les Bermudes,
+      le plateau de Terre-Neuve, le bassin des Canaries, l''Atlantique nord-ouest
+      et la mer de Norvège.'
+  dates:
+    creation: '1969-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      - chlorophyll a
+      - fluorescence
+      - oxygen
+      fr:
+      - changement climatique
+      - salinité
+      - chlorophylle a
+      - température de l'eau
+      - télédétection
+      - fluorescence
+      - densité eau
+      - échantillonnage
+      - missions océanographique
+      - physico-chimie
+      - pression
+      - température potentielle
+      - densité potentielle
+      - densité d'eau de mer
+      - oxygen
+    eov:
+      en:
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - oxygen
+      fr:
+      - Salinité de surface
+      - Température de surface
+      - Température sous la surface
+      - Salinité sous la surface
+      - Autre
+      - Oxygène
+  progress_code: completed
+  status: published
+  temporal_begin: '1969-01-01T16:00:00.000Z'
+  title:
+    en: Maritimes Region Historical offshore and international missions Rosette Vertical
+      Profiles
+    fr: Région des Maritimes Missions historiques en mer et internationales Profils
+      verticaux en rosette
+metadata:
+  dates:
+    publication: '2023-01-11'
+    revision: '2022-12-08T19:18:48.251Z'
+  identifier: 355a2dc7-7d4b-4836-974e-93b0e39e0bc0
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+spatial:
+  bbox:
+  - -89.0
+  - 10.0
+  - -5.0
+  - 65.0
+  vertical:
+  - 1.0
+  - 6000.0
