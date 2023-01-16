@@ -1,0 +1,92 @@
+contact:
+- inCitation: true
+  organization:
+    city: Halifax
+    country: Canada
+    email: info@ceotr.ca
+    name: Coastal Environmental Observation Technology and Research
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - distributor
+- inCitation: true
+  individual:
+    email: Barret.Kurylyk@dal.ca
+    name: Kurylyk, Barret
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: Steele Ocean Sciences Building Dalhousie University 1355 Oxford St. P.O.
+      Box 15000 Halifax, NS  Canada
+    city: Halifax
+    country: Canada
+    email: ofi@dal.ca
+    name: Ocean Frontier Institute
+    url: https://www.ofi.ca/
+  roles:
+  - funder
+distribution:
+- name:
+    en: ERDDAP datasets
+    fr: Ensembles de données ERDDAP
+  url: https://data.ceotr.ca/erddap/tabledap/SPOT-SPOT-1461_202204.html
+identification:
+  abstract:
+    en: Sofar Spotter 2 deployments on the south side of Sable Island, NS. Two buoys,
+      each in approximitely 30m of water.
+    fr: Déploiements de Sofar Spotter 2 du côté sud de l'île de Sable, en Nouvelle-Écosse.
+      Deux bouées, chacune dans environ 30 m d'eau.
+  dates:
+    creation: '2022-04-01'
+  keywords:
+    default:
+      en:
+      - water temperature
+      - wind
+      - waves
+      fr:
+      - température de l'eau
+      - vents
+      - vagues
+    eov:
+      en:
+      - seaSurfaceTemperature
+      - seaState
+      fr:
+      - Température de surface
+      - État de la mer
+  progress_code: onGoing
+  status: published
+  temporal_begin: '2022-04-01T15:00:00.000Z'
+  title:
+    en: Wave and Sea Surface Temperature for Sable Island South SPOT-1461_202204
+    fr: Température des vagues et de la surface de la mer pour le sud de l'île de
+      Sable SPOT-1461_202204
+metadata:
+  dates:
+    publication: '2023-01-11'
+    revision: '2022-12-01T16:55:06.384Z'
+  identifier: fe9dd7f6-6436-4760-aa96-d7bc8d2a368e
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: SPOT-1461
+  type: moored surface buoy
+spatial:
+  bbox:
+  - -60.08905
+  - 43.89747
+  - -60.03488
+  - 43.89853
+  vertical:
+  - 0.0
+  - 0.0

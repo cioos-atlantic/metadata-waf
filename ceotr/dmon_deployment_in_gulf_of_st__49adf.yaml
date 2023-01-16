@@ -1,0 +1,106 @@
+contact:
+- inCitation: true
+  organization:
+    name: Transport Canada's Innovation Centre
+  roles:
+  - funder
+- inCitation: true
+  individual:
+    name: Davies, Kim
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    email: ceotr@dal.ca
+    name: CEOTR
+    url: https://ceotr.ca
+  roles:
+  - custodian
+  - owner
+  - distributor
+distribution:
+- description:
+    en: ERDDAP datasets
+  name:
+    en: 'Glider deployment #150 - scotia 2022-04-21 (realtime)'
+  url: https://data.ceotr.ca/erddap/tabledap/scotia_20220421_150_realtime.html
+identification:
+  abstract:
+    en: Slocum gliders are small, free-swimming, unmanned vehicles that use changes
+      in buoyancy to move vertically and horizontally through the water column in
+      a saw-tooth pattern. They are deployed for days to several months and gather
+      detailed information about the physical, chemical and biological processes of
+      the world's oceans. The Slocum glider was designed and built by Teledyne Webb
+      Research Corporation, Falmouth, MA, USA.
+    fr: Les planeurs Slocum sont de petits véhicules sans pilote qui nagent librement
+      et utilisent les variations de flottabilité pour se déplacer verticalement et
+      horizontalement dans la colonne d'eau en dents de scie. Ils sont déployés pendant
+      des jours, voire plusieurs mois, et recueillent des informations détaillées
+      sur les processus physiques, chimiques et biologiques des océans du monde. Le
+      planeur Slocum a été conçu et construit par Teledyne Webb Research Corporation,
+      Falmouth, MA, États-Unis.
+  dates:
+    creation: '2022-04-21'
+  keywords:
+    default:
+      en:
+      - water quality
+      fr:
+      - qualité eau
+    eov:
+      en:
+      - oxygen
+      - other
+      - subSurfaceSalinity
+      fr:
+      - Oxygène
+      - Autre
+      - Salinité sous la surface
+  progress_code: completed
+  status: published
+  temporal_begin: '2022-04-21T15:00:00.000Z'
+  temporal_end: '2022-07-05T15:00:00.000Z'
+  title:
+    en: DMON deployment in Gulf of St. Lawrence, Cabot Strait
+    fr: scotia_20220421_retardé
+metadata:
+  dates:
+    publication: '2023-01-11'
+    revision: '2022-11-03T16:05:07.086Z'
+  identifier: 49adfa92-65dc-4fb3-a6c1-055d94bc377d
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: scotia
+  instruments:
+  - description:
+      en: VEMCO mobile transceiver
+    id: instrument_vmt
+    manufacturer: Vemco
+  - id: instrument_oxygen_optode
+  - id: instrument_fluorometer
+  - id: instrument_flight_measured
+  - id: instrument_flight_commanded
+  - id: instrument_echosounder
+  - id: instrument_dmon
+  - id: instrument_ctd
+  - id: instrument_bpump
+  - id: instrument_Thruster
+  - id: instrument_Science_Bay
+  type: glider
+spatial:
+  bbox:
+  - -60.74794216126964
+  - 47.101615
+  - -59.603542790388275
+  - 47.7653
+  vertical:
+  - 0.0
+  - 375.0
