@@ -1,0 +1,130 @@
+contact:
+- inCitation: false
+  individual:
+    email: matthew.drew@wsp.com
+    name: Drew, Matthew
+    position: Data Architecture Specialist
+  organization:
+    address: 133 Crosbie Road
+    city: St. John’s
+    country: Canada
+    email: matthew.drew@wsp.com
+    name: WSP E&I Canada Limited
+    url: https://www.wsp.com/en-ca
+  roles:
+  - custodian
+- inCitation: true
+  individual:
+    email: terry.bullock@wsp.com
+    name: Bullock, Terry
+    position: Principal Meteorologist
+  organization:
+    address: 133 Crosbie Road
+    city: St. John’s
+    country: Canada
+    email: terry.bullock@wsp.com
+    name: WSP E&I Canada Limited
+    url: https://www.wsp.com/en-ca
+  roles:
+  - owner
+  - principalInvestigator
+  - distributor
+- inCitation: true
+  individual:
+    email: matthew.drew@wsp.com
+    name: McClintock, John D.
+    position: Senior Marine Scientist
+  organization:
+    address: 133 Crosbie Road
+    city: St. John’s
+    country: Canada
+    email: john.mcclintock@wsp.com
+    name: WSP E&I Canada Limited
+    url: https://www.wsp.com/en-ca
+  roles:
+  - processor
+- inCitation: true
+  individual:
+    email: andrew.peddle@wsp.com
+    name: Peddle, Andrew
+    position: Electrical Technician
+  organization:
+    address: 133 Crosbie Road
+    city: St. John’s
+    country: Canada
+    email: andrew.peddle@wsp.com
+    name: WSP E&I Canada Limited
+    url: https://www.wsp.com/en-ca
+  roles:
+  - resourceProvider
+  - collaborator
+distribution:
+- name:
+    en: ERDDAP Wave buoy data
+  url: https://cioosatlantic.ca/erddap/tabledap/wsp_grand_banks_waypoint3_wave_buoy.html
+- description:
+    en: These are the tabular data and data headers.
+    fr: Il s'agit des données tabulaires et des en-têtes de données.
+  name:
+    en: Original dataset in Excel format
+    fr: Ensemble de données original au format Excel
+  url: https://docs.google.com/spreadsheets/d/1gCb5bMQdzH5ESdeTKFMK_pYS09CPwAH1/edit?usp=sharing&ouid=100681791185328724784&rtpof=true&sd=true
+- name:
+    en: Wave buoy user manual
+    fr: Manuel d'utilisation de la bouée à vagues
+  url: https://cioosatlantic.ca/raw/wsp/wave_buoy/0226113Z_Triaxys_Users_Manual.pdf
+identification:
+  abstract:
+    en: Wave height metrics (mean/max/significant wave height/period) at Waypoint
+      3 for the months March and April 2022.
+    fr: Mesures de la hauteur des vagues (hauteur/période moyenne/max/significative
+      des vagues) au Point de Cheminement 3 pour les mois de mars et avril 2022.
+  dates:
+    creation: '2022-03-01'
+  keywords:
+    default:
+      en:
+      - waves
+      - The Grand Banks of Newfoundland
+      - St. John's
+      fr:
+      - vagues
+      - Les Grands Bancs de Terre-Neuve
+    eov:
+      en:
+      - seaState
+      fr:
+      - État de la mer
+  progress_code: completed
+  status: published
+  temporal_begin: '2022-03-01T15:30:00.000Z'
+  temporal_end: '2022-04-30T14:30:00.000Z'
+  title:
+    en: Grand Banks Wave Buoy
+    fr: Bouée à vagues Grand Banks
+metadata:
+  dates:
+    publication: '2023-01-16'
+    revision: '2023-01-16T16:11:55.150Z'
+  identifier: f3e3e156-2a39-4f77-8d3c-9031b79168e7
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: TRIAXYS™ g3 Wave Sensor TAS0XXXX
+  type: moored surface buoy
+spatial:
+  bbox:
+  - -50.95
+  - 47.24
+  - -50.95
+  - 47.24
+  vertical:
+  - 0.0
+  - 0.0
