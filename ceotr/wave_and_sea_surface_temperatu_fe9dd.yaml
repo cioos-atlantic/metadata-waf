@@ -31,7 +31,7 @@ distribution:
 - name:
     en: ERDDAP datasets
     fr: Ensembles de données ERDDAP
-  url: https://data.ceotr.ca/erddap/tabledap/SPOT-SPOT-1461_202204.html
+  url: https://data.ceotr.ca/erddap/tabledap/SPOT-1461_202204.html
 identification:
   abstract:
     en: Sofar Spotter 2 deployments on the south side of Sable Island, NS. Two buoys,
@@ -66,8 +66,8 @@ identification:
       Sable SPOT-1461_202204
 metadata:
   dates:
-    publication: '2023-01-11'
-    revision: '2022-12-01T16:55:06.384Z'
+    publication: '2023-02-09'
+    revision: '2023-02-08T19:09:23.309Z'
   identifier: fe9dd7f6-6436-4760-aa96-d7bc8d2a368e
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
