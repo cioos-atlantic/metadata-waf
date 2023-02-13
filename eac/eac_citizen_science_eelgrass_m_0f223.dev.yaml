@@ -1,0 +1,172 @@
+contact:
+- inCitation: true
+  organization:
+    address: 2705 Fern Lane
+    city: Halifax
+    country: Nova Scotia
+    name: Ecology Action Centre
+    url: https://ecologyaction.ca
+  roles:
+  - distributor
+  - owner
+- inCitation: true
+  individual:
+    email: jordy.thomson@ecologyaction.ca
+    name: Thomson, Jordy
+    position: Senior Marine Coordinator
+  roles:
+  - contributor
+- inCitation: true
+  individual:
+    email: alyssa.densmore@ecologyaction.ca
+    name: Densmore, Alyssa
+    position: Eelgrass Citizen Science Intern
+  roles:
+  - contributor
+- inCitation: true
+  individual:
+    email: Aaron.Clausen@ecologyaction.ca
+    name: Clausen, Aaron
+  roles:
+  - custodian
+- inCitation: true
+  individual:
+    email: sryderburbidge@ecologyaction.ca
+    name: Ryder-Burbidge, Simon
+  roles:
+  - custodian
+distribution:
+- description:
+    en: iNaturalist is used as a secondary citizen science platform that compliments
+      sea kayak survey work. This project page allows for eelgrass observations in
+      Nova Scotia bu iNaturalist members to be documented in one place.
+    fr: iNaturalist est utilisé comme plateforme scientifique citoyenne secondaire
+      qui complète les travaux d'enquête sur le kayak de mer. Cette page de projet
+      permet de documenter les observations de zostère en Nouvelle-Écosse par les
+      membres inNaturalistes d'être documentées en un seul endroit.
+  name:
+    en: Eelgrass Observation's in Nova Scotia (iNaturalist)
+  url: https://inaturalist.ca/observations?project_id=112653
+identification:
+  abstract:
+    en: The Marine Team at the Ecology Action Centre (Halifax, NS) is working to document
+      eelgrass health across Nova Scotia. Data collection is done through a community
+      based monitoring program referred to as the Citizen Science Eelgrass Monitoring
+      Program. Volunteer citizen scientists assist the EAC in locating and documenting
+      eelgrass beds through kayak surveys. Time lapse photography (via GoPro Hero
+      7) is used to capture images of the seabed below the keel of the participants
+      kayak and linked to GPS locations. Once photos are collected, data regarding
+      eelgrass presence, absence and density are recorded by staff and trained volunteer
+      analysts. Overtime, the collection of data by citizen scientists will add knowledge
+      to the current distribution of eelgrass across the province and be used to inform
+      management decisions regarding the species' well being.
+    fr: L'équipe marine de l'Ecology Action Centre (Halifax, N.-É.) travaille à documenter
+      la santé de la zostère dans toute la Nouvelle-Écosse. La collecte des données
+      se fait par le biais d'un programme de surveillance communautaire appelé Citizen
+      Science Eelgrass Monitoring Program. Des scientifiques citoyens bénévoles aident
+      le CAE à localiser et à documenter les lits de zostères par le biais de relevés
+      en kayak. La photographie en accéléré (via GoPro Hero 7) est utilisée pour capturer
+      des images du fond marin sous la quille du kayak des participants et reliées
+      à des emplacements GPS. Une fois les photos collectées, les données relatives
+      à la présence, à l'absence et à la densité de zostère sont enregistrées par
+      le personnel et les analystes bénévoles formés. Au fil du temps, la collecte
+      de données par des scientifiques citoyens ajoutera des connaissances à la distribution
+      actuelle de la zostère dans la province et servira à éclairer les décisions
+      de gestion concernant le bien-être de l'espèce.
+  dates:
+    creation: '2019-10-04'
+  keywords:
+    default:
+      en:
+      - eelgrass
+      - marine flora
+      - seagrass
+      - Zostera marina
+      - citizen science
+      - community-based monitoring
+      - presence/ absence
+      - important habitat
+      fr:
+      - habitats important
+    eov:
+      en:
+      - seagrassCoverAndComposition
+      fr:
+      - Composition et couverture des herbiers marins
+  progress_code: onGoing
+  status: published
+  temporal_begin: '2019-10-04T15:00:00.000Z'
+  title:
+    en: EAC Citizen Science Eelgrass Monitoring Data
+    fr: Données de surveillance de la zostère des sciences citoyennes de l'EAC
+metadata:
+  dates:
+    publication: '2022-06-23'
+    revision: '2022-11-22T20:24:19.996Z'
+  identifier: 0f223a58-cf12-47d0-9204-9245d7792cd5
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+    limitations:
+      en: '-Variability in mobile devices
+
+        -Volunteer recruitment
+
+        -Ocean depth'
+      fr: '-Variabilité des appareils mobiles
+
+        -Recrutement de bénévoles
+
+        -Mainpower/temps (pour obtenir du matériel aux pagayeurs et effectuer une
+        analyse d''image)
+
+        -Vitesse du kayakiste (impact sur la qualité de l''image)
+
+        -Profondeur océan'
+platform:
+  description:
+    en: Sea Kayak
+    fr: Kayak de mer
+  id: N/A
+  instruments:
+  - description:
+      en: Currently three GoPro cameras are used by the program. Each are the same
+        make and model and are distinguished by names (i.e. Camera 1). Cameras are
+        strapped to the keel of the kayak to take time-lapse photography of the ocean
+        floor below the boat.
+      fr: Actuellement, trois caméras GoPro sont utilisées par le programme. Chacun
+        est de la même marque et du même modèle et se distingue par des noms (c.-à-d.
+        Caméra 1). Les caméras sont attachées à la quille du kayak pour photographier
+        en accéléré le fond océanique sous le bateau.
+    id: GoPro Camera
+    manufacturer: GoPro
+    type:
+      en: Waterproof action camera
+      fr: Caméra d'action étanche
+    version: Hero 7 (Black)
+  - description:
+      en: The GPS unit is used to collect GPS locations along the paddlers route
+      fr: L'unité GPS est utilisée pour collecter les emplacements GPS le long de
+        la route des pagayeurs.
+    id: Hand Held GPS
+    manufacturer: Garmin
+    type:
+      en: GPS
+      fr: GPS
+    version: etrex 10
+  type: man-powered small boat
+spatial:
+  bbox:
+  - -66.52
+  - 43.32
+  - -59.53
+  - 47.17
+  vertical:
+  - 0.0
+  - 1.0
