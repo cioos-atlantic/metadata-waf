@@ -142,7 +142,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2023-01-16T16:11:55.150Z</gco:DateTime>
+        <gco:DateTime>2023-02-09T16:10:05.864Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -152,7 +152,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2023-01-16</gco:Date>
+        <gco:Date>2023-02-09</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -575,7 +575,7 @@
                                 <gco:CharacterString></gco:CharacterString>
                               </cit:country>
                               <cit:electronicMailAddress>
-                                <gco:CharacterString>matthew.drew@wsp.com</gco:CharacterString>
+                                <gco:CharacterString>john.mcclintock@wsp.com</gco:CharacterString>
                               </cit:electronicMailAddress>
                             </cit:CI_Address>
                           </cit:address>
