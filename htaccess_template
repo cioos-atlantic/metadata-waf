@@ -1,0 +1,20 @@
+# Sample .htaccess file for metadata WAF
+# Modify and save this file as .htaccess in the base of the WAF
+Options +Indexes
+# YAML files should always be filtered out
+<FilesMatch "\.(yml|yaml)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Also hide the template htaccess file
+<FilesMatch "htaccess_template">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Production only: also filter out all filenames that end with .dev.xml
+<FilesMatch "\.dev\.xml$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
