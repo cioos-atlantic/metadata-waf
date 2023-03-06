@@ -1,0 +1,123 @@
+contact:
+- inCitation: true
+  individual:
+    email: rick.fleetwood@canada.ca
+    name: Fleetwood, Rick
+  organization:
+    city: Gatineau
+    country: Canada
+    email: climatatlantique-climateatlantic@ec.gc.ca
+    name: Environment and Climate Change Canada
+    ror: https://ror.org/026ny0e17
+    url: https://www.canada.ca/en/environment-climate-change.html
+  roles:
+  - owner
+  - custodian
+  - distributor
+distribution:
+- name:
+    en: Environment and Climate Change Canada Data
+    fr: Environnement et Changement climatique Canada données
+  url: https://data-donnees.ec.gc.ca/data/climate/products/meteorological-service-of-canada-msc-50-north-atlantic-wave-hindcast/
+- name:
+    en: MEDS Metadata
+  url: https://www.isdm-gdsi.gc.ca/isdm-gdsi/waves-vagues/MSC50-eng.html
+- name:
+    en: Open Data Canada Record
+  url: https://open.canada.ca/data/en/dataset/f3f0312d-d28b-400c-b14a-28f51ff7f08a
+- name:
+    en: Raw and extracted MSC50 data
+    fr: Données MSC50 brutes et extraites
+  url: https://cioosatlantic.ca/raw/eccc/msc50/
+identification:
+  abstract:
+    en: This dataset contains 21 statistics of wind and waves calculated from hourly
+      reanalysis data of historical surface winds and ocean surface waves for the
+      Canadian East Coast for the period 1954-2018 (each statistic has an annual,
+      4 seasonal, and 12 monthly values). These data can be used for characterization
+      of marine surface wind and wave climate conditions, trends and variability for
+      Canadian waters (East Coast), and for use of coastal and offshore operations/risk
+      management (e.g., oil platforms, shipping). The hourly wind and wave’s data
+      may be obtained upon request from the Meteorological Service of Canada's Climate
+      Services.
+    fr: Cet ensemble de données contient 21 statistiques des vents et des vagues calculées
+      à partir de données horaires de réanalyse sur les vents de surface et les ondes
+      de surface océaniques historiques pour la côte Est canadienne, de 1954 à 2018
+      (chaque statistique comporte une valeur annuelle, 4 valeurs saisonnières et
+      12 valeurs mensuelles). Ces données peuvent être utilisées pour la caractérisation
+      des vents de surface maritimes et du régime des vagues, des tendances et de
+      la variabilité dans les eaux canadiennes (côte Est), pour une utilisation dans
+      la gestion des opérations côtières et hauturières et de leurs risques (p. ex.
+      plateformes de forage pétrolier, navigation commerciale). Les données horaires
+      sur les vents et les vagues peuvent être obtenues en en faisant la demande auprès
+      des Services climatologiques du SMC selon le principe du recouvrement des coûts
+      (frais pour la manipulation et l’extraction des données).
+  dates:
+    creation: '1954-01-01'
+    publication: '2016-10-24'
+  keywords:
+    default:
+      en:
+      - Surface (10m) wind speed
+      - wind direction
+      - ocean surface waves
+      - significant wave heights
+      - mean wave period
+      - wave direction
+      - Climate
+      - Climatology
+      - meteorology
+      - atmosphere
+      - Weather and Climate
+      fr:
+      - La vitesse des vents de surface (10 m)
+      - la direction des vents
+      - les ondes de surface océaniques
+      - les hauteurs significatives des vagues
+      - la période moyenne des vagues
+      - la direction des vagues
+      - Climat
+      - Climatologie
+      - météorologie
+      - Temps et climat
+    eov:
+      en:
+      - seaState
+      - other
+      fr:
+      - État de la mer
+      - Autre
+  progress_code: completed
+  status: published
+  temporal_begin: '1954-01-01T16:00:00.000Z'
+  temporal_end: '2018-12-31T16:00:00.000Z'
+  title:
+    en: North Atlantic Wave Hindcast Model Output
+    fr: Sortie du modèle de prévision rétrospective des vagues de l'Atlantique Nord
+metadata:
+  dates:
+    publication: '2023-03-06'
+    revision: '2023-03-06T18:16:50.447Z'
+  identifier: daab7046-917d-46a6-82fb-76b9387d0f6f
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Model output data
+      fr: Données de sortie du modèle
+spatial:
+  bbox:
+  - -80.0
+  - 40.0
+  - -43.0
+  - 75.0
+  vertical:
+  - 0.0
+  - 0.0
