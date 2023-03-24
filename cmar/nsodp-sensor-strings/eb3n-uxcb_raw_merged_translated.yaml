@@ -12,11 +12,11 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-07-21T19:14:25.298Z'
-    publication: '2022-07-21'
+    revision: '2023-03-22T20:38:08.868Z'
+    publication: '2023-03-22'
 spatial:
   bbox:
-  - -62.0113
+  - -62.090556
   - 44.94988
   - -60.958695
   - 45.58935
@@ -70,59 +70,58 @@ identification:
       data, CMAR would appreciate your feedback through this quick [questionaire](https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform).'
     fr: 'Le Center for Marine Applied Research (CMAR) mesure les variables océaniques
       essentielles dans les eaux côtières de la Nouvelle-Écosse dans le cadre du programme
-      de surveillance côtière. Ce programme a été lancé par le Département de la pêche
-      et de l''aquaculture de la Nouvelle-Écosse en 2012 et CMAR s''est impliqué en
-      2017. CMAR recueille les données de qualité de l''eau (température, oxygène
+      de surveillance côtière.Ce programme a été lancé par le Département de la pêche
+      et de l''aquaculture de la Nouvelle-Écosse en 2012 et le CMAR s''est impliqué
+      en 2017. CMAR recueille les données de qualité de l''eau (température, oxygène
       dissous et salinité intermittente) en utilisant des capteurs autonomes déployés
-      sur des «cordes de capteurs». Une chaîne de capteur se compose généralement
-      d''une ligne ancrée au fond de la mer par une libération acoustique et suspendue
-      par une bouée sous-surface, avec des capteurs attachés à différentes profondeurs
-      sous la surface (comme mesuré à marée basse). Alternativement, une chaîne peut
+      sur des «chaînes de capteurs».Une chaîne de capteurs se compose généralement
+      d''une ligne ancrée au fond marin par une libération acoustique et suspendue
+      par une bouée de sous-surface, avec des capteurs attachés à différentes profondeurs
+      sous la surface (tel que mesuré à marée basse).Alternativement, une chaîne peut
       être attachée aux amarres de surface, y compris des quais flottants, des bouées
-      et de l''équipement. Les chaînes de capteurs sont déployées pendant plusieurs
-      mois et les données sont mesurées toutes les minutes à 1 heure. Les capteurs
+      et de l''équipement.Les chaînes de capteurs sont déployées pendant plusieurs
+      mois et les données sont mesurées toutes les minutes à 1 heure.Les capteurs
       sont récupérés pour le déchargement des données en déclenchant la version acoustique
       le cas échéant, en éliminant directement les amarres de surface, ou parfois
-      par plongeurs ou en traînant. Les données du programme de surveillance côtière
-      sont organisées par le comté. Ces ensembles de données sont très importants,
+      par plongeurs ou en traînant.Les données du programme de surveillance côtière
+      sont organisées par le comté.Ces ensembles de données sont très importants,
       dépassant généralement le nombre de lignes qui peuvent être visualisées dans
-      Excel. CMAR recommande d''utiliser les options de filtre du portail de données
+      Excel.CMAR recommande d''utiliser les options de filtre du portail de données
       ouvert pour filtrer le corps d''eau, la station, la profondeur, la variable
-      et / ou l''horodatage d''intérêt avant l''exportation. Un graphique dérivé de
+      et / ou l''horodatage d''intérêt avant l''exportation.Un graphique dérivé de
       l''ensemble de données permet également un filtrage et une exportation interactifs
-      (https://data.novascotia.ca/nature-and-environment/guysborough-nunty-water-quality-data-dewary-averag/gvmv-b2s3).
-      Les données de qualité de l''eau pour d''autres comtés de la Nouvelle-Écosse
-      sont également disponibles via le portail de données ouvert. L''ensemble de
-      données "Nova Scotia Water Quality Data: Station Emplacements" sur le portail
-      montre les emplacements avec les données disponibles (https://data.novascotia.ca/nature-and-environment/coastal-monitoring-program-station-locations/cjfb-f4d4
-      ). Les rapports de résumé du comté sont disponibles sur le site Web de CMAR
-      (https://cmar.ca/2020/07/14/Coastal-Monitoring-program/). Les données peuvent
-      également être téléchargées à partir du serveur ERDApp via la plate-forme canadienne
-      du système d''observation des océans (CIOOS) (https://catalogue.cioosatlantic.ca/dataset?q=cmar).
-      La collecte et la récupération des données sont en cours. Certaines données
-      sont exclues de l''ensemble de données final pendant les processus de contrôle
-      de la qualité. Les ensembles de données et les rapports peuvent être révisés
-      en attendant la collecte et les analyses de données en cours. Une note sur les
-      unités: pour les comtés d''Halifax et de Lunenburg, l''oxygène dissous a été
-      mesuré en unités de pourcentage de saturation ou de Mg / L, selon le capteur.
-      Pour tous les autres comtés, l''oxygène dissous a été mesuré en unités de pourcentage
-      de saturation. Les mesures en Mg / L ont été corrigées pour la salinité en utilisant
+      (https://data.novascotia.ca/nature-and-environment/guysborough-ntounty-water-quality-data-daily-averag/gvmv-b2s3).Les
+      données de qualité de l''eau pour d''autres comtés de la Nouvelle-Écosse sont
+      également disponibles via le portail de données ouvert.L''ensemble de données
+      "Nova Scotia Water Quality Data: Station Locations" sur le portail montre les
+      emplacements avec les données disponibles (https://data.novascotia.ca/nature-and-environment/coastal-monitoring-program-station-locations/cjfb-f4d4).Les
+      rapports de résumé du comté sont disponibles sur le site Web du CMAR (https://cmar.ca/2020/07/14/Coastal-Monitoring-program/).Les
+      données peuvent également être téléchargées à partir du serveur ERDApp via la
+      plate-forme canadienne du système d''observation des océans (CIOOS) (https://catalogue.cioosatlantic.ca/dataset?q=cmar).La
+      collecte et la récupération des données sont en cours.Certaines données sont
+      exclues de l''ensemble de données final pendant les processus de contrôle de
+      la qualité.Les ensembles de données et les rapports peuvent être révisés en
+      attendant la collecte et les analyses de données en cours.Une note sur les unités:
+      pour les comtés d''Halifax et de Lunenburg, l''oxygène dissous a été mesuré
+      en unités de pourcentage de saturation ou de Mg / L, selon le capteur.Pour tous
+      les autres comtés, l''oxygène dissous a été mesuré en unités de pourcentage
+      de saturation.Les mesures en Mg / L ont été corrigées pour la salinité en utilisant
       le facteur de correction de salinité de Garcia-Gordon (1992) avec une valeur
       de salinité de 30,6 unités de salinité pratiques (basées sur les données disponibles
-      pour la région). Ce facteur de correction n''est pas requis pour les valeurs
-      enregistrées en pourcentage de saturation. Veuillez contacter info@cmar.ca pour
-      plus d''informations. Si vous avez accédé à l''une des données du programme
-      de surveillance côtière, CMAR apprécierait vos commentaires via ce questionnaire
-      rapide (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/viewform).
-      Veuillez reconnaître le Center for Marine Applied Research dans tout matériel
-      publié qui utilise ces données. Contient des informations autorisées sous la
-      licence du gouvernement ouvert - la Nouvelle-Écosse. Si vous avez accédé à l''une
-      des données du programme de surveillance côtière, CMAR apprécierait vos commentaires
-      via ce rapide [Questionnaire] (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/View/ViewForm).'
+      pour la région).Ce facteur de correction n''est pas requis pour les valeurs
+      enregistrées en pourcentage de saturation.Veuillez contacter info@cmar.ca pour
+      plus d''informations.Si vous avez accédé à l''une des données du programme de
+      surveillance côtière, CMAR apprécierait vos commentaires via ce questionnaire
+      rapide (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/ViewForm).Veuillez
+      reconnaître le Center for Marine Applied Research dans tout matériel publié
+      qui utilise ces données. Contient des informations sous licence du gouvernement
+      ouvert - Nouvelle-Écosse.Si vous avez accédé à l''une des données du programme
+      de surveillance côtière, CMAR apprécierait vos commentaires via ce rapide [Questionnaire]
+      (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/view/View).'
   dates:
     creation: '2020-10-15'
     publication: '2020-10-15'
-    revision: '2022-01-06'
+    revision: '2022-12-06'
   keywords:
     default:
       en:
@@ -155,7 +154,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2018-02-27T16:00:00.000Z'
+  temporal_begin: '2015-09-08T20:00:00.000Z'
 contact:
 - roles:
   - owner
@@ -221,6 +220,36 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-20495203
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820334
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820490
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-548040
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495244
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: aquaMeasure-670379
     manufacturer: Innovasea
     type:
@@ -262,6 +291,48 @@ platform:
       fr: ''
     version: ''
   - id: aquaMeasure-670377
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670376
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20308041
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495247
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820329
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820501
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547112
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-675012
     manufacturer: Innovasea
     type:
       en: Sensor
@@ -321,6 +392,36 @@ platform:
     version: ''
   - id: aquaMeasure-675008
     manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291437
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495249
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820323
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082890
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547093
+    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
@@ -413,6 +514,92 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-10817504
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291428
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291451
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291453
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495212
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820351
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21083052
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547110
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670365
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670362
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: '0001'
+  description:
+    en: '0001'
+  instruments:
+  - id: HOBO-10034844
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10226049
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: '0622'
+  description:
+    en: '0622'
+  instruments:
+  - id: HOBO-10034855
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: '1307'
   description:
     en: '1307'
@@ -435,10 +622,68 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+- id: West Ferry Ramp
+  description:
+    en: West Ferry Ramp
+  instruments:
+  - id: HOBO-10034844
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10034853
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10817500
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10034868
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Madeline Point
   description:
     en: Madeline Point
   instruments:
+  - id: HOBO-10777103
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10778921
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20308044
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-548043
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670376
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-20291475
     manufacturer: ONSET
     type:
@@ -563,6 +808,36 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-10817404
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495219
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495227
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671134
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-545767
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Meal Rock
   description:
     en: Meal Rock
@@ -599,6 +874,30 @@ platform:
     version: ''
   - id: HOBO-20495209
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291432
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671019
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-680323
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-549343
+    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
@@ -673,6 +972,16 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+- id: 0028
+  description:
+    en: 0028
+  instruments:
+  - id: HOBO-10034856
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Barren Island
   description:
     en: Barren Island
@@ -701,6 +1010,30 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-20291484
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820327
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547109
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670373
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: aquaMeasure-670365
     manufacturer: Innovasea
     type:
@@ -714,6 +1047,34 @@ platform:
       fr: ''
     version: ''
   - id: HOBO-20495249
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Jewers Bay
+  description:
+    en: Jewers Bay
+  instruments:
+  - id: HOBO-10194899
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10034852
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755217
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10778918
     manufacturer: ONSET
     type:
       en: Sensor
@@ -803,24 +1164,6 @@ platform:
   description:
     en: Pirate Harbour
   instruments:
-  - id: VR2AR-547090
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquaMeasure-670373
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-10755242
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
   - id: HOBO-20291444
     manufacturer: ONSET
     type:
@@ -839,10 +1182,64 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: VR2AR-547090
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670367
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670373
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755242
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Center Bay
   description:
     en: Center Bay
   instruments:
+  - id: HOBO-10755265
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291480
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20804688
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670287
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547100
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: aquaMeasure-675286
     manufacturer: Innovasea
     type:
@@ -969,6 +1366,22 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+- id: '1199'
+  description:
+    en: '1199'
+  instruments:
+  - id: HOBO-10194911
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755231
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Bald Rock
   description:
     en: Bald Rock
@@ -1003,6 +1416,24 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-20330417
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495241
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495245
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: aquaMeasure-670372
     manufacturer: Innovasea
     type:
@@ -1013,7 +1444,25 @@ platform:
   description:
     en: Burnt Island
   instruments:
+  - id: HOBO-10755220
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-10755228
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10817505
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10194874
     manufacturer: ONSET
     type:
       en: Sensor
@@ -1023,6 +1472,48 @@ platform:
   description:
     en: Fishermans Island
   instruments:
+  - id: HOBO-10817401
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291440
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291478
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495236
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671137
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-686010
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547232
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-10755244
     manufacturer: ONSET
     type:
@@ -1089,10 +1580,38 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+- id: Harbour Island
+  description:
+    en: Harbour Island
+  instruments:
+  - id: aquaMeasure-675009
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Northeast Branch
   description:
     en: Northeast Branch
   instruments:
+  - id: HOBO-10755223
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291488
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671135
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: TidbiT-20395736
     manufacturer: ONSET
     type:
@@ -1129,11 +1648,41 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: TidbiT-20397536
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: TidbiT-20405705
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Northwest Branch
   description:
     en: Northwest Branch
   instruments:
+  - id: HOBO-10034854
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-10755256
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10778917
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291459
     manufacturer: ONSET
     type:
       en: Sensor
@@ -1161,11 +1710,53 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-20308039
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10034846
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291465
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10194899
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: The Channel
   description:
     en: The Channel
   instruments:
+  - id: HOBO-10755244
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291461
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-10817404
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10226050
     manufacturer: ONSET
     type:
       en: Sensor
@@ -1175,6 +1766,18 @@ platform:
   description:
     en: White Island
   instruments:
+  - id: HOBO-20330416
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10817410
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-10755218
     manufacturer: ONSET
     type:
@@ -1185,6 +1788,24 @@ platform:
   description:
     en: Yankee Cove
   instruments:
+  - id: HOBO-10034839
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755214
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10817405
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-10778921
     manufacturer: ONSET
     type:
@@ -1195,6 +1816,12 @@ platform:
   description:
     en: Wine Harbour
   instruments:
+  - id: HOBO-10194912
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-20495227
     manufacturer: ONSET
     type:
@@ -1202,6 +1829,24 @@ platform:
       fr: ''
     version: ''
   - id: HOBO-10777103
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291463
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082881
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820322
     manufacturer: ONSET
     type:
       en: Sensor

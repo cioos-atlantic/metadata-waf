@@ -12,17 +12,17 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-07-21T19:25:37.559Z'
-    publication: '2022-07-21'
+    revision: '2023-03-22T20:53:48.145Z'
+    publication: '2023-03-22'
 spatial:
   bbox:
-  - -61.36382192
+  - -61.4114745520627
   - 45.59586275
-  - -61.022683
-  - 45.976083
+  - -60.98854
+  - 46.00718
   vertical:
-  - 2.0
-  - 28.0
+  - 1.0
+  - 39.5
 identification:
   title:
     en: Inverness County Water Quality Data
@@ -72,7 +72,7 @@ identification:
   dates:
     creation: '2021-01-19'
     publication: '2021-01-19'
-    revision: '2022-01-05'
+    revision: '2022-12-06'
   keywords:
     default:
       en:
@@ -105,7 +105,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2015-11-26T22:00:00.000Z'
+  temporal_begin: '2015-11-26T21:21:47.000Z'
 contact:
 - roles:
   - owner
@@ -125,6 +125,76 @@ distribution:
 - url: https://cioosatlantic.ca/erddap/tabledap/a9za-3t63.html
   name: ERDDAP Data Access
 platform:
+- id: Denys Basin East
+  description:
+    en: Denys Basin East
+  instruments:
+  - id: HOBO-10755219
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Denys Basin West
+  description:
+    en: Denys Basin West
+  instruments:
+  - id: HOBO-10778923
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: 0193
+  description:
+    en: 0193
+  instruments:
+  - id: HOBO-10755219
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Canso Lock
+  description:
+    en: Canso Lock
+  instruments:
+  - id: HOBO-10755232
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755215
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10778922
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755204
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755206
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10778921
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Pulp Mill
   description:
     en: Pulp Mill
@@ -143,6 +213,96 @@ platform:
     version: ''
   - id: HOBO-10778916
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: 0814x East
+  description:
+    en: 0814x East
+  instruments:
+  - id: aquaMeasure-680323
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671010
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671014
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: 0814x West
+  description:
+    en: 0814x West
+  instruments:
+  - id: aquaMeasure-671015
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671045
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-680360
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Deep Basin
+  description:
+    en: Deep Basin
+  instruments:
+  - id: HOBO-10755215
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10778914
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10779129
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10817399
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670295
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670352
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670285
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''

@@ -12,16 +12,16 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-07-21T19:18:18.344Z'
-    publication: '2022-07-21'
+    revision: '2023-03-22T20:43:30.947Z'
+    publication: '2023-03-22'
 spatial:
   bbox:
-  - -63.95414
+  - -63.95672
   - 44.50116
   - -62.39922
   - 44.87761
   vertical:
-  - 1.0
+  - 0.5
   - 30.0
 identification:
   title:
@@ -72,7 +72,7 @@ identification:
   dates:
     creation: '2020-10-15'
     publication: '2020-10-15'
-    revision: '2022-01-05'
+    revision: '2022-12-06'
   keywords:
     default:
       en:
@@ -105,7 +105,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2018-02-21T18:10:00.000Z'
+  temporal_begin: '2017-07-27T00:30:00.000Z'
 contact:
 - roles:
   - owner
@@ -201,6 +201,18 @@ platform:
     version: ''
   - id: HOBO-20291426
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670357
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670358
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
@@ -347,6 +359,24 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-10817399
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10817409
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670294
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Spry Harbour
   description:
     en: Spry Harbour
@@ -381,10 +411,100 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-10817399
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291475
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547086
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-675016
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Shut-In Island
   description:
     en: Shut-In Island
   instruments:
+  - id: HOBO-10194912
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755215
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547094
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670352
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670353
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20900975
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20922071
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21043077
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-550756
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20834033
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20834024
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-20834030
     manufacturer: ONSET
     type:
@@ -433,7 +553,25 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20834024
+  - id: VR2AR-547087
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495211
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495251
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082883
     manufacturer: ONSET
     type:
       en: Sensor

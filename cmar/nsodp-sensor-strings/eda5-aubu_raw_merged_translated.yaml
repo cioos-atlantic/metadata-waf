@@ -12,16 +12,16 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-07-21T19:22:06.738Z'
-    publication: '2022-07-21'
+    revision: '2023-03-22T20:49:20.984Z'
+    publication: '2023-03-22'
 spatial:
   bbox:
-  - -64.25055
+  - -64.25171
   - 44.433344
-  - -64.017404
+  - -64.017382
   - 44.57130379
   vertical:
-  - 2.0
+  - 1.0
   - 40.0
 identification:
   title:
@@ -70,59 +70,58 @@ identification:
       data, CMAR would appreciate your feedback through this quick [questionaire](https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform).'
     fr: 'Le Center for Marine Applied Research (CMAR) mesure les variables océaniques
       essentielles dans les eaux côtières de la Nouvelle-Écosse dans le cadre du programme
-      de surveillance côtière. Ce programme a été lancé par le Département de la pêche
-      et de l''aquaculture de la Nouvelle-Écosse en 2012 et CMAR s''est impliqué en
-      2017. CMAR recueille les données de qualité de l''eau (température, oxygène
+      de surveillance côtière.Ce programme a été lancé par le Département de la pêche
+      et de l''aquaculture de la Nouvelle-Écosse en 2012 et le CMAR s''est impliqué
+      en 2017. CMAR recueille les données de qualité de l''eau (température, oxygène
       dissous et salinité intermittente) en utilisant des capteurs autonomes déployés
-      sur des «cordes de capteurs». Une chaîne de capteur se compose généralement
-      d''une ligne ancrée au fond de la mer par une libération acoustique et suspendue
-      par une bouée sous-surface, avec des capteurs attachés à différentes profondeurs
-      sous la surface (comme mesuré à marée basse). Alternativement, une chaîne peut
+      sur des «chaînes de capteurs».Une chaîne de capteurs se compose généralement
+      d''une ligne ancrée au fond marin par une libération acoustique et suspendue
+      par une bouée de sous-surface, avec des capteurs attachés à différentes profondeurs
+      sous la surface (tel que mesuré à marée basse).Alternativement, une chaîne peut
       être attachée aux amarres de surface, y compris des quais flottants, des bouées
-      et de l''équipement. Les chaînes de capteurs sont déployées pendant plusieurs
-      mois et les données sont mesurées toutes les minutes à 1 heure. Les capteurs
+      et de l''équipement.Les chaînes de capteurs sont déployées pendant plusieurs
+      mois et les données sont mesurées toutes les minutes à 1 heure.Les capteurs
       sont récupérés pour le déchargement des données en déclenchant la version acoustique
       le cas échéant, en éliminant directement les amarres de surface, ou parfois
-      par plongeurs ou en traînant. Les données du programme de surveillance côtière
-      sont organisées par le comté. Ces ensembles de données sont très importants,
+      par plongeurs ou en traînant.Les données du programme de surveillance côtière
+      sont organisées par le comté.Ces ensembles de données sont très importants,
       dépassant généralement le nombre de lignes qui peuvent être visualisées dans
-      Excel. CMAR recommande d''utiliser les options de filtre du portail de données
+      Excel.CMAR recommande d''utiliser les options de filtre du portail de données
       ouvert pour filtrer le corps d''eau, la station, la profondeur, la variable
-      et / ou l''horodatage d''intérêt avant l''exportation. Un graphique dérivé de
+      et / ou l''horodatage d''intérêt avant l''exportation.Un graphique dérivé de
       l''ensemble de données permet également un filtrage et une exportation interactifs
-      (https://data.novascotia.ca/nature-and-environment/lunburg-ntounty-water-quality-data-dewail-oie-/xg2s-uhbg).
-      Les données de qualité de l''eau pour d''autres comtés de la Nouvelle-Écosse
-      sont également disponibles via le portail de données ouvert. L''ensemble de
-      données "Nova Scotia Water Quality Data: Station Emplacements" sur le portail
-      montre les emplacements avec les données disponibles (https://data.novascotia.ca/nature-and-environment/coastal-monitoring-program-station-locations/cjfb-f4d4
-      ). Les rapports de résumé du comté sont disponibles sur le site Web de CMAR
-      (https://cmar.ca/2020/07/14/Coastal-Monitoring-program/). Les données peuvent
-      également être téléchargées à partir du serveur ERDApp via la plate-forme canadienne
-      du système d''observation des océans (CIOOS) (https://catalogue.cioosatlantic.ca/dataset?q=cmar).
-      La collecte et la récupération des données sont en cours. Certaines données
-      sont exclues de l''ensemble de données final pendant les processus de contrôle
-      de la qualité. Les ensembles de données et les rapports peuvent être révisés
-      en attendant la collecte et les analyses de données en cours. Une note sur les
-      unités: pour les comtés d''Halifax et de Lunenburg, l''oxygène dissous a été
-      mesuré en unités de pourcentage de saturation ou de Mg / L, selon le capteur.
-      Pour tous les autres comtés, l''oxygène dissous a été mesuré en unités de pourcentage
-      de saturation. Les mesures en Mg / L ont été corrigées pour la salinité en utilisant
+      (https://data.novascotia.ca/nature-and-environment/Lunenburg-ntounty-water-quality-data-dewail-verage-/xg2s-uhbg).Les
+      données de qualité de l''eau pour d''autres comtés de la Nouvelle-Écosse sont
+      également disponibles via le portail de données ouvert.L''ensemble de données
+      "Nova Scotia Water Quality Data: Station Locations" sur le portail montre les
+      emplacements avec les données disponibles (https://data.novascotia.ca/nature-and-environment/coastal-monitoring-program-station-locations/cjfb-f4d4).Les
+      rapports de résumé du comté sont disponibles sur le site Web du CMAR (https://cmar.ca/2020/07/14/Coastal-Monitoring-program/).Les
+      données peuvent également être téléchargées à partir du serveur ERDApp via la
+      plate-forme canadienne du système d''observation des océans (CIOOS) (https://catalogue.cioosatlantic.ca/dataset?q=cmar).La
+      collecte et la récupération des données sont en cours.Certaines données sont
+      exclues de l''ensemble de données final pendant les processus de contrôle de
+      la qualité.Les ensembles de données et les rapports peuvent être révisés en
+      attendant la collecte et les analyses de données en cours.Une note sur les unités:
+      pour les comtés d''Halifax et de Lunenburg, l''oxygène dissous a été mesuré
+      en unités de pourcentage de saturation ou de Mg / L, selon le capteur.Pour tous
+      les autres comtés, l''oxygène dissous a été mesuré en unités de pourcentage
+      de saturation.Les mesures en Mg / L ont été corrigées pour la salinité en utilisant
       le facteur de correction de salinité de Garcia-Gordon (1992) avec une valeur
       de salinité de 30,6 unités de salinité pratiques (basées sur les données disponibles
-      pour la région). Ce facteur de correction n''est pas requis pour les valeurs
-      enregistrées en pourcentage de saturation. Veuillez contacter info@cmar.ca pour
-      plus d''informations. Si vous avez accédé à l''une des données du programme
-      de surveillance côtière, CMAR apprécierait vos commentaires via ce questionnaire
-      rapide (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/viewform).
-      Veuillez reconnaître le Center for Marine Applied Research dans tout matériel
-      publié qui utilise ces données. Contient des informations autorisées sous la
-      licence du gouvernement ouvert - la Nouvelle-Écosse. Si vous avez accédé à l''une
-      des données du programme de surveillance côtière, CMAR apprécierait vos commentaires
-      via ce rapide [Questionnaire] (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/View/ViewForm).'
+      pour la région).Ce facteur de correction n''est pas requis pour les valeurs
+      enregistrées en pourcentage de saturation.Veuillez contacter info@cmar.ca pour
+      plus d''informations.Si vous avez accédé à l''une des données du programme de
+      surveillance côtière, CMAR apprécierait vos commentaires via ce questionnaire
+      rapide (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/ViewForm).Veuillez
+      reconnaître le Center for Marine Applied Research dans tout matériel publié
+      qui utilise ces données. Contient des informations sous licence du gouvernement
+      ouvert - Nouvelle-Écosse.Si vous avez accédé à l''une des données du programme
+      de surveillance côtière, CMAR apprécierait vos commentaires via ce rapide [Questionnaire]
+      (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/view/View).'
   dates:
     creation: '2020-10-15'
     publication: '2020-10-15'
-    revision: '2022-01-05'
+    revision: '2022-12-06'
   keywords:
     default:
       en:
@@ -154,7 +153,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2018-02-06T16:04:00.000Z'
+  temporal_begin: '2015-11-17T17:00:00.000Z'
 contact:
 - roles:
   - owner
@@ -174,6 +173,22 @@ distribution:
 - url: https://cioosatlantic.ca/erddap/tabledap/eda5-aubu.html
   name: ERDDAP Data Access
 platform:
+- id: Saddle Island
+  description:
+    en: Saddle Island
+  instruments:
+  - id: HOBO-10034842
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10034873
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Flat Island
   description:
     en: Flat Island
@@ -250,7 +265,97 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-20291452
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21043067
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21083048
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-548039
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20834029
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755230
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291431
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082886
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20834030
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547097
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: aquaMeasure-670355
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755227
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755242
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10817399
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670297
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670298
     manufacturer: Innovasea
     type:
       en: Sensor
@@ -260,6 +365,42 @@ platform:
   description:
     en: Little Rafuse Island
   instruments:
+  - id: HOBO-10194920
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10777103
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10777109
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547088
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670295
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670296
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-20834029
     manufacturer: ONSET
     type:
@@ -292,6 +433,78 @@ platform:
     version: ''
   - id: VR2AR-549341
     manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495228
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20834030
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082882
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082891
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21083051
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-548042
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-675014
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-675008
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291482
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20900965
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21043075
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21043079
+    manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
@@ -400,6 +613,42 @@ platform:
   description:
     en: Upper Blandford
   instruments:
+  - id: HOBO-20827226
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547091
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495235
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20763559
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820377
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820380
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-20834028
     manufacturer: ONSET
     type:
@@ -407,12 +656,6 @@ platform:
       fr: ''
     version: ''
   - id: HOBO-20291467
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20820377
     manufacturer: ONSET
     type:
       en: Sensor
@@ -542,6 +785,48 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-21152416
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291487
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20308050
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20827226
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20900974
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21083049
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-549345
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: aquaMeasure-670365
     manufacturer: Innovasea
     type:
@@ -556,6 +841,48 @@ platform:
     version: ''
   - id: HOBO-20495212
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20834024
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291433
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291444
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20763565
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20900985
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082888
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-548036
+    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
@@ -618,6 +945,54 @@ platform:
   description:
     en: Tilley Point
   instruments:
+  - id: HOBO-20834028
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-548041
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291449
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20308042
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495209
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21043068
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082880
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21152426
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-20687285
     manufacturer: ONSET
     type:
@@ -710,6 +1085,48 @@ platform:
     version: ''
   - id: HOBO-10755230
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10817496
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20922072
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21043066
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082887
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21083050
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21152432
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-550757
+    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
