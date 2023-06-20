@@ -1,0 +1,146 @@
+contact:
+- inCitation: true
+  individual:
+    email: sebastien.donnet@dfo-mpo.gc.ca
+    name: Donnet, Sebastien
+  organization:
+    city: St. John's
+    country: Canada
+    email: sebastien.donnet@dfo-mpo.gc.ca
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+  - owner
+  - distributor
+distribution:
+- description:
+    en: CIOOS Atlantic dataset ERDDAP link
+    fr: Liaison ERDDAP du jeu de données de SIOOC Atlantique
+  name:
+    en: CIOOS Atlantic ERDDAP
+  url: https://cioosatlantic.ca/erddap/tabledap/coast-of-bays-hydrographic-2009-2013.html
+identification:
+  abstract:
+    en: This dataset was compiled as part of a multiyear effort lead by Fisheries
+      and Oceans Canada (DFO) to support sustainable aquaculture regulation in the
+      Coast of Bays, an area of the south coast of Newfoundland. It is the second
+      of a series aiming to provide an oceanographic knowledge baseline of the Coast
+      of Bays.This dataset includes temperature, salinity, and dissolved oxygen concentration
+      profiles collected during CTD surveys, each survey containing a varying number
+      of casts/profiles taken within the area of interest. In total, 760 profiles
+      from 11 surveys, executed over 276 stations, were collected from June 2009 to
+      November 2013. Data were processed and quality controlled using the instrumentation
+      manufacturer guidelines, custom tools as well as visual inspection. Data are
+      provided in tab-delimited text-based format compatible with most data processing
+      language and tools (e.g. MS. Excel) as well as with the Ocean Data View software
+      (https://odv.awi.de/) for rapid visualisation. A summary of the CTD profiles
+      and stations surveyed is also provided as a comma separated values (CSV) file.A
+      full description of the data and of its use in the context of the motivating
+      project can be found in http://www.dfo-mpo.gc.ca/csas-sccs/Publications/ResDocs-DocRech/2017/2017_077-eng.html.
+      Analyses from this dataset were presented during a Canadian Science Advisory
+      Secretariat (CSAS) meeting which took place in St John’s in March 2015 (http://www.dfo-mpo.gc.ca/csas-sccs/schedule-horraire/2015/03_25-26b-eng.html)
+      and from which a Science Advisory Report (http://www.dfo-mpo.gc.ca/csas-sccs/Publications/SAR-AS/2016/2016_039-eng.html)
+      and Proceedings (http://www.dfo-mpo.gc.ca/csas-sccs/Publications/Pro-Cr/2017/2017_043-eng.html)
+      were published.
+    fr: 'Cet ensemble de données a été compilé dans le cadre d''un effort pluriannuel
+      dirigé par Pêches et Océans Canada (MPO) pour appuyer la réglementation de l''aquaculture
+      durable dans la « Coast of Bays », une région de la côte sud de Terre-Neuve.
+      Il s''agit du deuxième d''une série visant à fournir une base de connaissances
+      océanographiques de la Coast of Bays.Cet ensemble de données comprend les profils
+      de température, de salinité et de concentration en oxygène dissous collectés
+      lors de campagnes CTD, chaque campagne contient un nombre variable de profils
+      échantillonnés dans la zone d''intérêt. Au total, 760 profils provenant de 11
+      campagnes, réalisés sur 276 stations, ont été collectés de juin 2009 à novembre
+      2013. Les données ont été traitées et contrôlées pour leur qualité à l''aide
+      des directives du fabricant de l''instrumentation, des outils personnalisés
+      et de contrôle visuel. Les données sont fournies dans un format texte délimité
+      par des tabulations compatible avec la plupart des langages et outils de traitement
+      de données (par exemple, MS Excel) ainsi qu''avec le logiciel Ocean Data View
+      (https://odv.awi.de/) pour une visualisation rapide. Un résumé des profils CTD
+      et des stations est également fourni sous forme de fichier CSV (valeurs séparées
+      par des virgules).Une description complète des données et de leur utilisation
+      dans le contexte du projet de motivation se trouve à l''adresse suivante: http://www.dfo-mpo.gc.ca/csas-sccs/Publications/ResDocs-DocRech/2017/2017_077-fra
+      .html. Les analyses de cet ensemble de données ont été présentées lors d''une
+      réunion du Secrétariat canadien de consultation scientifique (SCCS) qui s''est
+      tenue à St John''s en mars 2015 (http://www.dfo-mpo.gc.ca/csas-sccs/schedule-horraire/2015/
+      03_25-26b-fra.html) et à partir duquel un avis scientifique (http://www.dfo-mpo.gc.ca/csas-sccs/Publications/SAR-AS/2016/2016_039-fra.html)
+      et un compte rendu (http://www.dfo-mpo.gc.ca/csas-sccs/Publications/Pro-Cr/2017/2017_043-fra.html)
+      ont été publiés.'
+  dates:
+    creation: '2009-06-18'
+    publication: '2019-09-16'
+  keywords:
+    default:
+      en:
+      - salinity
+      - sea level
+      - water temperature
+      fr:
+      - salinité
+      - niveau eau
+      - température de l'eau
+    eov:
+      en:
+      - seaSurfaceHeight
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - oxygen
+      fr:
+      - Niveau de l'eau
+      - Température sous la surface
+      - Salinité sous la surface
+      - Oxygène
+  progress_code: completed
+  status: published
+  temporal_begin: '2009-06-18T15:00:00.000Z'
+  temporal_end: '2013-11-03T16:00:00.000Z'
+  title:
+    en: 'Coast of Bays seawater vertical and horizontal structure: Hydrographic structure,
+      spatial variability and seasonality, 2009-2013'
+    fr: 'Structure verticale et horizontale de l''eau de mer de la Coast of Bays:
+      Structure hydrographique, variabilité spatiale et saisonnalité basée sur les
+      levés océanographiques du PRRA, 2009-2013'
+instruments:
+- description:
+    en: 'SBE25#0466 SBE25#304 SBE25#1003 SBE25#0281. See station guide CSV here: https://open.canada.ca/data/en/dataset/a650f132-7502-402f-a42e-7ba4dea3f829'
+    fr: 'SBE25 #0466 SBE25 #304 SBE25 #1003 SBE25 #0281. Voir le guide de la station
+      CSV ici : https://open.canada.ca/data/en/dataset/a650f132-7502-402f-a42e-7ba4dea3f829'
+  id: SBE25
+  manufacturer: Seabird
+  type:
+    en: CTD
+    fr: CTD
+- description:
+    en: 'SBE19#6524 SBE19#6523. See data guide CSV here for more details: https://open.canada.ca/data/en/dataset/a650f132-7502-402f-a42e-7ba4dea3f829'
+    fr: 'SBE19 #6524 SBE19 #6523. Voir le guide de données CSV ici pour plus de détails :
+      https://open.canada.ca/data/en/dataset/a650f132-7502-402f-a42e-7ba4dea3f829'
+  id: SBE19
+  manufacturer: Seabird
+  type:
+    en: CTD
+    fr: CTD
+metadata:
+  dates:
+    publication: '2021-05-14'
+    revision: '2023-06-20T18:21:50.958Z'
+  identifier: 6c7e2879-62d5-4153-ba68-0b3eed16fb8b
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+spatial:
+  bbox:
+  - -56.5
+  - 46.75
+  - -54.5
+  - 48.0
+  vertical:
+  - 5.0
+  - 786.0
