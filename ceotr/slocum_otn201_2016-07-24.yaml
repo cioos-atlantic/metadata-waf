@@ -43,15 +43,17 @@ identification:
       les océans. construit par Teledyne Webb Research Corporation, Falmouth, MA,
       USA.
   dates:
-    creation: '2023-06-20'
+    creation: '2023-06-21'
   keywords:
     eov:
       en:
       - subsurfaceSalinity
       - subsurfaceTemperature
+      - other
       fr:
       - subsurfaceSalinité
       - sous-surfaceTempérature
+      - autre
   progress_code: completed
   status: published
   temporal_begin: '2016-07-24T13:56:00.000Z'
@@ -63,7 +65,7 @@ metadata:
   dates:
     publication: '2018-11-20T16:01:08Z'
     revision: '2018-11-20T16:01:08Z'
-  identifier: 1784c4f5-75df-4579-958a-422dfd0df16b
+  identifier: 1ec04f35-7c73-4216-80d0-bd01d1f1f31d
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

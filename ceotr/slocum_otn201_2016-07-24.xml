@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>1784c4f5-75df-4579-958a-422dfd0df16b</gco:CharacterString>
+        <gco:CharacterString>1ec04f35-7c73-4216-80d0-bd01d1f1f31d</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -703,7 +703,7 @@
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2023-06-20</gco:Date>
+                <gco:Date>2023-06-21</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -1409,6 +1409,9 @@
           <mri:keyword>
             <gco:CharacterString>subsurfaceTemperature</gco:CharacterString>
           </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>other</gco:CharacterString>
+          </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
@@ -1420,6 +1423,13 @@
             <lan:PT_FreeText>
               <lan:textGroup>
                 <lan:LocalisedCharacterString locale="#fr">sous-surfaceTempérature</lan:LocalisedCharacterString>
+              </lan:textGroup>
+            </lan:PT_FreeText>
+          </mri:keyword>
+          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+            <lan:PT_FreeText>
+              <lan:textGroup>
+                <lan:LocalisedCharacterString locale="#fr">autre</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
