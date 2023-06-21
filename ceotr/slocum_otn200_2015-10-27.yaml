@@ -1,0 +1,125 @@
+contact:
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+  - en: High resolution ERDDAP datasets
+    fr: Jeux de données ERDDAP haute résolution
+  url: https://data.ceotr.ca/erddap/tabledap/otn200_20151027_53_delayed.html
+identification:
+  abstract:
+    en: DMON deployment for Offshore Halifax Testing. Slocum gliders are small, free-swimming,
+      unmanned vehicles that use changes in buoyancy to move vertically and horizontally
+      through the water column in a saw-tooth pattern. They are deployed for days
+      to several months and gather detailed information about the physical, chemical
+      and biological processes of the world's oceans. The Slocum glider was designed
+      and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.
+    fr: Déploiement DMON pour les tests offshore à Halifax. Les planeurs Slocum sont
+      de petits véhicules sans pilote à nage libre qui utilisent les changements de
+      flottabilité pour se déplacer verticalement et horizontalement dans la colonne
+      d'eau selon un motif en dents de scie. Ils sont déployés pendant des jours à
+      plusieurs mois et recueillent des informations détaillées sur les processus
+      physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
+      été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
+      USA.
+  dates:
+    creation: '2023-06-20'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - oxygen
+      fr:
+      - subsurfaceSalinité
+      - sous-surfaceTempérature
+      - oxygène
+  progress_code: completed
+  status: published
+  temporal_begin: '2015-10-27T14:25:00.000Z'
+  temporal_end: '2015-11-18T03:42:00.000Z'
+  title:
+    en: WHaLE in Northwest Atlantic Ocean 2015-10-27
+    fr: BALEINE dans l'océan Atlantique Nord-Ouest 2015-10-27
+metadata:
+  dates:
+    publication: '2022-03-21T18:00:23Z'
+    revision: '2022-03-21T18:00:23Z'
+  identifier: 1e327ef5-2d1f-4f82-a7c5-ab3b3f73a79d
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: otn200
+  instruments:
+  - description:
+      en: science computer measured
+      fr: ordinateur scientifique mesuré
+    id: instrument_science_measured
+  - description:
+      en: Glider Payload CTD
+      fr: Charge utile du planeur CTD
+    id: instrument_ctd
+    manufacturer: Sea-Bird Scientific
+  - description:
+      en: Optode 5013w
+      fr: Optode 5013w
+    id: instrument_oxygen_optode
+    manufacturer: Aanderaa Data Instruments AS
+  - description:
+      en: ECO Triplet
+      fr: Triplet ECO
+    id: instrument_fluorometer
+    manufacturer: Wet Labs
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  - description:
+      en: ECO Triplet
+      fr: Triplet ECO
+    id: instrument_fluorometer
+    manufacturer: Wet Labs
+  - description:
+      en: Slocum Glider G2 200 m piston pump
+      fr: Pompe à piston Slocum Glider G2 200 m
+    id: instrument_bpump
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: OCR 504 Multispectral Radiometer
+      fr: Radiomètre multispectral OCR 504
+    id: instrument_radiometer
+    manufacturer: Satlantic Incorporated
+  type: glider
+spatial:
+  bbox:
+  - -61.942038
+  - 44.55202
+  - -63.45263
+  - 43.053137
+  vertical:
+  - 0.0
+  - 199.32200622558594

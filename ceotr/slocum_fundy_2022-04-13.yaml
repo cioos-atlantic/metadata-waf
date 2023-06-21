@@ -1,0 +1,104 @@
+contact:
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+  - en: High resolution ERDDAP datasets
+    fr: Jeux de données ERDDAP haute résolution
+  url: https://data.ceotr.ca/erddap/tabledap/fundy_20220413_149_delayed_test.html
+identification:
+  abstract:
+    en: Offshore Halifax Platform Test. Slocum gliders are small, free-swimming, unmanned
+      vehicles that use changes in buoyancy to move vertically and horizontally through
+      the water column in a saw-tooth pattern. They are deployed for days to several
+      months and gather detailed information about the physical, chemical and biological
+      processes of the world's oceans. The Slocum glider was designed and built by
+      Teledyne Webb Research Corporation, Falmouth, MA, USA.
+    fr: Essai de la plate-forme offshore d'Halifax. Les planeurs Slocum sont de petits
+      véhicules sans pilote à nage libre qui utilisent les changements de flottabilité
+      pour se déplacer verticalement et horizontalement dans la colonne d'eau selon
+      un motif en dents de scie. Ils sont déployés pendant des jours à plusieurs mois
+      et recueillent des informations détaillées sur les processus physiques, chimiques
+      et biologiques des océans du monde. Le planeur Slocum a été conçu et construit
+      par Teledyne Webb Research Corporation, Falmouth, MA, USA.
+  dates:
+    creation: '2023-06-20'
+  keywords:
+    eov:
+      en:
+      - oxygen
+      fr:
+      - oxygène
+  progress_code: completed
+  status: published
+  temporal_begin: '2022-04-13T18:57:00.000Z'
+  temporal_end: '2022-04-14T18:27:28.000Z'
+  title:
+    en: CEOTR Test Missions in Northwest Atlantic Ocean 2022-04-13
+    fr: Missions d'essai du CEOTR dans l'Atlantique Nord-Ouest 2022-04-13
+metadata:
+  dates:
+    publication: '2022-12-05T14:00:20Z'
+    revision: '2022-12-05T14:00:20Z'
+  identifier: 58c1c5e2-a846-4ccb-bb80-3bc5b86c8369
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: fundy
+  instruments:
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  - description:
+      en: Optode 4831
+      fr: Optode 4831
+    id: instrument_oxygen_optode
+    manufacturer: Aanderaa Data Instruments AS
+  - description:
+      en: Slocum Glider Science Payload Bay
+      fr: Baie de charge utile Slocum Glider Science
+    id: instrument_Science_Bay
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument de surveillance acoustique numérique
+    id: instrument_dmon2
+    manufacturer: Woods Hole Oceanographic Institution
+    type:
+      en: "DMON2- Payload Integrated System\r\nSO-A81"
+      fr: "DMON2- Système intégré de charge utile\r\nSO-A81"
+  type: glider
+spatial:
+  bbox:
+  - -63.301222
+  - 44.520993
+  - -63.388867
+  - 44.485105
+  vertical:
+  - 0.0
+  - 77.30770111083984

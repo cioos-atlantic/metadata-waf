@@ -1,0 +1,134 @@
+contact:
+- inCitation: true
+  individual:
+    name: Davies, Kim
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+  - en: realtime ERDDAP datasets
+    fr: ensembles de données ERDDAP en temps réel
+  url: https://data.ceotr.ca/erddap/tabledap/dal556_20180610_85_realtime.html
+- description:
+  - en: High resolution ERDDAP datasets
+    fr: Jeux de données ERDDAP haute résolution
+  url: https://data.ceotr.ca/erddap/tabledap/dal556_20180610_85_delayed.html
+identification:
+  abstract:
+    en: 'Glider deployment #85 - dal556 2018-06-10 (delayed). Slocum gliders are small,
+      free-swimming, unmanned vehicles that use changes in buoyancy to move vertically
+      and horizontally through the water column in a saw-tooth pattern. They are deployed
+      for days to several months and gather detailed information about the physical,
+      chemical and biological processes of the world''s oceans. The Slocum glider
+      was designed and built by Teledyne Webb Research Corporation, Falmouth, MA,
+      USA.'
+    fr: 'Déploiement du planeur #85 - dal556 2018-06-10 (retardé). Les planeurs Slocum
+      sont de petits véhicules sans pilote à nage libre qui utilisent les changements
+      de flottabilité pour se déplacer verticalement et horizontalement dans la colonne
+      d''eau selon un motif en dents de scie. Ils sont déployés pendant des jours
+      à plusieurs mois et recueillent des informations détaillées sur les processus
+      physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
+      été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
+      USA.'
+  dates:
+    creation: '2023-06-20'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      fr:
+      - subsurfaceSalinité
+      - sous-surfaceTempérature
+  progress_code: completed
+  status: published
+  temporal_begin: '2018-06-10T19:07:32.000Z'
+  temporal_end: '2018-10-02T15:00:00.000Z'
+  title:
+    en: WHaLE in Gulf of St. Lawrence 2018-06-10
+    fr: BALEINE dans le golfe du Saint-Laurent 2018-06-10
+metadata:
+  dates:
+    publication: '2021-09-27T22:02:41Z'
+    revision: '2021-09-27T22:02:41Z'
+  identifier: bae93e36-8a7b-4152-ac8e-a7895765be4d
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: dal556
+  instruments:
+  - description:
+      en: Glider Payload CTD
+      fr: Charge utile du planeur CTD
+    id: instrument_ctd
+    manufacturer: Sea-Bird Scientific
+  - description:
+      en: ECO Triplet
+      fr: Triplet ECO
+    id: instrument_fluorometer
+    manufacturer: Wet Labs
+  - description:
+      en: flight computer measured
+      fr: calculateur de vol mesuré
+    id: instrument_flight_measured
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: flight computer commanded
+      fr: calculateur de vol commandé
+    id: instrument_flight_commanded
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: ECO Triplet
+      fr: Triplet ECO
+    id: instrument_fluorometer
+    manufacturer: Wet Labs
+  - description:
+      en: Slocum Glider G2 200 m piston pump
+      fr: Pompe à piston Slocum Glider G2 200 m
+    id: instrument_bpump
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: OCR 504 Multispectral Radiometer
+      fr: Radiomètre multispectral OCR 504
+    id: instrument_radiometer
+    manufacturer: Satlantic Incorporated
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  type: glider
+spatial:
+  bbox:
+  - -63.037403
+  - 48.305362
+  - -64.058272
+  - 47.771008
+  vertical:
+  - 0.0
+  - 140.918

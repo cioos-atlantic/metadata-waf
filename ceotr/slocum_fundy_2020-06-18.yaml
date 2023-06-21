@@ -1,0 +1,123 @@
+contact:
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+  - en: High resolution ERDDAP datasets
+    fr: Jeux de données ERDDAP haute résolution
+  url: https://data.ceotr.ca/erddap/tabledap/fundy_20200618_113_delayed_test.html
+identification:
+  abstract:
+    en: Offshore Halifax Testing. Slocum gliders are small, free-swimming, unmanned
+      vehicles that use changes in buoyancy to move vertically and horizontally through
+      the water column in a saw-tooth pattern. They are deployed for days to several
+      months and gather detailed information about the physical, chemical and biological
+      processes of the world's oceans. The Slocum glider was designed and built by
+      Teledyne Webb Research Corporation, Falmouth, MA, USA.
+    fr: Essais au large d'Halifax. Les planeurs Slocum sont de petits véhicules sans
+      pilote à nage libre qui utilisent les changements de flottabilité pour se déplacer
+      verticalement et horizontalement dans la colonne d'eau selon un motif en dents
+      de scie. Ils sont déployés pendant des jours à plusieurs mois et recueillent
+      des informations détaillées sur les processus physiques, chimiques et biologiques
+      des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne
+      Webb Research Corporation, Falmouth, MA, USA.
+  dates:
+    creation: '2023-06-20'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      fr:
+      - subsurfaceSalinité
+      - sous-surfaceTempérature
+  progress_code: completed
+  status: published
+  temporal_begin: '2020-06-18T15:13:00.000Z'
+  temporal_end: '2020-06-26T13:30:00.000Z'
+  title:
+    en: WHaLE in Northwest Atlantic Ocean 2020-06-18
+    fr: BALEINE dans l'océan Atlantique Nord-Ouest 2020-06-18
+metadata:
+  dates:
+    publication: '2022-03-15T02:47:56Z'
+    revision: '2022-03-15T02:47:56Z'
+  identifier: b23f0f07-18ea-4023-9d64-8812a00e711e
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: fundy
+  instruments:
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument de surveillance acoustique numérique
+    id: instrument_dmon
+    manufacturer: Woods Hole Oceanographic Institution
+  - description:
+      en: Slocum Glider G3 350 m oil pump
+      fr: Pompe à huile Slocum Glider G3 350m
+    id: instrument_bpump
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: flight computer commanded
+      fr: calculateur de vol commandé
+    id: instrument_flight_commanded
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: flight computer measured
+      fr: calculateur de vol mesuré
+    id: instrument_flight_measured
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: Glider Payload CTD
+      fr: Charge utile du planeur CTD
+    id: instrument_ctd
+    manufacturer: Sea-Bird Scientific
+  - description:
+      en: Slocum Glider Science Payload Bay
+      fr: Baie de charge utile Slocum Glider Science
+    id: instrument_Science_Bay
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: AZFP
+      fr: AZFP
+    id: instrument_echosounder
+    manufacturer: ASL Environmental Sciences
+  type: glider
+spatial:
+  bbox:
+  - -63.209895
+  - 44.516182
+  - -63.370268
+  - 44.284258
+  vertical:
+  - 0.0
+  - 155.80299377441406

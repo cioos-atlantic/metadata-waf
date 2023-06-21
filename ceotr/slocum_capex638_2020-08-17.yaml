@@ -1,0 +1,110 @@
+contact:
+- inCitation: true
+  individual:
+    name: Davies, Kim
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+  - en: High resolution ERDDAP datasets
+    fr: Jeux de données ERDDAP haute résolution
+  url: https://data.ceotr.ca/erddap/tabledap/capex638_20200817_124_delayed.html
+identification:
+  abstract:
+    en: DMON Deployment in Laurentian Channel. Slocum gliders are small, free-swimming,
+      unmanned vehicles that use changes in buoyancy to move vertically and horizontally
+      through the water column in a saw-tooth pattern. They are deployed for days
+      to several months and gather detailed information about the physical, chemical
+      and biological processes of the world's oceans. The Slocum glider was designed
+      and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.
+    fr: Déploiement DMON dans le chenal Laurentien. Les planeurs Slocum sont de petits
+      véhicules sans pilote à nage libre qui utilisent les changements de flottabilité
+      pour se déplacer verticalement et horizontalement dans la colonne d'eau selon
+      un motif en dents de scie. Ils sont déployés pendant des jours à plusieurs mois
+      et recueillent des informations détaillées sur les processus physiques, chimiques
+      et biologiques des océans du monde. Le planeur Slocum a été conçu et construit
+      par Teledyne Webb Research Corporation, Falmouth, MA, USA.
+  dates:
+    creation: '2023-06-20'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      fr:
+      - subsurfaceSalinité
+      - sous-surfaceTempérature
+  progress_code: completed
+  status: published
+  temporal_begin: '2020-08-17T02:55:37.000Z'
+  temporal_end: '2020-11-12T18:26:45.000Z'
+  title:
+    en: Laurentian Channel real time whale monitoring for dynamic shipping management
+      in Gulf of St. Lawrence 2020-08-17
+    fr: Surveillance en temps réel des baleines dans le chenal Laurentien pour une
+      gestion dynamique de la navigation dans le golfe du Saint-Laurent 2020-08-17
+metadata:
+  dates:
+    publication: '2022-04-28T23:56:38Z'
+    revision: '2022-04-28T23:56:38Z'
+  identifier: 3264071e-4d41-49b2-83b4-efb4f572084d
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: capex638
+  instruments:
+  - description:
+      en: Glider Payload CTD
+      fr: Charge utile du planeur CTD
+    id: instrument_ctd
+    manufacturer: Sea-Bird Scientific
+  - description:
+      en: flight computer measured
+      fr: calculateur de vol mesuré
+    id: instrument_flight_measured
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: flight computer commanded
+      fr: calculateur de vol commandé
+    id: instrument_flight_commanded
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument de surveillance acoustique numérique
+    id: instrument_dmon
+    manufacturer: Woods Hole Oceanographic Institution
+  type: glider
+spatial:
+  bbox:
+  - -60.024022
+  - 48.900798
+  - -63.011225
+  - 46.873235
+  vertical:
+  - -0.0
+  - 346.95001220703125

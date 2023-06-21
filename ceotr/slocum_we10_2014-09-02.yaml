@@ -1,0 +1,75 @@
+contact:
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+  - en: High resolution ERDDAP datasets
+    fr: Jeux de données ERDDAP haute résolution
+  url: https://data.ceotr.ca/erddap/tabledap/we10_20140902_58_delayed.html
+identification:
+  abstract:
+    en: 58. Slocum gliders are small, free-swimming, unmanned vehicles that use changes
+      in buoyancy to move vertically and horizontally through the water column in
+      a saw-tooth pattern. They are deployed for days to several months and gather
+      detailed information about the physical, chemical and biological processes of
+      the world's oceans. The Slocum glider was designed and built by Teledyne Webb
+      Research Corporation, Falmouth, MA, USA.
+    fr: 58. Les planeurs Slocum sont de petits véhicules autonomes à nage libre qui
+      utilisent les changements de flottabilité pour se déplacer verticalement et
+      horizontalement dans la colonne d'eau en dents de scie. Ils sont déployés pendant
+      des jours à plusieurs mois et recueillent des informations détaillées sur les
+      processus physiques, chimiques et biologiques des océans du monde. Le planeur
+      Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth,
+      MA, USA.
+  dates:
+    creation: '2023-06-20'
+  keywords: {}
+  progress_code: completed
+  status: published
+  temporal_begin: '2014-09-02T18:13:44.000Z'
+  temporal_end: '2014-09-24T13:36:59.000Z'
+  title:
+    en: Halifax Line Monitoring in Northwest Atlantic Ocean 2014-09-02
+    fr: Surveillance de la ligne Halifax dans l'océan Atlantique Nord-Ouest 2014-09-02
+metadata:
+  dates:
+    publication: '2022-03-21T22:59:13Z'
+    revision: '2022-03-21T22:59:13Z'
+  identifier: 262c034e-e771-49a4-ab62-fc0d5cfbea04
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: we10
+  type: glider
+spatial:
+  bbox:
+  - -64.79135
+  - 43.583895
+  - -65.482612
+  - 42.810472
+  vertical:
+  - 0.0
+  - 173.8459930419922
