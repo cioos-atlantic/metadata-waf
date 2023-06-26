@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>262c034e-e771-49a4-ab62-fc0d5cfbea04</gco:CharacterString>
+        <gco:CharacterString>55d16219-8fc6-492a-8f67-2e45fa8a118f</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -703,7 +703,7 @@
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2023-06-20</gco:Date>
+                <gco:Date>2023-06-21</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -1377,6 +1377,27 @@
               <cit:edition>
                 <gco:CharacterString>N/A</gco:CharacterString>
               </cit:edition>
+            </cit:CI_Citation>
+          </mri:thesaurusName>
+        </mri:MD_Keywords>
+      </mri:descriptiveKeywords>
+      <mri:descriptiveKeywords>
+        <mri:MD_Keywords>
+          <mri:keyword>
+            <gco:CharacterString>other</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+            <lan:PT_FreeText>
+              <lan:textGroup>
+                <lan:LocalisedCharacterString locale="#fr">autre</lan:LocalisedCharacterString>
+              </lan:textGroup>
+            </lan:PT_FreeText>
+          </mri:keyword>
+          <mri:thesaurusName>
+            <cit:CI_Citation>
+              <cit:title>
+                <gco:CharacterString>eov</gco:CharacterString>
+              </cit:title>
             </cit:CI_Citation>
           </mri:thesaurusName>
         </mri:MD_Keywords>

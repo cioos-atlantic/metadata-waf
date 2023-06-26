@@ -42,8 +42,13 @@ identification:
       du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
       Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-20'
-  keywords: {}
+    creation: '2023-06-21'
+  keywords:
+    eov:
+      en:
+      - other
+      fr:
+      - autre
   progress_code: completed
   status: published
   temporal_begin: '2019-07-24T16:43:00.000Z'
@@ -55,7 +60,7 @@ metadata:
   dates:
     publication: '2022-03-22T02:51:14Z'
     revision: '2022-03-22T02:51:14Z'
-  identifier: 41f8a0f1-9772-4b44-8894-ea20acfbd9f5
+  identifier: 5e427351-b0ca-4a31-8590-d86f92eb50b8
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

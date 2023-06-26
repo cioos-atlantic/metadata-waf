@@ -38,17 +38,19 @@ identification:
       des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne
       Webb Research Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-20'
+    creation: '2023-06-21'
   keywords:
     eov:
       en:
+      - oxygen
       - subsurfaceSalinity
       - subsurfaceTemperature
-      - oxygen
+      - other
       fr:
+      - oxygène
       - subsurfaceSalinité
       - sous-surfaceTempérature
-      - oxygène
+      - autre
   progress_code: completed
   status: published
   temporal_begin: '2015-03-31T13:16:14.000Z'
@@ -60,7 +62,7 @@ metadata:
   dates:
     publication: '2022-03-21T02:09:12Z'
     revision: '2022-03-21T02:09:12Z'
-  identifier: 22be8597-6bc4-4045-bd22-44643010d3d0
+  identifier: 33c0a203-7412-40db-b7fe-347d7988a573
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

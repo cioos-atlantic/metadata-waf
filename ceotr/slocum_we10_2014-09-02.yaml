@@ -38,8 +38,13 @@ identification:
       Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth,
       MA, USA.
   dates:
-    creation: '2023-06-20'
-  keywords: {}
+    creation: '2023-06-21'
+  keywords:
+    eov:
+      en:
+      - other
+      fr:
+      - autre
   progress_code: completed
   status: published
   temporal_begin: '2014-09-02T18:13:44.000Z'
@@ -51,7 +56,7 @@ metadata:
   dates:
     publication: '2022-03-21T22:59:13Z'
     revision: '2022-03-21T22:59:13Z'
-  identifier: 262c034e-e771-49a4-ab62-fc0d5cfbea04
+  identifier: 55d16219-8fc6-492a-8f67-2e45fa8a118f
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

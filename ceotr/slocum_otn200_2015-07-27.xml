@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>61e98d42-90c2-48b5-a3f1-b8cc75dd9164</gco:CharacterString>
+        <gco:CharacterString>ec91eeaa-fc26-40c3-a1ae-81fbf319b0cc</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -703,7 +703,7 @@
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2023-06-20</gco:Date>
+                <gco:Date>2023-06-21</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -1384,13 +1384,23 @@
       <mri:descriptiveKeywords>
         <mri:MD_Keywords>
           <mri:keyword>
+            <gco:CharacterString>oxygen</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
             <gco:CharacterString>subsurfaceSalinity</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>subsurfaceTemperature</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>oxygen</gco:CharacterString>
+            <gco:CharacterString>other</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+            <lan:PT_FreeText>
+              <lan:textGroup>
+                <lan:LocalisedCharacterString locale="#fr">oxygène</lan:LocalisedCharacterString>
+              </lan:textGroup>
+            </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
@@ -1409,7 +1419,7 @@
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">oxygène</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">autre</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>

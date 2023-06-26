@@ -49,15 +49,17 @@ identification:
       été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
       USA.'
   dates:
-    creation: '2023-06-20'
+    creation: '2023-06-21'
   keywords:
     eov:
       en:
       - subsurfaceSalinity
       - subsurfaceTemperature
+      - other
       fr:
       - subsurfaceSalinité
       - sous-surfaceTempérature
+      - autre
   progress_code: completed
   status: published
   temporal_begin: '2018-06-10T19:07:32.000Z'
@@ -69,7 +71,7 @@ metadata:
   dates:
     publication: '2021-09-27T22:02:41Z'
     revision: '2021-09-27T22:02:41Z'
-  identifier: bae93e36-8a7b-4152-ac8e-a7895765be4d
+  identifier: 4eaec6e1-df71-4c2a-97b8-cf81ff0f6658
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

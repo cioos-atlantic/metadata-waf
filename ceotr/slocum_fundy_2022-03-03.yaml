@@ -44,15 +44,17 @@ identification:
       Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth,
       MA, USA.
   dates:
-    creation: '2023-06-20'
+    creation: '2023-06-21'
   keywords:
     eov:
       en:
       - subsurfaceSalinity
       - subsurfaceTemperature
+      - other
       fr:
       - subsurfaceSalinité
       - sous-surfaceTempérature
+      - autre
   progress_code: completed
   status: published
   temporal_begin: '2022-03-03T13:37:58.000Z'
@@ -64,7 +66,7 @@ metadata:
   dates:
     publication: '2022-03-22T17:49:10Z'
     revision: '2022-03-22T17:49:10Z'
-  identifier: c0da3a07-d6e9-4183-9cf4-b6b76fc3957b
+  identifier: 24c48d5c-d905-4b68-9dbe-1b0070bb5dd5
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
