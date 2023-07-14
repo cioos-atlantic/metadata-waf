@@ -12,16 +12,16 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-07-21T19:18:45.699Z'
-    publication: '2022-07-21'
+    revision: '2023-04-18T17:21:54.971Z'
+    publication: '2023-04-18'
 spatial:
   bbox:
-  - -62.66088
+  - -62.770311
   - 45.34641
-  - -62.468
-  - 45.65
+  - -62.411667
+  - 45.75625
   vertical:
-  - 1.0
+  - 0.5
   - 8.0
 identification:
   title:
@@ -72,7 +72,7 @@ identification:
   dates:
     creation: '2021-01-19'
     publication: '2021-01-19'
-    revision: '2022-01-05'
+    revision: '2022-12-06'
   keywords:
     default:
       en:
@@ -105,7 +105,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2020-01-15T17:47:22.000Z'
+  temporal_begin: '2017-07-24T09:00:00.000Z'
 contact:
 - roles:
   - owner
@@ -125,6 +125,42 @@ distribution:
 - url: https://cioosatlantic.ca/erddap/tabledap/adpu-nyt8.html
   name: ERDDAP Data Access
 platform:
+- id: Waterside
+  description:
+    en: Waterside
+  instruments:
+  - id: HOBO-10755242
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Inner Harbour
+  description:
+    en: Inner Harbour
+  instruments:
+  - id: HOBO-10779129
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Robinson Cove
+  description:
+    en: Robinson Cove
+  instruments:
+  - id: HOBO-10777103
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291479
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Melmerby Beach
   description:
     en: Melmerby Beach
@@ -137,6 +173,28 @@ platform:
     version: ''
   - id: VR2AR-549345
     manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291467
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Back Harbour
+  description:
+    en: Back Harbour
+  instruments:
+  - id: HOBO-20291480
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10194920
+    manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
@@ -159,6 +217,36 @@ platform:
     version: ''
   - id: VR2AR-549347
     manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20687286
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-549339
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21043074
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-548039
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-675008
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''

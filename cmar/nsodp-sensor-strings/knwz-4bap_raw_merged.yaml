@@ -12,16 +12,16 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-07-21T19:22:37.483Z'
-    publication: '2022-07-21'
+    revision: '2023-04-18T17:27:56.436Z'
+    publication: '2023-04-18'
 spatial:
   bbox:
   - -65.711933
   - 44.634167
   - -65.64477
-  - 44.6782
+  - 44.678248
   vertical:
-  - 1.0
+  - 0.5
   - 6.0
 identification:
   title:
@@ -72,7 +72,7 @@ identification:
   dates:
     creation: '2021-01-18'
     publication: '2021-01-18'
-    revision: '2022-01-05'
+    revision: '2022-12-06'
   keywords:
     default:
       en:
@@ -105,7 +105,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2020-06-11T20:45:06.000Z'
+  temporal_begin: '2020-06-11T20:45:00.000Z'
 contact:
 - roles:
   - owner
@@ -125,6 +125,16 @@ distribution:
 - url: https://cioosatlantic.ca/erddap/tabledap/knwz-4bap.html
   name: ERDDAP Data Access
 platform:
+- id: '1042'
+  description:
+    en: '1042'
+  instruments:
+  - id: aquaMeasure-671014
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: '5005'
   description:
     en: '5005'
@@ -197,6 +207,24 @@ platform:
     version: ''
   - id: HOBO-20820380
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082889
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547094
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670356
+    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''

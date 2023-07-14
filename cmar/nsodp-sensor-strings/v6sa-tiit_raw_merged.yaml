@@ -12,14 +12,14 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-07-21T19:23:52.800Z'
-    publication: '2022-07-21'
+    revision: '2023-04-18T17:30:22.062Z'
+    publication: '2023-04-18'
 spatial:
   bbox:
   - -61.0913
   - 45.49028
   - -60.7611
-  - 45.6026
+  - 45.6595477
   vertical:
   - 1.5
   - 30.0
@@ -72,7 +72,7 @@ identification:
   dates:
     creation: '2021-01-20'
     publication: '2021-01-20'
-    revision: '2022-01-05'
+    revision: '2022-12-06'
   keywords:
     default:
       en:
@@ -161,6 +161,30 @@ platform:
   description:
     en: Cape Auguet
   instruments:
+  - id: HOBO-20291430
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291447
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-549346
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670378
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: aquaMeasure-670369
     manufacturer: Innovasea
     type:
@@ -282,6 +306,26 @@ platform:
       fr: ''
     version: ''
   - id: HOBO-20495251
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: St. Peters Canal - N
+  description:
+    en: St. Peters Canal - N
+  instruments:
+  - id: HOBO-10817499
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: St. Peters Canal - S
+  description:
+    en: St. Peters Canal - S
+  instruments:
+  - id: HOBO-10778915
     manufacturer: ONSET
     type:
       en: Sensor

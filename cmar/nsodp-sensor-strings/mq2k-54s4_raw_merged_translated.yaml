@@ -12,13 +12,13 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-07-21T19:27:33.140Z'
-    publication: '2022-07-21'
+    revision: '2023-04-18T17:36:17.479Z'
+    publication: '2023-04-18'
 spatial:
   bbox:
-  - -65.43374
-  - 43.468
-  - -65.008796
+  - -65.73784
+  - 43.467597
+  - -65.008349
   - 43.7169
   vertical:
   - 2.0
@@ -70,59 +70,58 @@ identification:
       data, CMAR would appreciate your feedback through this quick [questionaire](https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform).'
     fr: 'Le Center for Marine Applied Research (CMAR) mesure les variables océaniques
       essentielles dans les eaux côtières de la Nouvelle-Écosse dans le cadre du programme
-      de surveillance côtière. Ce programme a été lancé par le Département de la pêche
-      et de l''aquaculture de la Nouvelle-Écosse en 2012 et CMAR s''est impliqué en
-      2017. CMAR recueille les données de qualité de l''eau (température, oxygène
+      de surveillance côtière.Ce programme a été lancé par le Département de la pêche
+      et de l''aquaculture de la Nouvelle-Écosse en 2012 et le CMAR s''est impliqué
+      en 2017. CMAR recueille les données de qualité de l''eau (température, oxygène
       dissous et salinité intermittente) en utilisant des capteurs autonomes déployés
-      sur des «cordes de capteurs». Une chaîne de capteur se compose généralement
-      d''une ligne ancrée au fond de la mer par une libération acoustique et suspendue
-      par une bouée sous-surface, avec des capteurs attachés à différentes profondeurs
-      sous la surface (comme mesuré à marée basse). Alternativement, une chaîne peut
+      sur des «chaînes de capteurs».Une chaîne de capteurs se compose généralement
+      d''une ligne ancrée au fond marin par une libération acoustique et suspendue
+      par une bouée de sous-surface, avec des capteurs attachés à différentes profondeurs
+      sous la surface (tel que mesuré à marée basse).Alternativement, une chaîne peut
       être attachée aux amarres de surface, y compris des quais flottants, des bouées
-      et de l''équipement. Les chaînes de capteurs sont déployées pendant plusieurs
-      mois et les données sont mesurées toutes les minutes à 1 heure. Les capteurs
+      et de l''équipement.Les chaînes de capteurs sont déployées pendant plusieurs
+      mois et les données sont mesurées toutes les minutes à 1 heure.Les capteurs
       sont récupérés pour le déchargement des données en déclenchant la version acoustique
       le cas échéant, en éliminant directement les amarres de surface, ou parfois
-      par plongeurs ou en traînant. Les données du programme de surveillance côtière
-      sont organisées par le comté. Ces ensembles de données sont très importants,
+      par plongeurs ou en traînant.Les données du programme de surveillance côtière
+      sont organisées par le comté.Ces ensembles de données sont très importants,
       dépassant généralement le nombre de lignes qui peuvent être visualisées dans
-      Excel. CMAR recommande d''utiliser les options de filtre du portail de données
+      Excel.CMAR recommande d''utiliser les options de filtre du portail de données
       ouvert pour filtrer le corps d''eau, la station, la profondeur, la variable
-      et / ou l''horodatage d''intérêt avant l''exportation. Un graphique dérivé de
-      l''ensemble de données permet également un filtrage interactif et une exportation
-      (https://data.novascotia.ca/nature-and-environment/shelburne-nunty-water-quality-data-dewail-oyer-/5ech-4c5t).
-      Les données de qualité de l''eau pour d''autres comtés de la Nouvelle-Écosse
-      sont également disponibles via le portail de données ouvert. L''ensemble de
-      données "Nova Scotia Water Quality Data: Station Emplacements" sur le portail
-      montre les emplacements avec les données disponibles (https://data.novascotia.ca/nature-and-environment/coastal-monitoring-program-station-locations/cjfb-f4d4
-      ). Les rapports de résumé du comté sont disponibles sur le site Web de CMAR
-      (https://cmar.ca/2020/07/14/Coastal-Monitoring-program/). Les données peuvent
-      également être téléchargées à partir du serveur ERDApp via la plate-forme canadienne
-      du système d''observation des océans (CIOOS) (https://catalogue.cioosatlantic.ca/dataset?q=cmar).
-      La collecte et la récupération des données sont en cours. Certaines données
-      sont exclues de l''ensemble de données final pendant les processus de contrôle
-      de la qualité. Les ensembles de données et les rapports peuvent être révisés
-      en attendant la collecte et les analyses de données en cours. Une note sur les
-      unités: pour les comtés d''Halifax et de Lunenburg, l''oxygène dissous a été
-      mesuré en unités de pourcentage de saturation ou de Mg / L, selon le capteur.
-      Pour tous les autres comtés, l''oxygène dissous a été mesuré en unités de pourcentage
-      de saturation. Les mesures en Mg / L ont été corrigées pour la salinité en utilisant
+      et / ou l''horodatage d''intérêt avant l''exportation.Un graphique dérivé de
+      l''ensemble de données permet également un filtrage et une exportation interactifs
+      (https://data.novascotia.ca/nature-and-environment/shelburne-nunty-water-quality-data-dewail-eux-/5ech-4c5t).Les
+      données de qualité de l''eau pour d''autres comtés de la Nouvelle-Écosse sont
+      également disponibles via le portail de données ouvert.L''ensemble de données
+      "Nova Scotia Water Quality Data: Station Locations" sur le portail montre les
+      emplacements avec les données disponibles (https://data.novascotia.ca/nature-and-environment/coastal-monitoring-program-station-locations/cjfb-f4d4).Les
+      rapports de résumé du comté sont disponibles sur le site Web du CMAR (https://cmar.ca/2020/07/14/Coastal-Monitoring-program/).Les
+      données peuvent également être téléchargées à partir du serveur ERDApp via la
+      plate-forme canadienne du système d''observation des océans (CIOOS) (https://catalogue.cioosatlantic.ca/dataset?q=cmar).La
+      collecte et la récupération des données sont en cours.Certaines données sont
+      exclues de l''ensemble de données final pendant les processus de contrôle de
+      la qualité.Les ensembles de données et les rapports peuvent être révisés en
+      attendant la collecte et les analyses de données en cours.Une note sur les unités:
+      pour les comtés d''Halifax et de Lunenburg, l''oxygène dissous a été mesuré
+      en unités de pourcentage de saturation ou de Mg / L, selon le capteur.Pour tous
+      les autres comtés, l''oxygène dissous a été mesuré en unités de pourcentage
+      de saturation.Les mesures en Mg / L ont été corrigées pour la salinité en utilisant
       le facteur de correction de salinité de Garcia-Gordon (1992) avec une valeur
       de salinité de 30,6 unités de salinité pratiques (basées sur les données disponibles
-      pour la région). Ce facteur de correction n''est pas requis pour les valeurs
-      enregistrées en pourcentage de saturation. Veuillez contacter info@cmar.ca pour
-      plus d''informations. Si vous avez accédé à l''une des données du programme
-      de surveillance côtière, CMAR apprécierait vos commentaires via ce questionnaire
-      rapide (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/viewform).
-      Veuillez reconnaître le Center for Marine Applied Research dans tout matériel
-      publié qui utilise ces données. Contient des informations autorisées sous la
-      licence du gouvernement ouvert - la Nouvelle-Écosse. Si vous avez accédé à l''une
-      des données du programme de surveillance côtière, CMAR apprécierait vos commentaires
-      via ce rapide [Questionnaire] (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/View/ViewForm).'
+      pour la région).Ce facteur de correction n''est pas requis pour les valeurs
+      enregistrées en pourcentage de saturation.Veuillez contacter info@cmar.ca pour
+      plus d''informations.Si vous avez accédé à l''une des données du programme de
+      surveillance côtière, CMAR apprécierait vos commentaires via ce questionnaire
+      rapide (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/ViewForm).Veuillez
+      reconnaître le Center for Marine Applied Research dans tout matériel publié
+      qui utilise ces données. Contient des informations sous licence du gouvernement
+      ouvert - Nouvelle-Écosse.Si vous avez accédé à l''une des données du programme
+      de surveillance côtière, CMAR apprécierait vos commentaires via ce rapide [Questionnaire]
+      (https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/view/View).'
   dates:
     creation: '2021-01-20'
     publication: '2021-01-20'
-    revision: '2022-01-05'
+    revision: '2022-12-06'
   keywords:
     default:
       en:
@@ -155,7 +154,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2018-02-13T19:35:27.000Z'
+  temporal_begin: '2018-02-13T17:00:00.000Z'
 contact:
 - roles:
   - owner
@@ -203,10 +202,46 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-20291423
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670359
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Little Harbour
   description:
     en: Little Harbour
   instruments:
+  - id: HOBO-10817410
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820350
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671015
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547096
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-20820366
     manufacturer: ONSET
     type:
@@ -265,10 +300,58 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-21082884
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082892
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547113
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-675010
+    manufacturer: ''
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Taylors Rock
   description:
     en: Taylors Rock
   instruments:
+  - id: HOBO-20291429
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291477
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21082885
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547092
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: HOBO-20291486
     manufacturer: ONSET
     type:
@@ -287,14 +370,112 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-  - id: VR2AR-547092
+  - id: aquaMeasure-670289
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: McNutts Island
+  description:
+    en: McNutts Island
+  instruments:
+  - id: HOBO-10817501
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495220
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547088
     manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-670289
+  - id: aquaMeasure-670286
     manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670287
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-547097
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291437
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291452
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755256
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670285
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20820350
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670364
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Camerons Cove
+  description:
+    en: Camerons Cove
+  instruments:
+  - id: HOBO-20308038
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495202
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495218
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20495225
+    manufacturer: ONSET
     type:
       en: Sensor
       fr: ''

@@ -12,14 +12,14 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2022-07-21T19:25:15.416Z'
-    publication: '2022-07-21'
+    revision: '2023-04-18T17:39:22.061Z'
+    publication: '2023-04-18'
 spatial:
   bbox:
   - -66.224861
   - 44.32015
   - -65.92824
-  - 44.539117
+  - 44.53912
   vertical:
   - 0.41
   - 32.0
@@ -59,7 +59,7 @@ identification:
   dates:
     creation: '2021-01-19'
     publication: '2021-01-19'
-    revision: '2022-01-05'
+    revision: '2022-12-06'
   keywords:
     default:
       en:
@@ -91,7 +91,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2019-01-17T14:10:00.000Z'
+  temporal_begin: '2016-01-21T16:00:00.000Z'
 contact:
 - roles:
   - owner
@@ -161,6 +161,28 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+- id: '1012'
+  description:
+    en: '1012'
+  instruments:
+  - id: HOBO-10755237
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755246
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755247
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: '5007'
   description:
     en: '5007'
@@ -204,6 +226,12 @@ platform:
       fr: ''
     version: ''
   - id: aquaMeasure-671044
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-670375
     manufacturer: Innovasea
     type:
       en: Sensor
@@ -336,6 +364,42 @@ platform:
       fr: ''
     version: ''
   - id: VR2AR-548038
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755251
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291425
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20308048
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21152400
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671013
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-551261
     manufacturer: Vemco
     type:
       en: Sensor
@@ -509,6 +573,64 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: HOBO-10755218
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20308047
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20330419
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21152409
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-549342
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671023
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Mid Bay
+  description:
+    en: Mid Bay
+  instruments:
+  - id: HOBO-10755242
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10755251
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-10778924
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Sandy Cove St. Mary's
   description:
     en: Sandy Cove St. Mary's
@@ -587,6 +709,36 @@ platform:
     version: ''
   - id: aquaMeasure-675015
     manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20291446
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-20330412
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: HOBO-21083007
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquaMeasure-671020
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: VR2AR-551264
+    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
