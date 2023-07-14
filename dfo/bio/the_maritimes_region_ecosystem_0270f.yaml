@@ -40,7 +40,7 @@ contact:
 distribution:
 - name:
     en: Maritimes Region Ecosystem Survey ERDDAP data
-  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_ecosystem_survey.html
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_maritimes_region_ecosystem_survey_ctd.html
 - description:
     en: Core sampling protocols for the Atlantic Zone Monitoring Program
     fr: Principaux protocoles d'échantillonnage pour le Programme de surveillance
@@ -206,8 +206,8 @@ identification:
     fr: Étude de l'écosystème de la région Maritime profils verticaux des rosettes
 metadata:
   dates:
-    publication: '2022-11-16'
-    revision: '2022-11-16T20:16:34.326Z'
+    publication: '2022-11-17'
+    revision: '2023-07-14T19:52:02.318Z'
   identifier: 0270f89c-1b0a-43ea-b687-829a011c089e
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form

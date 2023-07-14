@@ -40,7 +40,7 @@ contact:
 distribution:
 - name:
     en: Barrow Strait ERDDAP data
-  url: https://cioosatlantic.ca/erddap/tabledap/bio_barrow_strait_program_rosette.html
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_barrow_strait_program_ctd.html
 - description:
     en: Fisheries and Oceans Canada website for the ocean observatory at the eastern
       end of the Northwest Passage providing hourly ocean and ice conditions
@@ -274,7 +274,7 @@ identification:
 metadata:
   dates:
     publication: '2022-11-15'
-    revision: '2022-11-15T15:57:30.573Z'
+    revision: '2023-07-14T19:52:49.606Z'
   identifier: b8482740-31d9-4dd4-87bc-cee1780dffbb
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
