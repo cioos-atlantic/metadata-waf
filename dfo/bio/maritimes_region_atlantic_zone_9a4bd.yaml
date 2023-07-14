@@ -40,7 +40,7 @@ contact:
 distribution:
 - name:
     en: ERDDAP AZMP CTD Data
-  url: https://cioosatlantic.ca/erddap/tabledap/maritimes_region_atlantic_zone_monitoring_program_rosette_vertical_profiles.html
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_atlantic_zone_monitoring_program_ctd.html
 - description:
     en: Core sampling protocols for the Atlantic Zone Monitoring Program
     fr: Principaux protocoles d'échantillonnage pour le Programme de surveillance
@@ -191,7 +191,7 @@ identification:
 metadata:
   dates:
     publication: '2022-11-15'
-    revision: '2022-11-15T15:09:38.178Z'
+    revision: '2023-07-14T18:44:00.718Z'
   identifier: 9a4bd73f-12a2-40ff-a7c7-b961a1d11311
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form

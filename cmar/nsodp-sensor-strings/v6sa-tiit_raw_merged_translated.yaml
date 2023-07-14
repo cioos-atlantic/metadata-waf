@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2023-04-18T17:30:22.062Z'
-    publication: '2023-04-18'
+    revision: '2023-03-22T20:52:35.665Z'
+    publication: '2023-03-22'
 spatial:
   bbox:
   - -61.0913
@@ -89,8 +89,8 @@ identification:
       Excel.CMAR recommande d''utiliser les options de filtre du portail de données
       ouvert pour filtrer le corps d''eau, la station, la profondeur, la variable
       et / ou l''horodatage d''intérêt avant l''exportation.Un graphique dérivé de
-      l''ensemble de données permet également un filtrage interactif et une exportation
-      (https://data.novascotia.ca/nature-and-environment/richmond-county-water-quality-data-dewet-very-v/5p9y-iyag).Les
+      l''ensemble de données permet également un filtrage et une exportation interactifs
+      (https://data.novascotia.ca/nature-and-environment/richmond-county-water-quality-data-dewing-etage-v/5p9y-iyag).Les
       données de qualité de l''eau pour d''autres comtés de la Nouvelle-Écosse sont
       également disponibles via le portail de données ouvert.L''ensemble de données
       "Nova Scotia Water Quality Data: Station Locations" sur le portail montre les

@@ -1,34 +1,26 @@
-metadata:
-  naming_authority: ca.cioos
-  identifier: 6c7e2879-62d5-4153-ba68-0b3eed16fb8b
-  language: en
-  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
-  use_constraints:
-    licence:
-      title:
-        en: Open Government Licence - Canada
-        fr: 'Licence du gouvernement ouvert – Canada '
-      url: https://open.canada.ca/en/open-government-licence-canada
-      code: government-open-license-canada
-  dates:
-    revision: '2021-05-14T16:10:02.138Z'
-    publication: '2021-05-14'
-spatial:
-  bbox:
-  - -56.5
-  - 46.75
-  - -54.5
-  - 48.0
-  vertical:
-  - 5.0
-  - 786.0
+contact:
+- inCitation: true
+  individual:
+    email: sebastien.donnet@dfo-mpo.gc.ca
+    name: Donnet, Sebastien
+  organization:
+    city: St. John's
+    country: Canada
+    email: sebastien.donnet@dfo-mpo.gc.ca
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+  - owner
+  - distributor
+distribution:
+- description:
+    en: CIOOS Atlantic dataset ERDDAP link
+    fr: Liaison ERDDAP du jeu de données de SIOOC Atlantique
+  name:
+    en: CIOOS Atlantic ERDDAP
+  url: https://cioosatlantic.ca/erddap/tabledap/coast-of-bays-hydrographic-2009-2013.html
 identification:
-  title:
-    en: 'Coast of Bays seawater vertical and horizontal structure: Hydrographic structure,
-      spatial variability and seasonality, 2009-2013'
-    fr: 'Structure verticale et horizontale de l''eau de mer de la Coast of Bays:
-      Structure hydrographique, variabilité spatiale et saisonnalité basée sur les
-      levés océanographiques du PRRA, 2009-2013'
   abstract:
     en: This dataset was compiled as part of a multiyear effort lead by Fisheries
       and Oceans Canada (DFO) to support sustainable aquaculture regulation in the
@@ -99,30 +91,16 @@ identification:
       - Température sous la surface
       - Salinité sous la surface
       - Oxygène
+  progress_code: completed
+  status: published
   temporal_begin: '2009-06-18T15:00:00.000Z'
   temporal_end: '2013-11-03T16:00:00.000Z'
-  status: published
-  progress_code: completed
-contact:
-- roles:
-  - custodian
-  - owner
-  - distributor
-  organization:
-    name: Fisheries and Oceans Canada
-    url: https://www.dfo-mpo.gc.ca
-    city: St. John's
-    country: Canada
-    email: sebastien.donnet@dfo-mpo.gc.ca
-  individual:
-    name: Sebastien Donnet
-    email: sebastien.donnet@dfo-mpo.gc.ca
-distribution:
-- url: https://cioosatlantic.ca/erddap/tabledap/coast-of-bays-hydrographic-2009-2013.html
-  name: CIOOS Atlantic ERDDAP
-  description:
-    en: CIOOS Atlantic dataset ERDDAP link
-    fr: Liaison ERDDAP du jeu de données de SIOOC Atlantique
+  title:
+    en: 'Coast of Bays seawater vertical and horizontal structure: Hydrographic structure,
+      spatial variability and seasonality, 2009-2013'
+    fr: 'Structure verticale et horizontale de l''eau de mer de la Coast of Bays:
+      Structure hydrographique, variabilité spatiale et saisonnalité basée sur les
+      levés océanographiques du PRRA, 2009-2013'
 instruments:
 - description:
     en: 'SBE25#0466 SBE25#304 SBE25#1003 SBE25#0281. See station guide CSV here: https://open.canada.ca/data/en/dataset/a650f132-7502-402f-a42e-7ba4dea3f829'
@@ -142,3 +120,27 @@ instruments:
   type:
     en: CTD
     fr: CTD
+metadata:
+  dates:
+    publication: '2021-05-14'
+    revision: '2023-06-20T18:21:50.958Z'
+  identifier: 6c7e2879-62d5-4153-ba68-0b3eed16fb8b
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+spatial:
+  bbox:
+  - -56.5
+  - 46.75
+  - -54.5
+  - 48.0
+  vertical:
+  - 5.0
+  - 786.0
