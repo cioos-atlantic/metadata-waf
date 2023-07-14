@@ -40,7 +40,7 @@ contact:
 distribution:
 - name:
     en: ERDDAP AZOMP CTD Data
-  url: https://cioosatlantic.ca/erddap/tabledap/atlantic_zone_off_shelf_monitoring_program.html
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_atlantic_zone_off_shelf_monitoring_program_ctd.html
 - description:
     en: Core sampling protocols for the Atlantic Zone Monitoring Program
     fr: Principaux protocoles d'échantillonnage pour le Programme de surveillance
@@ -243,7 +243,7 @@ identification:
 metadata:
   dates:
     publication: '2022-11-16'
-    revision: '2022-11-16T20:04:04.118Z'
+    revision: '2023-07-14T19:06:47.806Z'
   identifier: 15f90eab-21ed-447d-aea7-8fe98ea27fe5
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
