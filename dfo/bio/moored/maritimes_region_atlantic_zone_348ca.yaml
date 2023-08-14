@@ -1,0 +1,214 @@
+contact:
+- inCitation: false
+  individual:
+    email: Marc.Ringuette@dfo-mpo.gc.ca
+    name: Ringuette, Marc
+    position: Maritimes Region AZOMP Operational Lead
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+  roles:
+  - owner
+distribution:
+- description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: Site Web contenant des publications produites par le Secrétariat canadien
+      de consultation scientifique
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
+    fr: Publications du Secrétariat canadien de consultation scientifique (SCCS)
+  url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+- description:
+    en: DFO BIO official program website
+    fr: Site officiel du programme DFO BIO
+  name:
+    en: Atlantic Zone Off-Shelf Monitoring Program
+    fr: Programme de surveillance hors plateau de la zone Atlantique
+  url: https://www.bio.gc.ca/science/monitoring-monitorage/azomp-pmzao/azomp-pmzao-en.php
+- description:
+    en: CIOOS Atlantic ERDDAP dataset link for moored CTD data
+    fr: Lien vers la base de données ERDDAP du CIOOS Atlantic pour les données CTD
+      amarrées
+  name:
+    en: CIOOS Atlantic ERDDAP dataset
+    fr: Ensemble de données ERDDAP CIOOS Atlantic
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_atlantic_zone_off_shelf_monitoring_program_moored_ctd.html
+identification:
+  abstract:
+    en: "The Atlantic Zone Off-Shelf Monitoring Program (AZOMP) collects and analyzes\
+      \ physical, chemical, and biological oceanographic observations from the continental\
+      \ slope and deep basins of the Northwest Atlantic, with the overarching goal\
+      \ of monitoring variability in ocean climate and plankton affecting ecosystems\
+      \ off Atlantic Canada and climate systems at both regional and global scales.\
+      \ \n\nAnnual measurements in the Labrador Sea began in 1990 as a contribution\
+      \ to the World Ocean Circulation Experiment (WOCE) and have evolved into a multidisciplinary\
+      \ regional monitoring effort and part of the Global Ocean Ship-based Hydrographic\
+      \ Investigations Program (GO-SHIP).\n\nAZOMP's sampling scheme off Atlantic\
+      \ Canada and the Labrador Sea involves annual sampling of both the Atlantic\
+      \ Repeat 7-West (AR7W) line, a 880 km-line running across the Labrador Sea from\
+      \ Labrador to Greenland coast and extended Halifax Line, deep-water stations\
+      \ over the Scotian Slope and Rise located at the end of AZMP’s Halifax Line.\
+      \ Opportunistic sampling also may occur at stations in the Strait of Belle Ilse,\
+      \ station 27, Labrador Shelf, and OSNAP West line in support of ancillary research\
+      \ programs and initiatives. In addition XBTs and Argo floats are commonly deployed\
+      \ and vessel-mounted ADCP is used to determine water masses structures at a\
+      \ smaller scale. Deep-water oceanographic moorings are also deployed in the\
+      \ Labrador Sea, mostly in the Hamilton Bank region and OSNAP West Line and on\
+      \ the Scotian Slope.   Time series data is used for comparison with the numerical\
+      \ model transport estimates of the Nova Scotia and the Labrador Current.  \n\
+      \nThe data collected are synthesized into annual reports on the physical, chemical\
+      \ and biological changes in Atlantic Canadian waters and the Labrador Sea. One\
+      \ primary focus is on changes in the intensity of winter overturning of surface\
+      \ and intermediate-depth waters resulting in deep water mass formation and is\
+      \ part of the thermohaline circulation that affects the global climate. Convection\
+      \ also transfers atmospheric gases from the surface to intermediate depths,\
+      \ reducing the rate of increase of carbon dioxide in the atmosphere but increasing\
+      \ the acidity of the ocean."
+    fr: "Le Programme de surveillance hors plateau de la zone Atlantique (AZOMP) recueille\
+      \ et analyse les observations océanographiques physiques, chimiques et biologiques\
+      \ du talus continental et des bassins profonds de l'Atlantique Nord-Ouest, dans\
+      \ le but global de surveiller la variabilité du climat océanique et du plancton\
+      \ affectant les écosystèmes au large du Canada atlantique et les systèmes climatiques\
+      \ à l'échelle régionale et mondiale. \n\nLes mesures annuelles dans la mer du\
+      \ Labrador ont débuté en 1990 dans le cadre de l'expérience mondiale sur la\
+      \ circulation océanique (WOCE) et ont évolué pour devenir un effort de surveillance\
+      \ régional multidisciplinaire intégré au Programme mondial d'enquêtes hydrographiques\
+      \ à base de navires océaniques (GO-SHIP).\n\nLe programme d'échantillonnage\
+      \ d'AZOMP au large du Canada atlantique et de la mer du Labrador comprend l'échantillonnage\
+      \ annuel de la ligne Atlantic Repeat 7-West (AR7W), une ligne de 880 km traversant\
+      \ la mer du Labrador depuis la côte du Labrador jusqu'à la côte groenlandaise\
+      \ et une extension de la ligne Halifax, ainsi que des stations en eau profonde\
+      \ au-dessus du Scotian Slope and Rise situées à l'extrémité de la ligne Halifax\
+      \ de l'AZMP. L'échantillonnage opportuniste peut également avoir lieu à des\
+      \ stations situées dans le détroit de Belle Ilse, à la station 27, sur le plateau\
+      \ du Labrador et sur la ligne ouest de l'OSNAP à l'appui de programmes et d'initiatives\
+      \ de recherche auxiliaires. En outre, les flotteurs XBT et Argo sont couramment\
+      \ déployés et l'ADCP monté sur les navires est utilisé pour déterminer les structures\
+      \ des masses d'eau à plus petite échelle. Des amarres océanographiques en eau\
+      \ profonde sont également déployées dans la mer du Labrador, principalement\
+      \ dans la région de Hamilton Bank, sur la ligne ouest de l'OSNAP et sur le versant\
+      \ néo-écossais. Les données de séries chronologiques sont utilisées à des fins\
+      \ de comparaison avec les estimations du transport par modèle numérique de la\
+      \ Nouvelle-Écosse et du courant du Labrador. \n\nLes données recueillies sont\
+      \ synthétisées dans des rapports annuels sur les changements physiques, chimiques\
+      \ et biologiques dans les eaux canadiennes de l'Atlantique et de la mer du Labrador.\
+      \ L'un des principaux objectifs est l'évolution de l'intensité du renversement\
+      \ hivernal des eaux de surface et de profondeur intermédiaire, qui entraîne\
+      \ la formation de masses d'eau profondes et fait partie de la circulation thermohaline\
+      \ qui influe sur le climat mondial. La convection transfère également les gaz\
+      \ atmosphériques de la surface vers des profondeurs intermédiaires, ce qui réduit\
+      \ le taux d'augmentation du dioxyde de carbone dans l'atmosphère mais augmente\
+      \ l'acidité de l'océan."
+  dates:
+    creation: '1998-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      - sea currents
+      - ADCP
+      - CTD
+      fr:
+      - changement climatique
+      - salinité
+      - température de l'eau
+      - densité eau
+      - échantillonnage
+      - missions océanographique
+      - physico-chimie
+      - pression
+      - température potentielle
+      - densité potentielle
+      - densité d'eau de mer
+      - courant marin
+    eov:
+      en:
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - subSurfaceCurrents
+      - surfaceCurrents
+      fr:
+      - Température sous la surface
+      - Salinité sous la surface
+      - Autre
+      - Courants sous-marins
+      - Courants de surface
+  progress_code: onGoing
+  status: published
+  temporal_begin: '1998-01-01T16:00:00.000Z'
+  title:
+    en: Maritimes Region Atlantic Zone Off-Shelf Monitoring Program (AZOMP) Moored
+      Time Series Data
+    fr: Données chronologiques amarrées du Programme de surveillance hors plateau
+      de la zone Atlantique (AZOMP) de la région des Maritimes
+metadata:
+  dates:
+    publication: '2023-08-01'
+    revision: '2023-08-01T14:51:33.457Z'
+  identifier: 348ca0d9-6de9-4bd8-9dbd-ccf89f981049
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Availability of data varies both between and within years due to mission
+        cancellations.
+      fr: La disponibilité des données varie d'une année à l'autre en raison des annulations
+        de missions.
+platform:
+  id: SDN:L06::48
+  type: mooring
+spatial:
+  bbox:
+  - -63.7
+  - 37.7
+  - -48.1
+  - 60.6
+  vertical:
+  - 1.0
+  - 5500.0
