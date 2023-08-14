@@ -1,0 +1,183 @@
+contact:
+- inCitation: false
+  individual:
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: Cardoso, Diana
+    position: Maritimes Oceanographic data manager
+  organization:
+    address: Bedford Institute of Oceanography, Fisheries and Oceans Canada
+    city: Dartmouth
+    country: Canada
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: DFO
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+  roles:
+  - owner
+distribution:
+- description:
+    en: RAPID Science Plan
+    fr: Plan scientifique RAPID
+  name:
+    en: RAPID Science Plan
+    fr: Plan scientifique RAPID
+  url: https://rapid.ac.uk/rapid/Scienceplan.php
+- description:
+    en: Rapid Climate Change home page
+    fr: Page d'accueil sur le changement climatique rapide
+  name:
+    en: Rapid Climate Change home page
+    fr: Page d'accueil sur le changement climatique rapide
+  url: https://rapid.ac.uk/rapid/rapid.php
+- description:
+    en: CIOOS Atlantic ERDDAP dataset link for moored CTD data
+    fr: Lien vers la base de données ERDDAP du CIOOS Atlantic pour les données CTD
+      amarrées
+  name:
+    en: CIOOS Atlantic ERDDAP dataset
+    fr: Ensemble de données ERDDAP CIOOS Atlantic
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_rapid_moored_ctd.html
+identification:
+  abstract:
+    en: "Rapid Climate Change (RAPID) was originally a £20 million, six-year (2001-2007)\
+      \ program of the Natural Environment Research Council. This monitoring effort\
+      \ was continued in the NERC-funded follow-on program RAPID-WATCH 2008-2014.\
+      \  The program aimed to improve the ability to quantify the probability and\
+      \ magnitude of future rapid change in climate, with a main (but not exclusive)\
+      \ focus on the role of the Atlantic Ocean's Thermohaline Circulation. The  program\
+      \ used a combination of observations (present day and palaeo) and modelling\
+      \ (atmospheric, oceanic, terrestrial, cryospheric). Observations such as moorings\
+      \ were used for testing simulations of Thermohaline Circulation variability\
+      \ and climate change including the Atlantic meridional overturning circulation,\
+      \ long-term transports and mixing processes and atmospheric forcing of ocean\
+      \ convection, and large-scale ocean transports. \n\nThe specific scientific\
+      \ objectives of the RAPID program were agreed by the Rapid Climate Change Steering\
+      \ Committee and are detailed in the RAPID Science Plan (https://rapid.ac.uk/rapid/Scienceplan.php).\n\
+      \nIn the Maritimes the Rapid moorings were mostly on the Scotian shelf and slope\
+      \ off of Halifax from 2004 to 2010."
+    fr: "Rapid Climate Change (RAPID) était à l'origine un programme de 20 millions\
+      \ de livres sterling sur six ans (2001-2007) du Natural Environment Research\
+      \ Council. Cet effort de suivi s'est poursuivi dans le cadre du programme de\
+      \ suivi RAPID-WATCH 2008-2014 financé par le NERC. Le programme visait à améliorer\
+      \ la capacité de quantifier la probabilité et l'ampleur des futurs changements\
+      \ rapides du climat, en mettant l'accent (mais pas exclusivement) sur le rôle\
+      \ de la circulation thermohaline de l'océan Atlantique. Le programme a utilisé\
+      \ une combinaison d'observations (actuelles et paléo) et de modélisation (atmosphérique,\
+      \ océanique, terrestre, cryosphérique). Des observations telles que des amarrages\
+      \ ont été utilisées pour tester des simulations de la variabilité de la circulation\
+      \ thermohaline et du changement climatique, y compris la circulation de renversement\
+      \ méridienne de l'Atlantique, les processus de transport et de mélange à long\
+      \ terme, le forçage atmosphérique dû à la convection océanique, ainsi que les\
+      \ transports océaniques à grande échelle. \n\nLes objectifs scientifiques spécifiques\
+      \ du programme RAPID ont été approuvés par le comité directeur sur le changement\
+      \ climatique rapide et sont détaillés dans le plan scientifique RAPID (https://rapid.ac.uk/rapid/Scienceplan.php).\n\
+      \nDans les Maritimes, les mouillages du Rapid se trouvaient principalement sur\
+      \ le plateau néo-écossais et sur la pente au large d'Halifax de 2004 à 2010."
+  dates:
+    creation: '2004-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      fr:
+      - changement climatique
+      - salinité
+      - température de l'eau
+      - télédétection
+      - densité eau
+      - échantillonnage
+      - missions océanographique
+      - physico-chimie
+      - pression
+      - température potentielle
+      - densité potentielle
+      - densité d'eau de mer
+      - oxygen
+    eov:
+      en:
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - oxygen
+      - subSurfaceCurrents
+      - surfaceCurrents
+      fr:
+      - Salinité de surface
+      - Température de surface
+      - Température sous la surface
+      - Salinité sous la surface
+      - Autre
+      - Oxygène
+      - Courants sous-marins
+      - Courants de surface
+  progress_code: completed
+  status: published
+  temporal_begin: '2004-01-01T16:00:00.000Z'
+  temporal_end: '2010-12-12T16:00:00.000Z'
+  title:
+    en: Maritimes Region Historical RAPID Climate Change Program Moored Time Series
+      Data
+    fr: Données chronologiques historiques du programme RAPID sur les changements
+      climatiques de la région des Maritimes
+metadata:
+  dates:
+    publication: '2023-08-01'
+    revision: '2023-07-31T19:02:07.898Z'
+  identifier: 77436075-0ff6-4f0c-a3e0-d9e9d0c1acac
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+platform:
+  id: SDN:L06::48
+  type: mooring
+spatial:
+  bbox:
+  - -64.0
+  - 41.0
+  - -59.0
+  - 44.0
+  vertical:
+  - 1.0
+  - 4000.0

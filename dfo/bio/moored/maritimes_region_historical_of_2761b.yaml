@@ -1,0 +1,198 @@
+contact:
+- inCitation: false
+  individual:
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: Cardoso, Diana
+    position: Maritimes Oceanographic data manager
+  organization:
+    address: Bedford Institute of Oceanography, Fisheries and Oceans Canada
+    city: Dartmouth
+    country: Canada
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: DFO
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  organization:
+    address: 1 Challenger Drive
+    city: DARTMOUTH
+    country: Canada
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+  roles:
+  - owner
+distribution:
+- description:
+    en: 'Greenan, B.J.W., B.D. Petrie, D.A. Cardoso, W.G. Harrison, E.J.H. Head and
+      W.K.W. Li. 2013. Physical,  chemical and biological variability of the Sable
+      Gully 2006-07. Can. Tech. Rep. Hydrogr. Ocean. Sci.  293: x+261 pp.'
+    fr: 'Greenan, B.J.W., B. D. Petrie, D. A. Cardoso, W. G. Harrison, E.J.H. Head
+      et W.K.W. Li. 2013. Variabilité physique, chimique et biologique du ravin de
+      Sable 2006-2007. Peut. Technologie. Rép. Hydrogr. Océan. Sci. 293 : x+261 p.'
+  name:
+    en: 'Greenan, B.J.W., B.D. Petrie, D.A. Cardoso, W.G. Harrison, E.J.H. Head and
+      W.K.W. Li. 2013. Physical,  chemical and biological variability of the Sable
+      Gully 2006-07. Can. Tech. Rep. Hydrogr. Ocean. Sci.  293: x+261 pp.'
+    fr: 'Greenan, B.J.W., B. D. Petrie, D. A. Cardoso, W. G. Harrison, E.J.H. Head
+      et W.K.W. Li. 2013. Variabilité physique, chimique et biologique du ravin de
+      Sable 2006-2007. Peut. Technologie. Rép. Hydrogr. Océan. Sci. 293 : x+261 p.'
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/350069.pdf
+- description:
+    en: 'Canadian data report of hydrography and ocean sciences ; 91:  Labrador Current
+      variability study : current meter observations October 1985 to January 1986'
+    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques ;
+      91 : Étude de la variabilité du courant au Labrador : observations effectuées
+      par courantomètre, octobre 1985 à janvier 1986'
+  name:
+    en: 'Canadian data report of hydrography and ocean sciences ; 91:  Labrador Current
+      variability study : current meter observations October 1985 to January 1986'
+    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques ;
+      91 : Étude de la variabilité du courant au Labrador : observations effectuées
+      par courantomètre, octobre 1985 à janvier 1986'
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/33610.pdf
+- description:
+    en: 'Canadian technical report of hydrography and ocean sciences ; 157: Current
+      meter observations from Hamilton Bank and NE Newfoundland Shelf, 1990 to 1993'
+    fr: 'Rapport technique canadien sur l''hydrographie et les sciences océaniques ;
+      157 : Observations de courantomètres sur le banc Hamilton et le nord-est du
+      plateau continental de Terre-Neuve, 1990 à 1993'
+  name:
+    en: 'Canadian technical report of hydrography and ocean sciences ; 157: Current
+      meter observations from Hamilton Bank and NE Newfoundland Shelf, 1990 to 1993'
+    fr: 'Rapport technique canadien sur l''hydrographie et les sciences océaniques ;
+      157 : Observations de courantomètres sur le banc Hamilton et le nord-est du
+      plateau continental de Terre-Neuve, 1990 à 1993'
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/167430.pdf
+- description:
+    en: 'Canadian technical report of hydrography and ocean sciences ; 40: Current
+      meter, meteorological, and sea-level observations off Cape Sable, Nova Scotia'
+    fr: 'Rapport technique canadien sur l''hydrographie et les sciences océaniques ;
+      40 : Observations du courant, de la météorologie et du niveau de la mer au large
+      du cap Sable, en Nouvelle-Écosse'
+  name:
+    en: 'Canadian technical report of hydrography and ocean sciences ; 40: Current
+      meter, meteorological, and sea-level observations off Cape Sable, Nova Scotia'
+    fr: 'Rapport technique canadien sur l''hydrographie et les sciences océaniques ;
+      40 : Observations du courant, de la météorologie et du niveau de la mer au large
+      du cap Sable, en Nouvelle-Écosse'
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/90601.pdf
+- description:
+    en: CIOOS Atlantic ERDDAP dataset link for moored CTD data
+    fr: Lien vers la base de données ERDDAP du CIOOS Atlantic pour les données CTD
+      amarrées
+  name:
+    en: CIOOS Atlantic ERDDAP dataset
+    fr: Ensemble de données ERDDAP CIOOS Atlantic
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_historical_offshore_moored_ctd.html
+identification:
+  abstract:
+    en: 'Historical missions offshore in which DFO Bedford Institute of Oceanography
+      participated in between 1970s to present which collected moored time series
+      data. These missions were part of various projects and visited several areas
+      within Canadian waters such as: Scotian Shelf, Labrador Sea, Gulf of St Lawrence,
+      Bay of Fundy, and Northwest Atlantic.'
+    fr: Missions historiques en mer auxquelles l'Institut océanographique de Bedford
+      de Pêches et Océans Canada a participé entre les années 1970 et aujourd'hui
+      et qui ont permis de recueillir des données chronologiques amarrées. Ces missions
+      s'inscrivaient dans le cadre de divers projets et ont visité plusieurs zones
+      des eaux canadiennes, telles que le plateau néo-écossais, la mer du Labrador,
+      le golfe du Saint-Laurent, la baie de Fundy et l'Atlantique Nord-Ouest.
+  dates:
+    creation: '1969-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      fr:
+      - changement climatique
+      - salinité
+      - température de l'eau
+      - télédétection
+      - densité eau
+      - échantillonnage
+      - missions océanographique
+      - physico-chimie
+      - pression
+      - température potentielle
+      - densité potentielle
+      - densité d'eau de mer
+      - oxygen
+    eov:
+      en:
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - oxygen
+      - subSurfaceCurrents
+      - surfaceCurrents
+      fr:
+      - Salinité de surface
+      - Température de surface
+      - Température sous la surface
+      - Salinité sous la surface
+      - Autre
+      - Oxygène
+      - Courants sous-marins
+      - Courants de surface
+  progress_code: onGoing
+  status: published
+  temporal_begin: '1969-01-01T16:00:00.000Z'
+  title:
+    en: Maritimes Region Historical Offshore Moored Time Series Data
+    fr: Données chronologiques historiques sur les navires amarrés au large de la
+      région des Maritimes
+metadata:
+  dates:
+    publication: '2023-08-01'
+    revision: '2023-07-31T18:56:53.906Z'
+  identifier: 2761b8a1-7a93-481a-b43a-b4c2bb634c79
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert – Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+platform:
+  id: SDN:L06::48
+  type: mooring
+spatial:
+  bbox:
+  - -89.0
+  - 42.0
+  - -50.0
+  - 65.0
+  vertical:
+  - 1.0
+  - 4000.0
