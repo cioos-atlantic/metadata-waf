@@ -24,8 +24,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/otn201_20140902_36_delayed.html
 identification:
   abstract:
@@ -38,12 +38,12 @@ identification:
     fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
       utilisent les changements de flottabilité pour se déplacer verticalement et
       horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
-      déployés pendant des jours à plusieurs mois et recueillent des informations
+      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
       détaillées sur les processus physiques, chimiques et biologiques des océans
       du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
       Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -53,8 +53,8 @@ identification:
       - other
       fr:
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -67,7 +67,7 @@ metadata:
   dates:
     publication: '2022-03-20T15:35:45Z'
     revision: '2022-03-20T15:35:45Z'
-  identifier: cab1fb90-ce98-443b-9f01-f6cfa35131b9
+  identifier: d3e9b235-90e4-4d9e-a15b-5c63309abff3
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -92,7 +92,7 @@ platform:
     manufacturer: Sea-Bird Scientific
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:
@@ -102,7 +102,7 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:
@@ -117,12 +117,12 @@ platform:
     manufacturer: Satlantic Incorporated
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   type: glider

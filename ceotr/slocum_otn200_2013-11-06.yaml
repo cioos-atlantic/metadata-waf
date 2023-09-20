@@ -19,8 +19,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/otn200_20131106_27_delayed.html
 identification:
   abstract:
@@ -33,12 +33,12 @@ identification:
     fr: Essais au large d'Halifax. Les planeurs Slocum sont de petits véhicules sans
       pilote à nage libre qui utilisent les changements de flottabilité pour se déplacer
       verticalement et horizontalement dans la colonne d'eau selon un motif en dents
-      de scie. Ils sont déployés pendant des jours à plusieurs mois et recueillent
+      de scie. Ils sont déployés pendant plusieurs jours ou plusieurs mois et recueillent
       des informations détaillées sur les processus physiques, chimiques et biologiques
       des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne
       Webb Research Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -46,8 +46,8 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -60,7 +60,7 @@ metadata:
   dates:
     publication: '2022-03-11T22:08:00Z'
     revision: '2022-03-11T22:08:00Z'
-  identifier: 64f13867-4e86-49b7-89ff-9f1da8e6e854
+  identifier: 40254559-be57-489a-a738-7566d0fa7115
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -75,7 +75,7 @@ platform:
   instruments:
   - description:
       en: science computer measured
-      fr: ordinateur scientifique mesuré
+      fr: science mesurée par ordinateur
     id: instrument_science_measured
   - description:
       en: Glider Payload CTD
@@ -84,7 +84,7 @@ platform:
     manufacturer: Sea-Bird Scientific
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:
@@ -94,7 +94,7 @@ platform:
     manufacturer: InnovaSea Systems, Inc.
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:

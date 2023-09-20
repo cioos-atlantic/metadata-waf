@@ -19,8 +19,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/otn201_20150508_45_delayed.html
 identification:
   abstract:
@@ -30,15 +30,15 @@ identification:
       to several months and gather detailed information about the physical, chemical
       and biological processes of the world's oceans. The Slocum glider was designed
       and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.
-    fr: Emerald Basin longe UBC Blackfish. Les planeurs Slocum sont de petits véhicules
+    fr: Emerald Basin longe l'UBC Blackfish. Les planeurs Slocum sont de petits véhicules
       sans pilote à nage libre qui utilisent les changements de flottabilité pour
       se déplacer verticalement et horizontalement dans la colonne d'eau selon un
-      motif en dents de scie. Ils sont déployés pendant des jours à plusieurs mois
-      et recueillent des informations détaillées sur les processus physiques, chimiques
-      et biologiques des océans du monde. Le planeur Slocum a été conçu et construit
-      par Teledyne Webb Research Corporation, Falmouth, MA, USA.
+      motif en dents de scie. Ils sont déployés pendant plusieurs jours ou plusieurs
+      mois et recueillent des informations détaillées sur les processus physiques,
+      chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu
+      et construit par Teledyne Webb Research Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -48,8 +48,8 @@ identification:
       - other
       fr:
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -62,7 +62,7 @@ metadata:
   dates:
     publication: '2022-03-21T09:59:27Z'
     revision: '2022-03-21T09:59:27Z'
-  identifier: e230dee2-0db9-43a2-bdea-ccac97facbe4
+  identifier: f30437ec-d06f-40c1-a6c5-7bb41d20ad98
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -87,7 +87,7 @@ platform:
     manufacturer: Sea-Bird Scientific
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:
@@ -97,7 +97,7 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:
@@ -112,12 +112,12 @@ platform:
     manufacturer: Satlantic Incorporated
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   type: glider

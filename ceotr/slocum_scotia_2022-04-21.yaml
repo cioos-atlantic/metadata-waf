@@ -29,12 +29,12 @@ contact:
   - funder
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/scotia_20220421_150_realtime.html
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/scotia_20220421_150_delayed.html
 identification:
   abstract:
@@ -47,12 +47,12 @@ identification:
     fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
       utilisent les changements de flottabilité pour se déplacer verticalement et
       horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
-      déployés pendant des jours à plusieurs mois et recueillent des informations
+      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
       détaillées sur les processus physiques, chimiques et biologiques des océans
       du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
       Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -62,8 +62,8 @@ identification:
       - other
       fr:
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -72,13 +72,13 @@ identification:
   title:
     en: Cabot Strait real time whale monitoring for dynamic shipping management in
       Gulf of St. Lawrence 2022-04-21
-    fr: Surveillance en temps réel des baleines dans le détroit de Cabot pour une
-      gestion dynamique de la navigation dans le golfe du Saint-Laurent 2022-04-21
+    fr: Surveillance des baleines en temps réel dans le détroit de Cabot pour une
+      gestion dynamique du transport maritime dans le golfe du Saint-Laurent 2022-04-21
 metadata:
   dates:
     publication: '2022-07-08T08:18:34Z'
     revision: '2022-07-08T08:18:34Z'
-  identifier: 9a7519b1-6742-432f-a12d-b695f01ebe32
+  identifier: ddcb5d21-39e3-4663-aab9-67575c727e4d
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -98,7 +98,7 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
   - description:
       en: digital acoustic monitoring instrument
-      fr: instrument de surveillance acoustique numérique
+      fr: instrument numérique de surveillance acoustique
     id: instrument_dmon
     manufacturer: Woods Hole Oceanographic Institution
   - description:
@@ -108,12 +108,12 @@ platform:
     manufacturer: InnovaSea Systems, Inc.
   - description:
       en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350m
+      fr: Pompe à huile Slocum Glider G3 350 m
     id: instrument_bpump
     manufacturer: Teledyne Webb Research
   - description:
       en: Slocum Glider Science Payload Bay
-      fr: Baie de charge utile Slocum Glider Science
+      fr: Baie de charge utile scientifique du planeur Slocum
     id: instrument_Science_Bay
     manufacturer: Teledyne Webb Research
   - description:

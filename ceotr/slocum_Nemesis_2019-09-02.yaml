@@ -24,12 +24,12 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/Nemesis_20190902_105_realtime.html
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/Nemesis_20190902_105_delayed.html
 identification:
   abstract:
@@ -42,23 +42,23 @@ identification:
     fr: Étude sur le courant du Labrador. Les planeurs Slocum sont de petits véhicules
       sans pilote à nage libre qui utilisent les changements de flottabilité pour
       se déplacer verticalement et horizontalement dans la colonne d'eau selon un
-      motif en dents de scie. Ils sont déployés pendant des jours à plusieurs mois
-      et recueillent des informations détaillées sur les processus physiques, chimiques
-      et biologiques des océans du monde. Le planeur Slocum a été conçu et construit
-      par Teledyne Webb Research Corporation, Falmouth, MA, USA.
+      motif en dents de scie. Ils sont déployés pendant plusieurs jours ou plusieurs
+      mois et recueillent des informations détaillées sur les processus physiques,
+      chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu
+      et construit par Teledyne Webb Research Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
-      - oxygen
       - subsurfaceSalinity
       - subsurfaceTemperature
+      - oxygen
       - other
       fr:
+      - Salinité souterraine
+      - Température du sous-sol
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
       - autre
   progress_code: completed
   status: published
@@ -66,12 +66,12 @@ identification:
   temporal_end: '2019-10-28T21:33:32.000Z'
   title:
     en: Lab Coast  - Oceans North in Labrador Sea 2019-09-02
-    fr: Lab Coast - Oceans North dans la mer du Labrador 2019-09-02
+    fr: Lab Coast - Océans Nord dans la mer du Labrador 2019-09-02
 metadata:
   dates:
     publication: '2022-03-25T23:42:16Z'
     revision: '2022-03-25T23:42:16Z'
-  identifier: 1192b907-ef3a-4f33-aff4-5f69ad2a0dbd
+  identifier: b40f3c89-071f-4380-bfbb-5aef9b154730
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -86,7 +86,7 @@ platform:
   instruments:
   - description:
       en: science computer measured
-      fr: ordinateur scientifique mesuré
+      fr: science mesurée par ordinateur
     id: instrument_science_measured
   - description:
       en: Glider Payload CTD
@@ -100,12 +100,12 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:
@@ -115,17 +115,17 @@ platform:
     manufacturer: InnovaSea Systems, Inc.
   - description:
       en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350m
+      fr: Pompe à huile Slocum Glider G3 350 m
     id: instrument_bpump
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
   - description:

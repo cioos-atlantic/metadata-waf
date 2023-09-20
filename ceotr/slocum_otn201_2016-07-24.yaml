@@ -24,8 +24,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/otn201_20160724_63_realtime.html
 identification:
   abstract:
@@ -37,13 +37,12 @@ identification:
       Falmouth, MA, USA.
     fr: Les planeurs sont de petits véhicules sans pilote à nage libre qui utilisent
       les changements de flottabilité pour se déplacer verticalement et horizontalement
-      dans la colonne d'eau en dents de scie. Ils sont déployés pendant des jours
-      à plusieurs mois et recueillent des informations détaillées sur les processus
-      physiques, chimiques et biologiques du monde Le planeur Slocum a été conçu et
-      les océans. construit par Teledyne Webb Research Corporation, Falmouth, MA,
-      USA.
+      dans la colonne d'eau selon un motif en dents de scie. Ils sont déployés pendant
+      plusieurs jours ou plusieurs mois et recueillent des informations détaillées
+      sur les processus physiques, chimiques et biologiques des océans et des océans
+      du monde. construit par Teledyne Webb Research Corporation, Falmouth, MA, États-Unis.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -51,8 +50,8 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -60,12 +59,12 @@ identification:
   temporal_end: '2016-10-08T07:00:00.000Z'
   title:
     en: WHaLE in Gulf of St. Lawrence, Northwest Atlantic Ocean 2016-07-24
-    fr: BALEINE dans le golfe du Saint-Laurent, Atlantique Nord-Ouest 2016-07-24
+    fr: BALEINE dans le golfe du Saint-Laurent, océan Atlantique Nord-Ouest 2016-07-24
 metadata:
   dates:
     publication: '2018-11-20T16:01:08Z'
     revision: '2018-11-20T16:01:08Z'
-  identifier: 1ec04f35-7c73-4216-80d0-bd01d1f1f31d
+  identifier: d50897f2-034d-4ea8-a9c1-c80ac0d50118
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

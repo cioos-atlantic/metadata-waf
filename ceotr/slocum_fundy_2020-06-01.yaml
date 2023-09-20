@@ -19,8 +19,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/fundy_20200601_111_delayed_test.html
 identification:
   abstract:
@@ -33,23 +33,23 @@ identification:
     fr: Essais au large d'Halifax. Les planeurs Slocum sont de petits véhicules sans
       pilote à nage libre qui utilisent les changements de flottabilité pour se déplacer
       verticalement et horizontalement dans la colonne d'eau selon un motif en dents
-      de scie. Ils sont déployés pendant des jours à plusieurs mois et recueillent
+      de scie. Ils sont déployés pendant plusieurs jours ou plusieurs mois et recueillent
       des informations détaillées sur les processus physiques, chimiques et biologiques
       des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne
       Webb Research Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
-      - oxygen
       - subsurfaceSalinity
       - subsurfaceTemperature
+      - oxygen
       - other
       fr:
+      - Salinité souterraine
+      - Température du sous-sol
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
       - autre
   progress_code: completed
   status: published
@@ -57,12 +57,12 @@ identification:
   temporal_end: '2020-06-04T12:29:25.000Z'
   title:
     en: WHaLE in Northwest Atlantic Ocean 2020-06-01
-    fr: BALEINE dans l'océan Atlantique Nord-Ouest 2020-06-01
+    fr: BALEINE dans l’océan Atlantique Nord-Ouest 2020-06-01
 metadata:
   dates:
     publication: '2022-03-15T06:44:05Z'
     revision: '2022-03-15T06:44:05Z'
-  identifier: f6a15cf5-877f-41e7-a896-13d6594304be
+  identifier: 104ee59d-9dec-4edb-bf45-d03405bc19d8
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -87,12 +87,12 @@ platform:
     manufacturer: Sea-Bird Scientific
   - description:
       en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350m
+      fr: Pompe à huile Slocum Glider G3 350 m
     id: instrument_bpump
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
   - description:
@@ -102,17 +102,17 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   - description:
       en: Slocum Glider Science Payload Bay
-      fr: Baie de charge utile Slocum Glider Science
+      fr: Baie de charge utile scientifique du planeur Slocum
     id: instrument_Science_Bay
     manufacturer: Teledyne Webb Research
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   type: glider

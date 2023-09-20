@@ -19,12 +19,12 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/cabot_20200919_119_realtime.html
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/cabot_20200919_119_delayed.html
 identification:
   abstract:
@@ -35,27 +35,27 @@ identification:
       chemical and biological processes of the world''s oceans. The Slocum glider
       was designed and built by Teledyne Webb Research Corporation, Falmouth, MA,
       USA.'
-    fr: 'Déploiement du planeur #119 - cabot 2020-09-19 (retardé). Les planeurs Slocum
+    fr: 'Déploiement planeur #119 - cabot 2020-09-19 (retardé). Les planeurs Slocum
       sont de petits véhicules sans pilote à nage libre qui utilisent les changements
       de flottabilité pour se déplacer verticalement et horizontalement dans la colonne
-      d''eau selon un motif en dents de scie. Ils sont déployés pendant des jours
-      à plusieurs mois et recueillent des informations détaillées sur les processus
+      d''eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs
+      jours ou plusieurs mois et recueillent des informations détaillées sur les processus
       physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
       été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
       USA.'
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
-      - oxygen
       - subsurfaceSalinity
       - subsurfaceTemperature
+      - oxygen
       - other
       fr:
+      - Salinité souterraine
+      - Température du sous-sol
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
       - autre
   progress_code: completed
   status: published
@@ -63,13 +63,12 @@ identification:
   temporal_end: '2020-09-26T15:30:00.000Z'
   title:
     en: Davies Bay of Fundy Research Cruise in Bay of Fundy 2020-09-19
-    fr: Croisière de recherche Davies dans la baie de Fundy dans la baie de Fundy
-      2020-09-19
+    fr: Croisière de recherche Davies dans la baie de Fundy 2020-09-19
 metadata:
   dates:
     publication: '2021-09-25T13:02:43Z'
     revision: '2021-09-25T13:02:43Z'
-  identifier: c65cb61c-1a07-4811-af60-4638cf44de6f
+  identifier: 34086309-c0d5-4f7a-aad7-b83e4b754d00
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -99,17 +98,17 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
   - description:
       en: Slocum Glider Science Payload Bay
-      fr: Baie de charge utile Slocum Glider Science
+      fr: Baie de charge utile scientifique du planeur Slocum
     id: instrument_Science_Bay
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
   - description:
@@ -119,7 +118,7 @@ platform:
     manufacturer: InnovaSea Systems, Inc.
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:

@@ -24,8 +24,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/capex638_20200817_124_delayed.html
 identification:
   abstract:
@@ -35,15 +35,15 @@ identification:
       to several months and gather detailed information about the physical, chemical
       and biological processes of the world's oceans. The Slocum glider was designed
       and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.
-    fr: Déploiement DMON dans le chenal Laurentien. Les planeurs Slocum sont de petits
+    fr: Déploiement DMON dans le canal Laurentien. Les planeurs Slocum sont de petits
       véhicules sans pilote à nage libre qui utilisent les changements de flottabilité
       pour se déplacer verticalement et horizontalement dans la colonne d'eau selon
-      un motif en dents de scie. Ils sont déployés pendant des jours à plusieurs mois
-      et recueillent des informations détaillées sur les processus physiques, chimiques
-      et biologiques des océans du monde. Le planeur Slocum a été conçu et construit
-      par Teledyne Webb Research Corporation, Falmouth, MA, USA.
+      un motif en dents de scie. Ils sont déployés pendant plusieurs jours ou plusieurs
+      mois et recueillent des informations détaillées sur les processus physiques,
+      chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu
+      et construit par Teledyne Webb Research Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -51,8 +51,8 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -61,13 +61,13 @@ identification:
   title:
     en: Laurentian Channel real time whale monitoring for dynamic shipping management
       in Gulf of St. Lawrence 2020-08-17
-    fr: Surveillance en temps réel des baleines dans le chenal Laurentien pour une
+    fr: Surveillance des baleines en temps réel dans le chenal Laurentien pour une
       gestion dynamique de la navigation dans le golfe du Saint-Laurent 2020-08-17
 metadata:
   dates:
     publication: '2022-04-28T23:56:38Z'
     revision: '2022-04-28T23:56:38Z'
-  identifier: 9fd30de1-1a04-4ffa-9419-5d5f90251e47
+  identifier: 04d71597-4f12-4d83-be13-cedc88c405ca
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -87,17 +87,17 @@ platform:
     manufacturer: Sea-Bird Scientific
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
   - description:
       en: digital acoustic monitoring instrument
-      fr: instrument de surveillance acoustique numérique
+      fr: instrument numérique de surveillance acoustique
     id: instrument_dmon
     manufacturer: Woods Hole Oceanographic Institution
   type: glider

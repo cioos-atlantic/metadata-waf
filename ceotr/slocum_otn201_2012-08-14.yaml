@@ -19,8 +19,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/otn201_20120814_15_delayed.html
 identification:
   abstract:
@@ -33,12 +33,12 @@ identification:
     fr: Essais au large d'Halifax. Les planeurs Slocum sont de petits véhicules sans
       pilote à nage libre qui utilisent les changements de flottabilité pour se déplacer
       verticalement et horizontalement dans la colonne d'eau selon un motif en dents
-      de scie. Ils sont déployés pendant des jours à plusieurs mois et recueillent
+      de scie. Ils sont déployés pendant plusieurs jours ou plusieurs mois et recueillent
       des informations détaillées sur les processus physiques, chimiques et biologiques
       des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne
       Webb Research Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -48,8 +48,8 @@ identification:
       - other
       fr:
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -57,12 +57,13 @@ identification:
   temporal_end: '2012-09-05T08:45:00.000Z'
   title:
     en: Halifax Line Monitoring in Northwest Atlantic Ocean 2012-08-14
-    fr: Surveillance de la ligne Halifax dans l'océan Atlantique Nord-Ouest 2012-08-14
+    fr: Surveillance de la ligne Halifax dans le nord-ouest de l'océan Atlantique
+      2012-08-14
 metadata:
   dates:
     publication: '2022-03-14T13:58:38Z'
     revision: '2022-03-14T13:58:38Z'
-  identifier: 485c29ae-7b42-443f-b862-ef813abefa39
+  identifier: 85cadba8-07bc-4caf-9ff4-9644a2d58cc2
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -87,12 +88,12 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   - description:

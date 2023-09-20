@@ -19,8 +19,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/shad_20220908_162_delayed.html
 identification:
   abstract:
@@ -30,16 +30,16 @@ identification:
       to several months and gather detailed information about the physical, chemical
       and biological processes of the world's oceans. The Slocum glider was designed
       and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.
-    fr: Validation des ombres portées du bassin de Grand Manan. Les planeurs Slocum
+    fr: Validation du graphique ombragé du bassin de Grand Manan. Les planeurs Slocum
       sont de petits véhicules sans pilote à nage libre qui utilisent les changements
       de flottabilité pour se déplacer verticalement et horizontalement dans la colonne
-      d'eau selon un motif en dents de scie. Ils sont déployés pendant des jours à
-      plusieurs mois et recueillent des informations détaillées sur les processus
+      d'eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours
+      ou plusieurs mois et recueillent des informations détaillées sur les processus
       physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
       été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
       USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -47,8 +47,8 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -62,7 +62,7 @@ metadata:
   dates:
     publication: '2022-09-28T17:14:51Z'
     revision: '2022-09-28T17:14:51Z'
-  identifier: 0e38a9c4-d20b-4973-a994-7204fc93e9ff
+  identifier: 08532ee4-a9f5-42d5-abda-32df36009003
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

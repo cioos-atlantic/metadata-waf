@@ -19,8 +19,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/cabot_20201104_123_delayed_test.html
 identification:
   abstract:
@@ -30,15 +30,16 @@ identification:
       to several months and gather detailed information about the physical, chemical
       and biological processes of the world's oceans. The Slocum glider was designed
       and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.
-    fr: Camera and Acoustics Beta Ocean Test. Les planeurs Slocum sont de petits véhicules
-      sans pilote à nage libre qui utilisent les changements de flottabilité pour
-      se déplacer verticalement et horizontalement dans la colonne d'eau selon un
-      motif en dents de scie. Ils sont déployés pendant des jours à plusieurs mois
-      et recueillent des informations détaillées sur les processus physiques, chimiques
-      et biologiques des océans du monde. Le planeur Slocum a été conçu et construit
-      par Teledyne Webb Research Corporation, Falmouth, MA, USA.
+    fr: Test océanique bêta de la caméra et de l'acoustique. Les planeurs Slocum sont
+      de petits véhicules sans pilote à nage libre qui utilisent les changements de
+      flottabilité pour se déplacer verticalement et horizontalement dans la colonne
+      d'eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours
+      ou plusieurs mois et recueillent des informations détaillées sur les processus
+      physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
+      été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
+      USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -46,8 +47,8 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -55,12 +56,12 @@ identification:
   temporal_end: '2020-11-09T16:30:00.000Z'
   title:
     en: CEOTR Test Missions in Northwest Atlantic Ocean 2020-11-04
-    fr: Missions d'essai du CEOTR dans l'Atlantique Nord-Ouest 2020-11-04
+    fr: Missions de test CEOTR dans l’océan Atlantique Nord-Ouest 2020-11-04
 metadata:
   dates:
     publication: '2022-04-29T05:17:23Z'
     revision: '2022-04-29T05:17:23Z'
-  identifier: 83cd7e4c-540c-43af-a898-ff7164c5f3d4
+  identifier: 22e0a0c2-a8f0-42b0-968d-d95275b4de08
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -85,17 +86,17 @@ platform:
     manufacturer: Sea-Bird Scientific
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
   - description:
       en: Slocum Glider Science Payload Bay
-      fr: Baie de charge utile Slocum Glider Science
+      fr: Baie de charge utile scientifique du planeur Slocum
     id: instrument_Science_Bay
     manufacturer: Teledyne Webb Research
   - description:

@@ -19,8 +19,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/otn200_20130311_17_delayed.html
 identification:
   abstract:
@@ -33,12 +33,12 @@ identification:
     fr: Essais au large d'Halifax. Les planeurs Slocum sont de petits véhicules sans
       pilote à nage libre qui utilisent les changements de flottabilité pour se déplacer
       verticalement et horizontalement dans la colonne d'eau selon un motif en dents
-      de scie. Ils sont déployés pendant des jours à plusieurs mois et recueillent
+      de scie. Ils sont déployés pendant plusieurs jours ou plusieurs mois et recueillent
       des informations détaillées sur les processus physiques, chimiques et biologiques
       des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne
       Webb Research Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -48,8 +48,8 @@ identification:
       - other
       fr:
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -62,7 +62,7 @@ metadata:
   dates:
     publication: '2022-03-09T02:01:43Z'
     revision: '2022-03-09T02:01:43Z'
-  identifier: ca9ff52e-ee4b-4629-a92f-2680cb340cbd
+  identifier: 91556446-4edb-49a7-aa13-0b771c535d62
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -77,7 +77,7 @@ platform:
   instruments:
   - description:
       en: science computer measured
-      fr: ordinateur scientifique mesuré
+      fr: science mesurée par ordinateur
     id: instrument_science_measured
   - description:
       en: Glider Payload CTD
@@ -91,12 +91,12 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:

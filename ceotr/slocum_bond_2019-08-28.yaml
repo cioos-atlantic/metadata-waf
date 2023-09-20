@@ -19,12 +19,12 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/bond_20190828_104_realtime.html
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/bond_20190828_104_delayed.html
 identification:
   abstract:
@@ -38,13 +38,13 @@ identification:
     fr: 'Déploiement du planeur #104 - lien 2019-08-28 (retardé). Les planeurs Slocum
       sont de petits véhicules sans pilote à nage libre qui utilisent les changements
       de flottabilité pour se déplacer verticalement et horizontalement dans la colonne
-      d''eau selon un motif en dents de scie. Ils sont déployés pendant des jours
-      à plusieurs mois et recueillent des informations détaillées sur les processus
+      d''eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs
+      jours ou plusieurs mois et recueillent des informations détaillées sur les processus
       physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
       été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
       USA.'
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -52,8 +52,8 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -61,12 +61,12 @@ identification:
   temporal_end: '2019-09-25T14:46:00.000Z'
   title:
     en: WHaLE in Northwest Atlantic Ocean 2019-08-28
-    fr: BALEINE dans l'océan Atlantique Nord-Ouest 2019-08-28
+    fr: BALEINE dans l’océan Atlantique Nord-Ouest 2019-08-28
 metadata:
   dates:
     publication: '2021-09-26T13:35:50Z'
     revision: '2021-09-26T13:35:50Z'
-  identifier: ee9a84c6-7360-4439-bef4-b830b3fec2c6
+  identifier: 85635c7a-24b0-4b64-89df-11077e8c9c73
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -81,20 +81,20 @@ platform:
   instruments:
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
   - description:
       en: digital acoustic monitoring instrument
-      fr: instrument de surveillance acoustique numérique
+      fr: instrument numérique de surveillance acoustique
     id: instrument_dmon
     manufacturer: Woods Hole Oceanographic Institution
   - description:
       en: Seabird Unpumped CTD
-      fr: Seabird non pompé CTD
+      fr: CTD non pompé pour oiseaux de mer
     id: instrument_ctd
     manufacturer: Sea-Bird Scientific
   - description:

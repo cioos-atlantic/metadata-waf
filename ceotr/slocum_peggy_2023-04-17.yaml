@@ -29,8 +29,8 @@ contact:
   - funder
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/peggy_20230417_167_realtime.html
 identification:
   abstract:
@@ -43,12 +43,12 @@ identification:
     fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
       utilisent les changements de flottabilité pour se déplacer verticalement et
       horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
-      déployés pendant des jours à plusieurs mois et recueillent des informations
+      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
       détaillées sur les processus physiques, chimiques et biologiques des océans
       du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
       Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -58,8 +58,8 @@ identification:
       - other
       fr:
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -68,13 +68,13 @@ identification:
   title:
     en: Laurentian Channel real time whale monitoring for dynamic shipping management
       in Gulf of St. Lawrence 2023-04-17
-    fr: Surveillance en temps réel des baleines dans le chenal Laurentien pour une
+    fr: Surveillance des baleines en temps réel dans le chenal Laurentien pour une
       gestion dynamique de la navigation dans le golfe du Saint-Laurent 2023-04-17
 metadata:
   dates:
-    publication: '2023-06-21T14:56:11Z'
-    revision: '2023-06-21T14:56:11Z'
-  identifier: 5dd2d570-0a64-4a2f-8d71-a807e4ceb97b
+    publication: '2023-09-20T14:56:17Z'
+    revision: '2023-09-20T14:56:17Z'
+  identifier: 256beeac-4e65-42aa-af92-7a49e68a9191
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -104,21 +104,22 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
     type:
       en: "Program Version V5.3.1\r\nAanderaa 4831\r\nFoil Batch no: 1824m"
-      fr: "Version du programme V5.3.1\r\nAanderaa 4831\r\nFoil Lot n° : 1824m"
+      fr: "Version du programme V5.3.1\r\nAanderaa 4831\r\nNuméro de lot de feuille\
+        \ : 1824m"
   - description:
       en: Slocum Glider Science Payload Bay
-      fr: Baie de charge utile Slocum Glider Science
+      fr: Baie de charge utile scientifique du planeur Slocum
     id: instrument_Science_Bay
     manufacturer: Teledyne Webb Research
   - description:
       en: digital acoustic monitoring instrument
-      fr: instrument de surveillance acoustique numérique
+      fr: instrument numérique de surveillance acoustique
     id: instrument_dmon2
     manufacturer: Woods Hole Oceanographic Institution
     type:
       en: "DMON2- Payload Integrated System\r\nSO-A81\r\n\r\nHydophone head P/N 212013\r\
         \n SN 028"
-      fr: "DMON2- Système intégré de charge utile\r\nSO-A81\r\n\r\nTête d'hydophone\
+      fr: "DMON2- Système intégré de charge utile\r\nSO-A81\r\n\r\nTête d'hydrophone\
         \ P/N 212013\r\n SN 028"
   - description:
       en: RBRlegato unpumped CTD
@@ -130,7 +131,7 @@ platform:
       fr: Legato 1000m
   - description:
       en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350m
+      fr: Pompe à huile Slocum Glider G3 350 m
     id: instrument_bpump
     manufacturer: Teledyne Webb Research
   - description:
@@ -140,14 +141,19 @@ platform:
     manufacturer: Teledyne Webb Research
     type:
       en: Assey 302409 rev c
-      fr: Assey 302409 rev c
+      fr: Assey 302409 rév. c
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
   type: glider
 spatial:
   bbox:
   - -60.854048
-  - 48.489722
-  - -61.993128
+  - 49.258113
+  - -63.959
   - 48.052842
   vertical:
   - 0.0
-  - 355.8970031738281
+  - 356.0660095214844

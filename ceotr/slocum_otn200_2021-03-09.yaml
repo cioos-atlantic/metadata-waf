@@ -19,12 +19,12 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/otn200_20210309_125_realtime_test.html
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/otn200_20210309_125_delayed_test.html
 identification:
   abstract:
@@ -37,24 +37,24 @@ identification:
     fr: Enquête sur les planeurs à floraison printanière. Les planeurs Slocum sont
       de petits véhicules sans pilote à nage libre qui utilisent les changements de
       flottabilité pour se déplacer verticalement et horizontalement dans la colonne
-      d'eau selon un motif en dents de scie. Ils sont déployés pendant des jours à
-      plusieurs mois et recueillent des informations détaillées sur les processus
+      d'eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours
+      ou plusieurs mois et recueillent des informations détaillées sur les processus
       physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
       été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
       USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
-      - oxygen
       - subsurfaceSalinity
       - subsurfaceTemperature
+      - oxygen
       - other
       fr:
+      - Salinité souterraine
+      - Température du sous-sol
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
       - autre
   progress_code: completed
   status: published
@@ -62,12 +62,12 @@ identification:
   temporal_end: '2021-04-06T12:13:04.000Z'
   title:
     en: SBloGS in Northwest Atlantic Ocean 2021-03-09
-    fr: SBbloGS dans l'océan Atlantique Nord-Ouest 2021-03-09
+    fr: SBloGS dans l'océan Atlantique Nord-Ouest 2021-03-09
 metadata:
   dates:
     publication: '2022-04-27T13:18:20Z'
     revision: '2022-04-27T13:18:20Z'
-  identifier: 303d0e2c-27c0-43cb-ba3d-c7f0ea7eb3a6
+  identifier: 8729d6c4-46e4-4786-ad62-66eaaec86d99
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -82,7 +82,7 @@ platform:
   instruments:
   - description:
       en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350m
+      fr: Pompe à huile Slocum Glider G3 350 m
     id: instrument_bpump
     manufacturer: Teledyne Webb Research
   - description:

@@ -19,12 +19,12 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/qala2_20220324_147_realtime_test.html
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/qala2_20220324_147_delayed_test.html
 identification:
   abstract:
@@ -37,13 +37,13 @@ identification:
     fr: Enquête sur les planeurs à floraison printanière. Les planeurs Slocum sont
       de petits véhicules sans pilote à nage libre qui utilisent les changements de
       flottabilité pour se déplacer verticalement et horizontalement dans la colonne
-      d'eau selon un motif en dents de scie. Ils sont déployés pendant des jours à
-      plusieurs mois et recueillent des informations détaillées sur les processus
+      d'eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours
+      ou plusieurs mois et recueillent des informations détaillées sur les processus
       physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
       été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
       USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -53,8 +53,8 @@ identification:
       - other
       fr:
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -62,12 +62,12 @@ identification:
   temporal_end: '2022-04-18T21:22:20.000Z'
   title:
     en: SBloGS in Northwest Atlantic Ocean 2022-03-24
-    fr: SBbloGS dans l'océan Atlantique Nord-Ouest 2022-03-24
+    fr: SBloGS dans l'océan Atlantique Nord-Ouest 2022-03-24
 metadata:
   dates:
     publication: '2022-04-26T18:17:17Z'
     revision: '2022-04-26T18:17:17Z'
-  identifier: f7f7118f-d3ff-432b-8e53-3b2c1f3643c6
+  identifier: 89e6ae1f-2a0a-4701-84da-690791d10c6d
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -96,13 +96,8 @@ platform:
     id: instrument_bpump
     manufacturer: Teledyne Webb Research
   - description:
-      en: VEMCO mobile transceiver
-      fr: Émetteur-récepteur mobile VEMCO
-    id: instrument_vmt
-    manufacturer: InnovaSea Systems, Inc.
-  - description:
       en: Slocum Glider Science Payload Bay
-      fr: Baie de charge utile Slocum Glider Science
+      fr: Baie de charge utile scientifique du planeur Slocum
     id: instrument_Science_Bay
     manufacturer: Teledyne Webb Research
   - description:
@@ -112,14 +107,19 @@ platform:
     manufacturer: Sea-Bird Scientific
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
   - description:
       en: photosynthetically active radiation sensor
       fr: capteur de rayonnement photosynthétiquement actif
@@ -127,7 +127,7 @@ platform:
     manufacturer: Satlantic Incorporated
     type:
       en: Firmware 1.1, 0.5Hz
-      fr: Micrologiciel 1.1, 0.5Hz
+      fr: Micrologiciel 1.1, 0,5 Hz
   type: glider
 spatial:
   bbox:

@@ -24,8 +24,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/otn200_20180918_90_realtime.html
 identification:
   abstract:
@@ -37,13 +37,12 @@ identification:
       Falmouth, MA, USA.
     fr: Les planeurs sont de petits véhicules sans pilote à nage libre qui utilisent
       les changements de flottabilité pour se déplacer verticalement et horizontalement
-      dans la colonne d'eau en dents de scie. Ils sont déployés pendant des jours
-      à plusieurs mois et recueillent des informations détaillées sur les processus
-      physiques, chimiques et biologiques du monde Le planeur Slocum a été conçu et
-      les océans. construit par Teledyne Webb Research Corporation, Falmouth, MA,
-      USA.
+      dans la colonne d'eau selon un motif en dents de scie. Ils sont déployés pendant
+      plusieurs jours ou plusieurs mois et recueillent des informations détaillées
+      sur les processus physiques, chimiques et biologiques des océans et des océans
+      du monde. construit par Teledyne Webb Research Corporation, Falmouth, MA, États-Unis.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -53,8 +52,8 @@ identification:
       - other
       fr:
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -62,12 +61,12 @@ identification:
   temporal_end: '2018-09-23T01:55:28.000Z'
   title:
     en: WHaLE in Northwest Atlantic Ocean 2018-09-18
-    fr: BALEINE dans l'océan Atlantique Nord-Ouest 2018-09-18
+    fr: BALEINE dans l’océan Atlantique Nord-Ouest 2018-09-18
 metadata:
   dates:
     publication: '2018-09-24T12:01:44Z'
     revision: '2018-09-24T12:01:44Z'
-  identifier: 1069178d-8bb9-4530-ac08-9d6af61acbc0
+  identifier: 25414e98-9adf-4538-9ce0-22c61e6ca76d
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -82,7 +81,7 @@ platform:
   instruments:
   - description:
       en: science computer measured
-      fr: ordinateur scientifique mesuré
+      fr: science mesurée par ordinateur
     id: instrument_science_measured
   - description:
       en: 853es
@@ -91,7 +90,7 @@ platform:
     manufacturer: Imagenex Technology Corporation
   - description:
       en: Seabird Unpumped CTD
-      fr: Seabird non pompé CTD
+      fr: CTD non pompé pour oiseaux de mer
     id: instrument_ctd
     manufacturer: Sea-Bird Scientific
   - description:
@@ -101,7 +100,7 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
   - description:
       en: digital acoustic monitoring instrument
-      fr: instrument de surveillance acoustique numérique
+      fr: instrument numérique de surveillance acoustique
     id: instrument_dmon
     manufacturer: Woods Hole Oceanographic Institution
   - description:

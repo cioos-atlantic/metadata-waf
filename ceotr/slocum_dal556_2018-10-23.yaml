@@ -24,12 +24,12 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/dal556_20181023_93_realtime.html
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/dal556_20181023_93_delayed.html
 identification:
   abstract:
@@ -42,13 +42,13 @@ identification:
     fr: Déploiement DMON dans le golfe du Saint-Laurent. Les planeurs Slocum sont
       de petits véhicules sans pilote à nage libre qui utilisent les changements de
       flottabilité pour se déplacer verticalement et horizontalement dans la colonne
-      d'eau selon un motif en dents de scie. Ils sont déployés pendant des jours à
-      plusieurs mois et recueillent des informations détaillées sur les processus
+      d'eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours
+      ou plusieurs mois et recueillent des informations détaillées sur les processus
       physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
       été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
       USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -56,8 +56,8 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -70,7 +70,7 @@ metadata:
   dates:
     publication: '2022-03-20T16:18:13Z'
     revision: '2022-03-20T16:18:13Z'
-  identifier: bbc049f4-383a-4f3d-aa9b-11efdc75e226
+  identifier: 4b8c4794-6cb2-4a03-aa5b-b013d5d1f591
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -90,34 +90,34 @@ platform:
     manufacturer: Sea-Bird Scientific
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
+  - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument numérique de surveillance acoustique
+    id: instrument_dmon
+    manufacturer: Woods Hole Oceanographic Institution
+  - description:
+      en: ECO Triplet
+      fr: Triplet ÉCO
+    id: instrument_fluorometer
+    manufacturer: Wet Labs
   - description:
       en: VEMCO mobile transceiver
       fr: Émetteur-récepteur mobile VEMCO
     id: instrument_vmt
     manufacturer: InnovaSea Systems, Inc.
-  - description:
-      en: digital acoustic monitoring instrument
-      fr: instrument de surveillance acoustique numérique
-    id: instrument_dmon
-    manufacturer: Woods Hole Oceanographic Institution
-  - description:
-      en: ECO Triplet
-      fr: Triplet ECO
-    id: instrument_fluorometer
-    manufacturer: Wet Labs
   - description:
       en: Slocum Glider G2 200 m piston pump
       fr: Pompe à piston Slocum Glider G2 200 m

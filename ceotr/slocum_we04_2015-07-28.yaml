@@ -19,8 +19,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/we04_20150728_59_delayed.html
 identification:
   abstract:
@@ -30,15 +30,15 @@ identification:
       detailed information about the physical, chemical and biological processes of
       the world's oceans. The Slocum glider was designed and built by Teledyne Webb
       Research Corporation, Falmouth, MA, USA.
-    fr: 59. Les planeurs Slocum sont de petits véhicules autonomes à nage libre qui
-      utilisent les changements de flottabilité pour se déplacer verticalement et
-      horizontalement dans la colonne d'eau en dents de scie. Ils sont déployés pendant
-      des jours à plusieurs mois et recueillent des informations détaillées sur les
-      processus physiques, chimiques et biologiques des océans du monde. Le planeur
-      Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth,
-      MA, USA.
+    fr: 59. Les planeurs Slocum sont de petits véhicules sans pilote à nage libre
+      qui utilisent les changements de flottabilité pour se déplacer verticalement
+      et horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils
+      sont déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
+      détaillées sur les processus physiques, chimiques et biologiques des océans
+      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
+      Corporation, Falmouth, MA, USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -57,7 +57,7 @@ metadata:
   dates:
     publication: '2022-03-21T04:51:56Z'
     revision: '2022-03-21T04:51:56Z'
-  identifier: af899d7a-450b-4ad3-9614-ebf99eefa848
+  identifier: c6e9e677-db3c-4244-ba6c-d32238d07b1d
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

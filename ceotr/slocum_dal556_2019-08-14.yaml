@@ -24,8 +24,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/dal556_20190814_103_realtime.html
 identification:
   abstract:
@@ -39,13 +39,13 @@ identification:
     fr: 'Déploiement du planeur #103 - dal556 2019-08-14 (temps réel). Les planeurs
       Slocum sont de petits véhicules sans pilote à nage libre qui utilisent les changements
       de flottabilité pour se déplacer verticalement et horizontalement dans la colonne
-      d''eau selon un motif en dents de scie. Ils sont déployés pendant des jours
-      à plusieurs mois et recueillent des informations détaillées sur les processus
+      d''eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs
+      jours ou plusieurs mois et recueillent des informations détaillées sur les processus
       physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
       été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
       USA.'
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -55,8 +55,8 @@ identification:
       - other
       fr:
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -69,7 +69,7 @@ metadata:
   dates:
     publication: '2019-10-01T12:00:20Z'
     revision: '2019-10-01T12:00:20Z'
-  identifier: 43837652-0021-46f9-a1fb-021da75a712a
+  identifier: c3fc9d2c-f6ce-4ca3-aab9-0f686eb258d8
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -89,12 +89,12 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
   - description:
@@ -114,17 +114,17 @@ platform:
     manufacturer: Teledyne Webb Research
   - description:
       en: Slocum Glider Science Payload Bay
-      fr: Baie de charge utile Slocum Glider Science
+      fr: Baie de charge utile scientifique du planeur Slocum
     id: instrument_Science_Bay
     manufacturer: Teledyne Webb Research
   - description:
       en: digital acoustic monitoring instrument
-      fr: instrument de surveillance acoustique numérique
+      fr: instrument numérique de surveillance acoustique
     id: instrument_dmon
     manufacturer: Woods Hole Oceanographic Institution
   - description:
       en: ECO Triplet
-      fr: Triplet ECO
+      fr: Triplet ÉCO
     id: instrument_fluorometer
     manufacturer: Wet Labs
   - description:

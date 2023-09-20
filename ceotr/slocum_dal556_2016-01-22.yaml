@@ -19,8 +19,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: High resolution ERDDAP datasets
-    fr: Jeux de données ERDDAP haute résolution
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://data.ceotr.ca/erddap/tabledap/dal556_20160122_56_delayed.html
 identification:
   abstract:
@@ -30,16 +30,16 @@ identification:
       to several months and gather detailed information about the physical, chemical
       and biological processes of the world's oceans. The Slocum glider was designed
       and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.
-    fr: Déploiement DMON pour les tests offshore à Halifax. Les planeurs Slocum sont
+    fr: Déploiement DMON pour les tests offshore d'Halifax. Les planeurs Slocum sont
       de petits véhicules sans pilote à nage libre qui utilisent les changements de
       flottabilité pour se déplacer verticalement et horizontalement dans la colonne
-      d'eau selon un motif en dents de scie. Ils sont déployés pendant des jours à
-      plusieurs mois et recueillent des informations détaillées sur les processus
+      d'eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours
+      ou plusieurs mois et recueillent des informations détaillées sur les processus
       physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
       été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
       USA.
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -47,8 +47,8 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -56,12 +56,12 @@ identification:
   temporal_end: '2016-02-10T10:45:00.000Z'
   title:
     en: WHaLE in Northwest Atlantic Ocean 2016-01-22
-    fr: BALEINE dans l'océan Atlantique Nord-Ouest 2016-01-22
+    fr: BALEINE dans l’océan Atlantique Nord-Ouest 2016-01-22
 metadata:
   dates:
     publication: '2022-03-20T07:45:28Z'
     revision: '2022-03-20T07:45:28Z'
-  identifier: 2c412976-f278-4ab4-993a-4ec4ff39a603
+  identifier: 8f59046e-f011-4e5c-aa28-a6d6882e52fd
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -76,7 +76,7 @@ platform:
   instruments:
   - description:
       en: science computer measured
-      fr: ordinateur scientifique mesuré
+      fr: science mesurée par ordinateur
     id: instrument_science_measured
   - description:
       en: 853es
@@ -85,17 +85,17 @@ platform:
     manufacturer: Imagenex Technology Corporation
   - description:
       en: Seabird Unpumped CTD
-      fr: Seabird non pompé CTD
+      fr: CTD non pompé pour oiseaux de mer
     id: instrument_ctd
     manufacturer: Sea-Bird Scientific
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
   - description:

@@ -19,8 +19,8 @@ contact:
   - distributor
 distribution:
 - description:
-  - en: realtime ERDDAP datasets
-    fr: ensembles de données ERDDAP en temps réel
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
   url: https://data.ceotr.ca/erddap/tabledap/scotia_20210609_132_realtime_test.html
 identification:
   abstract:
@@ -31,16 +31,16 @@ identification:
       about the physical, chemical and biological processes of the world''s oceans.
       The Slocum glider was designed and built by Teledyne Webb Research Corporation,
       Falmouth, MA, USA.'
-    fr: 'Test de déploiement de planeur #132 - scotia 2021-06-09 (temps réel). Les
+    fr: 'Test de déploiement de planeur #132 - Écosse 2021-06-09 (temps réel). Les
       planeurs Slocum sont de petits véhicules sans pilote à nage libre qui utilisent
       les changements de flottabilité pour se déplacer verticalement et horizontalement
       dans la colonne d''eau selon un motif en dents de scie. Ils sont déployés pendant
-      des jours à plusieurs mois et recueillent des informations détaillées sur les
-      processus physiques, chimiques et biologiques des océans du monde. Le planeur
-      Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth,
-      MA, USA.'
+      plusieurs jours ou plusieurs mois et recueillent des informations détaillées
+      sur les processus physiques, chimiques et biologiques des océans du monde. Le
+      planeur Slocum a été conçu et construit par Teledyne Webb Research Corporation,
+      Falmouth, MA, USA.'
   dates:
-    creation: '2023-06-21'
+    creation: '2023-09-20'
   keywords:
     eov:
       en:
@@ -50,8 +50,8 @@ identification:
       - other
       fr:
       - oxygène
-      - subsurfaceSalinité
-      - sous-surfaceTempérature
+      - Salinité souterraine
+      - Température du sous-sol
       - autre
   progress_code: completed
   status: published
@@ -59,12 +59,12 @@ identification:
   temporal_end: '2021-06-21T13:00:00.000Z'
   title:
     en: CEOTR Test Missions in Northwest Atlantic Ocean 2021-06-09
-    fr: Missions d'essai du CEOTR dans l'Atlantique Nord-Ouest 2021-06-09
+    fr: Missions de test CEOTR dans l’océan Atlantique Nord-Ouest 2021-06-09
 metadata:
   dates:
     publication: '2021-08-04T00:52:06Z'
     revision: '2021-08-04T00:52:06Z'
-  identifier: a5ee9b20-69b2-4d96-9a1d-d8443dcf0610
+  identifier: 91ed95c2-ef70-4d8b-af33-afef628ae63f
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -84,12 +84,12 @@ platform:
     manufacturer: InnovaSea Systems, Inc.
   - description:
       en: flight computer commanded
-      fr: calculateur de vol commandé
+      fr: commandé par ordinateur de vol
     id: instrument_flight_commanded
     manufacturer: Teledyne Webb Research
   - description:
       en: flight computer measured
-      fr: calculateur de vol mesuré
+      fr: ordinateur de vol mesuré
     id: instrument_flight_measured
     manufacturer: Teledyne Webb Research
   - description:
@@ -99,17 +99,17 @@ platform:
     manufacturer: Aanderaa Data Instruments AS
   - description:
       en: digital acoustic monitoring instrument
-      fr: instrument de surveillance acoustique numérique
+      fr: instrument numérique de surveillance acoustique
     id: instrument_dmon
     manufacturer: Woods Hole Oceanographic Institution
   - description:
       en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350m
+      fr: Pompe à huile Slocum Glider G3 350 m
     id: instrument_bpump
     manufacturer: Teledyne Webb Research
   - description:
       en: Slocum Glider Science Payload Bay
-      fr: Baie de charge utile Slocum Glider Science
+      fr: Baie de charge utile scientifique du planeur Slocum
     id: instrument_Science_Bay
     manufacturer: Teledyne Webb Research
   - description:
