@@ -1,0 +1,120 @@
+contact:
+- inCitation: true
+  individual:
+    name: Davies, Kim
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
+  url: https://data.ceotr.ca/erddap/tabledap/otn200_20180918_90_realtime.html
+identification:
+  abstract:
+    en: Gliders are small, free-swimming, unmanned vehicles that use changes in buoyancy
+      to move vertically and horizontally through the water column in a saw-tooth
+      pattern. They are deployed for days to several months and gather detailed information
+      about the physical, chemical and biological processes of the world's The Slocum
+      glider was designed and oceans. built by Teledyne Webb Research Corporation,
+      Falmouth, MA, USA.
+    fr: Les planeurs sont de petits véhicules sans pilote à nage libre qui utilisent
+      les changements de flottabilité pour se déplacer verticalement et horizontalement
+      dans la colonne d'eau selon un motif en dents de scie. Ils sont déployés pendant
+      plusieurs jours ou plusieurs mois et recueillent des informations détaillées
+      sur les processus physiques, chimiques et biologiques des océans et des océans
+      du monde. construit par Teledyne Webb Research Corporation, Falmouth, MA, États-Unis.
+  dates:
+    creation: '2023-09-20'
+  keywords:
+    eov:
+      en:
+      - oxygen
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - other
+      fr:
+      - oxygène
+      - Salinité souterraine
+      - Température du sous-sol
+      - autre
+  progress_code: completed
+  status: published
+  temporal_begin: '2018-09-18T16:08:00.000Z'
+  temporal_end: '2018-09-23T01:55:28.000Z'
+  title:
+    en: WHaLE in Northwest Atlantic Ocean 2018-09-18
+    fr: BALEINE dans l’océan Atlantique Nord-Ouest 2018-09-18
+metadata:
+  dates:
+    publication: '2018-09-24T12:01:44Z'
+    revision: '2018-09-24T12:01:44Z'
+  identifier: 25414e98-9adf-4538-9ce0-22c61e6ca76d
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: otn200
+  instruments:
+  - description:
+      en: science computer measured
+      fr: science mesurée par ordinateur
+    id: instrument_science_measured
+  - description:
+      en: 853es
+      fr: 853es
+    id: instrument_echosounder
+    manufacturer: Imagenex Technology Corporation
+  - description:
+      en: Seabird Unpumped CTD
+      fr: CTD non pompé pour oiseaux de mer
+    id: instrument_ctd
+    manufacturer: Sea-Bird Scientific
+  - description:
+      en: Optode 5013w
+      fr: Optode 5013w
+    id: instrument_oxygen_optode
+    manufacturer: Aanderaa Data Instruments AS
+  - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument numérique de surveillance acoustique
+    id: instrument_dmon
+    manufacturer: Woods Hole Oceanographic Institution
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  type: glider
+spatial:
+  bbox:
+  - -65.428055
+  - 43.238835
+  - -65.81746
+  - 42.931977
+  vertical:
+  - 0.0
+  - 134.707772596332

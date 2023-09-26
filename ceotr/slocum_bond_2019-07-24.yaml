@@ -1,0 +1,108 @@
+contact:
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
+  url: https://data.ceotr.ca/erddap/tabledap/bond_20190724_102_realtime.html
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://data.ceotr.ca/erddap/tabledap/bond_20190724_102_delayed.html
+identification:
+  abstract:
+    en: Slocum gliders are small, free-swimming, unmanned vehicles that use changes
+      in buoyancy to move vertically and horizontally through the water column in
+      a saw-tooth pattern. They are deployed for days to several months and gather
+      detailed information about the physical, chemical and biological processes of
+      the world's oceans. The Slocum glider was designed and built by Teledyne Webb
+      Research Corporation, Falmouth, MA, USA.
+    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
+      utilisent les changements de flottabilité pour se déplacer verticalement et
+      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
+      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
+      détaillées sur les processus physiques, chimiques et biologiques des océans
+      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
+      Corporation, Falmouth, MA, USA.
+  dates:
+    creation: '2023-09-20'
+  keywords:
+    eov:
+      en:
+      - other
+      fr:
+      - autre
+  progress_code: completed
+  status: published
+  temporal_begin: '2019-07-24T16:43:00.000Z'
+  temporal_end: '2019-08-14T15:39:00.000Z'
+  title:
+    en: WHaLE in Gulf of St. Lawrence 2019-07-24
+    fr: BALEINE dans le golfe du Saint-Laurent 2019-07-24
+metadata:
+  dates:
+    publication: '2022-03-22T02:51:14Z'
+    revision: '2022-03-22T02:51:14Z'
+  identifier: 7589b679-3790-4fb4-bb98-37b2d3c4c5a5
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: bond
+  instruments:
+  - description:
+      en: flight computer measured
+      fr: ordinateur de vol mesuré
+    id: instrument_flight_measured
+  - description:
+      en: flight computer commanded
+      fr: commandé par ordinateur de vol
+    id: instrument_flight_commanded
+  - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument numérique de surveillance acoustique
+    id: instrument_dmon
+    manufacturer: Woods Hole Oceanographic Institution
+  - description:
+      en: Slocum Glider G1 200 m piston pump
+      fr: Pompe à piston Slocum Glider G1 200 m
+    id: instrument_bpump
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  type: glider
+spatial:
+  bbox:
+  - -63.115642
+  - 48.175595
+  - -64.01091572205438
+  - 47.808145
+  vertical:
+  - 0.0
+  - 123.07099914550781

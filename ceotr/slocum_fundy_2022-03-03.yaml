@@ -1,0 +1,127 @@
+contact:
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
+  url: https://data.ceotr.ca/erddap/tabledap/fundy_20220303_145_realtime.html
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://data.ceotr.ca/erddap/tabledap/fundy_20220303_145_delayed.html
+identification:
+  abstract:
+    en: Department of Fisheries and Oceans (DFO) Jasco Observer mission. Slocum gliders
+      are small, free-swimming, unmanned vehicles that use changes in buoyancy to
+      move vertically and horizontally through the water column in a saw-tooth pattern.
+      They are deployed for days to several months and gather detailed information
+      about the physical, chemical and biological processes of the world's oceans.
+      The Slocum glider was designed and built by Teledyne Webb Research Corporation,
+      Falmouth, MA, USA.
+    fr: Mission d'observation Jasco du ministère des Pêches et des Océans (MPO). Les
+      planeurs Slocum sont de petits véhicules sans pilote à nage libre qui utilisent
+      les changements de flottabilité pour se déplacer verticalement et horizontalement
+      dans la colonne d'eau selon un motif en dents de scie. Ils sont déployés pendant
+      plusieurs jours ou plusieurs mois et recueillent des informations détaillées
+      sur les processus physiques, chimiques et biologiques des océans du monde. Le
+      planeur Slocum a été conçu et construit par Teledyne Webb Research Corporation,
+      Falmouth, MA, USA.
+  dates:
+    creation: '2023-09-20'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - other
+      fr:
+      - Salinité souterraine
+      - Température du sous-sol
+      - autre
+  progress_code: completed
+  status: published
+  temporal_begin: '2022-03-03T13:37:58.000Z'
+  temporal_end: '2022-03-18T12:00:00.000Z'
+  title:
+    en: Halifax Line Monitoring in Northwest Atlantic Ocean 2022-03-03
+    fr: Surveillance de la ligne Halifax dans le nord-ouest de l'océan Atlantique
+      2022-03-03
+metadata:
+  dates:
+    publication: '2022-03-22T17:49:10Z'
+    revision: '2022-03-22T17:49:10Z'
+  identifier: 46a917c9-1ff3-4b3e-b322-6b5e75a715df
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: fundy
+  instruments:
+  - description:
+      en: Glider Payload CTD
+      fr: Charge utile du planeur CTD
+    id: instrument_ctd
+    manufacturer: Sea-Bird Scientific
+  - description:
+      en: Slocum Glider G3 350 m oil pump
+      fr: Pompe à huile Slocum Glider G3 350 m
+    id: instrument_bpump
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: flight computer commanded
+      fr: commandé par ordinateur de vol
+    id: instrument_flight_commanded
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: flight computer measured
+      fr: ordinateur de vol mesuré
+    id: instrument_flight_measured
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: Slocum Glider Science Payload Bay
+      fr: Baie de charge utile scientifique du planeur Slocum
+    id: instrument_Science_Bay
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: Jasco Observer Hydrophone
+      fr: Hydrophone Jasco Observer
+    id: instrument_obsvr
+    manufacturer: JASCO Applied Sciences
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  type: glider
+spatial:
+  bbox:
+  - -62.74374
+  - 44.507273
+  - -63.420828
+  - 43.929703
+  vertical:
+  - 0.0
+  - 254.76499938964844
