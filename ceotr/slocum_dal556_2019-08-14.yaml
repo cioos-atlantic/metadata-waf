@@ -1,0 +1,144 @@
+contact:
+- inCitation: true
+  individual:
+    name: Davies, Kim
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
+  url: https://data.ceotr.ca/erddap/tabledap/dal556_20190814_103_realtime.html
+identification:
+  abstract:
+    en: 'Glider deployment #103 - dal556 2019-08-14 (realtime). Slocum gliders are
+      small, free-swimming, unmanned vehicles that use changes in buoyancy to move
+      vertically and horizontally through the water column in a saw-tooth pattern.
+      They are deployed for days to several months and gather detailed information
+      about the physical, chemical and biological processes of the world''s oceans.
+      The Slocum glider was designed and built by Teledyne Webb Research Corporation,
+      Falmouth, MA, USA.'
+    fr: 'Déploiement du planeur #103 - dal556 2019-08-14 (temps réel). Les planeurs
+      Slocum sont de petits véhicules sans pilote à nage libre qui utilisent les changements
+      de flottabilité pour se déplacer verticalement et horizontalement dans la colonne
+      d''eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs
+      jours ou plusieurs mois et recueillent des informations détaillées sur les processus
+      physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
+      été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
+      USA.'
+  dates:
+    creation: '2023-09-20'
+  keywords:
+    eov:
+      en:
+      - oxygen
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - other
+      fr:
+      - oxygène
+      - Salinité souterraine
+      - Température du sous-sol
+      - autre
+  progress_code: completed
+  status: published
+  temporal_begin: '2019-08-14T19:36:00.000Z'
+  temporal_end: '2019-10-01T10:06:00.000Z'
+  title:
+    en: WHaLE in Gulf of St. Lawrence 2019-08-14
+    fr: BALEINE dans le golfe du Saint-Laurent 2019-08-14
+metadata:
+  dates:
+    publication: '2019-10-01T12:00:20Z'
+    revision: '2019-10-01T12:00:20Z'
+  identifier: c3fc9d2c-f6ce-4ca3-aab9-0f686eb258d8
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: dal556
+  instruments:
+  - description:
+      en: Optode 5013w
+      fr: Optode 5013w
+    id: instrument_oxygen_optode
+    manufacturer: Aanderaa Data Instruments AS
+  - description:
+      en: flight computer measured
+      fr: ordinateur de vol mesuré
+    id: instrument_flight_measured
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: flight computer commanded
+      fr: commandé par ordinateur de vol
+    id: instrument_flight_commanded
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: Glider Payload CTD
+      fr: Charge utile du planeur CTD
+    id: instrument_ctd
+    manufacturer: Sea-Bird Scientific
+  - description:
+      en: AZFP
+      fr: AZFP
+    id: instrument_echosounder
+    manufacturer: ASL Environmental Sciences
+  - description:
+      en: Slocum Glider G2 200 m piston pump
+      fr: Pompe à piston Slocum Glider G2 200 m
+    id: instrument_bpump
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: Slocum Glider Science Payload Bay
+      fr: Baie de charge utile scientifique du planeur Slocum
+    id: instrument_Science_Bay
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument numérique de surveillance acoustique
+    id: instrument_dmon
+    manufacturer: Woods Hole Oceanographic Institution
+  - description:
+      en: ECO Triplet
+      fr: Triplet ÉCO
+    id: instrument_fluorometer
+    manufacturer: Wet Labs
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  type: glider
+spatial:
+  bbox:
+  - -63.093325
+  - 48.257823
+  - -64.17212
+  - 47.321348
+  vertical:
+  - 0.0
+  - 128.697

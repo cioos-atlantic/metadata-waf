@@ -1,0 +1,152 @@
+contact:
+- inCitation: true
+  individual:
+    name: Robertson, Martha
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
+  url: https://data.ceotr.ca/erddap/tabledap/qala2_20230627_172_realtime.html
+identification:
+  abstract:
+    en: Slocum gliders are small, free-swimming, unmanned vehicles that use changes
+      in buoyancy to move vertically and horizontally through the water column in
+      a saw-tooth pattern. They are deployed for days to several months and gather
+      detailed information about the physical, chemical and biological processes of
+      the world's oceans. The Slocum glider was designed and built by Teledyne Webb
+      Research Corporation, Falmouth, MA, USA.
+    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
+      utilisent les changements de flottabilité pour se déplacer verticalement et
+      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
+      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
+      détaillées sur les processus physiques, chimiques et biologiques des océans
+      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
+      Corporation, Falmouth, MA, USA.
+  dates:
+    creation: '2023-09-20'
+  keywords:
+    eov:
+      en:
+      - oxygen
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - other
+      fr:
+      - oxygène
+      - Salinité souterraine
+      - Température du sous-sol
+      - autre
+  progress_code: completed
+  status: published
+  temporal_begin: '2023-06-27T10:50:00.000Z'
+  temporal_end: null
+  title:
+    en: Environmental Studies Research Fund Atlantic Salmon Offshore Tracking Project
+      in Northwest Atlantic Ocean 2023-06-27
+    fr: Fonds de recherche sur les études environnementales Projet de suivi extracôtier
+      du saumon atlantique dans l'océan Atlantique Nord-Ouest 2023-06-27
+metadata:
+  dates:
+    publication: '2023-09-20T10:26:05Z'
+    revision: '2023-09-20T10:26:05Z'
+  identifier: 15265591-8403-416c-a5f6-655158c0ae8c
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: qala2
+  instruments:
+  - description:
+      en: Slocum Glider G2 200 m piston pump
+      fr: Pompe à piston Slocum Glider G2 200 m
+    id: instrument_bpump
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: submersible ultraviolet nitrate analyzer
+      fr: analyseur submersible de nitrate ultraviolet
+    id: instrument_suna
+    manufacturer: Satlantic Incorporated
+  - description:
+      en: oxygen 4381
+      fr: oxygène 4381
+    id: instrument_oxygen_optode
+    manufacturer: Aanderaa Data Instruments AS
+  - description:
+      en: Slocum Glider G2 1000m oil pump
+      fr: Pompe à huile Slocum Glider G2 1000m
+    id: instrument_bpump
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: Slocum Glider Science Payload Bay
+      fr: Baie de charge utile scientifique du planeur Slocum
+    id: instrument_Science_Bay
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: Glider Payload CTD
+      fr: Charge utile du planeur CTD
+    id: instrument_ctd
+    manufacturer: Sea-Bird Scientific
+  - description:
+      en: ECO Triplet
+      fr: Triplet ÉCO
+    id: instrument_fluorometer
+    manufacturer: Wet Labs
+  - description:
+      en: ECO Triplet
+      fr: Triplet ÉCO
+    id: instrument_fluorometer
+    manufacturer: Wet Labs
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  - description:
+      en: photosynthetically active radiation sensor
+      fr: capteur de rayonnement photosynthétiquement actif
+    id: instrument_par
+    manufacturer: Satlantic Incorporated
+    type:
+      en: Firmware 1.1, 0.5Hz
+      fr: Micrologiciel 1.1, 0,5 Hz
+  type: glider
+spatial:
+  bbox:
+  - -48.255237
+  - 47.28107655727051
+  - -57.635317
+  - 45.189672
+  vertical:
+  - 0.0
+  - 202.2169952392578

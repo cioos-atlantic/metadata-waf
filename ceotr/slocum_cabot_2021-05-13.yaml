@@ -1,0 +1,140 @@
+contact:
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
+  url: https://data.ceotr.ca/erddap/tabledap/cabot_20210513_129_realtime_test.html
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://data.ceotr.ca/erddap/tabledap/cabot_20210513_129_delayed_test.html
+identification:
+  abstract:
+    en: Offshore Halifax Platform Testing. Slocum gliders are small, free-swimming,
+      unmanned vehicles that use changes in buoyancy to move vertically and horizontally
+      through the water column in a saw-tooth pattern. They are deployed for days
+      to several months and gather detailed information about the physical, chemical
+      and biological processes of the world's oceans. The Slocum glider was designed
+      and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.
+    fr: Tests de plate-forme au large d'Halifax. Les planeurs Slocum sont de petits
+      véhicules sans pilote à nage libre qui utilisent les changements de flottabilité
+      pour se déplacer verticalement et horizontalement dans la colonne d'eau selon
+      un motif en dents de scie. Ils sont déployés pendant plusieurs jours ou plusieurs
+      mois et recueillent des informations détaillées sur les processus physiques,
+      chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu
+      et construit par Teledyne Webb Research Corporation, Falmouth, MA, USA.
+  dates:
+    creation: '2023-09-20'
+  keywords:
+    eov:
+      en:
+      - oxygen
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - other
+      fr:
+      - oxygène
+      - Salinité souterraine
+      - Température du sous-sol
+      - autre
+  progress_code: completed
+  status: published
+  temporal_begin: '2021-05-13T13:38:00.000Z'
+  temporal_end: '2021-06-18T12:22:04.000Z'
+  title:
+    en: CEOTR Test Missions in Northwest Atlantic Ocean 2021-05-13
+    fr: Missions de test CEOTR dans l’océan Atlantique Nord-Ouest 2021-05-13
+metadata:
+  dates:
+    publication: '2022-04-28T19:05:45Z'
+    revision: '2022-04-28T19:05:45Z'
+  identifier: cc974622-8c70-4f5f-924a-51ccfaa878e2
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: cabot
+  instruments:
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  - description:
+      en: Glider Payload CTD
+      fr: Charge utile du planeur CTD
+    id: instrument_ctd
+    manufacturer: Sea-Bird Scientific
+  - description:
+      en: Slocum Glider Science Payload Bay
+      fr: Baie de charge utile scientifique du planeur Slocum
+    id: instrument_Science_Bay
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: flight computer measured
+      fr: ordinateur de vol mesuré
+    id: instrument_flight_measured
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: flight computer commanded
+      fr: commandé par ordinateur de vol
+    id: instrument_flight_commanded
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: ECO Triplet
+      fr: Triplet ÉCO
+    id: instrument_fluorometer
+    manufacturer: Wet Labs
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  - description:
+      en: Optode 4831 IW
+      fr: Optode 4831 IW
+    id: instrument_oxygen_optode
+    manufacturer: Aanderaa Data Instruments AS
+    type:
+      en: "Program Version V5.1.1\r\nAanderaa 4831 IW\r\nFoil Batch no: 1824m"
+      fr: "Version du programme V5.1.1\r\nAanderaa 4831 IW\r\nNuméro de lot de feuille\
+        \ : 1824m"
+  - description:
+      en: Slocum Glider G3 1000m oil pump
+      fr: Pompe à huile Slocum Glider G3 1000m
+    id: instrument_bpump
+    manufacturer: Teledyne Webb Research
+  type: glider
+spatial:
+  bbox:
+  - -61.729157
+  - 44.491945
+  - -63.361017
+  - 42.82219
+  vertical:
+  - 0.0
+  - 980.1610107421875

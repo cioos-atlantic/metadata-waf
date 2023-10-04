@@ -1,0 +1,130 @@
+contact:
+- inCitation: true
+  individual:
+    name: Davies, Kim
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    country: Canada
+    email: info@ceotr.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+distribution:
+- description:
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
+  url: https://data.ceotr.ca/erddap/tabledap/otn200_20181101_94_realtime.html
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://data.ceotr.ca/erddap/tabledap/otn200_20181101_94_delayed.html
+identification:
+  abstract:
+    en: Acoustic monitoring in Roseway basin. Slocum gliders are small, free-swimming,
+      unmanned vehicles that use changes in buoyancy to move vertically and horizontally
+      through the water column in a saw-tooth pattern. They are deployed for days
+      to several months and gather detailed information about the physical, chemical
+      and biological processes of the world's oceans. The Slocum glider was designed
+      and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.
+    fr: Surveillance acoustique dans le bassin Roseway. Les planeurs Slocum sont de
+      petits véhicules sans pilote à nage libre qui utilisent les changements de flottabilité
+      pour se déplacer verticalement et horizontalement dans la colonne d'eau selon
+      un motif en dents de scie. Ils sont déployés pendant plusieurs jours ou plusieurs
+      mois et recueillent des informations détaillées sur les processus physiques,
+      chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu
+      et construit par Teledyne Webb Research Corporation, Falmouth, MA, USA.
+  dates:
+    creation: '2023-09-20'
+  keywords:
+    eov:
+      en:
+      - oxygen
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - other
+      fr:
+      - oxygène
+      - Salinité souterraine
+      - Température du sous-sol
+      - autre
+  progress_code: completed
+  status: published
+  temporal_begin: '2018-11-01T18:32:00.000Z'
+  temporal_end: '2018-11-20T14:29:00.000Z'
+  title:
+    en: WHaLE in Northwest Atlantic Ocean 2018-11-01
+    fr: BALEINE dans l’océan Atlantique Nord-Ouest 2018-11-01
+metadata:
+  dates:
+    publication: '2022-03-21T19:38:51Z'
+    revision: '2022-03-21T19:38:51Z'
+  identifier: 113a77f7-1a2e-4e82-9953-2cc90de214e3
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: otn200
+  instruments:
+  - description:
+      en: science computer measured
+      fr: science mesurée par ordinateur
+    id: instrument_science_measured
+  - description:
+      en: 853es
+      fr: 853es
+    id: instrument_echosounder
+    manufacturer: Imagenex Technology Corporation
+  - description:
+      en: Seabird Unpumped CTD
+      fr: CTD non pompé pour oiseaux de mer
+    id: instrument_ctd
+    manufacturer: Sea-Bird Scientific
+  - description:
+      en: Optode 5013w
+      fr: Optode 5013w
+    id: instrument_oxygen_optode
+    manufacturer: Aanderaa Data Instruments AS
+  - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument numérique de surveillance acoustique
+    id: instrument_dmon
+    manufacturer: Woods Hole Oceanographic Institution
+  - description:
+      en: Slocum Glider G3 350 m oil pump
+      fr: Pompe à huile Slocum Glider G3 350 m
+    id: instrument_bpump
+    manufacturer: Teledyne Webb Research
+  - description:
+      en: VEMCO mobile transceiver
+      fr: Émetteur-récepteur mobile VEMCO
+    id: instrument_vmt
+    manufacturer: InnovaSea Systems, Inc.
+  type: glider
+spatial:
+  bbox:
+  - -64.655752
+  - 43.272647
+  - -65.788207
+  - 42.813325
+  vertical:
+  - 0.0
+  - 174.25599670410156
