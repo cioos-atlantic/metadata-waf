@@ -61,6 +61,7 @@ identification:
       des vagues) au Point de Cheminement 3 pour les mois de mars et avril 2022.
   dates:
     creation: '2022-03-01'
+  identifier: https://doi.org/10.60622/9mwh-8013
   keywords:
     default:
       en:
@@ -85,7 +86,7 @@ identification:
 metadata:
   dates:
     publication: '2023-02-09'
-    revision: '2024-02-06T16:31:19.654Z'
+    revision: '2024-02-26T13:45:00.556Z'
   identifier: f3e3e156-2a39-4f77-8d3c-9031b79168e7
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
