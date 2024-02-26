@@ -1,18 +1,4 @@
 contact:
-- inCitation: false
-  individual:
-    email: matthew.drew@wsp.com
-    name: Drew, Matthew
-    position: Data Architecture Specialist
-  organization:
-    address: 133 Crosbie Road
-    city: St. John’s
-    country: Canada
-    email: matthew.drew@wsp.com
-    name: WSP E&I Canada Limited
-    url: https://www.wsp.com/en-ca
-  roles:
-  - custodian
 - inCitation: true
   individual:
     email: terry.bullock@wsp.com
@@ -43,6 +29,7 @@ contact:
     url: https://www.wsp.com/en-ca
   roles:
   - processor
+  - custodian
 - inCitation: true
   individual:
     email: andrew.peddle@wsp.com
@@ -62,13 +49,6 @@ distribution:
 - name:
     en: ERDDAP Wave buoy data
   url: https://cioosatlantic.ca/erddap/tabledap/wsp_grand_banks_waypoint3_wave_buoy.html
-- description:
-    en: These are the tabular data and data headers.
-    fr: Il s'agit des données tabulaires et des en-têtes de données.
-  name:
-    en: Original dataset in Excel format
-    fr: Ensemble de données original au format Excel
-  url: https://docs.google.com/spreadsheets/d/1gCb5bMQdzH5ESdeTKFMK_pYS09CPwAH1/edit?usp=sharing&ouid=100681791185328724784&rtpof=true&sd=true
 - name:
     en: Wave buoy user manual
     fr: Manuel d'utilisation de la bouée à vagues
@@ -81,6 +61,7 @@ identification:
       des vagues) au Point de Cheminement 3 pour les mois de mars et avril 2022.
   dates:
     creation: '2022-03-01'
+  identifier: https://doi.org/10.60622/9mwh-8013
   keywords:
     default:
       en:
@@ -105,7 +86,7 @@ identification:
 metadata:
   dates:
     publication: '2023-02-09'
-    revision: '2023-02-09T16:10:05.864Z'
+    revision: '2024-02-26T13:45:00.556Z'
   identifier: f3e3e156-2a39-4f77-8d3c-9031b79168e7
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
