@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: 72c91e45-2578-304b-9794-98a65642e24d
+  identifier: 8df7f896-ddef-34d7-ba4b-dec90c30bb16
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,21 +12,21 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2024-05-22T17:05:40.808Z'
+    revision: '2024-05-22T14:42:37.946Z'
     publication: '2024-05-22'
 spatial:
   bbox:
-  - -63.95672
-  - 44.50116
-  - -62.39922
-  - 44.87761
+  - -64.66575
+  - 44.02611
+  - -64.66574
+  - 44.026146
   vertical:
-  - 0.4
-  - 30.0
+  - 2.0
+  - 15.0
 identification:
   title:
-    en: Halifax County Water Quality Data
-    fr: Données de qualité de l'eau du comté d'Halifax
+    en: Queens County Water Quality Data
+    fr: Données de qualité de l'eau du comté de Queens
   abstract:
     en: 'The Centre for Marine Applied Research’s (CMAR) Coastal Monitoring Program
       provides high resolution data on ocean variables from around the coast of Nova
@@ -62,7 +62,7 @@ identification:
       viewed in Excel. CMAR recommends filtering the data to the waterbody, station,
       depth, quality control flag, and/or time period of interest before exporting.
       A chart derived from the dataset also allows for interactive filtering and export
-      (https://data.novascotia.ca/d/vpt7-apvp). The "Nova Scotia Water Quality Data:
+      (https://data.novascotia.ca/d/twbe-dv9i). The "Nova Scotia Water Quality Data:
       Station Locations" dataset on this Portal shows additional locations with available
       Water Quality data collected through CMAR’s Coastal Monitoring Program (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
       Summary reports by county are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/).
@@ -114,7 +114,7 @@ identification:
       de filtrer les données sur le corps d''eau, la station, la profondeur, le drapeau
       de contrôle de la qualité et / ou la période d''intérêt avant de l''exportation.Un
       graphique dérivé de l''ensemble de données permet également le filtrage et l''exportation
-      interactifs (https://data.novascotia.ca/d/vpt7-apvp).L''ensemble de données
+      interactifs (https://data.novascotia.ca/d/twbe-dv9i).L''ensemble de données
       "Nova Scotia Water Quality Data: Station Locations" sur ce portail montre des
       emplacements supplémentaires avec les données de qualité de l''eau disponibles
       collectées via le programme de surveillance côtière de CMAR (https://data.novascotia.ca/nature-and-environment/coastal-monitoring-Program-station-Locations
@@ -129,14 +129,14 @@ identification:
       reconnaître le Center for Marine Applied Research dans tout matériel publié
       qui utilise ces données.Contactez info@cmar.ca pour plus d''informations.'
   dates:
-    creation: '2020-10-15'
-    publication: '2020-10-15'
-    revision: '2024-03-25'
+    creation: '2022-02-03'
+    publication: '2022-02-03'
+    revision: '2024-04-12'
   keywords:
     default:
       en:
       - coastal monitoring program
-      - halifax county
+      - queens county
       - aquaculture
       - climate change
       - coast
@@ -154,10 +154,10 @@ identification:
       - temperature
       - water quality
       - cmar
-      - buoy
-      - mooring
       - centre for marine applied research
       - ocean
+      - buoy
+      - mooring
     eov:
       en:
       - Oxygen
@@ -169,7 +169,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2017-07-24T16:45:00.000Z'
+  temporal_begin: '2020-06-25T21:21:58.000Z'
 contact:
 - roles:
   - owner
@@ -182,515 +182,17 @@ contact:
     position: Author/Owner
     email: info(at)cmar.ca
 distribution:
-- url: https://data.novascotia.ca/api/views/x9dy-aai9/files/97b477ba-5016-432c-b5c3-73ef9a1f133e
+- url: https://data.novascotia.ca/api/views/qspp-qhb6/files/d1029716-2750-431c-b51d-be0484e1927a
   name: CMAR Water Quality Datasets Data Dictionary.xlsx
-- url: https://cioosatlantic.ca/erddap/tabledap/x9dy-aai9.html
+- url: https://cioosatlantic.ca/erddap/tabledap/qspp-qhb6.html
   name: ERDDAP Data Access
 platform:
-- id: Sober Island
+  id: Mersey Point
   description:
-    en: Sober Island
+    en: Mersey Point
   instruments:
-  - id: hobo-10817399
+  - id: hobo-20495236
     manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-675008
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20804688
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-10817409
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670294
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21082884
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670376
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Shut-In Island
-  description:
-    en: Shut-In Island
-  instruments:
-  - id: vr2ar-547094
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670352
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670353
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-10194912
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-10755215
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547115
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670370
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670371
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291487
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291438
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20834030
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291480
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-10755251
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20820377
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20900987
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21043079
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20834024
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-548036
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20900975
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20922071
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21043077
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20834033
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-550756
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547087
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20495211
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20495251
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21082883
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-600015
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21488194
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291432
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291461
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21429532
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291444
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21444909
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Shad Bay
-  description:
-    en: Shad Bay
-  instruments:
-  - id: hobo-10034842
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-10755235
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547086
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670359
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670360
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-10755206
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291439
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291467
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Beaver Point
-  description:
-    en: Beaver Point
-  instruments:
-  - id: aquameasure-670380
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670381
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291431
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547111
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-10817496
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-675016
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670375
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-548042
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: East Gibbs Island
-  description:
-    en: East Gibbs Island
-  instruments:
-  - id: aquameasure-670383
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670382
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291430
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291432
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291447
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547112
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-10755244
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Spry Harbour
-  description:
-    en: Spry Harbour
-  instruments:
-  - id: aquameasure-670361
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670362
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291441
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547113
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-10817504
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-675016
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-10817399
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291475
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547086
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291485
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-671186
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20495245
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-548040
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Borgles Island
-  description:
-    en: Borgles Island
-  instruments:
-  - id: aquameasure-670363
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670364
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547109
-    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
@@ -701,42 +203,38 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-- id: Owls Head
-  description:
-    en: Owls Head
-  instruments:
-  - id: vr2ar-547114
+  - id: aquameasure-675012
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: vr2ar-547112
     manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquameasure-670357
+  - id: aquameasure-670292
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquameasure-670358
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670382
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291426
+  - id: hobo-20291486
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: hobo-10817505
+  - id: hobo-20820324
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: vr2ar-548044
+    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''

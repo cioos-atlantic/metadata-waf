@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: dff6e176-b7b7-3e78-bcf4-c93f4bc09261
+  identifier: 84b67ad5-ac8c-3df1-a44e-36185d612b0b
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,20 +12,20 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2024-05-22T16:27:19.303Z'
+    revision: '2024-05-22T14:43:03.967Z'
     publication: '2024-05-22'
 spatial:
   bbox:
-  - -62.770311
-  - 45.34641
-  - -62.411667
-  - 45.75625
+  - -60.9902771
+  - 45.946984
+  - -60.4645225
+  - 46.91123
   vertical:
-  - 0.5
-  - 8.0
+  - 2.0
+  - 21.0
 identification:
   title:
-    en: Pictou County Water Quality Data
+    en: Victoria County Water Quality Data
     fr: ''
   abstract:
     en: 'The Centre for Marine Applied Research’s (CMAR) Coastal Monitoring Program
@@ -62,7 +62,7 @@ identification:
       viewed in Excel. CMAR recommends filtering the data to the waterbody, station,
       depth, quality control flag, and/or time period of interest before exporting.
       A chart derived from the dataset also allows for interactive filtering and export
-      (https://data.novascotia.ca/d/pmim-yujz). The "Nova Scotia Water Quality Data:
+      (https://data.novascotia.ca/d/chb4-suz2). The "Nova Scotia Water Quality Data:
       Station Locations" dataset on this Portal shows additional locations with available
       Water Quality data collected through CMAR’s Coastal Monitoring Program (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
       Summary reports by county are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/).
@@ -75,14 +75,13 @@ identification:
       that uses this data. Contact info@cmar.ca for more information.'
     fr: ''
   dates:
-    creation: '2021-01-19'
-    publication: '2021-01-19'
+    creation: '2023-01-05'
+    publication: '2023-01-05'
     revision: '2024-04-12'
   keywords:
     default:
       en:
       - coastal monitoring program
-      - pictou county
       - aquaculture
       - climate change
       - coast
@@ -99,6 +98,7 @@ identification:
       - salinity
       - temperature
       - water quality
+      - victoria county
       - cmar
       - centre for marine applied research
       - ocean
@@ -115,7 +115,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2017-07-25T20:30:00.000Z'
+  temporal_begin: '2016-09-14T16:00:00.000Z'
 contact:
 - roles:
   - owner
@@ -128,233 +128,113 @@ contact:
     position: Author/Owner
     email: info(at)cmar.ca
 distribution:
-- url: https://data.novascotia.ca/api/views/adpu-nyt8/files/47d769dc-e889-49de-a804-6e651c3db618
+- url: https://data.novascotia.ca/api/views/t2ms-7jgj/files/671dda04-68ef-44f9-8211-1a173ba29fea
   name: CMAR Water Quality Datasets Data Dictionary.xlsx
-- url: https://cioosatlantic.ca/erddap/tabledap/adpu-nyt8.html
+- url: https://cioosatlantic.ca/erddap/tabledap/t2ms-7jgj.html
   name: ERDDAP Data Access
 platform:
-- id: Back Harbour
+- id: Nyanza Bay E
   description:
-    en: Back Harbour
+    en: Nyanza Bay E
   instruments:
-  - id: hobo-10194920
+  - id: hobo-10034841
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: hobo-20291480
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Waterside
+- id: Nyanza Bay W
   description:
-    en: Waterside
+    en: Nyanza Bay W
   instruments:
-  - id: hobo-10755242
+  - id: hobo-10778920
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-- id: Inner Harbour
+- id: Great Bras d'Or Channel NE-W
   description:
-    en: Inner Harbour
+    en: Great Bras d'Or Channel NE-W
   instruments:
-  - id: hobo-10779129
+  - id: hobo-10778919
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-- id: Robinson Cove
+- id: Great Bras d'Or Channel NE-E
   description:
-    en: Robinson Cove
+    en: Great Bras d'Or Channel NE-E
   instruments:
-  - id: hobo-10777103
+  - id: hobo-10034854
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: hobo-20291479
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Piper Lake
+- id: Great Bras d'Or Channel SW-W
   description:
-    en: Piper Lake
+    en: Great Bras d'Or Channel SW-W
   instruments:
-  - id: hobo-20495236
+  - id: hobo-10755220
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquameasure-675014
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Olding Island
+- id: Great Bras d'Or Channel SW-E
   description:
-    en: Olding Island
+    en: Great Bras d'Or Channel SW-E
   instruments:
-  - id: aquameasure-670292
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20308041
+  - id: hobo-10817496
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: vr2ar-549347
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20687286
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-549339
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-675008
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21043074
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-548039
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-671137
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20820327
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547232
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291479
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21465757
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-549346
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-671312
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Melmerby Beach
+- id: Little Narrows S
   description:
-    en: Melmerby Beach
+    en: Little Narrows S
   instruments:
-  - id: hobo-20495220
+  - id: hobo-10755214
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: vr2ar-549345
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291467
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Roy Island 1
+- id: Little Narrows N
   description:
-    en: Roy Island 1
+    en: Little Narrows N
   instruments:
-  - id: hobo-21082882
+  - id: hobo-10755265
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-- id: Roy Island 3
+- id: Barra Strait South
   description:
-    en: Roy Island 3
+    en: Barra Strait South
   instruments:
-  - id: hobo-20687285
+  - id: hobo-10817504
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquameasure-680158
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Roy Island 2
+- id: North Harbour
   description:
-    en: Roy Island 2
+    en: North Harbour
   instruments:
-  - id: hobo-21083048
+  - id: tidbit-20397521
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquameasure-670379
-    manufacturer: Innovasea
+  - id: tidbit-20397522
+    manufacturer: ONSET
     type:
       en: Sensor
       fr: ''

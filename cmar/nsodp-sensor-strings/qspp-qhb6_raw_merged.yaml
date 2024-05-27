@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: dff6e176-b7b7-3e78-bcf4-c93f4bc09261
+  identifier: 8df7f896-ddef-34d7-ba4b-dec90c30bb16
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,20 +12,20 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2024-05-22T16:27:19.303Z'
+    revision: '2024-05-22T14:42:37.946Z'
     publication: '2024-05-22'
 spatial:
   bbox:
-  - -62.770311
-  - 45.34641
-  - -62.411667
-  - 45.75625
+  - -64.66575
+  - 44.02611
+  - -64.66574
+  - 44.026146
   vertical:
-  - 0.5
-  - 8.0
+  - 2.0
+  - 15.0
 identification:
   title:
-    en: Pictou County Water Quality Data
+    en: Queens County Water Quality Data
     fr: ''
   abstract:
     en: 'The Centre for Marine Applied Research’s (CMAR) Coastal Monitoring Program
@@ -62,7 +62,7 @@ identification:
       viewed in Excel. CMAR recommends filtering the data to the waterbody, station,
       depth, quality control flag, and/or time period of interest before exporting.
       A chart derived from the dataset also allows for interactive filtering and export
-      (https://data.novascotia.ca/d/pmim-yujz). The "Nova Scotia Water Quality Data:
+      (https://data.novascotia.ca/d/twbe-dv9i). The "Nova Scotia Water Quality Data:
       Station Locations" dataset on this Portal shows additional locations with available
       Water Quality data collected through CMAR’s Coastal Monitoring Program (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
       Summary reports by county are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/).
@@ -72,17 +72,17 @@ identification:
       pending ongoing data collection and analyses. If you have accessed any Coastal
       Monitoring Program data, CMAR would appreciate your feedback: https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform.
       Please acknowledge the Centre for Marine Applied Research in any published material
-      that uses this data. Contact info@cmar.ca for more information.'
+      that uses this data. Contact info@cmar.ca for more information. '
     fr: ''
   dates:
-    creation: '2021-01-19'
-    publication: '2021-01-19'
+    creation: '2022-02-03'
+    publication: '2022-02-03'
     revision: '2024-04-12'
   keywords:
     default:
       en:
       - coastal monitoring program
-      - pictou county
+      - queens county
       - aquaculture
       - climate change
       - coast
@@ -115,7 +115,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2017-07-25T20:30:00.000Z'
+  temporal_begin: '2020-06-25T21:21:58.000Z'
 contact:
 - roles:
   - owner
@@ -128,66 +128,14 @@ contact:
     position: Author/Owner
     email: info(at)cmar.ca
 distribution:
-- url: https://data.novascotia.ca/api/views/adpu-nyt8/files/47d769dc-e889-49de-a804-6e651c3db618
+- url: https://data.novascotia.ca/api/views/qspp-qhb6/files/d1029716-2750-431c-b51d-be0484e1927a
   name: CMAR Water Quality Datasets Data Dictionary.xlsx
-- url: https://cioosatlantic.ca/erddap/tabledap/adpu-nyt8.html
+- url: https://cioosatlantic.ca/erddap/tabledap/qspp-qhb6.html
   name: ERDDAP Data Access
 platform:
-- id: Back Harbour
+  id: Mersey Point
   description:
-    en: Back Harbour
-  instruments:
-  - id: hobo-10194920
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291480
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Waterside
-  description:
-    en: Waterside
-  instruments:
-  - id: hobo-10755242
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Inner Harbour
-  description:
-    en: Inner Harbour
-  instruments:
-  - id: hobo-10779129
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Robinson Cove
-  description:
-    en: Robinson Cove
-  instruments:
-  - id: hobo-10777103
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291479
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Piper Lake
-  description:
-    en: Piper Lake
+    en: Mersey Point
   instruments:
   - id: hobo-20495236
     manufacturer: ONSET
@@ -195,166 +143,44 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquameasure-675014
+  - id: hobo-10755220
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquameasure-675012
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-- id: Olding Island
-  description:
-    en: Olding Island
-  instruments:
+  - id: vr2ar-547112
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
   - id: aquameasure-670292
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: hobo-20308041
+  - id: hobo-20291486
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: vr2ar-549347
+  - id: hobo-20820324
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: vr2ar-548044
     manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20687286
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-549339
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-675008
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21043074
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-548039
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-671137
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20820327
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547232
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291479
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21465757
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-549346
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-671312
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Melmerby Beach
-  description:
-    en: Melmerby Beach
-  instruments:
-  - id: hobo-20495220
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-549345
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291467
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Roy Island 1
-  description:
-    en: Roy Island 1
-  instruments:
-  - id: hobo-21082882
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Roy Island 3
-  description:
-    en: Roy Island 3
-  instruments:
-  - id: hobo-20687285
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-680158
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Roy Island 2
-  description:
-    en: Roy Island 2
-  instruments:
-  - id: hobo-21083048
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670379
-    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
