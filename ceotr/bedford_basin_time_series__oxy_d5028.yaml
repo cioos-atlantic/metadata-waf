@@ -1,0 +1,185 @@
+contact:
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    city: Halifax
+    country: Canada
+    email: ceotr_dev@dal.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - distributor
+distribution:
+- description:
+    en: Oxygen Winkler and Chlorophyll Lab data from Bedford Basin Time Series Water
+      Samples
+    fr: Données du laboratoire Oxygen Winkler et Chlorophyll provenant de séries chronologiques
+      d'échantillons d'eau du bassin de Bedford
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  name:
+    en: ERDDAP Dataset
+    fr: Ensemble de données ERDDAP
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  url: https://data.ceotr.ca/erddap/tabledap/bbts_water_samples.html
+identification:
+  abstract:
+    en: Oxygen winkler and chlorophyll time series data from water samples taken at
+      Bedford Basin. Samples collected via Niskin bottles. Samples taken and lab work
+      done by OFI.
+    fr: Données de séries chronologiques sur l'oxygène et la chlorophylle à partir
+      d'échantillons d'eau prélevés dans le bassin de Bedford. Échantillons collectés
+      via des bouteilles Niskin. Échantillons prélevés et travaux de laboratoire effectués
+      par OFI.
+    translations:
+      fr:
+        verified: true
+  associated_resources:
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/tabledap/bb1_bop_level1.html
+    title:
+      en: Bedford Basin Time Series BOP Level 1 Data
+      fr: Données de niveau 1 de la série chronologique BOP du bassin de Bedford
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/tabledap/bb1_bop_level2.html
+    title:
+      en: Bedford Basin Time Series BOP Level 2 Data
+      fr: Données sur la BOP de niveau 2 des séries chronologiques du bassin de Bedford
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/tabledap/bb1_bop_level2_bin.html
+    title:
+      en: Bedford Basin Time Series Level 2 Binned data
+      fr: Données groupées de niveau 2 des séries chronologiques du bassin de Bedford
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/tabledap/bb1_hyp_level1.html
+    title:
+      en: Bedford Basin Time Series HYP Level 1 Data
+      fr: Données de la série chronologique HYP de niveau 1 du bassin de Bedford
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/tabledap/bb1_hyp_level2.html
+    title:
+      en: Bedford Basin Time Series HYP Level 2 Data
+      fr: Données de la série chronologique HYP de niveau 2 du bassin de Bedford
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/tabledap/bb1_hyp_level2_bin.html
+    title:
+      en: Bedford Basin Time Series HYP Level 2 Binned Data
+      fr: Données groupées HYP niveau 2 de la série chronologique du bassin de Bedford
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+  dates:
+    creation: '2008-11-19'
+    publication: '2024-05-16'
+  edition: '1.0'
+  keywords:
+    default:
+      en:
+      - chlorophyll a
+      - oxygen
+      - Bedford Basin, Nova Scotia
+      - Halifax Harbour
+      - climate change
+      fr:
+      - chlorophylle a
+      - oxygène
+      - Bassin de Bedford, Nouvelle-Écosse
+      - Port d'Halifax
+      - changement climatique
+    eov:
+      en:
+      - oxygen
+      - phytoplanktonBiomassAndDiversity
+      fr:
+      - Oxygène
+      - Biomasse et diversité de phytoplancton
+  progress_code: onGoing
+  status: published
+  temporal_begin: '2008-11-19T16:00:00.000Z'
+  title:
+    en: 'Bedford Basin Time Series: Oxygen Winkler and Chlorophyll Data from 2009
+      to Present'
+    fr: 'Série chronologique du bassin de Bedford : données sur l''oxygène winkler
+      et la chlorophylle de 2009 à aujourd''hui'
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+metadata:
+  dates:
+    publication: '2024-06-06'
+    revision: '2024-05-23T14:17:06.698Z'
+  identifier: d5028b0d-5e42-41db-9cfb-4f210491c51a
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/mb7bWeeJyad6bUjYfUMEs9321wu1/-NyQOKFOx4CIzDq7AWKP
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC0
+      title:
+        en: Creative Commons 0
+      url: https://creativecommons.org/share-your-work/public-domain/cc0
+platform:
+- id: Sigma T
+  instruments: []
+  type: research vessel
+spatial:
+  bbox:
+  - -63.65
+  - 44.68
+  - -63.63
+  - 44.7
+  descriptionIdentifier: 1cb74b40-93b9-4a26-b63d-6b4809e318fa
+  vertical:
+  - 1.0
+  - 65.0
+  vertical_positive: heightPositive

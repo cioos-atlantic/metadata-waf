@@ -1,0 +1,137 @@
+contact:
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    city: Halifax
+    country: Canada
+    email: ceotr_dev@dal.ca
+    name: CEOTR
+    url: https://ceotr.ocean.dal.ca/
+  roles:
+  - custodian
+  - owner
+  - distributor
+distribution:
+- description:
+    en: Level 2 data of the BOP profiler in the Bedford Basin in ERDDAP
+    fr: Données de niveau 2 du profileur BOP dans le bassin de Bedford dans ERDDAP
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  name:
+    en: ERDDAP dataset
+  url: https://data.ceotr.ca/erddap/tabledap/bb1_bop_level2.html
+identification:
+  abstract:
+    en: Level 2 data of the BOP profiler in the Bedford Basin
+    fr: Données de niveau 2 du profileur BOP dans le bassin de Bedford
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '2010-01-13'
+  keywords:
+    default:
+      en:
+      - Bedford Basin
+      - Halifax
+      - ACS
+      - AREF
+      - ASIG
+      - BOP
+      - CDOM
+      - CTD
+      - chlorophyll
+      - conductivity
+      - CRLF
+      - currents
+      - DARK
+      - depth
+      - dissolved
+      - fluorescence
+      - EWHEM
+      - salinity
+      - oxygen
+      - o2
+      - nitrate
+      - NSHEM
+      - Temperature
+      - PHYTO
+      - pressure
+      - wavelengths
+      - spectral
+      - WAVNUM
+      - wrt
+    eov:
+      en:
+      - other
+      - subSurfaceSalinity
+      - subSurfaceTemperature
+      - oxygen
+      - particulateMatter
+      fr:
+      - Autre
+      - Salinité sous la surface
+      - Température sous la surface
+      - Oxygène
+      - Matière particulaire
+  progress_code: onGoing
+  status: published
+  temporal_begin: '2010-01-13T16:00:00.000Z'
+  title:
+    en: Bedford Basin BOP Level 2
+    fr: Bassin de Bedford BOP niveau 2
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+metadata:
+  dates:
+    publication: '2024-06-06'
+    revision: '2024-06-05T16:03:30.266Z'
+  identifier: 37e28bce-47a7-40f8-9dff-417ecae5b866
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/mb7bWeeJyad6bUjYfUMEs9321wu1/-NV_JdYxKomog3CQCuqt
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC0
+      title:
+        en: Creative Commons 0
+      url: https://creativecommons.org/share-your-work/public-domain/cc0
+platform:
+- description:
+    en: Observational data from an undersea listening station
+    fr: Données d'observation provenant d'une station d'écoute sous-marine
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  id: BOP
+  instruments:
+  - id: SATHED0211
+  - id: GPRMC
+  - id: SATCTD7229
+  - id: SATFL30338
+  - id: SATSTX0016
+  - id: SATHSE0211
+  - id: SATVSF0113
+  - id: SATACS0020
+  type: ship
+spatial:
+  bbox:
+  - -63.6512885
+  - 44.68298333333333
+  - -63.6302928333333
+  - 44.7005483333333
+  vertical:
+  - 0.0
+  - 70.0
+  vertical_positive: heightPositive
