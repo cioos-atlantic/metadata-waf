@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: df9dc1b2-b786-322f-9e92-900c446752ef
+  identifier: 8df7f896-ddef-34d7-ba4b-dec90c30bb16
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,20 +12,20 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2024-05-01T15:15:41.979Z'
+    revision: '2024-05-01T15:16:00.595Z'
     publication: '2024-05-01'
 spatial:
   bbox:
-  - -65.711933
-  - 44.634167
-  - -65.64477
-  - 44.678248
+  - -64.66575
+  - 44.02611
+  - -64.66574
+  - 44.026146
   vertical:
-  - 0.5
-  - 6.0
+  - 2.0
+  - 15.0
 identification:
   title:
-    en: Annapolis County Water Quality Data
+    en: Queens County Water Quality Data
     fr: ''
   abstract:
     en: 'The Centre for Marine Applied Research’s (CMAR) Coastal Monitoring Program
@@ -62,7 +62,7 @@ identification:
       viewed in Excel. CMAR recommends filtering the data to the waterbody, station,
       depth, quality control flag, and/or time period of interest before exporting.
       A chart derived from the dataset also allows for interactive filtering and export
-      (https://data.novascotia.ca/d/a3qb-nf5k). The "Nova Scotia Water Quality Data:
+      (https://data.novascotia.ca/d/twbe-dv9i). The "Nova Scotia Water Quality Data:
       Station Locations" dataset on this Portal shows additional locations with available
       Water Quality data collected through CMAR’s Coastal Monitoring Program (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
       Summary reports by county are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/).
@@ -75,14 +75,14 @@ identification:
       that uses this data. Contact info@cmar.ca for more information.'
     fr: ''
   dates:
-    creation: '2021-01-18'
-    publication: '2021-01-18'
-    revision: '2024-03-25'
+    creation: '2022-02-03'
+    publication: '2022-02-03'
+    revision: '2024-04-12'
   keywords:
     default:
       en:
       - coastal monitoring program
-      - annapolis county
+      - queens county
       - aquaculture
       - climate change
       - coast
@@ -115,7 +115,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2020-06-11T19:15:00.000Z'
+  temporal_begin: '2020-06-25T21:21:58.000Z'
 contact:
 - roles:
   - owner
@@ -128,123 +128,59 @@ contact:
     position: Author/Owner
     email: info(at)cmar.ca
 distribution:
-- url: https://data.novascotia.ca/api/views/knwz-4bap/files/17a2cd25-983e-47e6-9868-701817aadd10
+- url: https://data.novascotia.ca/api/views/qspp-qhb6/files/0dabcceb-4f0d-436c-a04e-064164b8b3e4
   name: CMP data dictionary 2024.xlsx
-- url: https://cioosatlantic.ca/erddap/tabledap/knwz-4bap.html
+- url: https://cioosatlantic.ca/erddap/tabledap/qspp-qhb6.html
   name: ERDDAP Data Access
 platform:
-- id: '1042'
+  id: Mersey Point
   description:
-    en: '1042'
+    en: Mersey Point
   instruments:
-  - id: aquameasure-671014
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: '5006'
-  description:
-    en: '5006'
-  instruments:
-  - id: hobo-20330413
+  - id: hobo-20495236
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-- id: '5005'
-  description:
-    en: '5005'
-  instruments:
-  - id: aquameasure-680322
+  - id: aquameasure-675012
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-- id: Cornwallis
-  description:
-    en: Cornwallis
-  instruments:
-  - id: aquameasure-670367
-    manufacturer: Innovasea
+  - id: hobo-10755220
+    manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: vr2ar-547089
+  - id: vr2ar-547112
     manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquameasure-670380
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Lobster Ledge
-  description:
-    en: Lobster Ledge
-  instruments:
-  - id: hobo-20820380
+  - id: hobo-20820324
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquameasure-670381
+  - id: aquameasure-670292
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: vr2ar-547090
+  - id: hobo-20291486
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: vr2ar-548044
     manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-20291428
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-675011
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21082889
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670356
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547094
-    manufacturer: Vemco
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: hobo-21152416
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-671020
-    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''

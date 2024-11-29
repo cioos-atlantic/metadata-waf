@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2023-03-22T20:52:35.665Z'
-    publication: '2023-03-22'
+    revision: '2024-05-01T15:16:25.789Z'
+    publication: '2024-05-01'
 spatial:
   bbox:
   - -61.0913
@@ -28,51 +28,56 @@ identification:
     en: Richmond County Water Quality Data
     fr: ''
   abstract:
-    en: 'The Centre for Marine Applied Research (CMAR) measures essential ocean variables
-      throughout Nova Scotia’s coastal waters as part of the Coastal Monitoring Program.
-      This program was initiated by the Nova Scotia Department of Fisheries and Aquaculture
-      in 2012 and CMAR became involved in 2017. CMAR collects water quality data (temperature,
-      dissolved oxygen, and intermittent salinity) using autonomous sensors deployed
-      on “sensor strings”. A sensor string typically consists of a line anchored to
-      the sea floor by an acoustic release and suspended by a sub-surface buoy, with
-      sensors attached at various depths below the surface (as measured at low tide).
-      Alternatively, a string may be attached to surface moorings, including floating
-      docks, buoys, and equipment. Sensor strings are deployed for several months,
-      and data are measured every 1 minute to 1 hour. Sensors are retrieved for data
-      offload by triggering the acoustic release when applicable, by directly removing
-      from surface moorings, or occasionally by divers or dragging.  The Coastal Monitoring
-      Program data is organized by county. These datasets are very large, typically
-      exceeding the number of rows that can be viewed in Excel. CMAR recommends using
-      the filter options of the Open Data Portal to filter to the WATERBODY, STATION,
-      DEPTH, VARIABLE, and/or TIMESTAMP of interest before exporting. A chart derived
-      from the dataset also allows for interactive filtering and export (https://data.novascotia.ca/Nature-and-Environment/Richmond-County-Water-Quality-Data-Daily-Average-V/5p9y-iyag).
-      Water Quality Data for other Nova Scotia counties is also available through
-      the Open Data Portal. The "Nova Scotia Water Quality Data: Station Locations"
-      dataset on the Portal shows locations with available data (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
-      Summary reports by county are available on the CMAR website (https://cmar.ca/2020/07/14/coastal-monitoring-program/).
+    en: 'The Centre for Marine Applied Research’s (CMAR) Coastal Monitoring Program
+      provides high resolution data on ocean variables from around the coast of Nova
+      Scotia. The program was initiated by the Nova Scotia Department of Fisheries
+      and Aquaculture in the early 1990s. In 2019, CMAR assumed responsibility for
+      the program and expanded its scope and mandate. Through the Water Quality Branch
+      of the program, CMAR collects temperature, dissolved oxygen, and salinity data
+      using sensors deployed on “sensor strings”. A sensor string typically consists
+      of a line anchored to the sea floor by an acoustic release and suspended by
+      a sub-surface buoy, with sensors attached at various depths below the surface
+      (as measured at low tide). Alternatively, a string may be attached to surface
+      moorings, including floating docks, buoys, and equipment. Sensor strings are
+      deployed for several months, and data are measured every 1 minute to 1 hour.
+      Sensors are retrieved for data offload by triggering the acoustic release when
+      applicable, by directly removing from surface moorings, or occasionally by divers
+      or grappling methods. Automated Quality Control tests have been applied to the
+      data to identify outlying and unexpected observations. The results of these
+      tests are summarized in the “qc_flag” columns of the dataset. Each data point
+      is assigned a flag value of “Pass”, “Suspect/Of Interest”, “Fail”, or “Not Evaluated”.
+      Observations flagged as “Pass” passed all tests and can be included in analyses.
+      Dissolved oxygen observations flagged as “Suspect/Of Interest” likely indicate
+      biofouling signals and should be excluded from analysis or used with extreme
+      caution. Observations for other variables flagged as “Suspect/Of Interest” should
+      be reviewed before being included in analyses. Observations flagged as “Fail”
+      should be excluded from most analyses. Some tests cannot be applied to certain
+      observations, which will be flagged as “Not Evaluated”. These observations can
+      typically be included in analyses. Flags should be used as a guide only, and
+      data users are responsible for evaluating the quality of the data prior to use
+      in any analysis. For more information about the Quality Control tests, visit
+      the CMAR Data Governance website (https://dempsey-cmar.github.io/cmp-data-governance/pages/cmp_about.html).
+      The Coastal Monitoring Program Water Quality data is organized by county. These
+      datasets are very large, typically exceeding the number of rows that can be
+      viewed in Excel. CMAR recommends filtering the data to the waterbody, station,
+      depth, quality control flag, and/or time period of interest before exporting.
+      A chart derived from the dataset also allows for interactive filtering and export
+      (https://data.novascotia.ca/d/5p9y-iyag). The "Nova Scotia Water Quality Data:
+      Station Locations" dataset on this Portal shows additional locations with available
+      Water Quality data collected through CMAR’s Coastal Monitoring Program (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
+      Summary reports by county are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/).
       Data can also be downloaded from the ERDAPP server through the Canadian Integrated
       Ocean Observing System (CIOOS) platform (https://catalogue.cioosatlantic.ca/dataset?q=cmar).
-      Data collection and retrieval are ongoing. Some data are excluded from the final
-      dataset during quality control processes. The datasets and reports may be revised
-      pending ongoing data collection and analyses.  A note on units: For Halifax
-      and Lunenburg counties, dissolved oxygen was measured in units of percent saturation
-      or mg/L, depending on the sensor. For all other counties, dissolved oxygen was
-      measured in units of percent saturation. Measurements in mg/L were corrected
-      for salinity using the Garcia-Gordon (1992) salinity correction factor with
-      a salinity value of 30.6 practical salinity units (based on available data for
-      the region). This correction factor is not required for values recorded in percent
-      saturation. Please contact info@cmar.ca for more information.  If you have accessed
-      any of the Coastal Monitoring Program data, CMAR would appreciate your feedback
-      through this quick questionnaire (https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform).
+      Data collection and retrieval are ongoing. The datasets and reports may be revised
+      pending ongoing data collection and analyses. If you have accessed any Coastal
+      Monitoring Program data, CMAR would appreciate your feedback: https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform.
       Please acknowledge the Centre for Marine Applied Research in any published material
-      that uses this data.Contains information licensed under the Open Government
-      Licence – Nova Scotia. If you have accessed any of the Coastal Monitoring Program
-      data, CMAR would appreciate your feedback through this quick [questionaire](https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform).'
+      that uses this data. Contact info@cmar.ca for more information.'
     fr: ''
   dates:
     creation: '2021-01-20'
     publication: '2021-01-20'
-    revision: '2022-12-06'
+    revision: '2024-03-25'
   keywords:
     default:
       en:
@@ -94,6 +99,11 @@ identification:
       - salinity
       - temperature
       - water quality
+      - cmar
+      - centre for marine applied research
+      - ocean
+      - buoy
+      - mooring
     eov:
       en:
       - Oxygen
@@ -105,7 +115,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2015-11-26T15:00:00.000Z'
+  temporal_begin: '2015-11-26T21:00:00.000Z'
 contact:
 - roles:
   - owner
@@ -118,10 +128,8 @@ contact:
     position: Author/Owner
     email: info(at)cmar.ca
 distribution:
-- url: https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Richmond-County-Daily-A/5p9y-iyag
-  name: Chart
-- url: https://cmar.ca/2020/07/14/coastal-monitoring-program/
-  name: 'Coastal Monitoring Program Report: Richmond County'
+- url: https://data.novascotia.ca/api/views/v6sa-tiit/files/33667fdc-610a-477f-b50e-734ba7e5a9cf
+  name: CMP data dictionary 2024.xlsx
 - url: https://cioosatlantic.ca/erddap/tabledap/v6sa-tiit.html
   name: ERDDAP Data Access
 platform:
@@ -129,19 +137,19 @@ platform:
   description:
     en: '0667'
   instruments:
-  - id: HOBO-10034845
+  - id: hobo-10755234
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-10755234
+  - id: hobo-10034845
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-10755256
+  - id: hobo-10755256
     manufacturer: ONSET
     type:
       en: Sensor
@@ -151,7 +159,7 @@ platform:
   description:
     en: 0716 Center
   instruments:
-  - id: HOBO-10755235
+  - id: hobo-10755235
     manufacturer: ONSET
     type:
       en: Sensor
@@ -161,61 +169,85 @@ platform:
   description:
     en: Cape Auguet
   instruments:
-  - id: HOBO-20291430
+  - id: hobo-20763553
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20291447
+  - id: aquameasure-670369
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-20763565
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: VR2AR-549346
+  - id: vr2ar-548042
     manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-670378
+  - id: aquameasure-675014
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-670369
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20763565
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20763553
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: VR2AR-548042
+  - id: vr2ar-549342
     manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-675014
+  - id: hobo-20291447
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquameasure-670378
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: VR2AR-549342
+  - id: hobo-20291430
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: vr2ar-549346
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-20820381
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: aquameasure-670356
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-20291425
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: vr2ar-547092
     manufacturer: Vemco
     type:
       en: Sensor
@@ -225,13 +257,67 @@ platform:
   description:
     en: Eastern Passage
   instruments:
-  - id: HOBO-10034842
+  - id: hobo-10034842
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20291475
+  - id: hobo-20291475
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Cape Auguet Bay
+  description:
+    en: Cape Auguet Bay
+  instruments:
+  - id: aquameasure-670357
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Cascarette Island
+  description:
+    en: Cascarette Island
+  instruments:
+  - id: aquameasure-670371
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Gabion Shoal
+  description:
+    en: Gabion Shoal
+  instruments:
+  - id: hobo-20495243
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-20495252
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-20495255
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-20330415
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-20495256
     manufacturer: ONSET
     type:
       en: Sensor
@@ -241,37 +327,37 @@ platform:
   description:
     en: Kavanagh Point
   instruments:
-  - id: HOBO-10194877
+  - id: hobo-10755201
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-10755201
+  - id: hobo-10755235
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-10755235
+  - id: hobo-10194877
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-10755208
+  - id: hobo-10755223
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-10755223
+  - id: hobo-10817501
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-10817501
+  - id: hobo-10755208
     manufacturer: ONSET
     type:
       en: Sensor
@@ -281,85 +367,31 @@ platform:
   description:
     en: Les Rochers
   instruments:
-  - id: HOBO-20330414
+  - id: hobo-20330414
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20495247
+  - id: hobo-20495250
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20495249
+  - id: hobo-20495247
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20495250
+  - id: hobo-20495251
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20495251
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: St. Peters Canal - N
-  description:
-    en: St. Peters Canal - N
-  instruments:
-  - id: HOBO-10817499
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: St. Peters Canal - S
-  description:
-    en: St. Peters Canal - S
-  instruments:
-  - id: HOBO-10778915
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Gabion Shoal
-  description:
-    en: Gabion Shoal
-  instruments:
-  - id: HOBO-20330415
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20495243
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20495252
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20495255
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: HOBO-20495256
+  - id: hobo-20495249
     manufacturer: ONSET
     type:
       en: Sensor
@@ -369,38 +401,58 @@ platform:
   description:
     en: Red Point
   instruments:
-  - id: HOBO-20495241
+  - id: hobo-20495241
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20495244
+  - id: aquameasure-670363
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-20495253
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: HOBO-20495253
+  - id: hobo-20495244
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: VR2AR-547099
+  - id: vr2ar-547099
     manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-675012
+  - id: aquameasure-675012
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquaMeasure-670363
-    manufacturer: Innovasea
+- id: St. Peters Canal N
+  description:
+    en: St. Peters Canal N
+  instruments:
+  - id: hobo-10817499
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: St. Peters Canal S
+  description:
+    en: St. Peters Canal S
+  instruments:
+  - id: hobo-10778915
+    manufacturer: ONSET
     type:
       en: Sensor
       fr: ''

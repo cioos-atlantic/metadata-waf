@@ -1,6 +1,6 @@
 metadata:
   naming_authority: ca.cioos
-  identifier: df9dc1b2-b786-322f-9e92-900c446752ef
+  identifier: a779791a-69dc-379f-a8ab-6ba091949aea
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
   use_constraints:
@@ -12,20 +12,20 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2024-05-01T15:15:41.979Z'
+    revision: '2024-05-01T15:14:49.488Z'
     publication: '2024-05-01'
 spatial:
   bbox:
-  - -65.711933
-  - 44.634167
-  - -65.64477
-  - 44.678248
+  - -63.35175
+  - 45.762811
+  - -63.224794
+  - 45.78334450726
   vertical:
   - 0.5
-  - 6.0
+  - 7.0
 identification:
   title:
-    en: Annapolis County Water Quality Data
+    en: Colchester County Water Quality Data
     fr: ''
   abstract:
     en: 'The Centre for Marine Applied Research’s (CMAR) Coastal Monitoring Program
@@ -62,7 +62,7 @@ identification:
       viewed in Excel. CMAR recommends filtering the data to the waterbody, station,
       depth, quality control flag, and/or time period of interest before exporting.
       A chart derived from the dataset also allows for interactive filtering and export
-      (https://data.novascotia.ca/d/a3qb-nf5k). The "Nova Scotia Water Quality Data:
+      (https://data.novascotia.ca/d/cx5r-jnfx). The "Nova Scotia Water Quality Data:
       Station Locations" dataset on this Portal shows additional locations with available
       Water Quality data collected through CMAR’s Coastal Monitoring Program (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
       Summary reports by county are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/).
@@ -75,16 +75,15 @@ identification:
       that uses this data. Contact info@cmar.ca for more information.'
     fr: ''
   dates:
-    creation: '2021-01-18'
-    publication: '2021-01-18'
-    revision: '2024-03-25'
+    creation: '2022-01-27'
+    publication: '2022-01-27'
+    revision: '2024-04-05'
   keywords:
     default:
       en:
       - coastal monitoring program
-      - annapolis county
+      - colchester county
       - aquaculture
-      - climate change
       - coast
       - dissolved oxygen
       - downloadable data
@@ -100,6 +99,7 @@ identification:
       - temperature
       - water quality
       - cmar
+      - climate change
       - centre for marine applied research
       - ocean
       - buoy
@@ -115,7 +115,7 @@ identification:
       - Température sous la surface
   status: published
   progress_code: onGoing
-  temporal_begin: '2020-06-11T19:15:00.000Z'
+  temporal_begin: '2020-10-01T14:00:00.000Z'
 contact:
 - roles:
   - owner
@@ -128,75 +128,41 @@ contact:
     position: Author/Owner
     email: info(at)cmar.ca
 distribution:
-- url: https://data.novascotia.ca/api/views/knwz-4bap/files/17a2cd25-983e-47e6-9868-701817aadd10
+- url: https://data.novascotia.ca/api/views/gfri-gzxa/files/ed9ae38e-22e7-4eaa-a191-debec65705f6
   name: CMP data dictionary 2024.xlsx
-- url: https://cioosatlantic.ca/erddap/tabledap/knwz-4bap.html
+- url: https://cioosatlantic.ca/erddap/tabledap/gfri-gzxa.html
   name: ERDDAP Data Access
 platform:
-- id: '1042'
+- id: Malagash
   description:
-    en: '1042'
+    en: Malagash
   instruments:
-  - id: aquameasure-671014
+  - id: aquameasure-670287
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-- id: '5006'
-  description:
-    en: '5006'
-  instruments:
-  - id: hobo-20330413
+  - id: hobo-20495203
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-- id: '5005'
-  description:
-    en: '5005'
-  instruments:
-  - id: aquameasure-680322
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-- id: Cornwallis
-  description:
-    en: Cornwallis
-  instruments:
-  - id: aquameasure-670367
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547089
+  - id: vr2ar-549339
     manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquameasure-670380
+  - id: aquameasure-671045
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-- id: Lobster Ledge
-  description:
-    en: Lobster Ledge
-  instruments:
-  - id: hobo-20820380
+  - id: hobo-20495253
     manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670381
-    manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
@@ -207,44 +173,62 @@ platform:
       en: Sensor
       fr: ''
     version: ''
-  - id: hobo-20291428
+  - id: hobo-20687286
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquameasure-675011
+  - id: aquameasure-675014
     manufacturer: Innovasea
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: hobo-21082889
-    manufacturer: ONSET
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: aquameasure-670356
-    manufacturer: Innovasea
-    type:
-      en: Sensor
-      fr: ''
-    version: ''
-  - id: vr2ar-547094
+  - id: vr2ar-548042
     manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: hobo-21152416
+- id: McNabs Point 1
+  description:
+    en: McNabs Point 1
+  instruments:
+  - id: hobo-21043077
     manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
     version: ''
-  - id: aquameasure-671020
+- id: McNabs Point 2
+  description:
+    en: McNabs Point 2
+  instruments:
+  - id: aquameasure-670370
     manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-21083051
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: McNabs Point 3
+  description:
+    en: McNabs Point 3
+  instruments:
+  - id: aquameasure-680324
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-21043067
+    manufacturer: ONSET
     type:
       en: Sensor
       fr: ''
