@@ -301,7 +301,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2023-07-14T18:44:00.718Z</gco:DateTime>
+        <gco:DateTime>2024-11-27T12:48:01.731Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -311,7 +311,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2022-11-15</gco:Date>
+        <gco:Date>2024-12-02</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -368,7 +368,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra"></lan:LanguageCode>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng"></lan:LanguageCode>
       </lan:language>
       <lan:country>
         <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN"></lan:CountryCode>
@@ -381,7 +381,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng"></lan:LanguageCode>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra"></lan:LanguageCode>
       </lan:language>
       <lan:country>
         <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN"></lan:CountryCode>
@@ -396,9 +396,9 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>Maritimes Region Atlantic Zone Monitoring Program (AZMP) Rosette Vertical Profiles</gco:CharacterString>
+            <gco:CharacterString>Maritimes Region Atlantic Zone Monitoring Program (AZMP) CTD Profiles</gco:CharacterString>
             <lan:PT_FreeText>
-              <lan:textGroup>
+              <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
                 <lan:LocalisedCharacterString locale="#fr">Programme de surveillance de la zone atlantique de la région des Maritimes (PMZA) profils verticaux des rosettes</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
@@ -482,7 +482,7 @@
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
         <gco:CharacterString>The Atlantic Zone Monitoring Program (AZMP) was implemented in 1998 with the aim of detecting and tracking climate change and variability in the northwest Atlantic, evaluating changes in the physical, chemical and biological ocean properties and predator-prey dynamics of marine resources, thereby enhancing Canada&#39;s ability to understand, describe, and forecast the state of the marine ecosystem. AZMP&#39;s sampling scheme in the Maritimes Region involves oceanographic sampling at two high-frequency (biweekly to monthly) fixed coastal stations, biannual sampling at stratified-random locations during DFO-led Ecosystem Trawl Surveys, biannual sampling along fixed cross-shelf sections (Cabot Strait Line, Louisbourg Line, Halifax Line, Browns Bank Line, and the Northeast Channel); the latter of which may also include opportunistic sampling at stations in the Laurentian Channel, Gulf of Maine, and various Marine Protected Areas (MPAs) in support of ancillary research programs and initiatives. AZMP sampling is conducted according to standard procedures (see https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6) and includes the collection of CTD profiles and water samples for the determination of physical (e.g., T, S), chemical (e.g., nutrients, oxygen, pH), and biological (chl a) variables and vertical ring net tows. The data collected are synthesized into two annual reports on the physical and chemical/biological changes in the Maritimes Region, and are also used to evaluate changes across the Atlantic zone.</gco:CharacterString>
         <lan:PT_FreeText>
-          <lan:textGroup>
+          <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
             <lan:LocalisedCharacterString locale="#fr">Le Programme de surveillance de la zone atlantique (PMZA) a été mis en œuvre en 1998 dans le but de détecter et de suivre les changements climatiques et la variabilité dans l&#39;Atlantique Nord-Ouest, d&#39;évaluer les changements dans les propriétés physiques, chimiques et biologiques de l&#39;océan et la dynamique prédateur-proie des ressources marines, améliorant ainsi le Canada. de comprendre, de décrire et de prévoir l&#39;état de l&#39;écosystème marin. Le schéma d&#39;échantillonnage de l&#39;AZMP dans la région des Maritimes comprend un échantillonnage océanographique à deux stations côtières fixes à haute fréquence (bihebdomadaire à mensuelle), un échantillonnage semestriel à des emplacements stratifiés aléatoires pendant les relevés au chalut écosystémique dirigés par le MPO, un échantillonnage biannuel le long de sections transversales fixes (Cabot Strait Line, Louisbourg Line, Halifax Line, Browns Bank Line et Northeast Channel) ; ces derniers peuvent également inclure un échantillonnage opportuniste dans les stations du chenal Laurentien, du golfe du Maine et de diverses aires marines protégées (AMP) à l&#39;appui de programmes et d&#39;initiatives de recherche auxiliaire. L&#39;échantillonnage AZMP est effectué conformément aux procédures normalisées (voir https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6) et comprend la collecte de profils CTD et d&#39;échantillons d&#39;eau pour la détermination des variables physiques (p. ex. T, S), chimiques (nutriments, oxygène, pH) et biologiques (chl a) et verticales remorquage de filet d&#39;anneau. Les données recueillies sont synthétisées dans deux rapports annuels sur les changements physiques et chimiques et biologiques dans la région des Maritimes, et sont également utilisées pour évaluer les changements dans la zone atlantique.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
@@ -577,7 +577,7 @@
             <mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>
           </mmi:maintenanceAndUpdateFrequency>
           <mmi:maintenanceNote>
-            <gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form</gco:CharacterString>
+            <gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/2Q2KWyc5ZthYj9zIpuTedNSVsci2/-MePqGIXPInEttllRPho</gco:CharacterString>
           </mmi:maintenanceNote>
         </mmi:MD_MaintenanceInformation>
       </mri:resourceMaintenance>
@@ -1050,6 +1050,26 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
+                <gco:CharacterString>https://mar-azmp.shinyapps.io/MAR_AZMP_Stations/</gco:CharacterString>
+              </cit:linkage>
+              <cit:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </cit:protocol>
+              <cit:name>
+                <gco:CharacterString>Maritimes Region AZMP Stations</gco:CharacterString>
+              </cit:name>
+              <cit:description>
+                <gco:CharacterString>RShiny app containing Maritimes Region AZMP nominal stations</gco:CharacterString>
+              </cit:description>
+            </cit:CI_OnlineResource>
+          </mrd:onLine>
+        </mrd:MD_DigitalTransferOptions>
+      </mrd:transferOptions>
+      <mrd:transferOptions>
+        <mrd:MD_DigitalTransferOptions>
+          <mrd:onLine>
+            <cit:CI_OnlineResource>
+              <cit:linkage>
                 <gco:CharacterString>https://waves-vagues.dfo-mpo.gc.ca/Library/265754.pdf</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
@@ -1061,7 +1081,7 @@
               <cit:description xsi:type="lan:PT_FreeText_PropertyType">
                 <gco:CharacterString>Core sampling protocols for the Atlantic Zone Monitoring Program</gco:CharacterString>
                 <lan:PT_FreeText>
-                  <lan:textGroup>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
                     <lan:LocalisedCharacterString locale="#fr">Principaux protocoles d&#39;échantillonnage pour le Programme de surveillance de la zone atlantique</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
@@ -1131,7 +1151,7 @@
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
               </cit:protocol>
               <cit:name>
-                <gco:CharacterString>AZMP Cruise Reports</gco:CharacterString>
+                <gco:CharacterString>AZMP Mission Reports</gco:CharacterString>
               </cit:name>
               <cit:description>
                 <gco:CharacterString></gco:CharacterString>

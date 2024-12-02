@@ -42,9 +42,19 @@ distribution:
     en: ERDDAP AZMP CTD Data
   url: https://cioosatlantic.ca/erddap/tabledap/bio_atlantic_zone_monitoring_program_ctd.html
 - description:
+    en: RShiny app containing Maritimes Region AZMP nominal stations
+  name:
+    en: Maritimes Region AZMP Stations
+  url: https://mar-azmp.shinyapps.io/MAR_AZMP_Stations/
+- description:
     en: Core sampling protocols for the Atlantic Zone Monitoring Program
     fr: Principaux protocoles d'échantillonnage pour le Programme de surveillance
       de la zone atlantique
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
   name:
     en: Atlantic Zonal Monitoring Program Sampling Protocol
   url: https://waves-vagues.dfo-mpo.gc.ca/Library/265754.pdf
@@ -65,7 +75,7 @@ distribution:
     en: Canadian Science Advisory Secretariat (CSAS) Publications
   url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
 - name:
-    en: AZMP Cruise Reports
+    en: AZMP Mission Reports
   url: https://cioosatlantic.ca/raw/dfo/bio/ctd/cruise_reports/
 - description:
     en: National Department of Fisheries and Oceans (DFO) archive for plankton and
@@ -119,6 +129,12 @@ identification:
       recueillies sont synthétisées dans deux rapports annuels sur les changements
       physiques et chimiques et biologiques dans la région des Maritimes, et sont
       également utilisées pour évaluer les changements dans la zone atlantique.
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  associated_resources: []
   dates:
     creation: '1998-01-01'
   keywords:
@@ -184,17 +200,21 @@ identification:
   status: published
   temporal_begin: '1998-01-01T16:00:00.000Z'
   title:
-    en: Maritimes Region Atlantic Zone Monitoring Program (AZMP) Rosette Vertical
-      Profiles
+    en: Maritimes Region Atlantic Zone Monitoring Program (AZMP) CTD Profiles
     fr: Programme de surveillance de la zone atlantique de la région des Maritimes
       (PMZA) profils verticaux des rosettes
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
 metadata:
   dates:
-    publication: '2022-11-15'
-    revision: '2023-07-14T18:44:00.718Z'
+    publication: '2024-12-02'
+    revision: '2024-11-27T12:48:01.731Z'
   identifier: 9a4bd73f-12a2-40ff-a7c7-b961a1d11311
   language: en
-  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/2Q2KWyc5ZthYj9zIpuTedNSVsci2/-MePqGIXPInEttllRPho
   naming_authority: ca.cioos
   use_constraints:
     licence:
@@ -215,3 +235,4 @@ spatial:
   vertical:
   - 1.0
   - 3363.0
+  vertical_positive: depthPositive
