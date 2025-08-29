@@ -1,0 +1,1224 @@
+<?xml version="1.0" ?><mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/2.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/2.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/2.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/2.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/2.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/2.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/2.0 https://standards.iso.org/iso/19115/-3/mds/2.0/mds.xsd">	
+
+  	<mdb:metadataIdentifier>		
+    		<mcc:MD_Identifier>			
+      			<mcc:authority>				
+        				<cit:CI_Citation>					
+            
+      					<cit:title>						
+        						<gco:CharacterString>ca.cioos</gco:CharacterString>						
+      					</cit:title>					
+          				</cit:CI_Citation>				
+      			</mcc:authority>			
+      			<mcc:code>				
+        				<gco:CharacterString>b381b2a5-922f-3e01-9092-aeb59efa747c</gco:CharacterString>				
+      			</mcc:code>			
+    		</mcc:MD_Identifier>		
+  	</mdb:metadataIdentifier>	
+  	<mdb:defaultLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:defaultLocale>	
+  	<mdb:metadataScope>		
+    		<mdb:MD_MetadataScope>			
+      			<mdb:resourceScope>				
+        				<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>				
+      			</mdb:resourceScope>			
+    		</mdb:MD_MetadataScope>		
+  	</mdb:metadataScope>	
+      	<mdb:contact>		
+              		<cit:CI_Responsibility>			
+  			<cit:role>				
+    				<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="custodian"/>				
+  			</cit:role>			
+  			<cit:party>				
+    				<cit:CI_Organisation>					
+    
+      					<cit:name>						
+        						<gco:CharacterString>Centre for Marine Applied Research (CMAR)</gco:CharacterString>						
+      					</cit:name>					
+      					<cit:contactInfo>						
+        						<cit:CI_Contact>							
+          							<cit:phone>								
+            								<cit:CI_Telephone>									
+              									<cit:number>										
+              										<gco:CharacterString/>										
+              									</cit:number>									
+            								</cit:CI_Telephone>								
+          							</cit:phone>							
+          							<cit:address>								
+            								<cit:CI_Address>									
+              
+      									<cit:deliveryPoint>										
+        										<gco:CharacterString/>										
+      									</cit:deliveryPoint>									
+              
+      									<cit:city>										
+        										<gco:CharacterString/>										
+      									</cit:city>									
+              
+      									<cit:country>										
+        										<gco:CharacterString/>										
+      									</cit:country>									
+            								</cit:CI_Address>								
+          							</cit:address>							
+          							<cit:onlineResource>								
+            								<cit:CI_OnlineResource>									
+              									<cit:linkage>										
+                										<gco:CharacterString/>										
+              									</cit:linkage>									
+              									<cit:protocol>										
+                										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+              									</cit:protocol>									
+              									<cit:function>										
+                										<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>										
+              									</cit:function>									
+            								</cit:CI_OnlineResource>								
+          							</cit:onlineResource>							
+        						</cit:CI_Contact>						
+      					</cit:contactInfo>					
+      
+      					<cit:individual>						
+        						<cit:CI_Individual>							
+    
+      							<cit:name>								
+        								<gco:CharacterString/>								
+      							</cit:name>							
+    							<cit:contactInfo>								
+      								<cit:CI_Contact>									
+        									<cit:address>										
+          										<cit:CI_Address>											
+            
+      											<cit:deliveryPoint>												
+        												<gco:CharacterString/>												
+      											</cit:deliveryPoint>											
+            
+      											<cit:city>												
+        												<gco:CharacterString/>												
+      											</cit:city>											
+            
+      											<cit:country>												
+        												<gco:CharacterString/>												
+      											</cit:country>											
+            											<cit:electronicMailAddress>												
+              												<gco:CharacterString>info(at)cmar.ca</gco:CharacterString>												
+            											</cit:electronicMailAddress>											
+          										</cit:CI_Address>										
+        									</cit:address>									
+      								</cit:CI_Contact>								
+    							</cit:contactInfo>							
+    
+      							<cit:positionName>								
+        								<gco:CharacterString>Author/Owner</gco:CharacterString>								
+      							</cit:positionName>							
+						</cit:CI_Individual>						
+
+      					</cit:individual>					
+    				</cit:CI_Organisation>				
+
+  			</cit:party>			
+		</cit:CI_Responsibility>		
+
+      	</mdb:contact>	
+  
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:DateTime>2025-08-28T19:32:42.927Z</gco:DateTime>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
+  	<mdb:dateInfo>		
+    		<cit:CI_Date>			
+      			<cit:date>				
+        				<gco:Date>2025-08-28</gco:Date>				
+      			</cit:date>			
+      			<cit:dateType>				
+        				<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>				
+      			</cit:dateType>			
+    		</cit:CI_Date>		
+  	</mdb:dateInfo>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>ISO 19115-1 Geographic information - Metadata</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+        				<gco:CharacterString>First Edition 2014-04-01</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>ISO 19115-2 Geographic information - Metadata</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+        				<gco:CharacterString>Second Edition 2019-01</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataStandard>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+          				<gco:CharacterString>ISO 19115-1 Geographic Information - Metadata Amendment 1</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:edition>				
+          				<gco:CharacterString>2018-02</gco:CharacterString>				
+      			</cit:edition>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataStandard>	
+  	<mdb:metadataProfile>		
+    		<cit:CI_Citation>			
+      			<cit:title>				
+        				<gco:CharacterString>Canadian Integrated Ocean Observing System Metadata Profile of ISO 19115</gco:CharacterString>				
+      			</cit:title>			
+      			<cit:date>				
+        				<cit:CI_Date>					
+          					<cit:date>						
+            						<gco:Date>2019-11-06</gco:Date>						
+          					</cit:date>					
+          					<cit:dateType>						
+            						<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>						
+          					</cit:dateType>					
+        				</cit:CI_Date>				
+      			</cit:date>			
+    		</cit:CI_Citation>		
+  	</mdb:metadataProfile>	
+  	<mdb:otherLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:otherLocale>	
+  	<mdb:otherLocale>		
+    		<lan:PT_Locale>			
+      			<lan:language>				
+        				<lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng">
+        </lan:LanguageCode>				
+      			</lan:language>			
+      			<lan:country>				
+        				<lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN">
+        </lan:CountryCode>				
+      			</lan:country>			
+      			<lan:characterEncoding>				
+        				<lan:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/CharacterSetCode.xml" codeListValue="utf8"/>				
+      			</lan:characterEncoding>			
+    		</lan:PT_Locale>		
+  	</mdb:otherLocale>	
+  	<mdb:identificationInfo>		
+    		<mri:MD_DataIdentification>			
+      			<mri:citation>				
+        				<cit:CI_Citation>					
+          
+      					<cit:title xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>Inverness County Wave Data</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Données sur les vagues du comté d'Inverness</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</cit:title>					
+          
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2021-09-22</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2021-09-22</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+          					<cit:date>						
+            						<cit:CI_Date>							
+              							<cit:date>								
+                								<gco:Date>2025-02-26</gco:Date>								
+              							</cit:date>							
+              							<cit:dateType>								
+                								<cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>								
+              							</cit:dateType>							
+            						</cit:CI_Date>						
+          					</cit:date>					
+
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="owner"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Centre for Marine Applied Research (CMAR)</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString/>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString/>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString/>														
+      													</cit:country>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString/>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString/>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>info(at)cmar.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Author/Owner</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+          					<cit:citedResponsibleParty>						
+            						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="author"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Centre for Marine Applied Research (CMAR)</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString/>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString/>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString/>														
+      													</cit:country>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString/>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString/>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>info(at)cmar.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Author/Owner</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+          					</cit:citedResponsibleParty>					
+
+        				</cit:CI_Citation>				
+      			</mri:citation>			
+      
+      			<mri:abstract xsi:type="lan:PT_FreeText_PropertyType">				
+        				<gco:CharacterString>The Centre for Marine Applied Research (CMAR) provides high resolution data on ocean variables from around the coast of Nova Scotia through their Coastal Monitoring Program. The program was initiated by the Nova Scotia Department of Fisheries and Aquaculture (NSDFA) in 2015. In 2019, CMAR assumed responsibility for the program and expanded its scope and mandate. Through the Wave Branch of the program, CMAR processes and publishes Wave data collected by NSDFA. The data are measured by upward facing Acoustic Doppler Current Profilers (ADCPs) that are mounted on the sea floor for 1 - 3 months. An ADCP uses sound to measure wave variables including height, period, and direction. NSDFA uses several ADCP instrument models, including the Sentinel V20, Sentinel V50, Sentinel V100, and Workhorse Sentinel 600kHz. The data is processed using Velocity and WavesMon4 Software, and then compiled and formatted for publication with CMAR’s waves R package. An automated “Gross Range” test was applied to the data to identify statistical outliers. Each data point was assigned a flag value of “Pass”, “Suspect/Of Interest”, or “Fail”. Observations flagged as “Pass” passed the test (i.e., were not considered outliers) and can be included in analyses. Observations flagged as “Fail” were considered outliers and should be excluded from most analyses. Observations flagged as “Suspect/Of Interest” were either poor quality or highlight an unusual event, and should be carefully reviewed before being included in analyses. Flags should be used as a guide only, and data users are responsible for evaluating the quality of the data prior to use in any analysis.  The ''Nova Scotia Current and Wave Data: Deployment Information'' dataset on this Portal shows all locations with available Wave data collected through CMAR’s Coastal Monitoring Program (https://data.novascotia.ca/Fishing-and-Aquaculture/Nova-Scotia-Current-and-Wave-Data-Deployment-Infor/uban-q9i2/about_data). Summary reports for each county are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/). Data collection and retrieval are ongoing. The datasets and reports may be revised pending ongoing data collection and analyses.  If you have accessed any Coastal Monitoring Program data, CMAR would appreciate your anonymous feedback: https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform. Please acknowledge the Centre for Marine Applied Research in any published material that uses this data. Contact info@cmar.ca for more information.</gco:CharacterString>				
+          				<lan:PT_FreeText>					
+            					<lan:textGroup>						
+              						<lan:LocalisedCharacterString locale="#fr">Le Center for Marine Applied Research (CMAR) fournit des données à haute résolution sur les variables océaniques de la côte de la Nouvelle-Écosse grâce à leur programme de surveillance côtière.Le programme a été lancé par le Département de la pêche et de l'aquaculture de la Nouvelle-Écosse (NSDFA) en 2015. En 2019, CMAR a assumé la responsabilité du programme et élargi sa portée et son mandat.Grâce à la branche des vagues du programme, CMAR traite et publie des données d'onde collectées par NSDFA.Les données sont mesurées par des profilers acoustiques à courant doppler acoustiques (ADCP) qui sont montés sur le fond marin pendant 1 à 3 mois.Un ADCP utilise le son pour mesurer les variables d'onde, y compris la hauteur, la période et la direction.NSDFA utilise plusieurs modèles d'instruments ADCP, notamment Sentinel V20, Sentinel V50, Sentinel V100 et Workhorse Sentinel 600KHz.Les données sont traitées à l'aide du logiciel Velocity et WavesMon4, puis compilé et formaté pour publication avec le package Waves R de CMAR.Un test automatisé de «plage brute» a été appliqué aux données pour identifier les valeurs aberrantes statistiques.Chaque point de données a reçu une valeur de drapeau de «passer», «suspect / d'intérêt» ou «échouer».Les observations signalées en tant que «pass» ont réussi le test (c'est-à-dire, n'étaient pas considérées comme des valeurs aberrantes) et peuvent être incluses dans les analyses.Les observations signalées comme «échec» ont été considérées comme des valeurs aberrantes et devraient être exclues de la plupart des analyses.Les observations signalées comme «suspect / d'intérêt» étaient soit une mauvaise qualité, soit mettez en évidence un événement inhabituel, et devraient être soigneusement examinés avant d'être inclus dans les analyses.Les drapeaux doivent être utilisés uniquement comme guide et les utilisateurs de données sont responsables de l'évaluation de la qualité des données avant l'utilisation dans toute analyse.L'ensemble de données ''Nova Scotia Current and Wave Data: Deployment Information'' sur ce portail montre tous les emplacements avec les données des vagues disponibles collectées via le programme de surveillance côtière de CMAR (https://data.novascotia.ca/fishing-and-aquaculture/nova-scotia-current-and-wave-deployment-for/uban-q9i2/about_data).Des rapports de résumé pour chaque comté sont disponibles sur le site Web de CMAR (https://cmar.ca/coastal-monitoring-program/).La collecte et la récupération des données sont en cours.Les ensembles de données et les rapports peuvent être révisés en attendant la collecte et les analyses de données en cours.Si vous avez accédé aux données du programme de surveillance côtière, CMAR apprécierait vos commentaires anonymes: https://docs.google.com/forms/d/e/1faipqlse3td6umrsvvknql13vvmjipckci2ctonjsgn7_g-4c-tktuw/Viewform.Veuillez reconnaître le Center for Marine Applied Research dans tout matériel publié qui utilise ces données.Contactez info@cmar.ca pour plus d'informations.</lan:LocalisedCharacterString>						
+            					</lan:textGroup>					
+          				</lan:PT_FreeText>				
+      			</mri:abstract>			
+      
+      			<mri:credit>				
+        				<gco:CharacterString/>				
+      			</mri:credit>			
+      			<mri:status>				
+        				<mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="onGoing">
+        </mcc:MD_ProgressCode>				
+      			</mri:status>			
+      
+      			<mri:topicCategory>				
+        				<mri:MD_TopicCategoryCode>oceans</mri:MD_TopicCategoryCode>				
+      			</mri:topicCategory>			
+      
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:geographicElement>						
+            						<gex:EX_GeographicBoundingBox>							
+              							<gex:extentTypeCode>								
+                								<gco:Boolean>true</gco:Boolean>								
+              							</gex:extentTypeCode>							
+              							<gex:westBoundLongitude>								
+                								<gco:Decimal>-61.1272</gco:Decimal>								
+              							</gex:westBoundLongitude>							
+              							<gex:eastBoundLongitude>								
+                								<gco:Decimal>-60.9649</gco:Decimal>								
+              							</gex:eastBoundLongitude>							
+              							<gex:southBoundLatitude>								
+                								<gco:Decimal>45.94275</gco:Decimal>								
+              							</gex:southBoundLatitude>							
+              							<gex:northBoundLatitude>								
+                								<gco:Decimal>46.0002</gco:Decimal>								
+              							</gex:northBoundLatitude>							
+            						</gex:EX_GeographicBoundingBox>						
+          					</gex:geographicElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:verticalElement>						
+            						<gex:EX_VerticalExtent>							
+              							<gex:minimumValue>								
+                								<gco:Real>7.995</gco:Real>								
+              							</gex:minimumValue>							
+              							<gex:maximumValue>								
+                								<gco:Real>27.073</gco:Real>								
+              							</gex:maximumValue>							
+              							<gex:verticalCRSId>								
+                								<mrs:MD_ReferenceSystem>									
+                  									<mrs:referenceSystemIdentifier>										
+                    										<mcc:MD_Identifier>											
+                      											<mcc:code>												
+                        												<gco:CharacterString>5831</gco:CharacterString>												
+                      											</mcc:code>											
+                      											<mcc:codeSpace>												
+                        												<gco:CharacterString>EPSG</gco:CharacterString>												
+                      											</mcc:codeSpace>											
+                      											<mcc:version>												
+                        												<gco:CharacterString>2012-08-10</gco:CharacterString>												
+                      											</mcc:version>											
+                      											<mcc:description>												
+                        												<gco:CharacterString>EPSG::5831 - Instantaneous Water Level depth - Depth relative to instantaneous water level uncorrected for tide. Not specific to any location or epoch.</gco:CharacterString>												
+                      											</mcc:description>											
+                    										</mcc:MD_Identifier>										
+                  									</mrs:referenceSystemIdentifier>									
+                  									<mrs:referenceSystemType>										
+                    										<mrs:MD_ReferenceSystemTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ReferenceSystemTypeCode" codeListValue="vertical">vertical</mrs:MD_ReferenceSystemTypeCode>										
+                  									</mrs:referenceSystemType>									
+                								</mrs:MD_ReferenceSystem>								
+              							</gex:verticalCRSId>							
+              							<gex:verticalCRS xlink:href="http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:crs:EPSG::5831" xlink:title="instantaneous water level depth" xlink:actuate="onRequest"/>							
+            						</gex:EX_VerticalExtent>						
+          					</gex:verticalElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:extent>				
+        				<gex:EX_Extent>					
+          					<gex:temporalElement>						
+            						<gex:EX_TemporalExtent>							
+              							<gex:extent>								
+                								<gml:TimePeriod gml:id="time_period">									
+                  									<gml:beginPosition>2015-11-25T16:30:00.000Z</gml:beginPosition>									
+                  									<gml:endPosition indeterminatePosition="now"/>									
+                								</gml:TimePeriod>								
+              							</gex:extent>							
+            						</gex:EX_TemporalExtent>						
+          					</gex:temporalElement>					
+        				</gex:EX_Extent>				
+      			</mri:extent>			
+      			<mri:resourceMaintenance>				
+        				<mmi:MD_MaintenanceInformation>					
+          					<mmi:maintenanceAndUpdateFrequency>						
+            						<mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>						
+          					</mmi:maintenanceAndUpdateFrequency>					
+          
+      					<mmi:maintenanceNote>						
+        						<gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form</gco:CharacterString>						
+      					</mmi:maintenanceNote>					
+        				</mmi:MD_MaintenanceInformation>				
+      			</mri:resourceMaintenance>			
+      
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          					<mri:keyword>						
+            						<gco:CharacterString>Oceans</gco:CharacterString>						
+          					</mri:keyword>					
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>Government of Canada Core Subject Thesaurus</gco:CharacterString>								
+              							</cit:title>							
+              							<cit:date>								
+                								<cit:CI_Date>									
+                  									<cit:date>										
+                    										<gco:Date>2016-10-13</gco:Date>										
+                  									</cit:date>									
+                  									<cit:dateType>										
+                    										<cit:CI_DateTypeCode codeList="http://wiki.esipfed.org/index.php/ISO_19115-3_Codelists#CI_DateTypeCode" codeListValue="revision"/>										
+                  									</cit:dateType>									
+                								</cit:CI_Date>								
+              							</cit:date>							
+              							<cit:edition>								
+                								<gco:CharacterString>N/A</gco:CharacterString>								
+              							</cit:edition>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          
+              					<mri:keyword>						
+                    						<gco:CharacterString>wave data</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>adcp</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>aquaculture</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>coastal monitoring program</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>downloadable data</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>ecosystem</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>environment</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>environmental monitoring</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>fisheries</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>fishing</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>inverness county</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>nova scotia</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>oceanography</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>wave height</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>wave direction</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>cmar</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>centre for marine applied research</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>climate change</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>coast</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>essential ocean variables</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>ocean</gco:CharacterString>						
+              					</mri:keyword>					
+              					<mri:keyword>						
+                    						<gco:CharacterString>wave</gco:CharacterString>						
+              					</mri:keyword>					
+          
+  
+
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>default</gco:CharacterString>								
+              							</cit:title>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      			<mri:descriptiveKeywords>				
+        				<mri:MD_Keywords>					
+          
+              					<mri:keyword>						
+                    						<gco:CharacterString>seaState</gco:CharacterString>						
+              					</mri:keyword>					
+          
+                					<mri:keyword xsi:type="lan:PT_FreeText_PropertyType">						
+                  						<lan:PT_FreeText>							
+                    							<lan:textGroup>								
+                      								<lan:LocalisedCharacterString locale="#fr">État de la mer</lan:LocalisedCharacterString>								
+                    							</lan:textGroup>							
+                  						</lan:PT_FreeText>						
+                					</mri:keyword>					
+  
+
+          					<mri:thesaurusName>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>eov</gco:CharacterString>								
+              							</cit:title>							
+            						</cit:CI_Citation>						
+          					</mri:thesaurusName>					
+        				</mri:MD_Keywords>				
+      			</mri:descriptiveKeywords>			
+      
+      			<mri:resourceConstraints>				
+        				<mco:MD_LegalConstraints>					
+          					<mco:reference>						
+            						<cit:CI_Citation>							
+              							<cit:title>								
+                								<gco:CharacterString>Open Government Licence - Nova Scotia</gco:CharacterString>								
+              							</cit:title>							
+              							<cit:identifier>								
+                								<mcc:MD_Identifier>									
+                  									<mcc:code>										
+                    										<gco:CharacterString>OGL-NS-2.0</gco:CharacterString>										
+                  									</mcc:code>									
+                								</mcc:MD_Identifier>								
+              							</cit:identifier>							
+              							<cit:onlineResource>								
+                								<cit:CI_OnlineResource>									
+                  									<cit:linkage>										
+                    										<gco:CharacterString>https://novascotia.ca/opendata/licence.asp</gco:CharacterString>										
+                  									</cit:linkage>									
+                  									<cit:protocol>										
+                    										<gco:CharacterString>WWW:LINK</gco:CharacterString>										
+                  									</cit:protocol>									
+                								</cit:CI_OnlineResource>								
+              							</cit:onlineResource>							
+            						</cit:CI_Citation>						
+          					</mco:reference>					
+          					<mco:useConstraints>						
+            						<mco:MD_RestrictionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_RestrictionCode" codeListValue="licence"/>						
+          					</mco:useConstraints>					
+        				</mco:MD_LegalConstraints>				
+      			</mri:resourceConstraints>			
+      			<mri:resourceConstraints>				
+        				<mco:MD_Constraints>					
+           
+      					<mco:useLimitation xsi:type="lan:PT_FreeText_PropertyType">						
+        						<gco:CharacterString>Licence</gco:CharacterString>						
+          						<lan:PT_FreeText>							
+            							<lan:textGroup>								
+              								<lan:LocalisedCharacterString locale="#fr">Licence</lan:LocalisedCharacterString>								
+            							</lan:textGroup>							
+          						</lan:PT_FreeText>						
+      					</mco:useLimitation>					
+        				</mco:MD_Constraints>				
+      			</mri:resourceConstraints>			
+      
+      			<mri:supplementalInformation>				
+        				<gco:CharacterString/>				
+      			</mri:supplementalInformation>			
+    		</mri:MD_DataIdentification>		
+  	</mdb:identificationInfo>	
+  	<mdb:distributionInfo>		
+    		<mrd:MD_Distribution>			
+      			<mrd:distributor>				
+        				<mrd:MD_Distributor>					
+          					<mrd:distributorContact>						
+        						<cit:CI_Responsibility>							
+  							<cit:role>								
+    								<cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="distributor"/>								
+  							</cit:role>							
+  							<cit:party>								
+    								<cit:CI_Organisation>									
+    
+      									<cit:name>										
+        										<gco:CharacterString>Centre for Marine Applied Research (CMAR)</gco:CharacterString>										
+      									</cit:name>									
+      									<cit:contactInfo>										
+        										<cit:CI_Contact>											
+          											<cit:phone>												
+            												<cit:CI_Telephone>													
+              													<cit:number>														
+              														<gco:CharacterString/>														
+              													</cit:number>													
+            												</cit:CI_Telephone>												
+          											</cit:phone>											
+          											<cit:address>												
+            												<cit:CI_Address>													
+              
+      													<cit:deliveryPoint>														
+        														<gco:CharacterString/>														
+      													</cit:deliveryPoint>													
+              
+      													<cit:city>														
+        														<gco:CharacterString/>														
+      													</cit:city>													
+              
+      													<cit:country>														
+        														<gco:CharacterString/>														
+      													</cit:country>													
+            												</cit:CI_Address>												
+          											</cit:address>											
+          											<cit:onlineResource>												
+            												<cit:CI_OnlineResource>													
+              													<cit:linkage>														
+                														<gco:CharacterString/>														
+              													</cit:linkage>													
+              													<cit:protocol>														
+                														<gco:CharacterString>WWW:LINK</gco:CharacterString>														
+              													</cit:protocol>													
+              													<cit:function>														
+                														<cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>														
+              													</cit:function>													
+            												</cit:CI_OnlineResource>												
+          											</cit:onlineResource>											
+        										</cit:CI_Contact>										
+      									</cit:contactInfo>									
+      
+      									<cit:individual>										
+        										<cit:CI_Individual>											
+    
+      											<cit:name>												
+        												<gco:CharacterString/>												
+      											</cit:name>											
+    											<cit:contactInfo>												
+      												<cit:CI_Contact>													
+        													<cit:address>														
+          														<cit:CI_Address>															
+            
+      															<cit:deliveryPoint>																
+        																<gco:CharacterString/>																
+      															</cit:deliveryPoint>															
+            
+      															<cit:city>																
+        																<gco:CharacterString/>																
+      															</cit:city>															
+            
+      															<cit:country>																
+        																<gco:CharacterString/>																
+      															</cit:country>															
+            															<cit:electronicMailAddress>																
+              																<gco:CharacterString>info(at)cmar.ca</gco:CharacterString>																
+            															</cit:electronicMailAddress>															
+          														</cit:CI_Address>														
+        													</cit:address>													
+      												</cit:CI_Contact>												
+    											</cit:contactInfo>											
+    
+      											<cit:positionName>												
+        												<gco:CharacterString>Author/Owner</gco:CharacterString>												
+      											</cit:positionName>											
+										</cit:CI_Individual>										
+
+      									</cit:individual>									
+    								</cit:CI_Organisation>								
+
+  							</cit:party>							
+						</cit:CI_Responsibility>						
+
+            					</mrd:distributorContact>					
+        				</mrd:MD_Distributor>				
+      			</mrd:distributor>			
+
+      
+      
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://data.novascotia.ca/api/views/3szy-egwz/files/ab7d18a7-9972-46bc-a55a-c068fd215c76</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>CMAR Wave Datasets Data Dictionary.xlsx</gco:CharacterString>								
+              							</cit:name>							
+              
+      							<cit:description>								
+        								<gco:CharacterString/>								
+      							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+      
+      			<mrd:transferOptions>				
+        				<mrd:MD_DigitalTransferOptions>					
+          					<mrd:onLine>						
+            						<cit:CI_OnlineResource>							
+              							<cit:linkage>								
+                								<gco:CharacterString>https://cioosatlantic.ca/erddap/tabledap/3szy-egwz.html</gco:CharacterString>								
+              							</cit:linkage>							
+              							<cit:protocol>								
+                								<gco:CharacterString>WWW:LINK</gco:CharacterString>								
+              							</cit:protocol>							
+              							<cit:name>								
+                								<gco:CharacterString>ERDDAP Data Subset Form</gco:CharacterString>								
+              							</cit:name>							
+              							<cit:description>								
+                								<gco:CharacterString>ERDDAP's version of the OPeNDAP .html web page for this dataset. Specify a subset of the dataset and download the data via OPeNDAP or in many different file types.</gco:CharacterString>								
+              							</cit:description>							
+            						</cit:CI_OnlineResource>						
+          					</mrd:onLine>					
+        				</mrd:MD_DigitalTransferOptions>				
+      			</mrd:transferOptions>			
+
+    		</mrd:MD_Distribution>		
+  	</mdb:distributionInfo>	
+  	<mdb:metadataMaintenance>		
+    		<mmi:MD_MaintenanceInformation>			
+      			<mmi:maintenanceAndUpdateFrequency>				
+        				<mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>				
+      			</mmi:maintenanceAndUpdateFrequency>			
+    		</mmi:MD_MaintenanceInformation>		
+  	</mdb:metadataMaintenance>	
+  	<mdb:acquisitionInformation>		
+    		<mac:MI_AcquisitionInformation>			
+      			<mac:scope>				
+        				<mcc:MD_Scope>					
+          					<mcc:level>						
+            						<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>						
+          					</mcc:level>					
+        				</mcc:MD_Scope>				
+      			</mac:scope>			
+      			<mac:platform>				
+        				<mac:MI_Platform>					
+          					<mac:identifier>						
+            						<mcc:MD_Identifier>							
+              							<mcc:authority>								
+                								<cit:CI_Citation>									
+                  
+      									<cit:title>										
+        										<gco:CharacterString/>										
+      									</cit:title>									
+                								</cit:CI_Citation>								
+              							</mcc:authority>							
+              							<mcc:code>								
+                								<gco:CharacterString>North Aberdeen</gco:CharacterString>								
+              							</mcc:code>							
+            						</mcc:MD_Identifier>						
+          					</mac:identifier>					
+          
+      					<mac:description>						
+        						<gco:CharacterString>North Aberdeen</gco:CharacterString>						
+      					</mac:description>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Teledye</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>Workhorse Sentinel 600kHz-8891</gco:CharacterString>										
+          									</mcc:code>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Sensor</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr"/>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Teledye</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>Sentinel_V100-24349</gco:CharacterString>										
+          									</mcc:code>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Sensor</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr"/>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+        				</mac:MI_Platform>				
+      			</mac:platform>			
+    		</mac:MI_AcquisitionInformation>		
+  	</mdb:acquisitionInformation>	
+  	<mdb:acquisitionInformation>		
+    		<mac:MI_AcquisitionInformation>			
+      			<mac:scope>				
+        				<mcc:MD_Scope>					
+          					<mcc:level>						
+            						<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>						
+          					</mcc:level>					
+        				</mcc:MD_Scope>				
+      			</mac:scope>			
+      			<mac:platform>				
+        				<mac:MI_Platform>					
+          					<mac:identifier>						
+            						<mcc:MD_Identifier>							
+              							<mcc:authority>								
+                								<cit:CI_Citation>									
+                  
+      									<cit:title>										
+        										<gco:CharacterString/>										
+      									</cit:title>									
+                								</cit:CI_Citation>								
+              							</mcc:authority>							
+              							<mcc:code>								
+                								<gco:CharacterString>Gypsum Mine</gco:CharacterString>								
+              							</mcc:code>							
+            						</mcc:MD_Identifier>						
+          					</mac:identifier>					
+          
+      					<mac:description>						
+        						<gco:CharacterString>Gypsum Mine</gco:CharacterString>						
+      					</mac:description>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Teledye</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>Sentinel_V100-24349</gco:CharacterString>										
+          									</mcc:code>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Sensor</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr"/>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+        				</mac:MI_Platform>				
+      			</mac:platform>			
+    		</mac:MI_AcquisitionInformation>		
+  	</mdb:acquisitionInformation>	
+  	<mdb:acquisitionInformation>		
+    		<mac:MI_AcquisitionInformation>			
+      			<mac:scope>				
+        				<mcc:MD_Scope>					
+          					<mcc:level>						
+            						<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>						
+          					</mcc:level>					
+        				</mcc:MD_Scope>				
+      			</mac:scope>			
+      			<mac:platform>				
+        				<mac:MI_Platform>					
+          					<mac:identifier>						
+            						<mcc:MD_Identifier>							
+              							<mcc:authority>								
+                								<cit:CI_Citation>									
+                  
+      									<cit:title>										
+        										<gco:CharacterString/>										
+      									</cit:title>									
+                								</cit:CI_Citation>								
+              							</mcc:authority>							
+              							<mcc:code>								
+                								<gco:CharacterString>Whycocomagh Basin</gco:CharacterString>								
+              							</mcc:code>							
+            						</mcc:MD_Identifier>						
+          					</mac:identifier>					
+          
+      					<mac:description>						
+        						<gco:CharacterString>Whycocomagh Basin</gco:CharacterString>						
+      					</mac:description>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:code>										
+            										<gco:CharacterString>Sentinel_V50-254</gco:CharacterString>										
+          									</mcc:code>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Sensor</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr"/>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+        				</mac:MI_Platform>				
+      			</mac:platform>			
+    		</mac:MI_AcquisitionInformation>		
+  	</mdb:acquisitionInformation>	
+  	<mdb:acquisitionInformation>		
+    		<mac:MI_AcquisitionInformation>			
+      			<mac:scope>				
+        				<mcc:MD_Scope>					
+          					<mcc:level>						
+            						<mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset"/>						
+          					</mcc:level>					
+        				</mcc:MD_Scope>				
+      			</mac:scope>			
+      			<mac:platform>				
+        				<mac:MI_Platform>					
+          					<mac:identifier>						
+            						<mcc:MD_Identifier>							
+              							<mcc:authority>								
+                								<cit:CI_Citation>									
+                  
+      									<cit:title>										
+        										<gco:CharacterString/>										
+      									</cit:title>									
+                								</cit:CI_Citation>								
+              							</mcc:authority>							
+              							<mcc:code>								
+                								<gco:CharacterString>Little Narrows South</gco:CharacterString>								
+              							</mcc:code>							
+            						</mcc:MD_Identifier>						
+          					</mac:identifier>					
+          
+      					<mac:description>						
+        						<gco:CharacterString>Little Narrows South</gco:CharacterString>						
+      					</mac:description>					
+
+          
+          					<mac:instrument>						
+    						<mac:MI_Instrument>							
+      							<mac:identifier>								
+        								<mcc:MD_Identifier>									
+          									<mcc:authority>										
+            										<cit:CI_Citation>											
+              
+      											<cit:title>												
+        												<gco:CharacterString>Teledye</gco:CharacterString>												
+      											</cit:title>											
+              										</cit:CI_Citation>										
+          									</mcc:authority>									
+          									<mcc:code>										
+            										<gco:CharacterString>Sentinel_V20-253</gco:CharacterString>										
+          									</mcc:code>									
+                   
+            
+      									<mcc:description>										
+        										<gco:CharacterString/>										
+      									</mcc:description>									
+        								</mcc:MD_Identifier>								
+      							</mac:identifier>							
+        
+      							<mac:type xsi:type="lan:PT_FreeText_PropertyType">								
+        								<gco:CharacterString>Sensor</gco:CharacterString>								
+          								<lan:PT_FreeText>									
+            									<lan:textGroup>										
+              										<lan:LocalisedCharacterString locale="#fr"/>										
+            									</lan:textGroup>									
+          								</lan:PT_FreeText>								
+      							</mac:type>							
+    						</mac:MI_Instrument>						
+  					</mac:instrument>					
+
+        				</mac:MI_Platform>				
+      			</mac:platform>			
+    		</mac:MI_AcquisitionInformation>		
+  	</mdb:acquisitionInformation>	
+      
+</mdb:MD_Metadata>

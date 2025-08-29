@@ -1,0 +1,196 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: 1fb1fbdb-c876-3f3c-8f14-bc0a7113a680
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  use_constraints:
+    limitations:
+      en: Licence
+      fr: Licence
+    licence:
+      title: Open Government Licence - Nova Scotia
+      code: OGL-NS-2.0
+      url: https://novascotia.ca/opendata/licence.asp
+  dates:
+    revision: '2025-08-28T19:33:07.358Z'
+    publication: '2025-08-28'
+spatial:
+  bbox:
+  - -66.1326
+  - 43.60661
+  - -65.7831
+  - 43.7636
+  vertical:
+  - 8.153
+  - 21.16
+identification:
+  title:
+    en: Yarmouth County Wave Data
+    fr: ''
+  abstract:
+    en: 'The Centre for Marine Applied Research (CMAR) provides high resolution data
+      on ocean variables from around the coast of Nova Scotia through their Coastal
+      Monitoring Program. The program was initiated by the Nova Scotia Department
+      of Fisheries and Aquaculture (NSDFA) in 2015. In 2019, CMAR assumed responsibility
+      for the program and expanded its scope and mandate. Through the Wave Branch
+      of the program, CMAR processes and publishes Wave data collected by NSDFA. The
+      data are measured by upward facing Acoustic Doppler Current Profilers (ADCPs)
+      that are mounted on the sea floor for 1 - 3 months. An ADCP uses sound to measure
+      wave variables including height, period, and direction. NSDFA uses several ADCP
+      instrument models, including the Sentinel V20, Sentinel V50, Sentinel V100,
+      and Workhorse Sentinel 600kHz. The data is processed using Velocity and WavesMon4
+      Software, and then compiled and formatted for publication with CMAR’s waves
+      R package. An automated “Gross Range” test was applied to the data to identify
+      statistical outliers. Each data point was assigned a flag value of “Pass”, “Suspect/Of
+      Interest”, or “Fail”. Observations flagged as “Pass” passed the test (i.e.,
+      were not considered outliers) and can be included in analyses. Observations
+      flagged as “Fail” were considered outliers and should be excluded from most
+      analyses. Observations flagged as “Suspect/Of Interest” were either poor quality
+      or highlight an unusual event, and should be carefully reviewed before being
+      included in analyses. Flags should be used as a guide only, and data users are
+      responsible for evaluating the quality of the data prior to use in any analysis.  The
+      "Nova Scotia Current and Wave Data: Deployment Information" dataset on this
+      Portal shows all locations with available Wave data collected through CMAR’s
+      Coastal Monitoring Program (https://data.novascotia.ca/Fishing-and-Aquaculture/Nova-Scotia-Current-and-Wave-Data-Deployment-Infor/uban-q9i2/about_data).
+      Summary reports for each county are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/).
+      Data collection and retrieval are ongoing. The datasets and reports may be revised
+      pending ongoing data collection and analyses.  If you have accessed any Coastal
+      Monitoring Program data, CMAR would appreciate your anonymous feedback: https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform.
+      Please acknowledge the Centre for Marine Applied Research in any published material
+      that uses this data. Contact info@cmar.ca for more information.'
+    fr: ''
+  dates:
+    creation: '2021-09-22'
+    publication: '2021-09-22'
+    revision: '2025-02-26'
+  keywords:
+    default:
+      en:
+      - wave data
+      - adcp
+      - aquaculture
+      - coastal monitoring program
+      - downloadable data
+      - ecosystem
+      - environment
+      - environmental monitoring
+      - fisheries
+      - fishing
+      - yarmouth county
+      - nova scotia
+      - oceanography
+      - wave height
+      - wave direction
+      - wave period
+      - cmar
+      - centre for marine applied research
+      - climate change
+      - coast
+      - essential ocean variables
+      - ocean
+      - wave
+    eov:
+      en:
+      - seaState
+      fr:
+      - État de la mer
+  status: published
+  progress_code: onGoing
+  temporal_begin: '2018-10-05T15:35:05.000Z'
+contact:
+- roles:
+  - owner
+  - custodian
+  - author
+  - distributor
+  organization:
+    name: Centre for Marine Applied Research (CMAR)
+  individual:
+    position: Author/Owner
+    email: info(at)cmar.ca
+distribution:
+- url: https://data.novascotia.ca/api/views/9339-jb3s/files/f301e270-6a31-476f-8098-31fb81ddd99d
+  name: CMAR Wave Datasets Data Dictionary.xlsx
+- url: https://cioosatlantic.ca/erddap/tabledap/9339-jb3s.html
+  name: ERDDAP Data Access
+platform:
+- id: Ram Island
+  description:
+    en: Ram Island
+  instruments:
+  - id: Workhorse Sentinel 600kHz-14934
+    manufacturer: Teledye
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Big Gooseberry Island
+  description:
+    en: Big Gooseberry Island
+  instruments:
+  - id: Workhorse Sentinel 600kHz-8891
+    manufacturer: Teledye
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: The Brothers South
+  description:
+    en: The Brothers South
+  instruments:
+  - id: Workhorse Sentinel 600kHz-14934
+    manufacturer: Teledye
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Canoe Island
+  description:
+    en: Canoe Island
+  instruments:
+  - id: Workhorse Sentinel 600kHz-8891
+    manufacturer: Teledye
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Pubnico
+  description:
+    en: Pubnico
+  instruments:
+  - id: Workhorse Sentinel 600kHz-14934
+    manufacturer: Teledye
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Big Pond Point
+  description:
+    en: Big Pond Point
+  instruments:
+  - id: Sentinel_V20-185
+    manufacturer: Teledye
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Angus Shoal
+  description:
+    en: Angus Shoal
+  instruments:
+  - id: Workhorse Sentinel 600kHz-8891
+    manufacturer: Teledye
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Western Shoal
+  description:
+    en: Western Shoal
+  instruments:
+  - id: Workhorse Sentinel 600kHz-14934
+    manufacturer: Teledye
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
