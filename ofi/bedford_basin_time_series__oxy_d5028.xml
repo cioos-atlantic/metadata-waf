@@ -63,7 +63,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>CEOTR</gco:CharacterString>
+            <gco:CharacterString>Ocean Frontier Institute</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -93,7 +93,7 @@
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
                   <cit:linkage>
-                    <gco:CharacterString>https://ceotr.ocean.dal.ca/</gco:CharacterString>
+                    <gco:CharacterString>http://ofi.ca</gco:CharacterString>
                   </cit:linkage>
                   <cit:protocol>
                     <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -117,7 +117,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>CEOTR</gco:CharacterString>
+            <gco:CharacterString>Ocean Frontier Institute</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -147,7 +147,7 @@
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
                   <cit:linkage>
-                    <gco:CharacterString>https://ceotr.ocean.dal.ca/</gco:CharacterString>
+                    <gco:CharacterString>http://ofi.ca</gco:CharacterString>
                   </cit:linkage>
                   <cit:protocol>
                     <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -171,7 +171,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>CEOTR</gco:CharacterString>
+            <gco:CharacterString>Ocean Frontier Institute</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -201,7 +201,7 @@
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
                   <cit:linkage>
-                    <gco:CharacterString>https://ceotr.ocean.dal.ca/</gco:CharacterString>
+                    <gco:CharacterString>http://ofi.ca</gco:CharacterString>
                   </cit:linkage>
                   <cit:protocol>
                     <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -220,7 +220,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2024-05-23T14:17:06.698Z</gco:DateTime>
+        <gco:DateTime>2025-10-15T12:34:35.627Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -353,7 +353,7 @@
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>CEOTR</gco:CharacterString>
+                    <gco:CharacterString>Ocean Frontier Institute</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
@@ -383,7 +383,7 @@
                       <cit:onlineResource>
                         <cit:CI_OnlineResource>
                           <cit:linkage>
-                            <gco:CharacterString>https://ceotr.ocean.dal.ca/</gco:CharacterString>
+                            <gco:CharacterString>http://ofi.ca</gco:CharacterString>
                           </cit:linkage>
                           <cit:protocol>
                             <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -407,7 +407,7 @@
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>CEOTR</gco:CharacterString>
+                    <gco:CharacterString>Ocean Frontier Institute</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
@@ -437,7 +437,7 @@
                       <cit:onlineResource>
                         <cit:CI_OnlineResource>
                           <cit:linkage>
-                            <gco:CharacterString>https://ceotr.ocean.dal.ca/</gco:CharacterString>
+                            <gco:CharacterString>http://ofi.ca</gco:CharacterString>
                           </cit:linkage>
                           <cit:protocol>
                             <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -461,7 +461,7 @@
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>CEOTR</gco:CharacterString>
+                    <gco:CharacterString>Ocean Frontier Institute</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
@@ -491,7 +491,7 @@
                       <cit:onlineResource>
                         <cit:CI_OnlineResource>
                           <cit:linkage>
-                            <gco:CharacterString>https://ceotr.ocean.dal.ca/</gco:CharacterString>
+                            <gco:CharacterString>http://ofi.ca</gco:CharacterString>
                           </cit:linkage>
                           <cit:protocol>
                             <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -564,7 +564,7 @@
                   <mrs:referenceSystemIdentifier>
                     <mcc:MD_Identifier>
                       <mcc:code>
-                        <gco:CharacterString>5831</gco:CharacterString>
+                        <gco:CharacterString>5829</gco:CharacterString>
                       </mcc:code>
                       <mcc:codeSpace>
                         <gco:CharacterString>EPSG</gco:CharacterString>
@@ -573,7 +573,7 @@
                         <gco:CharacterString>2012-08-10</gco:CharacterString>
                       </mcc:version>
                       <mcc:description>
-                        <gco:CharacterString>EPSG::5831 - Instantaneous Water Level depth - Depth relative to instantaneous water level uncorrected for tide. Not specific to any location or epoch.</gco:CharacterString>
+                        <gco:CharacterString>EPSG::5829 - Instantaneous Water Level height - Height relative to instantaneous water level uncorrected for tide. Not specific to any location or epoch.</gco:CharacterString>
                       </mcc:description>
                     </mcc:MD_Identifier>
                   </mrs:referenceSystemIdentifier>
@@ -823,7 +823,7 @@
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/bb1_bop_level2.html</gco:CharacterString>
+                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/new_bb1_bop_level2.html</gco:CharacterString>
                   </mcc:code>
                 </mcc:MD_Identifier>
               </cit:identifier>
@@ -856,7 +856,7 @@
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/bb1_bop_level2_bin.html</gco:CharacterString>
+                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/new_bb1_bop_level2_binned.html</gco:CharacterString>
                   </mcc:code>
                 </mcc:MD_Identifier>
               </cit:identifier>
@@ -922,7 +922,7 @@
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/bb1_hyp_level2.html</gco:CharacterString>
+                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/new_bb1_hyp_level2.html</gco:CharacterString>
                   </mcc:code>
                 </mcc:MD_Identifier>
               </cit:identifier>
@@ -955,7 +955,139 @@
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/bb1_hyp_level2_bin.html</gco:CharacterString>
+                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/new_bb1_hyp_level2_binned.html</gco:CharacterString>
+                  </mcc:code>
+                </mcc:MD_Identifier>
+              </cit:identifier>
+            </cit:CI_Citation>
+          </mri:name>
+          <mri:associationType>
+            <mri:DS_AssociationTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#DS_AssociationTypeCode" codeListValue="crossReference"></mri:DS_AssociationTypeCode>
+          </mri:associationType>
+        </mri:MD_AssociatedResource>
+      </mri:associatedResource>
+      <mri:associatedResource>
+        <mri:MD_AssociatedResource>
+          <mri:name>
+            <cit:CI_Citation>
+              <cit:title xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Bedford Basin Spectral HYP Level 2 Data</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
+                    <lan:LocalisedCharacterString locale="#fr">Données spectrales HYP de niveau 2 du bassin de Bedford</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:title>
+              <cit:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      <cit:title>
+                        <gco:CharacterString>URL</gco:CharacterString>
+                      </cit:title>
+                    </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/bb1_hyp_spectral_level2.html</gco:CharacterString>
+                  </mcc:code>
+                </mcc:MD_Identifier>
+              </cit:identifier>
+            </cit:CI_Citation>
+          </mri:name>
+          <mri:associationType>
+            <mri:DS_AssociationTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#DS_AssociationTypeCode" codeListValue="crossReference"></mri:DS_AssociationTypeCode>
+          </mri:associationType>
+        </mri:MD_AssociatedResource>
+      </mri:associatedResource>
+      <mri:associatedResource>
+        <mri:MD_AssociatedResource>
+          <mri:name>
+            <cit:CI_Citation>
+              <cit:title xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Bedford Basin Spectral HYP Level 2 Binned Data</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
+                    <lan:LocalisedCharacterString locale="#fr">Données groupées spectrales HYP de niveau 2 du bassin de Bedford</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:title>
+              <cit:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      <cit:title>
+                        <gco:CharacterString>URL</gco:CharacterString>
+                      </cit:title>
+                    </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>https://data.ceotr.ca/erddap/griddap/bb1_hyp_spectral_level2_binned.html</gco:CharacterString>
+                  </mcc:code>
+                </mcc:MD_Identifier>
+              </cit:identifier>
+            </cit:CI_Citation>
+          </mri:name>
+          <mri:associationType>
+            <mri:DS_AssociationTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#DS_AssociationTypeCode" codeListValue="crossReference"></mri:DS_AssociationTypeCode>
+          </mri:associationType>
+        </mri:MD_AssociatedResource>
+      </mri:associatedResource>
+      <mri:associatedResource>
+        <mri:MD_AssociatedResource>
+          <mri:name>
+            <cit:CI_Citation>
+              <cit:title xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Bedford Basin Spectral BOP Level 2 Data</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
+                    <lan:LocalisedCharacterString locale="#fr">Données spectrales BOP de niveau 2 du bassin de Bedford</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:title>
+              <cit:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      <cit:title>
+                        <gco:CharacterString>URL</gco:CharacterString>
+                      </cit:title>
+                    </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/bb1_bop_spectral_level2.html</gco:CharacterString>
+                  </mcc:code>
+                </mcc:MD_Identifier>
+              </cit:identifier>
+            </cit:CI_Citation>
+          </mri:name>
+          <mri:associationType>
+            <mri:DS_AssociationTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#DS_AssociationTypeCode" codeListValue="crossReference"></mri:DS_AssociationTypeCode>
+          </mri:associationType>
+        </mri:MD_AssociatedResource>
+      </mri:associatedResource>
+      <mri:associatedResource>
+        <mri:MD_AssociatedResource>
+          <mri:name>
+            <cit:CI_Citation>
+              <cit:title xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Bedford Basin Spectral Level 2 Binned Data</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
+                    <lan:LocalisedCharacterString locale="#fr">Données groupées de niveau spectral 2 du bassin de Bedford</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:title>
+              <cit:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      <cit:title>
+                        <gco:CharacterString>URL</gco:CharacterString>
+                      </cit:title>
+                    </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>https://data.ceotr.ca/erddap/griddap/bb1_hyp_spectral_level2_binned.html</gco:CharacterString>
                   </mcc:code>
                 </mcc:MD_Identifier>
               </cit:identifier>
@@ -983,7 +1115,7 @@
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>CEOTR</gco:CharacterString>
+                    <gco:CharacterString>Ocean Frontier Institute</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
@@ -1013,7 +1145,7 @@
                       <cit:onlineResource>
                         <cit:CI_OnlineResource>
                           <cit:linkage>
-                            <gco:CharacterString>https://ceotr.ocean.dal.ca/</gco:CharacterString>
+                            <gco:CharacterString>http://ofi.ca</gco:CharacterString>
                           </cit:linkage>
                           <cit:protocol>
                             <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -1036,7 +1168,7 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/bbts_water_samples.html</gco:CharacterString>
+                <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/bbts_water_samples_table.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

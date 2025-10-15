@@ -5,8 +5,8 @@ contact:
     city: Halifax
     country: Canada
     email: ceotr_dev@dal.ca
-    name: CEOTR
-    url: https://ceotr.ocean.dal.ca/
+    name: Ocean Frontier Institute
+    url: http://ofi.ca
   roles:
   - custodian
   - owner
@@ -15,31 +15,31 @@ distribution:
 - description:
     en: Oxygen Winkler and Chlorophyll Lab data from Bedford Basin Time Series Water
       Samples
-    fr: Données du laboratoire Oxygen Winkler et Chlorophyll provenant de séries chronologiques
-      d'échantillons d'eau du bassin de Bedford
+    fr: "Donn\xE9es du laboratoire Oxygen Winkler et Chlorophyll provenant de s\xE9\
+      ries chronologiques d'\xE9chantillons d'eau du bassin de Bedford"
     translations:
       fr:
-        message: text translated using the Amazon translate service / texte traduit
-          à l'aide du service de traduction Amazon
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
         verified: false
   name:
     en: ERDDAP Dataset
-    fr: Ensemble de données ERDDAP
+    fr: "Ensemble de donn\xE9es ERDDAP"
     translations:
       fr:
-        message: text translated using the Amazon translate service / texte traduit
-          à l'aide du service de traduction Amazon
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
         verified: false
-  url: https://data.ceotr.ca/erddap/tabledap/bbts_water_samples.html
+  url: https://data.ceotr.ca/erddap/tabledap/bbts_water_samples_table.html
 identification:
   abstract:
     en: Oxygen winkler and chlorophyll time series data from water samples taken at
       Bedford Basin. Samples collected via Niskin bottles. Samples taken and lab work
       done by OFI.
-    fr: Données de séries chronologiques sur l'oxygène et la chlorophylle à partir
-      d'échantillons d'eau prélevés dans le bassin de Bedford. Échantillons collectés
-      via des bouteilles Niskin. Échantillons prélevés et travaux de laboratoire effectués
-      par OFI.
+    fr: "Donn\xE9es de s\xE9ries chronologiques sur l'oxyg\xE8ne et la chlorophylle\
+      \ \xE0 partir d'\xE9chantillons d'eau pr\xE9lev\xE9s dans le bassin de Bedford.\
+      \ \xC9chantillons collect\xE9s via des bouteilles Niskin. \xC9chantillons pr\xE9\
+      lev\xE9s et travaux de laboratoire effectu\xE9s par OFI."
     translations:
       fr:
         verified: true
@@ -50,35 +50,37 @@ identification:
     code: https://data.ceotr.ca/erddap/tabledap/bb1_bop_level1.html
     title:
       en: Bedford Basin Time Series BOP Level 1 Data
-      fr: Données de niveau 1 de la série chronologique BOP du bassin de Bedford
+      fr: "Donn\xE9es de niveau 1 de la s\xE9rie chronologique BOP du bassin de Bedford"
       translations:
         fr:
-          message: text translated using the Amazon translate service / texte traduit
-            à l'aide du service de traduction Amazon
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
           verified: false
   - association_type: IsSupplementTo
     association_type_iso: crossReference
     authority: URL
-    code: https://data.ceotr.ca/erddap/tabledap/bb1_bop_level2.html
+    code: https://data.ceotr.ca/erddap/tabledap/new_bb1_bop_level2.html
     title:
       en: Bedford Basin Time Series BOP Level 2 Data
-      fr: Données sur la BOP de niveau 2 des séries chronologiques du bassin de Bedford
+      fr: "Donn\xE9es sur la BOP de niveau 2 des s\xE9ries chronologiques du bassin\
+        \ de Bedford"
       translations:
         fr:
-          message: text translated using the Amazon translate service / texte traduit
-            à l'aide du service de traduction Amazon
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
           verified: false
   - association_type: IsSupplementTo
     association_type_iso: crossReference
     authority: URL
-    code: https://data.ceotr.ca/erddap/tabledap/bb1_bop_level2_bin.html
+    code: https://data.ceotr.ca/erddap/tabledap/new_bb1_bop_level2_binned.html
     title:
       en: Bedford Basin Time Series Level 2 Binned data
-      fr: Données groupées de niveau 2 des séries chronologiques du bassin de Bedford
+      fr: "Donn\xE9es group\xE9es de niveau 2 des s\xE9ries chronologiques du bassin\
+        \ de Bedford"
       translations:
         fr:
-          message: text translated using the Amazon translate service / texte traduit
-            à l'aide du service de traduction Amazon
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
           verified: false
   - association_type: IsSupplementTo
     association_type_iso: crossReference
@@ -86,35 +88,84 @@ identification:
     code: https://data.ceotr.ca/erddap/tabledap/bb1_hyp_level1.html
     title:
       en: Bedford Basin Time Series HYP Level 1 Data
-      fr: Données de la série chronologique HYP de niveau 1 du bassin de Bedford
+      fr: "Donn\xE9es de la s\xE9rie chronologique HYP de niveau 1 du bassin de Bedford"
       translations:
         fr:
-          message: text translated using the Amazon translate service / texte traduit
-            à l'aide du service de traduction Amazon
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
           verified: false
   - association_type: IsSupplementTo
     association_type_iso: crossReference
     authority: URL
-    code: https://data.ceotr.ca/erddap/tabledap/bb1_hyp_level2.html
+    code: https://data.ceotr.ca/erddap/tabledap/new_bb1_hyp_level2.html
     title:
       en: Bedford Basin Time Series HYP Level 2 Data
-      fr: Données de la série chronologique HYP de niveau 2 du bassin de Bedford
+      fr: "Donn\xE9es de la s\xE9rie chronologique HYP de niveau 2 du bassin de Bedford"
       translations:
         fr:
-          message: text translated using the Amazon translate service / texte traduit
-            à l'aide du service de traduction Amazon
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
           verified: false
   - association_type: IsSupplementTo
     association_type_iso: crossReference
     authority: URL
-    code: https://data.ceotr.ca/erddap/tabledap/bb1_hyp_level2_bin.html
+    code: https://data.ceotr.ca/erddap/tabledap/new_bb1_hyp_level2_binned.html
     title:
       en: Bedford Basin Time Series HYP Level 2 Binned Data
-      fr: Données groupées HYP niveau 2 de la série chronologique du bassin de Bedford
+      fr: "Donn\xE9es group\xE9es HYP niveau 2 de la s\xE9rie chronologique du bassin\
+        \ de Bedford"
       translations:
         fr:
-          message: text translated using the Amazon translate service / texte traduit
-            à l'aide du service de traduction Amazon
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/tabledap/bb1_hyp_spectral_level2.html
+    title:
+      en: Bedford Basin Spectral HYP Level 2 Data
+      fr: "Donn\xE9es spectrales HYP de niveau 2 du bassin de Bedford"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/griddap/bb1_hyp_spectral_level2_binned.html
+    title:
+      en: Bedford Basin Spectral HYP Level 2 Binned Data
+      fr: "Donn\xE9es group\xE9es spectrales HYP de niveau 2 du bassin de Bedford"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/tabledap/bb1_bop_spectral_level2.html
+    title:
+      en: Bedford Basin Spectral BOP Level 2 Data
+      fr: "Donn\xE9es spectrales BOP de niveau 2 du bassin de Bedford"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/griddap/bb1_hyp_spectral_level2_binned.html
+    title:
+      en: Bedford Basin Spectral Level 2 Binned Data
+      fr: "Donn\xE9es group\xE9es de niveau spectral 2 du bassin de Bedford"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
           verified: false
   dates:
     creation: '2008-11-19'
@@ -130,8 +181,8 @@ identification:
       - climate change
       fr:
       - chlorophylle a
-      - oxygène
-      - Bassin de Bedford, Nouvelle-Écosse
+      - "oxyg\xE8ne"
+      - "Bassin de Bedford, Nouvelle-\xC9cosse"
       - Port d'Halifax
       - changement climatique
     eov:
@@ -139,25 +190,26 @@ identification:
       - oxygen
       - phytoplanktonBiomassAndDiversity
       fr:
-      - Oxygène
-      - Biomasse et diversité de phytoplancton
+      - "Oxyg\xE8ne"
+      - "Biomasse et diversit\xE9 de phytoplancton"
   progress_code: onGoing
   status: published
   temporal_begin: '2008-11-19T16:00:00.000Z'
   title:
     en: 'Bedford Basin Time Series: Oxygen Winkler and Chlorophyll Data from 2009
       to Present'
-    fr: 'Série chronologique du bassin de Bedford : données sur l''oxygène winkler
-      et la chlorophylle de 2009 à aujourd''hui'
+    fr: "S\xE9rie chronologique du bassin de Bedford\_: donn\xE9es sur l'oxyg\xE8\
+      ne winkler et la chlorophylle de 2009 \xE0 aujourd'hui"
     translations:
       fr:
-        message: text translated using the Amazon translate service / texte traduit
-          à l'aide du service de traduction Amazon
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
         verified: false
 metadata:
   dates:
     publication: '2024-06-06'
-    revision: '2024-05-23T14:17:06.698Z'
+    revision: '2025-10-15T12:34:35.627Z'
+  history: []
   identifier: d5028b0d-5e42-41db-9cfb-4f210491c51a
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/mb7bWeeJyad6bUjYfUMEs9321wu1/-NyQOKFOx4CIzDq7AWKP

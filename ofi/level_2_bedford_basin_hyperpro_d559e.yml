@@ -1,0 +1,253 @@
+contact:
+- inCitation: true
+  organization:
+    address: 1355 Oxford Street
+    city: Halifax
+    country: Canada
+    email: ceotr_dev@dal.ca
+    name: Ocean Frontier Institute
+    url: https://www.ofi.ca
+  roles:
+  - custodian
+  - owner
+  - distributor
+distribution:
+- description:
+    en: Bedford Basin HYP Level 2 Binned
+    fr: Bassin de Bedford HYP, niveau 2, poubelle
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: HyperPro Binned Level 2 Data
+    fr: "Donn\xE9es regroup\xE9es HyperPro de niveau 2"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://data.ceotr.ca/erddap/tabledap/new_bb1_hyp_level2_binned.html
+- description:
+    en: HyperPro Level 2 Data
+    fr: "Donn\xE9es HyperPro de niveau 2"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: HyperPro Level 2 Data
+    fr: "Donn\xE9es HyperPro de niveau 2"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://data.ceotr.ca/erddap/tabledap/new_bb1_hyp_level2.html
+identification:
+  abstract:
+    en: Data from the Hyper Profiler in the Bedford Basin. The dataset contains time
+      series of CTD, backscattering, and radiance/irradiance measurements from 2010
+      to present.
+    fr: "Donn\xE9es provenant de l'Hyper Profiler dans le bassin de Bedford. L'ensemble\
+      \ de donn\xE9es contient des s\xE9ries chronologiques de mesures de CTD, de\
+      \ r\xE9trodiffusion et de radiance/irradiance de 2010 \xE0 aujourd'hui."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  associated_resources:
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/tabledap/bb1_bop_level2_bin.html
+    title:
+      en: Bedford Basin BOP Level 2 Binned
+      fr: Bassin de Bedford BOP, niveau 2, poubelle
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/tabledap/bbts_water_samples.html
+    title:
+      en: Bedford Basin Time Series Oxygen Winkler and Chlorophyll Data
+      fr: "S\xE9ries chronologiques du bassin de Bedford, donn\xE9es sur l'oxyg\xE8\
+        ne, Winkler et la chlorophylle"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://data.ceotr.ca/erddap/tabledap/new_bb1_bop_level2.html
+    title:
+      en: Bedford Basin Time Series BOP Level 2 Data
+      fr: "Donn\xE9es sur la BOP de niveau 2 des s\xE9ries chronologiques du bassin\
+        \ de Bedford"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  dates:
+    creation: '2010-01-05'
+  edition: '1.0'
+  keywords:
+    default:
+      en:
+      - Bedford Basin
+      - chlorophyll a
+      - fluorescence
+      - oceanographic missions
+      - climate change
+      - knowledge improvement
+      - sampling
+      - water density
+      - water temperature
+      - Halifax
+      - CDOM
+      - conductivity
+      - depth
+      - Irradiance
+      - water pressure
+      - backscatter
+      - downwelling irradiance
+      - upwelling radiance
+      - wavelengths
+      - radiance
+      - BBTS
+      - Nova Scotia
+      fr:
+      - chlorophylle a
+      - fluorescence
+      - "missions oc\xE9anographique"
+      - changement climatique
+      - "am\xE9lioration des connaissances"
+      - "salinit\xE9"
+      - "\xE9chantillonnage"
+      - "densit\xE9 eau"
+      - "temp\xE9rature de l'eau"
+    eov:
+      en:
+      - other
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - oceanColour
+      - seaSurfaceTemperature
+      - seaSurfaceSalinity
+      - phytoplanktonBiomassAndDiversity
+      fr:
+      - Autre
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
+      - "Couleur des oc\xE9ans"
+      - "Temp\xE9rature de surface"
+      - "Salinit\xE9 de surface"
+      - "Biomasse et diversit\xE9 de phytoplancton"
+  progress_code: onGoing
+  status: published
+  temporal_begin: '2010-01-05T16:00:00.000Z'
+  title:
+    en: Level 2 Bedford Basin HyperPro Time Series from 2009 to present
+    fr: "S\xE9rie chronologique HyperPro du bassin de Bedford, niveau 2, de 2009 \xE0\
+      \ aujourd'hui"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+metadata:
+  dates:
+    publication: '2024-08-02'
+    revision: '2025-10-07T17:04:24.237Z'
+  history: []
+  identifier: d559e26f-d637-4934-8a93-dac7a9596362
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/mb7bWeeJyad6bUjYfUMEs9321wu1/-NfqXca2shdLuGJn_Nv7
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC0
+      title:
+        en: Creative Commons 0
+      url: https://creativecommons.org/share-your-work/public-domain/cc0
+platform:
+- id: Sigma T
+  instruments:
+  - description:
+      en: Measures downwelling irradiance (Ed) and upwelling irradiance (Eu) and upwelling
+        radiance (Lu)
+      fr: Mesure l'irradiance descendante (Ed), l'irradiance ascendante (Eu) et le
+        rayonnement remontant (Lu)
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+    id: Hyperpro
+    manufacturer: Satlantic
+    type:
+      en: Free falling optical profiler
+      fr: "Profileur optique \xE0 chute libre"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+    version: 078
+  - description:
+      en: The Puck is a miniature version of the popular ECO series of sensors, specifically
+        designed for use in AUVs, profiling floats, and Slocum gliders with a dry
+        science bay, where space is limited and power requirements are critical.  This
+        compact optical sensor is available in combinations of backscattering and
+        fluorescence measurements.
+      fr: "Le Puck est une version miniature de la c\xE9l\xE8bre s\xE9rie de capteurs\
+        \ ECO, sp\xE9cialement con\xE7ue pour \xEAtre utilis\xE9e dans les AUV, les\
+        \ flotteurs profil\xE9s et les planeurs Slocum dot\xE9s d'une baie scientifique\
+        \ s\xE8che, o\xF9 l'espace est limit\xE9 et o\xF9 les besoins en \xE9nergie\
+        \ sont critiques. Ce capteur optique compact est disponible en combinaison\
+        \ de mesures de r\xE9trodiffusion et de fluorescence."
+    id: ECO puck fluorometer
+    manufacturer: WETLabs
+    type:
+      en: backscattering and fluorescence sensor
+      fr: "capteur de r\xE9trodiffusion et de fluorescence"
+    version: '5039'
+  - description:
+      en: The Puck is a miniature version of the popular ECO series of sensors, specifically
+        designed for use in AUVs, profiling floats, and Slocum gliders with a dry
+        science bay, where space is limited and power requirements are critical.  This
+        compact optical sensor is available in combinations of backscattering and
+        fluorescence measurements.
+      fr: "Le Puck est une version miniature de la c\xE9l\xE8bre s\xE9rie de capteurs\
+        \ ECO, sp\xE9cialement con\xE7ue pour \xEAtre utilis\xE9e dans les AUV, les\
+        \ flotteurs profil\xE9s et les planeurs Slocum dot\xE9s d'une baie scientifique\
+        \ s\xE8che, o\xF9 l'espace est limit\xE9 et o\xF9 les besoins en \xE9nergie\
+        \ sont critiques. Ce capteur optique compact est disponible en combinaison\
+        \ de mesures de r\xE9trodiffusion et de fluorescence."
+    id: ECO puck fluorometer
+    manufacturer: WETLabs
+    type:
+      en: backscattering and fluorescence sensor
+      fr: "capteur de r\xE9trodiffusion et de fluorescence"
+    version: '077'
+  type: research vessel
+spatial:
+  bbox:
+  - -63.65
+  - 44.68
+  - -63.63
+  - 44.7
+  vertical:
+  - 0.0
+  - 70.0
+  vertical_positive: heightPositive

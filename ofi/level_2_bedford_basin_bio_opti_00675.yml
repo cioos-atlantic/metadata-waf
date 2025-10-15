@@ -13,23 +13,6 @@ contact:
   - distributor
 distribution:
 - description:
-    en: Level 2 data of the BOP profiler in the Bedford Basin in ERDDAP
-    fr: "Donn\xE9es de niveau 2 du profileur BOP dans le bassin de Bedford dans ERDDAP"
-    translations:
-      fr:
-        message: "text translated using the Amazon translate service / texte traduit\
-          \ \xE0 l'aide du service de traduction Amazon"
-        verified: false
-  name:
-    en: ERDDAP dataset
-    fr: "Ensemble de donn\xE9es ERDDAP"
-    translations:
-      fr:
-        message: "text translated using the Amazon translate service / texte traduit\
-          \ \xE0 l'aide du service de traduction Amazon"
-        verified: false
-  url: https://data.ceotr.ca/erddap/tabledap/new_bb1_bop_level2.html
-- description:
     en: Level 2 binned data of the BOP profiler in the Bedford Basin in ERDDAP
     fr: "Donn\xE9es group\xE9es de niveau 2 du profileur BOP dans le bassin de Bedford\
       \ dans ERDDAP"
@@ -46,12 +29,29 @@ distribution:
         message: "text translated using the Amazon translate service / texte traduit\
           \ \xE0 l'aide du service de traduction Amazon"
         verified: false
-  url: https://data.ceotr.ca/erddap/tabledap/new_bb1_bop_level2_binned.html
+  url: https://data.ceotr.ca/erddap/tabledap/bb1_bop_spectral_level2.html
+- description:
+    en: Level 2 binned spectral data of the BOP profiler in the Bedford Basin in ERDDAP
+    fr: "Donn\xE9es spectrales group\xE9es de niveau 2 du profileur BOP dans le bassin\
+      \ de Bedford dans ERDDAP"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: ERDDAP dataset
+    fr: "Ensemble de donn\xE9es ERDDAP"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://data.ceotr.ca/erddap/griddap/bb1_bop_spectral_level2_binned.html
 identification:
   abstract:
-    en: Level 2 Time Series Data from BBTS Bio Optical Profiler Since 2010
-    fr: "Donn\xE9es de s\xE9ries chronologiques de niveau 2 provenant de BBTS Bio\
-      \ Optical Profiler depuis 2010"
+    en: Data of the BOP profiler in the Bedford Basin
+    fr: "Donn\xE9es du profileur BOP dans le bassin de Bedford"
     translations:
       fr:
         message: "text translated using the Amazon translate service / texte traduit\
@@ -61,10 +61,11 @@ identification:
   - association_type: IsSupplementTo
     association_type_iso: crossReference
     authority: URL
-    code: https://data.ceotr.ca/erddap/tabledap/new_bb1_hyp_level2.html
+    code: https://data.ceotr.ca/erddap/tabledap/new_bb1_hyp_level2_binned.html
     title:
-      en: Bedford Basin Time Series HYP Level 2 Data
-      fr: "Donn\xE9es de la s\xE9rie chronologique HYP de niveau 2 du bassin de Bedford"
+      en: Bedford Basin Time Series HYP Level 2 Binned Data
+      fr: "Donn\xE9es group\xE9es HYP niveau 2 de la s\xE9rie chronologique du bassin\
+        \ de Bedford"
       translations:
         fr:
           message: "text translated using the Amazon translate service / texte traduit\
@@ -73,11 +74,10 @@ identification:
   - association_type: IsSupplementTo
     association_type_iso: crossReference
     authority: URL
-    code: https://data.ceotr.ca/erddap/tabledap/new_bb1_hyp_level2_binned.html
+    code: https://data.ceotr.ca/erddap/tabledap/bb1_hyp_spectral_level2.html
     title:
-      en: Bedford Basin Time Series HYP Level 2 Binned Data
-      fr: "Donn\xE9es group\xE9es HYP niveau 2 de la s\xE9rie chronologique du bassin\
-        \ de Bedford"
+      en: Bedford Basin Spectral HYP Level 2 Data
+      fr: "Donn\xE9es spectrales HYP de niveau 2 du bassin de Bedford"
       translations:
         fr:
           message: "text translated using the Amazon translate service / texte traduit\
@@ -94,10 +94,7 @@ identification:
       - AREF
       - ASIG
       - BOP
-      - CDOM
-      - CTD
       - chlorophyll
-      - conductivity
       - CRLF
       - currents
       - DARK
@@ -105,9 +102,6 @@ identification:
       - dissolved
       - fluorescence
       - EWHEM
-      - salinity
-      - oxygen
-      - o2
       - nitrate
       - NSHEM
       - Temperature
@@ -134,9 +128,9 @@ identification:
   status: published
   temporal_begin: '2010-01-13T16:00:00.000Z'
   title:
-    en: Level 2 Bedford Basin Bio Optical Profiler Time Series since 2010 to present
-    fr: "S\xE9rie chronologique du profileur biooptique du bassin de Bedford de niveau\
-      \ 2 depuis 2010 \xE0 aujourd'hui"
+    en: Level 2 Bedford Basin Bio Optical Profiler Spectral Data since 2010 to present
+    fr: "Profileur biooptique de niveau 2 du bassin de Bedford\_: donn\xE9es spectrales\
+      \ depuis 2010 \xE0 aujourd'hui"
     translations:
       fr:
         message: "text translated using the Amazon translate service / texte traduit\
@@ -144,12 +138,12 @@ identification:
         verified: false
 metadata:
   dates:
-    publication: '2024-06-06'
-    revision: '2025-10-07T17:11:17.175Z'
+    publication: '2025-10-15'
+    revision: '2025-10-15T14:02:51.971Z'
   history: []
-  identifier: 37e28bce-47a7-40f8-9dff-417ecae5b866
+  identifier: 00675823-d09c-4420-9449-c2df16b37044
   language: en
-  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/mb7bWeeJyad6bUjYfUMEs9321wu1/-NV_JdYxKomog3CQCuqt
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/mb7bWeeJyad6bUjYfUMEs9321wu1/-OazGDvVFEvbQdBn1mtw
   naming_authority: ca.cioos
   use_constraints:
     licence:

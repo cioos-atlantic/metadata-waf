@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>37e28bce-47a7-40f8-9dff-417ecae5b866</gco:CharacterString>
+        <gco:CharacterString>00675823-d09c-4420-9449-c2df16b37044</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -220,7 +220,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2025-10-07T17:11:17.175Z</gco:DateTime>
+        <gco:DateTime>2025-10-15T14:02:51.971Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -230,7 +230,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2024-06-06</gco:Date>
+        <gco:Date>2025-10-15</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -315,10 +315,10 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>Level 2 Bedford Basin Bio Optical Profiler Time Series since 2010 to present</gco:CharacterString>
+            <gco:CharacterString>Level 2 Bedford Basin Bio Optical Profiler Spectral Data since 2010 to present</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
-                <lan:LocalisedCharacterString locale="#fr">Série chronologique du profileur biooptique du bassin de Bedford de niveau 2 depuis 2010 à aujourd&#39;hui</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Profileur biooptique de niveau 2 du bassin de Bedford : données spectrales depuis 2010 à aujourd&#39;hui</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -497,10 +497,10 @@
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>Level 2 Time Series Data from BBTS Bio Optical Profiler Since 2010</gco:CharacterString>
+        <gco:CharacterString>Data of the BOP profiler in the Bedford Basin</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
-            <lan:LocalisedCharacterString locale="#fr">Données de séries chronologiques de niveau 2 provenant de BBTS Bio Optical Profiler depuis 2010</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Données du profileur BOP dans le bassin de Bedford</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
@@ -594,7 +594,7 @@
             <mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>
           </mmi:maintenanceAndUpdateFrequency>
           <mmi:maintenanceNote>
-            <gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/mb7bWeeJyad6bUjYfUMEs9321wu1/-NV_JdYxKomog3CQCuqt</gco:CharacterString>
+            <gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/mb7bWeeJyad6bUjYfUMEs9321wu1/-OazGDvVFEvbQdBn1mtw</gco:CharacterString>
           </mmi:maintenanceNote>
         </mmi:MD_MaintenanceInformation>
       </mri:resourceMaintenance>
@@ -646,16 +646,7 @@
             <gco:CharacterString>BOP</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>CDOM</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>CTD</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
             <gco:CharacterString>chlorophyll</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>conductivity</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>CRLF</gco:CharacterString>
@@ -677,15 +668,6 @@
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>EWHEM</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>salinity</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>oxygen</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>o2</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>nitrate</gco:CharacterString>
@@ -827,39 +809,6 @@
           <mri:name>
             <cit:CI_Citation>
               <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>Bedford Basin Time Series HYP Level 2 Data</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
-                    <lan:LocalisedCharacterString locale="#fr">Données de la série chronologique HYP de niveau 2 du bassin de Bedford</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </cit:title>
-              <cit:identifier>
-                <mcc:MD_Identifier>
-                  <mcc:authority>
-                    <cit:CI_Citation>
-                      <cit:title>
-                        <gco:CharacterString>URL</gco:CharacterString>
-                      </cit:title>
-                    </cit:CI_Citation>
-                  </mcc:authority>
-                  <mcc:code>
-                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/new_bb1_hyp_level2.html</gco:CharacterString>
-                  </mcc:code>
-                </mcc:MD_Identifier>
-              </cit:identifier>
-            </cit:CI_Citation>
-          </mri:name>
-          <mri:associationType>
-            <mri:DS_AssociationTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#DS_AssociationTypeCode" codeListValue="crossReference"></mri:DS_AssociationTypeCode>
-          </mri:associationType>
-        </mri:MD_AssociatedResource>
-      </mri:associatedResource>
-      <mri:associatedResource>
-        <mri:MD_AssociatedResource>
-          <mri:name>
-            <cit:CI_Citation>
-              <cit:title xsi:type="lan:PT_FreeText_PropertyType">
                 <gco:CharacterString>Bedford Basin Time Series HYP Level 2 Binned Data</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
@@ -878,6 +827,39 @@
                   </mcc:authority>
                   <mcc:code>
                     <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/new_bb1_hyp_level2_binned.html</gco:CharacterString>
+                  </mcc:code>
+                </mcc:MD_Identifier>
+              </cit:identifier>
+            </cit:CI_Citation>
+          </mri:name>
+          <mri:associationType>
+            <mri:DS_AssociationTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#DS_AssociationTypeCode" codeListValue="crossReference"></mri:DS_AssociationTypeCode>
+          </mri:associationType>
+        </mri:MD_AssociatedResource>
+      </mri:associatedResource>
+      <mri:associatedResource>
+        <mri:MD_AssociatedResource>
+          <mri:name>
+            <cit:CI_Citation>
+              <cit:title xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Bedford Basin Spectral HYP Level 2 Data</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
+                    <lan:LocalisedCharacterString locale="#fr">Données spectrales HYP de niveau 2 du bassin de Bedford</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:title>
+              <cit:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      <cit:title>
+                        <gco:CharacterString>URL</gco:CharacterString>
+                      </cit:title>
+                    </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/bb1_hyp_spectral_level2.html</gco:CharacterString>
                   </mcc:code>
                 </mcc:MD_Identifier>
               </cit:identifier>
@@ -958,37 +940,7 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/new_bb1_bop_level2.html</gco:CharacterString>
-              </cit:linkage>
-              <cit:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </cit:protocol>
-              <cit:name xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>ERDDAP dataset</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
-                    <lan:LocalisedCharacterString locale="#fr">Ensemble de données ERDDAP</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </cit:name>
-              <cit:description xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>Level 2 data of the BOP profiler in the Bedford Basin in ERDDAP</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
-                    <lan:LocalisedCharacterString locale="#fr">Données de niveau 2 du profileur BOP dans le bassin de Bedford dans ERDDAP</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </cit:description>
-            </cit:CI_OnlineResource>
-          </mrd:onLine>
-        </mrd:MD_DigitalTransferOptions>
-      </mrd:transferOptions>
-      <mrd:transferOptions>
-        <mrd:MD_DigitalTransferOptions>
-          <mrd:onLine>
-            <cit:CI_OnlineResource>
-              <cit:linkage>
-                <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/new_bb1_bop_level2_binned.html</gco:CharacterString>
+                <gco:CharacterString>https://data.ceotr.ca/erddap/tabledap/bb1_bop_spectral_level2.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -1006,6 +958,36 @@
                 <lan:PT_FreeText>
                   <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
                     <lan:LocalisedCharacterString locale="#fr">Données groupées de niveau 2 du profileur BOP dans le bassin de Bedford dans ERDDAP</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:description>
+            </cit:CI_OnlineResource>
+          </mrd:onLine>
+        </mrd:MD_DigitalTransferOptions>
+      </mrd:transferOptions>
+      <mrd:transferOptions>
+        <mrd:MD_DigitalTransferOptions>
+          <mrd:onLine>
+            <cit:CI_OnlineResource>
+              <cit:linkage>
+                <gco:CharacterString>https://data.ceotr.ca/erddap/griddap/bb1_bop_spectral_level2_binned.html</gco:CharacterString>
+              </cit:linkage>
+              <cit:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </cit:protocol>
+              <cit:name xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>ERDDAP dataset</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
+                    <lan:LocalisedCharacterString locale="#fr">Ensemble de données ERDDAP</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:name>
+              <cit:description xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Level 2 binned spectral data of the BOP profiler in the Bedford Basin in ERDDAP</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
+                    <lan:LocalisedCharacterString locale="#fr">Données spectrales groupées de niveau 2 du profileur BOP dans le bassin de Bedford dans ERDDAP</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </cit:description>
