@@ -1,0 +1,293 @@
+contact:
+- inCitation: true
+  individual:
+    name: Simard, Yvan
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - author
+- inCitation: true
+  individual:
+    name: Kirsebom, Oliver
+    orcid: https://orcid.org/0000-0001-5843-7465
+  organization:
+    city: Halifax
+    country: Canada
+    name: Dalhousie University
+    ror: https://ror.org/01e6qks80
+    url: https://www.dal.ca
+  roles:
+  - owner
+  - author
+  - distributor
+- inCitation: true
+  individual:
+    name: Frazao, Fabio
+  organization:
+    city: Halifax
+    country: Canada
+    name: Dalhousie University
+    ror: https://ror.org/01e6qks80
+    url: https://www.dal.ca
+  roles:
+  - custodian
+  - owner
+  - distributor
+- inCitation: true
+  individual:
+    name: Roy, Nathalie
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - author
+- inCitation: true
+  individual:
+    name: Matwin, Stan
+    orcid: https://orcid.org/0000-0001-6629-8434
+  organization:
+    city: Halifax
+    country: Canada
+    name: Dalhousie University
+    ror: https://ror.org/01e6qks80
+    url: https://www.dal.ca
+  roles:
+  - author
+- inCitation: true
+  individual:
+    name: Giard, Samuel
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - author
+distribution:
+- description:
+    en: Access to the dataset files
+    fr: "Acc\xE8s aux fichiers du jeu de donn\xE9es"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: FRDR Data Repository
+    fr: "R\xE9f\xE9rentiel de donn\xE9es FRDR"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://www.frdr-dfdr.ca/repo/dataset/4a3113e6-1d58-6bb4-aaf2-a9adf75165be
+identification:
+  abstract:
+    en: 'The acoustic data were collected between 2015 and 2019 at six stations in
+      the southern Gulf of St. Lawrence using two different deployment configurations.
+      The dataset also includes audio samples from the Gulf of Maine recorded in 2009,
+      which were part of the DCLDE 2013 Challenge dataset (https://soi.st-andrews.ac.uk/static/soi/dclde2013/documents/WorkshopDataset2013.pdf).
+
+
+      The acoustic data are supplemented by expert annotations indicating the presence/absence
+      of North Atlantic right whale upcalls. Spectrogram images are also provided.
+
+
+      These data have been used to train a deep neural network to detect North Atlantic
+      right whale upcalls, as described in the article "Performance of a Deep Neural
+      Network at Detecting North Atlantic Right Whale Upcalls" by Kirsebom, Frazao,
+      Simard, Roy, Matwin, and Giard (doi:10.1121/10.0001132), which also contains
+      a detailed description of the data.
+
+
+      The software developed as part of this work is available on Zenodo (doi:10.5281/zenodo.3736625)
+      under a GPLv3 license. This includes Python scripts for building training and
+      test datasets, computing signal-to-noise ratios, visualizing spectrograms, training
+      the deep neural network, and using the network to analyze continuous audio recordings.'
+    fr: "Les donn\xE9es acoustiques ont \xE9t\xE9 recueillies entre 2015 et 2019 dans\
+      \ six stations du sud du golfe du Saint-Laurent en utilisant deux configurations\
+      \ de d\xE9ploiement diff\xE9rentes. L'ensemble de donn\xE9es comprend \xE9galement\
+      \ des \xE9chantillons audio du golfe du Maine enregistr\xE9s en 2009, qui faisaient\
+      \ partie de l'ensemble de donn\xE9es du DCLDE 2013 Challenge (https://soi.st-andrews.ac.uk/static/soi/dclde2013/documents/WorkshopDataset2013.pdf).\n\
+      \nLes donn\xE9es acoustiques sont compl\xE9t\xE9es par des annotations d'experts\
+      \ indiquant la pr\xE9sence/l'absence d'appels de baleines noires de l'Atlantique\
+      \ Nord. Des images de spectrogramme sont \xE9galement fournies.\n\nCes donn\xE9\
+      es ont \xE9t\xE9 utilis\xE9es pour entra\xEEner un r\xE9seau neuronal profond\
+      \ afin de d\xE9tecter les appels entrants de baleines noires de l'Atlantique\
+      \ Nord, comme d\xE9crit dans l'article \xAB\_Performance of a Deep Neural Network\
+      \ at Detecting North Atlantic Right Whale Upcalls\_\xBB de Kirsebom, Frazao,\
+      \ Simard, Roy, Matwin et Giard (doi:10.1121/10.0001132), qui contient \xE9galement\
+      \ une description d\xE9taill\xE9e des donn\xE9es.\n\nLe logiciel d\xE9velopp\xE9\
+      \ dans le cadre de ce travail est disponible sur Zenodo (doi:10.5281/zenodo.3736625)\
+      \ sous licence GPLv3. Cela inclut des scripts Python pour cr\xE9er des ensembles\
+      \ de donn\xE9es d'entra\xEEnement et de test, calculer des rapports signal/bruit,\
+      \ visualiser des spectrogrammes, entra\xEEner le r\xE9seau neuronal profond\
+      \ et utiliser le r\xE9seau pour analyser des enregistrements audio en continu."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  associated_resources:
+  - association_type: IsCitedBy
+    association_type_iso: crossReference
+    authority: DOI
+    code: https://doi.org/10.1121/10.0001132
+    title:
+      en: Performance of a deep neural network at detecting North Atlantic right whale
+        upcalls
+      fr: "Performances d'un r\xE9seau neuronal profond pour d\xE9tecter les appels\
+        \ des baleines noires de l'Atlantique Nord"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  - association_type: IsCitedBy
+    association_type_iso: crossReference
+    authority: DOI
+    code: https://doi.org/10.5281/zenodo.3736625
+    title:
+      en: Supplementary material for the article "Performance of a Deep Neural Network
+        at Detecting North Atlantic Right Whale Upcalls"
+      fr: "Documentation suppl\xE9mentaire pour l'article \xAB\_Performances d'un\
+        \ r\xE9seau neuronal profond pour d\xE9tecter les appels entrants de baleines\
+        \ noires de l'Atlantique Nord\_\xBB"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  dates:
+    creation: '2015-04-01'
+    publication: '2020-04-24'
+  identifier: https://doi.org/10.20383/101.0241
+  keywords:
+    default:
+      en:
+      - abundance and biomass
+      - marine mammal
+      - animal behaviour
+      fr:
+      - abondance et biomasse
+      - "mammif\xE8res marins"
+      - comportement animal
+    eov:
+      en:
+      - oceanSound
+      - marineTurtlesBirdsMammalsAbundanceAndDistribution
+      fr:
+      - "Paysage acoustique des oc\xE9ans"
+      - "Abondance et distribution de tortues marines, oiseaux et mammif\xE8res"
+    taxa:
+      en:
+      - Animalia
+      - Chordata
+      - Mammalia
+      - Cetacea
+      - Balaenidae
+      - Eubalaena
+      - Eubalaena glacialis
+      fr:
+      - Animalia
+      - Chordata
+      - Mammalia
+      - Cetacea
+      - Balaenidae
+      - Eubalaena
+      - Eubalaena glacialis
+  progress_code: completed
+  status: published
+  temporal_begin: '2015-04-01T15:00:00.000Z'
+  temporal_end: '2019-02-26T16:00:00.000Z'
+  title:
+    en: Acoustic recordings of North Atlantic right whale upcalls in the Gulf of St.
+      Lawrence
+    fr: Enregistrements acoustiques des appels de baleines noires de l'Atlantique
+      Nord dans le golfe du Saint-Laurent
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+metadata:
+  dates:
+    publication: '2025-03-19'
+    revision: '2025-11-24T13:42:14.439Z'
+  history: []
+  identifier: d081aca2-ec02-4063-9cd9-29dd3e1f1a05
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/6yNXL43RznbYyJ7TE2bvd3ol29v1/-OIv13EyD0Qg4ASSypFD
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+- description:
+    en: real-time ocean observing Viking buoy
+    fr: "bou\xE9e Viking d'observation de l'oc\xE9an en temps r\xE9el"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  id: buoy A
+  type: moored surface buoy
+- description:
+    en: "\u201CI\u201D-type oceanographic moorings"
+    fr: "Mouillages oc\xE9anographiques de type \xAB\_I\_\xBB"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  id: mooring B
+  type: mooring
+spatial:
+  bbox:
+  - -71.0
+  - 41.0
+  - -60.0
+  - 49.0
+  description:
+    en: The acoustic data were collected between 2015 and 2019 at six stations in
+      the southern Gulf of St. Lawrence using two different deployment configurations.
+      The dataset also includes audio samples from the Gulf of Maine recorded in 2009
+    fr: "Les donn\xE9es acoustiques ont \xE9t\xE9 recueillies entre 2015 et 2019 dans\
+      \ six stations du sud du golfe du Saint-Laurent en utilisant deux configurations\
+      \ de d\xE9ploiement diff\xE9rentes. L'ensemble de donn\xE9es comprend \xE9galement\
+      \ des \xE9chantillons audio du golfe du Maine enregistr\xE9s en 2009."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  vertical:
+  - 0
+  - 0
+  vertical_epsg:
+    Area: World
+    Code: 5829
+    DataSource: EPSG
+    Deprecated: false
+    Links:
+    - href: https://apps.epsg.org/api/v1/VerticalCoordRefSystem/5829
+      rel: result
+    Name: Instantaneous Water Level height
+    Remarks: Height relative to instantaneous water level uncorrected for tide. Not
+      specific to any location or epoch.
+    RevisionDate: '2012-08-10T00:00:00'
+    Superseded: false
+    Type: vertical
+  vertical_positive: heightPositive
