@@ -35,9 +35,12 @@ contact:
   - funder
   - funder
   - funder
+  - funder
+  - funder
+  - funder
 - inCitation: true
   organization:
-    name: ' Transport Canada''s Innovation Centre'
+    name: Transport Canada's Innovation Centre
   roles:
   - funder
 distribution:
@@ -85,7 +88,7 @@ metadata:
   dates:
     publication: '2025-12-04T07:45:24Z'
     revision: '2025-12-04T07:45:24Z'
-  identifier: ea6fddcd-dbb1-4a94-92e5-fc6973cf7fd1
+  identifier: 49fd3aa5-381b-4630-a96c-87ebc98c88d0
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

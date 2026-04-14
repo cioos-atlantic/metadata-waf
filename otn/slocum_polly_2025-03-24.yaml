@@ -25,9 +25,10 @@ contact:
   - funder
   - funder
   - funder
+  - funder
 - inCitation: true
   organization:
-    name: ' Ocean tracking Network'
+    name: Ocean tracking Network
   roles:
   - funder
 distribution:
@@ -79,7 +80,7 @@ metadata:
   dates:
     publication: '2025-04-24T19:44:18Z'
     revision: '2025-04-24T19:44:18Z'
-  identifier: 6923ef90-0ab6-428b-9603-898009476491
+  identifier: d11df096-aae3-40b8-b310-b8dc52590239
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

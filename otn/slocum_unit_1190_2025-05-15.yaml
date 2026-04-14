@@ -25,14 +25,10 @@ contact:
   - funder
   - funder
   - funder
-- inCitation: true
-  organization:
-    name: Jasco Applied Sciences
-  roles:
   - funder
 - inCitation: true
   organization:
-    name: ' Ocean Tracking Network'
+    name: Jasco Applied Sciences
   roles:
   - funder
 distribution:
@@ -80,7 +76,7 @@ metadata:
   dates:
     publication: '2025-10-10T23:00:26Z'
     revision: '2025-10-10T23:00:26Z'
-  identifier: b38ae0f7-ab8f-4ac1-abd4-fa909425f724
+  identifier: 984984e2-0116-4f02-a0bc-8c6d1df50d35
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

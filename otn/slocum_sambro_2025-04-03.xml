@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>8f5f1800-ed3a-46ba-a201-1dede1e10eb3</gco:CharacterString>
+        <gco:CharacterString>5dd30506-3240-4ff4-a343-439cf8043dad</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -1602,7 +1602,7 @@
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString> Ocean tracking Network</gco:CharacterString>
+                    <gco:CharacterString>Ocean tracking Network</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>

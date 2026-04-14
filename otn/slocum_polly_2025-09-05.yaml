@@ -25,6 +25,7 @@ contact:
   - funder
   - funder
   - funder
+  - funder
 distribution:
 - description:
     en: High resolution ERDDAP datasets
@@ -69,7 +70,7 @@ metadata:
   dates:
     publication: '2025-10-24T19:24:56Z'
     revision: '2025-10-24T19:24:56Z'
-  identifier: 9e68cb8f-692b-48c2-973f-b7df96589863
+  identifier: c460cbb7-13fd-4937-954a-b000678aff1e
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
