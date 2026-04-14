@@ -32,8 +32,6 @@ contact:
   - funder
   - funder
   - funder
-  - funder
-  - funder
 - inCitation: true
   organization:
     name: ' Transport Canada''s Innovation Centre'
@@ -43,7 +41,7 @@ distribution:
 - description:
     en: High resolution ERDDAP datasets
     fr: Ensembles de données ERDDAP haute résolution
-  url: https://erddap.oceantrack.org/erddap/tabledap/fundy_20250522_207_delayed.html
+  url: https://erddap.oceantrack.org/erddap/tabledap/sable_20250522_208_delayed.html
 identification:
   abstract:
     en: Slocum gliders are small, free-swimming, unmanned vehicles that use changes
@@ -73,8 +71,8 @@ identification:
       - autre
   progress_code: completed
   status: published
-  temporal_begin: '2025-05-22T17:30:00.000Z'
-  temporal_end: '2025-11-26T12:00:00.000Z'
+  temporal_begin: '2025-05-22T15:50:00.000Z'
+  temporal_end: '2025-06-23T16:03:03.000Z'
   title:
     en: Laurentian Channel real time whale monitoring for dynamic shipping management
       in Gulf of St. Lawrence 2025-05-22
@@ -82,9 +80,9 @@ identification:
       gestion dynamique de la navigation dans le golfe du Saint-Laurent 2025-05-22
 metadata:
   dates:
-    publication: '2025-12-04T16:46:18Z'
-    revision: '2025-12-04T16:46:18Z'
-  identifier: 47bbd4a5-ab1e-41b6-9081-72e2e1019088
+    publication: '2025-12-15T20:52:13Z'
+    revision: '2025-12-15T20:52:13Z'
+  identifier: 7b56bce8-4f6a-4e67-a295-f88351d6a9b4
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -95,60 +93,60 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: fundy
+  id: sable
   instruments:
-  - description:
-      en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350 m
-    id: bpump_0416
-    manufacturer: Teledyne Webb Research
-    type:
-      en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350 m
-    version: '1.2'
   - description:
       en: Vemco Mobile Transceiver
       fr: Émetteur-récepteur mobile Vemco
-    id: hydrophones_1282450
+    id: hydrophones_1360674
     manufacturer: InnovaSea Systems Inc.
     type:
       en: Vemco Mobile Transceiver
       fr: Émetteur-récepteur mobile Vemco
     version: '1.2'
   - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument numérique de surveillance acoustique
+    id: hydrophones_058B
+    manufacturer: Woods Hole Oceanographic Institution
+    type:
+      en: dmon2
+      fr: démon2
+    version: '1.2'
+  - description:
+      en: Slocum Glider G3 350 m oil pump
+      fr: Pompe à huile Slocum Glider G3 350 m
+    id: bpump_850
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider G3 350 m oil pump
+      fr: Pompe à huile Slocum Glider G3 350 m
+    version: '1.2'
+  - description:
+      en: RBR Legato3 CTD
+      fr: RBR Legato3 CTD
+    id: CTD_231026
+    manufacturer: RBR Ltd
+    type:
+      en: RBRLegato unpumped CTD
+      fr: RBRLegato CTD non pompé
+    version: '1.2'
+  - description:
       en: Slocum Glider Hybrid Thruster
       fr: Propulseur hybride Slocum Glider
-    id: thruster_058
+    id: thruster_557
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider Hybrid Thruster
       fr: Propulseur hybride Slocum Glider
     version: '1.2'
-  - description:
-      en: RBR Legato3 CTD
-      fr: RBR Legato3 CTD
-    id: CTD_205221
-    manufacturer: RBR Ltd
-    type:
-      en: RBRlegato unpumped CTD
-      fr: RBRlegato CTD non pompé
-    version: '1.2'
-  - description:
-      en: digital acoustic monitoring instrument
-      fr: instrument numérique de surveillance acoustique
-    id: hydrophones_047
-    manufacturer: Woods Hole Oceanographic Institution
-    type:
-      en: "DMON2- Payload Integrated System\r\nSO-A81"
-      fr: "DMON2- Système intégré de charge utile\r\nSO-A81"
-    version: '1.2'
   type: glider
 spatial:
   bbox:
-  - -62.958263
-  - 49.326665
-  - -64.30066788282208
-  - 48.899142
+  - -63.686905
+  - 49.745917
+  - -65.029587
+  - 49.14492
   vertical:
-  - 1.036799972590173e-13
-  - 357.20001220703125
+  - 0.0028852398972958326
+  - 357.4410095214844

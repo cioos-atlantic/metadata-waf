@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>47bbd4a5-ab1e-41b6-9081-72e2e1019088</gco:CharacterString>
+        <gco:CharacterString>8f5f1800-ed3a-46ba-a201-1dede1e10eb3</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -757,226 +757,10 @@
       </cit:party>
     </cit:CI_Responsibility>
   </mdb:contact>
-  <mdb:contact>
-    <cit:CI_Responsibility>
-      <cit:role>
-        <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="funder"/>
-      </cit:role>
-      <cit:party>
-        <cit:CI_Organisation>
-          <cit:name>
-            <gco:CharacterString>Ocean Tracking Network</gco:CharacterString>
-          </cit:name>
-          <cit:contactInfo>
-            <cit:CI_Contact>
-              <cit:phone>
-                <cit:CI_Telephone>
-                  <cit:number>
-                    <gco:CharacterString></gco:CharacterString>
-                  </cit:number>
-                </cit:CI_Telephone>
-              </cit:phone>
-              <cit:address>
-                <cit:CI_Address>
-                  <cit:deliveryPoint>
-                    <gco:CharacterString>6375 Edzell Castle Cir</gco:CharacterString>
-                  </cit:deliveryPoint>
-                  <cit:city>
-                    <gco:CharacterString></gco:CharacterString>
-                  </cit:city>
-                  <cit:country>
-                    <gco:CharacterString>Canada</gco:CharacterString>
-                  </cit:country>
-                  <cit:electronicMailAddress>
-                    <gco:CharacterString>otndc@dal.ca</gco:CharacterString>
-                  </cit:electronicMailAddress>
-                </cit:CI_Address>
-              </cit:address>
-              <cit:onlineResource>
-                <cit:CI_OnlineResource>
-                  <cit:linkage>
-                    <gco:CharacterString>https://oceantrackingnetwork.org/</gco:CharacterString>
-                  </cit:linkage>
-                  <cit:protocol>
-                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
-                  </cit:protocol>
-                  <cit:function>
-                    <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-                  </cit:function>
-                </cit:CI_OnlineResource>
-              </cit:onlineResource>
-            </cit:CI_Contact>
-          </cit:contactInfo>
-        </cit:CI_Organisation>
-      </cit:party>
-    </cit:CI_Responsibility>
-  </mdb:contact>
-  <mdb:contact>
-    <cit:CI_Responsibility>
-      <cit:role>
-        <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="funder"/>
-      </cit:role>
-      <cit:party>
-        <cit:CI_Organisation>
-          <cit:name>
-            <gco:CharacterString>Ocean Tracking Network</gco:CharacterString>
-          </cit:name>
-          <cit:contactInfo>
-            <cit:CI_Contact>
-              <cit:phone>
-                <cit:CI_Telephone>
-                  <cit:number>
-                    <gco:CharacterString></gco:CharacterString>
-                  </cit:number>
-                </cit:CI_Telephone>
-              </cit:phone>
-              <cit:address>
-                <cit:CI_Address>
-                  <cit:deliveryPoint>
-                    <gco:CharacterString>6375 Edzell Castle Cir</gco:CharacterString>
-                  </cit:deliveryPoint>
-                  <cit:city>
-                    <gco:CharacterString></gco:CharacterString>
-                  </cit:city>
-                  <cit:country>
-                    <gco:CharacterString>Canada</gco:CharacterString>
-                  </cit:country>
-                  <cit:electronicMailAddress>
-                    <gco:CharacterString>otndc@dal.ca</gco:CharacterString>
-                  </cit:electronicMailAddress>
-                </cit:CI_Address>
-              </cit:address>
-              <cit:onlineResource>
-                <cit:CI_OnlineResource>
-                  <cit:linkage>
-                    <gco:CharacterString>https://oceantrackingnetwork.org/</gco:CharacterString>
-                  </cit:linkage>
-                  <cit:protocol>
-                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
-                  </cit:protocol>
-                  <cit:function>
-                    <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-                  </cit:function>
-                </cit:CI_OnlineResource>
-              </cit:onlineResource>
-            </cit:CI_Contact>
-          </cit:contactInfo>
-        </cit:CI_Organisation>
-      </cit:party>
-    </cit:CI_Responsibility>
-  </mdb:contact>
-  <mdb:contact>
-    <cit:CI_Responsibility>
-      <cit:role>
-        <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="funder"/>
-      </cit:role>
-      <cit:party>
-        <cit:CI_Organisation>
-          <cit:name>
-            <gco:CharacterString>Ocean Tracking Network</gco:CharacterString>
-          </cit:name>
-          <cit:contactInfo>
-            <cit:CI_Contact>
-              <cit:phone>
-                <cit:CI_Telephone>
-                  <cit:number>
-                    <gco:CharacterString></gco:CharacterString>
-                  </cit:number>
-                </cit:CI_Telephone>
-              </cit:phone>
-              <cit:address>
-                <cit:CI_Address>
-                  <cit:deliveryPoint>
-                    <gco:CharacterString>6375 Edzell Castle Cir</gco:CharacterString>
-                  </cit:deliveryPoint>
-                  <cit:city>
-                    <gco:CharacterString></gco:CharacterString>
-                  </cit:city>
-                  <cit:country>
-                    <gco:CharacterString>Canada</gco:CharacterString>
-                  </cit:country>
-                  <cit:electronicMailAddress>
-                    <gco:CharacterString>otndc@dal.ca</gco:CharacterString>
-                  </cit:electronicMailAddress>
-                </cit:CI_Address>
-              </cit:address>
-              <cit:onlineResource>
-                <cit:CI_OnlineResource>
-                  <cit:linkage>
-                    <gco:CharacterString>https://oceantrackingnetwork.org/</gco:CharacterString>
-                  </cit:linkage>
-                  <cit:protocol>
-                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
-                  </cit:protocol>
-                  <cit:function>
-                    <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-                  </cit:function>
-                </cit:CI_OnlineResource>
-              </cit:onlineResource>
-            </cit:CI_Contact>
-          </cit:contactInfo>
-        </cit:CI_Organisation>
-      </cit:party>
-    </cit:CI_Responsibility>
-  </mdb:contact>
-  <mdb:contact>
-    <cit:CI_Responsibility>
-      <cit:role>
-        <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="funder"/>
-      </cit:role>
-      <cit:party>
-        <cit:CI_Organisation>
-          <cit:name>
-            <gco:CharacterString>Ocean Tracking Network</gco:CharacterString>
-          </cit:name>
-          <cit:contactInfo>
-            <cit:CI_Contact>
-              <cit:phone>
-                <cit:CI_Telephone>
-                  <cit:number>
-                    <gco:CharacterString></gco:CharacterString>
-                  </cit:number>
-                </cit:CI_Telephone>
-              </cit:phone>
-              <cit:address>
-                <cit:CI_Address>
-                  <cit:deliveryPoint>
-                    <gco:CharacterString>6375 Edzell Castle Cir</gco:CharacterString>
-                  </cit:deliveryPoint>
-                  <cit:city>
-                    <gco:CharacterString></gco:CharacterString>
-                  </cit:city>
-                  <cit:country>
-                    <gco:CharacterString>Canada</gco:CharacterString>
-                  </cit:country>
-                  <cit:electronicMailAddress>
-                    <gco:CharacterString>otndc@dal.ca</gco:CharacterString>
-                  </cit:electronicMailAddress>
-                </cit:CI_Address>
-              </cit:address>
-              <cit:onlineResource>
-                <cit:CI_OnlineResource>
-                  <cit:linkage>
-                    <gco:CharacterString>https://oceantrackingnetwork.org/</gco:CharacterString>
-                  </cit:linkage>
-                  <cit:protocol>
-                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
-                  </cit:protocol>
-                  <cit:function>
-                    <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-                  </cit:function>
-                </cit:CI_OnlineResource>
-              </cit:onlineResource>
-            </cit:CI_Contact>
-          </cit:contactInfo>
-        </cit:CI_Organisation>
-      </cit:party>
-    </cit:CI_Responsibility>
-  </mdb:contact>
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2025-12-04T16:46:18Z</gco:DateTime>
+        <gco:DateTime>2025-10-10T19:32:53Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -986,7 +770,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2025-12-04T16:46:18Z</gco:DateTime>
+        <gco:DateTime>2025-10-10T19:32:53Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -1071,10 +855,10 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>Laurentian Channel real time whale monitoring for dynamic shipping management in Gulf of St. Lawrence 2025-05-22</gco:CharacterString>
+            <gco:CharacterString>HFX in Northwest Atlantic Ocean 2025-04-03</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Surveillance des baleines en temps réel dans le chenal Laurentien pour une gestion dynamique de la navigation dans le golfe du Saint-Laurent 2025-05-22</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">HFX dans l&#39;océan Atlantique Nord-Ouest 2025-04-03</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -1096,27 +880,7 @@
               <cit:party>
                 <cit:CI_Individual>
                   <cit:name>
-                    <gco:CharacterString>Whoriskey, Fred</gco:CharacterString>
-                  </cit:name>
-                  <cit:contactInfo>
-                    <cit:CI_Contact></cit:CI_Contact>
-                  </cit:contactInfo>
-                  <cit:positionName>
-                    <gco:CharacterString></gco:CharacterString>
-                  </cit:positionName>
-                </cit:CI_Individual>
-              </cit:party>
-            </cit:CI_Responsibility>
-          </cit:citedResponsibleParty>
-          <cit:citedResponsibleParty>
-            <cit:CI_Responsibility>
-              <cit:role>
-                <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="principalInvestigator"/>
-              </cit:role>
-              <cit:party>
-                <cit:CI_Individual>
-                  <cit:name>
-                    <gco:CharacterString>Davies, Kim</gco:CharacterString>
+                    <gco:CharacterString>Lennox, Robert</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact></cit:CI_Contact>
@@ -1838,223 +1602,7 @@
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>Ocean Tracking Network</gco:CharacterString>
-                  </cit:name>
-                  <cit:contactInfo>
-                    <cit:CI_Contact>
-                      <cit:phone>
-                        <cit:CI_Telephone>
-                          <cit:number>
-                            <gco:CharacterString></gco:CharacterString>
-                          </cit:number>
-                        </cit:CI_Telephone>
-                      </cit:phone>
-                      <cit:address>
-                        <cit:CI_Address>
-                          <cit:deliveryPoint>
-                            <gco:CharacterString>6375 Edzell Castle Cir</gco:CharacterString>
-                          </cit:deliveryPoint>
-                          <cit:city>
-                            <gco:CharacterString></gco:CharacterString>
-                          </cit:city>
-                          <cit:country>
-                            <gco:CharacterString>Canada</gco:CharacterString>
-                          </cit:country>
-                          <cit:electronicMailAddress>
-                            <gco:CharacterString>otndc@dal.ca</gco:CharacterString>
-                          </cit:electronicMailAddress>
-                        </cit:CI_Address>
-                      </cit:address>
-                      <cit:onlineResource>
-                        <cit:CI_OnlineResource>
-                          <cit:linkage>
-                            <gco:CharacterString>https://oceantrackingnetwork.org/</gco:CharacterString>
-                          </cit:linkage>
-                          <cit:protocol>
-                            <gco:CharacterString>WWW:LINK</gco:CharacterString>
-                          </cit:protocol>
-                          <cit:function>
-                            <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-                          </cit:function>
-                        </cit:CI_OnlineResource>
-                      </cit:onlineResource>
-                    </cit:CI_Contact>
-                  </cit:contactInfo>
-                </cit:CI_Organisation>
-              </cit:party>
-            </cit:CI_Responsibility>
-          </cit:citedResponsibleParty>
-          <cit:citedResponsibleParty>
-            <cit:CI_Responsibility>
-              <cit:role>
-                <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="funder"/>
-              </cit:role>
-              <cit:party>
-                <cit:CI_Organisation>
-                  <cit:name>
-                    <gco:CharacterString>Ocean Tracking Network</gco:CharacterString>
-                  </cit:name>
-                  <cit:contactInfo>
-                    <cit:CI_Contact>
-                      <cit:phone>
-                        <cit:CI_Telephone>
-                          <cit:number>
-                            <gco:CharacterString></gco:CharacterString>
-                          </cit:number>
-                        </cit:CI_Telephone>
-                      </cit:phone>
-                      <cit:address>
-                        <cit:CI_Address>
-                          <cit:deliveryPoint>
-                            <gco:CharacterString>6375 Edzell Castle Cir</gco:CharacterString>
-                          </cit:deliveryPoint>
-                          <cit:city>
-                            <gco:CharacterString></gco:CharacterString>
-                          </cit:city>
-                          <cit:country>
-                            <gco:CharacterString>Canada</gco:CharacterString>
-                          </cit:country>
-                          <cit:electronicMailAddress>
-                            <gco:CharacterString>otndc@dal.ca</gco:CharacterString>
-                          </cit:electronicMailAddress>
-                        </cit:CI_Address>
-                      </cit:address>
-                      <cit:onlineResource>
-                        <cit:CI_OnlineResource>
-                          <cit:linkage>
-                            <gco:CharacterString>https://oceantrackingnetwork.org/</gco:CharacterString>
-                          </cit:linkage>
-                          <cit:protocol>
-                            <gco:CharacterString>WWW:LINK</gco:CharacterString>
-                          </cit:protocol>
-                          <cit:function>
-                            <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-                          </cit:function>
-                        </cit:CI_OnlineResource>
-                      </cit:onlineResource>
-                    </cit:CI_Contact>
-                  </cit:contactInfo>
-                </cit:CI_Organisation>
-              </cit:party>
-            </cit:CI_Responsibility>
-          </cit:citedResponsibleParty>
-          <cit:citedResponsibleParty>
-            <cit:CI_Responsibility>
-              <cit:role>
-                <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="funder"/>
-              </cit:role>
-              <cit:party>
-                <cit:CI_Organisation>
-                  <cit:name>
-                    <gco:CharacterString>Ocean Tracking Network</gco:CharacterString>
-                  </cit:name>
-                  <cit:contactInfo>
-                    <cit:CI_Contact>
-                      <cit:phone>
-                        <cit:CI_Telephone>
-                          <cit:number>
-                            <gco:CharacterString></gco:CharacterString>
-                          </cit:number>
-                        </cit:CI_Telephone>
-                      </cit:phone>
-                      <cit:address>
-                        <cit:CI_Address>
-                          <cit:deliveryPoint>
-                            <gco:CharacterString>6375 Edzell Castle Cir</gco:CharacterString>
-                          </cit:deliveryPoint>
-                          <cit:city>
-                            <gco:CharacterString></gco:CharacterString>
-                          </cit:city>
-                          <cit:country>
-                            <gco:CharacterString>Canada</gco:CharacterString>
-                          </cit:country>
-                          <cit:electronicMailAddress>
-                            <gco:CharacterString>otndc@dal.ca</gco:CharacterString>
-                          </cit:electronicMailAddress>
-                        </cit:CI_Address>
-                      </cit:address>
-                      <cit:onlineResource>
-                        <cit:CI_OnlineResource>
-                          <cit:linkage>
-                            <gco:CharacterString>https://oceantrackingnetwork.org/</gco:CharacterString>
-                          </cit:linkage>
-                          <cit:protocol>
-                            <gco:CharacterString>WWW:LINK</gco:CharacterString>
-                          </cit:protocol>
-                          <cit:function>
-                            <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-                          </cit:function>
-                        </cit:CI_OnlineResource>
-                      </cit:onlineResource>
-                    </cit:CI_Contact>
-                  </cit:contactInfo>
-                </cit:CI_Organisation>
-              </cit:party>
-            </cit:CI_Responsibility>
-          </cit:citedResponsibleParty>
-          <cit:citedResponsibleParty>
-            <cit:CI_Responsibility>
-              <cit:role>
-                <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="funder"/>
-              </cit:role>
-              <cit:party>
-                <cit:CI_Organisation>
-                  <cit:name>
-                    <gco:CharacterString>Ocean Tracking Network</gco:CharacterString>
-                  </cit:name>
-                  <cit:contactInfo>
-                    <cit:CI_Contact>
-                      <cit:phone>
-                        <cit:CI_Telephone>
-                          <cit:number>
-                            <gco:CharacterString></gco:CharacterString>
-                          </cit:number>
-                        </cit:CI_Telephone>
-                      </cit:phone>
-                      <cit:address>
-                        <cit:CI_Address>
-                          <cit:deliveryPoint>
-                            <gco:CharacterString>6375 Edzell Castle Cir</gco:CharacterString>
-                          </cit:deliveryPoint>
-                          <cit:city>
-                            <gco:CharacterString></gco:CharacterString>
-                          </cit:city>
-                          <cit:country>
-                            <gco:CharacterString>Canada</gco:CharacterString>
-                          </cit:country>
-                          <cit:electronicMailAddress>
-                            <gco:CharacterString>otndc@dal.ca</gco:CharacterString>
-                          </cit:electronicMailAddress>
-                        </cit:CI_Address>
-                      </cit:address>
-                      <cit:onlineResource>
-                        <cit:CI_OnlineResource>
-                          <cit:linkage>
-                            <gco:CharacterString>https://oceantrackingnetwork.org/</gco:CharacterString>
-                          </cit:linkage>
-                          <cit:protocol>
-                            <gco:CharacterString>WWW:LINK</gco:CharacterString>
-                          </cit:protocol>
-                          <cit:function>
-                            <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
-                          </cit:function>
-                        </cit:CI_OnlineResource>
-                      </cit:onlineResource>
-                    </cit:CI_Contact>
-                  </cit:contactInfo>
-                </cit:CI_Organisation>
-              </cit:party>
-            </cit:CI_Responsibility>
-          </cit:citedResponsibleParty>
-          <cit:citedResponsibleParty>
-            <cit:CI_Responsibility>
-              <cit:role>
-                <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="funder"/>
-              </cit:role>
-              <cit:party>
-                <cit:CI_Organisation>
-                  <cit:name>
-                    <gco:CharacterString> Transport Canada&#39;s Innovation Centre</gco:CharacterString>
+                    <gco:CharacterString> Ocean tracking Network</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
@@ -2124,16 +1672,16 @@
                 <gco:Boolean>true</gco:Boolean>
               </gex:extentTypeCode>
               <gex:westBoundLongitude>
-                <gco:Decimal>-62.958263</gco:Decimal>
+                <gco:Decimal>-63.371383</gco:Decimal>
               </gex:westBoundLongitude>
               <gex:eastBoundLongitude>
-                <gco:Decimal>-64.30066788282208</gco:Decimal>
+                <gco:Decimal>-63.379003</gco:Decimal>
               </gex:eastBoundLongitude>
               <gex:southBoundLatitude>
-                <gco:Decimal>49.326665</gco:Decimal>
+                <gco:Decimal>44.514073</gco:Decimal>
               </gex:southBoundLatitude>
               <gex:northBoundLatitude>
-                <gco:Decimal>48.899142</gco:Decimal>
+                <gco:Decimal>44.504765</gco:Decimal>
               </gex:northBoundLatitude>
             </gex:EX_GeographicBoundingBox>
           </gex:geographicElement>
@@ -2144,10 +1692,10 @@
           <gex:verticalElement>
             <gex:EX_VerticalExtent>
               <gex:minimumValue>
-                <gco:Real>1.036799972590173e-13</gco:Real>
+                <gco:Real>0.0056077102199196815</gco:Real>
               </gex:minimumValue>
               <gex:maximumValue>
-                <gco:Real>357.20001220703125</gco:Real>
+                <gco:Real>50.34510040283203</gco:Real>
               </gex:maximumValue>
               <gex:verticalCRSId>
                 <mrs:MD_ReferenceSystem>
@@ -2183,8 +1731,8 @@
             <gex:EX_TemporalExtent>
               <gex:extent>
                 <gml:TimePeriod gml:id="time_period">
-                  <gml:beginPosition>2025-05-22T17:30:00.000Z</gml:beginPosition>
-                  <gml:endPosition>2025-11-26T12:00:00.000Z</gml:endPosition>
+                  <gml:beginPosition>2025-04-03T13:26:00.000Z</gml:beginPosition>
+                  <gml:endPosition>2025-04-03T16:35:00.000Z</gml:endPosition>
                 </gml:TimePeriod>
               </gex:extent>
             </gex:EX_TemporalExtent>
@@ -2377,7 +1925,7 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://erddap.oceantrack.org/erddap/tabledap/fundy_20250522_207_delayed.html</gco:CharacterString>
+                <gco:CharacterString>https://erddap.oceantrack.org/erddap/tabledap/sambro_20250403_205_delayed_test.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -2427,7 +1975,7 @@
                 </cit:CI_Citation>
               </mcc:authority>
               <mcc:code>
-                <gco:CharacterString>fundy</gco:CharacterString>
+                <gco:CharacterString>sambro</gco:CharacterString>
               </mcc:code>
             </mcc:MD_Identifier>
           </mac:identifier>
@@ -2441,68 +1989,31 @@
                   <mcc:authority>
                     <cit:CI_Citation>
                       <cit:title>
-                        <gco:CharacterString>Teledyne Webb Research</gco:CharacterString>
+                        <gco:CharacterString>Sea-Bird Scientific</gco:CharacterString>
                       </cit:title>
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>bpump_0416</gco:CharacterString>
+                    <gco:CharacterString>CTD_9405</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
                     <gco:CharacterString>1.2</gco:CharacterString>
                   </mcc:version>
                   <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>Slocum Glider G3 350 m oil pump</gco:CharacterString>
+                    <gco:CharacterString>Sea-Bird Slocum Glider Payload {GPCTD} CTD</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">Pompe à huile Slocum Glider G3 350 m</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
                 </mcc:MD_Identifier>
               </mac:identifier>
               <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>Slocum Glider G3 350 m oil pump</gco:CharacterString>
+                <gco:CharacterString>Sea-Bird Slocum Glider Payload {GPCTD} CTD</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Pompe à huile Slocum Glider G3 350 m</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </mac:type>
-            </mac:MI_Instrument>
-          </mac:instrument>
-          <mac:instrument>
-            <mac:MI_Instrument>
-              <mac:identifier>
-                <mcc:MD_Identifier>
-                  <mcc:authority>
-                    <cit:CI_Citation>
-                      <cit:title>
-                        <gco:CharacterString>InnovaSea Systems Inc.</gco:CharacterString>
-                      </cit:title>
-                    </cit:CI_Citation>
-                  </mcc:authority>
-                  <mcc:code>
-                    <gco:CharacterString>hydrophones_1282450</gco:CharacterString>
-                  </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>1.2</gco:CharacterString>
-                  </mcc:version>
-                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>Vemco Mobile Transceiver</gco:CharacterString>
-                    <lan:PT_FreeText>
-                      <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">Émetteur-récepteur mobile Vemco</lan:LocalisedCharacterString>
-                      </lan:textGroup>
-                    </lan:PT_FreeText>
-                  </mcc:description>
-                </mcc:MD_Identifier>
-              </mac:identifier>
-              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>Vemco Mobile Transceiver</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Émetteur-récepteur mobile Vemco</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
@@ -2520,7 +2031,44 @@
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>thruster_058</gco:CharacterString>
+                    <gco:CharacterString>bpump_0111</gco:CharacterString>
+                  </mcc:code>
+                  <mcc:version>
+                    <gco:CharacterString>1.2</gco:CharacterString>
+                  </mcc:version>
+                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>Slocum Glider G2 200 m piston pump</gco:CharacterString>
+                    <lan:PT_FreeText>
+                      <lan:textGroup>
+                        <lan:LocalisedCharacterString locale="#fr">Pompe à piston Slocum Glider G2 200 m</lan:LocalisedCharacterString>
+                      </lan:textGroup>
+                    </lan:PT_FreeText>
+                  </mcc:description>
+                </mcc:MD_Identifier>
+              </mac:identifier>
+              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Slocum Glider G2 200 m piston pump</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup>
+                    <lan:LocalisedCharacterString locale="#fr">Pompe à piston Slocum Glider G2 200 m</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </mac:type>
+            </mac:MI_Instrument>
+          </mac:instrument>
+          <mac:instrument>
+            <mac:MI_Instrument>
+              <mac:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      <cit:title>
+                        <gco:CharacterString>Teledyne Webb Research</gco:CharacterString>
+                      </cit:title>
+                    </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>thruster_CE01</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
                     <gco:CharacterString>1.2</gco:CharacterString>
@@ -2540,82 +2088,6 @@
                 <lan:PT_FreeText>
                   <lan:textGroup>
                     <lan:LocalisedCharacterString locale="#fr">Propulseur hybride Slocum Glider</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </mac:type>
-            </mac:MI_Instrument>
-          </mac:instrument>
-          <mac:instrument>
-            <mac:MI_Instrument>
-              <mac:identifier>
-                <mcc:MD_Identifier>
-                  <mcc:authority>
-                    <cit:CI_Citation>
-                      <cit:title>
-                        <gco:CharacterString>RBR Ltd</gco:CharacterString>
-                      </cit:title>
-                    </cit:CI_Citation>
-                  </mcc:authority>
-                  <mcc:code>
-                    <gco:CharacterString>CTD_205221</gco:CharacterString>
-                  </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>1.2</gco:CharacterString>
-                  </mcc:version>
-                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>RBR Legato3 CTD</gco:CharacterString>
-                    <lan:PT_FreeText>
-                      <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">RBR Legato3 CTD</lan:LocalisedCharacterString>
-                      </lan:textGroup>
-                    </lan:PT_FreeText>
-                  </mcc:description>
-                </mcc:MD_Identifier>
-              </mac:identifier>
-              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>RBRlegato unpumped CTD</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">RBRlegato CTD non pompé</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </mac:type>
-            </mac:MI_Instrument>
-          </mac:instrument>
-          <mac:instrument>
-            <mac:MI_Instrument>
-              <mac:identifier>
-                <mcc:MD_Identifier>
-                  <mcc:authority>
-                    <cit:CI_Citation>
-                      <cit:title>
-                        <gco:CharacterString>Woods Hole Oceanographic Institution</gco:CharacterString>
-                      </cit:title>
-                    </cit:CI_Citation>
-                  </mcc:authority>
-                  <mcc:code>
-                    <gco:CharacterString>hydrophones_047</gco:CharacterString>
-                  </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>1.2</gco:CharacterString>
-                  </mcc:version>
-                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>digital acoustic monitoring instrument</gco:CharacterString>
-                    <lan:PT_FreeText>
-                      <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">instrument numérique de surveillance acoustique</lan:LocalisedCharacterString>
-                      </lan:textGroup>
-                    </lan:PT_FreeText>
-                  </mcc:description>
-                </mcc:MD_Identifier>
-              </mac:identifier>
-              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>DMON2- Payload Integrated System
-SO-A81</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">DMON2- Système intégré de charge utile
-SO-A81</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
