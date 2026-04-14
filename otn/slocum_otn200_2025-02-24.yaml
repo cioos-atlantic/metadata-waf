@@ -55,14 +55,14 @@ identification:
   keywords:
     eov:
       en:
-      - oxygen
       - subsurfaceSalinity
       - subsurfaceTemperature
+      - oxygen
       - other
       fr:
-      - oxygène
       - Salinité souterraine
       - Température du sous-sol
+      - oxygène
       - autre
   progress_code: completed
   status: published
@@ -75,7 +75,7 @@ metadata:
   dates:
     publication: '2025-06-23T17:56:53Z'
     revision: '2025-06-23T17:56:53Z'
-  identifier: 42b49a22-c839-41b8-b4e8-0980732051e5
+  identifier: 4b5b8557-af3d-4a08-9783-0d08f1d2d4bc
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
