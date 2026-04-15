@@ -23,17 +23,10 @@ contact:
   - pointOfContact
   - distributor
   - funder
-  - funder
-  - funder
-  - funder
-  - funder
-  - funder
-  - funder
-  - funder
 distribution:
 - description:
     en: High resolution ERDDAP datasets
-    fr: Ensembles de données ERDDAP haute résolution
+    fr: FRENCH
   url: https://erddap.oceantrack.org/erddap/tabledap/otn200_20250224_201_delayed.html
 identification:
   abstract:
@@ -43,15 +36,9 @@ identification:
       detailed information about the physical, chemical and biological processes of
       the world's oceans. The Slocum glider was designed and built by Teledyne Webb
       Research Corporation, Falmouth, MA, USA.
-    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
-      utilisent les changements de flottabilité pour se déplacer verticalement et
-      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
-      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
-      détaillées sur les processus physiques, chimiques et biologiques des océans
-      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
-      Corporation, Falmouth, MA, USA.
+    fr: FRENCH
   dates:
-    creation: '2026-04-14'
+    creation: '2026-04-15'
   keywords:
     eov:
       en:
@@ -60,22 +47,22 @@ identification:
       - oxygen
       - other
       fr:
-      - Salinité souterraine
-      - Température du sous-sol
-      - oxygène
-      - autre
+      - FRENCH
+      - FRENCH
+      - FRENCH
+      - FRENCH
   progress_code: completed
   status: published
   temporal_begin: '2025-02-24T16:00:00.000Z'
   temporal_end: '2025-04-15T16:30:00.000Z'
   title:
     en: SBloGS in Northwest Atlantic Ocean 2025-02-24
-    fr: SBloGS dans l'océan Atlantique Nord-Ouest 2025-02-24
+    fr: FRENCH
 metadata:
   dates:
     publication: '2025-06-23T17:56:53Z'
     revision: '2025-06-23T17:56:53Z'
-  identifier: 4b5b8557-af3d-4a08-9783-0d08f1d2d4bc
+  identifier: 3d1abdc4-a400-4439-a9c5-586dba7a7612
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -90,85 +77,84 @@ platform:
   instruments:
   - description:
       en: Slocum Glider Hybrid Thruster
-      fr: Propulseur hybride Slocum Glider
+      fr: FRENCH
     id: thruster_058
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider Hybrid Thruster
-      fr: Propulseur hybride Slocum Glider
+      fr: FRENCH
     version: '1.2'
   - description:
       en: Satlantic {Sea-Bird} OCR-504 multispectral radiometer
-      fr: Radiomètre multispectral Satlantic {Sea-Bird} OCR-504
+      fr: FRENCH
     id: radiometers_0167
     manufacturer: Satlantic Incorporated
     type:
       en: OCR 504 Multispectral Radiometer
-      fr: Radiomètre multispectral OCR 504
+      fr: FRENCH
     version: '1.2'
   - description:
       en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350 m
+      fr: FRENCH
     id: bpump_603
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350 m
+      fr: FRENCH
     version: '1.2'
   - description:
       en: Aanderaa 4831 oxygen optode
-      fr: Optode à oxygène Aanderaa 4831
+      fr: FRENCH
     id: dissolved gas sensors_948
     manufacturer: Aanderaa Data Instruments AS
     type:
       en: "Program Version V5.3.1\r\nAanderaa 4831\r\nFoil Batch no: 1824m"
-      fr: "Version du programme V5.3.1\r\nAanderaa 4831\r\nNuméro de lot de feuille\
-        \ : 1824m"
+      fr: FRENCH
     version: '1.2'
   - description:
       en: Vemco Mobile Transceiver
-      fr: Émetteur-récepteur mobile Vemco
+      fr: FRENCH
     id: hydrophones_1540747
     manufacturer: InnovaSea Systems Inc.
     type:
       en: Vemco Mobile Transceiver
-      fr: Émetteur-récepteur mobile Vemco
+      fr: FRENCH
     version: '1.2'
   - description:
       en: Satlantic Submersible Ultraviolet Nitrate Analyser (SUNA)
-      fr: Analyseur de nitrate ultraviolet submersible satlantique (SUNA)
+      fr: FRENCH
     id: nutrient analysers_0277
     manufacturer: Satlantic Incorporated
     type:
       en: Satlantic Submersible Ultraviolet Nitrate Analyser (SUNA)
-      fr: Analyseur de nitrate ultraviolet submersible satlantique (SUNA)
+      fr: FRENCH
     version: '1.2'
   - description:
       en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
-      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+      fr: FRENCH
     id: CTD_0031
     manufacturer: Sea-Bird Scientific
     type:
       en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
-      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+      fr: FRENCH
     version: '1.2'
   - description:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+      fr: FRENCH
     id: fluorometers_1057
     manufacturer: Sea-Bird Scientific
     type:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+      fr: FRENCH
     version: '1.2'
   - description:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+      fr: FRENCH
     id: fluorometers_1059
     manufacturer: Wet Labs
     type:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+      fr: FRENCH
     version: '1.2'
   type: glider
 spatial:

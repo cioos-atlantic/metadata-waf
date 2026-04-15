@@ -23,13 +23,10 @@ contact:
   - pointOfContact
   - distributor
   - funder
-  - funder
-  - funder
-  - funder
 distribution:
 - description:
     en: High resolution ERDDAP datasets
-    fr: Ensembles de données ERDDAP haute résolution
+    fr: FRENCH
   url: https://erddap.oceantrack.org/erddap/tabledap/polly_20250905_215_delayed.html
 identification:
   abstract:
@@ -39,15 +36,9 @@ identification:
       detailed information about the physical, chemical and biological processes of
       the world's oceans. The Slocum glider was designed and built by Teledyne Webb
       Research Corporation, Falmouth, MA, USA.
-    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
-      utilisent les changements de flottabilité pour se déplacer verticalement et
-      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
-      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
-      détaillées sur les processus physiques, chimiques et biologiques des océans
-      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
-      Corporation, Falmouth, MA, USA.
+    fr: FRENCH
   dates:
-    creation: '2026-04-14'
+    creation: '2026-04-15'
   keywords:
     eov:
       en:
@@ -55,22 +46,21 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - Salinité souterraine
-      - Température du sous-sol
-      - autre
+      - FRENCH
+      - FRENCH
+      - FRENCH
   progress_code: completed
   status: published
   temporal_begin: '2025-09-05T13:13:00.000Z'
   temporal_end: '2025-10-03T13:00:00.000Z'
   title:
     en: Halifax Line Monitoring in Northwest Atlantic Ocean 2025-09-05
-    fr: Surveillance de la ligne Halifax dans le nord-ouest de l'océan Atlantique
-      2025-09-05
+    fr: FRENCH
 metadata:
   dates:
     publication: '2025-10-24T19:24:56Z'
     revision: '2025-10-24T19:24:56Z'
-  identifier: 32e2fb52-35a8-4b89-9cd2-3cf98e39e1b5
+  identifier: ec8a33cf-a482-4119-bde5-61258f89a1fa
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -85,57 +75,57 @@ platform:
   instruments:
   - description:
       en: Slocum Glider G3 200 m piston pump
-      fr: Pompe à piston Slocum Glider G3 200 m
+      fr: FRENCH
     id: bpump_0111
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider G3 200 m piston pump
-      fr: Pompe à piston Slocum Glider G3 200 m
+      fr: FRENCH
     version: '1.2'
   - description:
       en: Rockland Scientific MicroRider-1000 turbulence microstructure profiler
-      fr: Profileur de microstructure de turbulence Rockland Scientific MicroRider-1000
+      fr: FRENCH
     id: MicroRider-1000_470
     manufacturer: Rockland Scientific
     type:
       en: Modular Turbulence Profiler
-      fr: Profileur de turbulence modulaire
+      fr: FRENCH
     version: '1.2'
   - description:
       en: Vemco Mobile Transceiver
-      fr: Émetteur-récepteur mobile Vemco
+      fr: FRENCH
     id: hydrophones_1360668
     manufacturer: InnovaSea Systems Inc.
     type:
       en: Vemco Mobile Transceiver
-      fr: Émetteur-récepteur mobile Vemco
+      fr: FRENCH
     version: '1.2'
   - description:
       en: RBR Legato3 CTD
-      fr: RBR Legato3 CTD
+      fr: FRENCH
     id: CTD_237044
     manufacturer: RBR Ltd
     type:
       en: RBRLegato unpumped CTD
-      fr: RBRLegato CTD non pompé
+      fr: FRENCH
     version: '1.2'
   - description:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+      fr: FRENCH
     id: fluorometers_6496
     manufacturer: Sea-Bird Scientific
     type:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+      fr: FRENCH
     version: '1.2'
   - description:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+      fr: FRENCH
     id: fluorometers_00017
     manufacturer: Sea-Bird Scientific
     type:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+      fr: FRENCH
     version: '1.2'
   type: glider
 spatial:

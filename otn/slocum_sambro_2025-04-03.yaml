@@ -23,8 +23,6 @@ contact:
   - pointOfContact
   - distributor
   - funder
-  - funder
-  - funder
 - inCitation: true
   organization:
     name: Ocean tracking Network
@@ -33,7 +31,7 @@ contact:
 distribution:
 - description:
     en: High resolution ERDDAP datasets
-    fr: Ensembles de données ERDDAP haute résolution
+    fr: FRENCH
   url: https://erddap.oceantrack.org/erddap/tabledap/sambro_20250403_205_delayed_test.html
 identification:
   abstract:
@@ -43,15 +41,9 @@ identification:
       detailed information about the physical, chemical and biological processes of
       the world's oceans. The Slocum glider was designed and built by Teledyne Webb
       Research Corporation, Falmouth, MA, USA.
-    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
-      utilisent les changements de flottabilité pour se déplacer verticalement et
-      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
-      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
-      détaillées sur les processus physiques, chimiques et biologiques des océans
-      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
-      Corporation, Falmouth, MA, USA.
+    fr: FRENCH
   dates:
-    creation: '2026-04-14'
+    creation: '2026-04-15'
   keywords:
     eov:
       en:
@@ -59,21 +51,21 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - Salinité souterraine
-      - Température du sous-sol
-      - autre
+      - FRENCH
+      - FRENCH
+      - FRENCH
   progress_code: completed
   status: published
   temporal_begin: '2025-04-03T13:26:00.000Z'
   temporal_end: '2025-04-03T16:35:00.000Z'
   title:
     en: HFX in Northwest Atlantic Ocean 2025-04-03
-    fr: HFX dans l'océan Atlantique Nord-Ouest 2025-04-03
+    fr: FRENCH
 metadata:
   dates:
     publication: '2025-10-10T19:32:53Z'
     revision: '2025-10-10T19:32:53Z'
-  identifier: 61dc9824-e056-4901-bb69-1f560f18de85
+  identifier: 744eb356-ff46-4653-b9d5-7d46c3f5e4cf
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -88,30 +80,30 @@ platform:
   instruments:
   - description:
       en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
-      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+      fr: FRENCH
     id: CTD_9405
     manufacturer: Sea-Bird Scientific
     type:
       en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
-      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+      fr: FRENCH
     version: '1.2'
   - description:
       en: Slocum Glider G2 200 m piston pump
-      fr: Pompe à piston Slocum Glider G2 200 m
+      fr: FRENCH
     id: bpump_0111
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider G2 200 m piston pump
-      fr: Pompe à piston Slocum Glider G2 200 m
+      fr: FRENCH
     version: '1.2'
   - description:
       en: Slocum Glider Hybrid Thruster
-      fr: Propulseur hybride Slocum Glider
+      fr: FRENCH
     id: thruster_CE01
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider Hybrid Thruster
-      fr: Propulseur hybride Slocum Glider
+      fr: FRENCH
     version: '1.2'
   type: glider
 spatial:
