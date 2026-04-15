@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>e3e4a355-685f-40c3-8325-f09f186ea620</gco:CharacterString>
+        <gco:CharacterString>bab341fa-3bb0-4133-b6a5-90af09020f24</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -750,7 +750,7 @@
             <gco:CharacterString>Laurentian Channel real time whale monitoring for dynamic shipping management in Gulf of St. Lawrence 2025-05-22</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Surveillance des baleines en temps réel dans le chenal Laurentien pour une gestion dynamique de la navigation dans le golfe du Saint-Laurent 2025-05-22</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -1455,7 +1455,7 @@
         <gco:CharacterString>Slocum gliders are small, free-swimming, unmanned vehicles that use changes in buoyancy to move vertically and horizontally through the water column in a saw-tooth pattern. They are deployed for days to several months and gather detailed information about the physical, chemical and biological processes of the world&#39;s oceans. The Slocum glider was designed and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui utilisent les changements de flottabilité pour se déplacer verticalement et horizontalement dans la colonne d&#39;eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations détaillées sur les processus physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA, USA.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
@@ -1594,21 +1594,21 @@
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Salinité souterraine</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Température du sous-sol</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">autre</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
@@ -1741,7 +1741,7 @@
                 <gco:CharacterString>High resolution ERDDAP datasets</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Ensembles de données ERDDAP haute résolution</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </cit:description>
@@ -1807,7 +1807,7 @@
                     <gco:CharacterString>Slocum Glider G3 350 m oil pump</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Pompe à huile Slocum Glider G3 350 m</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -1817,7 +1817,7 @@
                 <gco:CharacterString>Slocum Glider G3 350 m oil pump</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Pompe à huile Slocum Glider G3 350 m</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
@@ -1844,7 +1844,7 @@
                     <gco:CharacterString>Slocum Glider Hybrid Thruster</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Propulseur hybride Slocum Glider</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -1854,7 +1854,7 @@
                 <gco:CharacterString>Slocum Glider Hybrid Thruster</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Propulseur hybride Slocum Glider</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
@@ -1881,7 +1881,7 @@
                     <gco:CharacterString>Vemco Mobile Transceiver</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Émetteur-récepteur mobile Vemco</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -1891,7 +1891,7 @@
                 <gco:CharacterString>Vemco Mobile Transceiver</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Émetteur-récepteur mobile Vemco</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
@@ -1918,7 +1918,7 @@
                     <gco:CharacterString>digital acoustic monitoring instrument</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">instrument numérique de surveillance acoustique</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -1932,7 +1932,11 @@ Hydophone head P/N 212013
  SN 028</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">DMON2- Système intégré de charge utile
+SO-A81
+
+Tête d&#39;hydrophone P/N 212013
+ SN 028</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
@@ -1959,7 +1963,7 @@ Hydophone head P/N 212013
                     <gco:CharacterString>RBR Legato3 CTD</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">RBR Legato3 CTD</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -1970,7 +1974,8 @@ Hydophone head P/N 212013
 RBRlegato unpumped CTD</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Legato 1000m
+RBRlegato CTD non pompé</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>

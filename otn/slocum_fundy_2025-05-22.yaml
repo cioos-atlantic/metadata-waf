@@ -36,7 +36,7 @@ contact:
 distribution:
 - description:
     en: High resolution ERDDAP datasets
-    fr: FRENCH
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://erddap.oceantrack.org/erddap/tabledap/fundy_20250522_207_delayed.html
 identification:
   abstract:
@@ -46,7 +46,13 @@ identification:
       detailed information about the physical, chemical and biological processes of
       the world's oceans. The Slocum glider was designed and built by Teledyne Webb
       Research Corporation, Falmouth, MA, USA.
-    fr: FRENCH
+    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
+      utilisent les changements de flottabilité pour se déplacer verticalement et
+      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
+      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
+      détaillées sur les processus physiques, chimiques et biologiques des océans
+      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
+      Corporation, Falmouth, MA, USA.
   dates:
     creation: '2026-04-15'
   keywords:
@@ -56,9 +62,9 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - FRENCH
-      - FRENCH
-      - FRENCH
+      - Salinité souterraine
+      - Température du sous-sol
+      - autre
   progress_code: completed
   status: published
   temporal_begin: '2025-05-22T17:30:00.000Z'
@@ -66,12 +72,13 @@ identification:
   title:
     en: Laurentian Channel real time whale monitoring for dynamic shipping management
       in Gulf of St. Lawrence 2025-05-22
-    fr: FRENCH
+    fr: Surveillance des baleines en temps réel dans le chenal Laurentien pour une
+      gestion dynamique de la navigation dans le golfe du Saint-Laurent 2025-05-22
 metadata:
   dates:
     publication: '2025-12-04T16:46:18Z'
     revision: '2025-12-04T16:46:18Z'
-  identifier: 5dd1cbb9-42e1-4766-a53c-c0a2692cbdc0
+  identifier: ed3af8a1-c70a-410f-b767-22a038024209
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -86,48 +93,48 @@ platform:
   instruments:
   - description:
       en: Slocum Glider G3 350 m oil pump
-      fr: FRENCH
+      fr: Pompe à huile Slocum Glider G3 350 m
     id: bpump_0416
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider G3 350 m oil pump
-      fr: FRENCH
+      fr: Pompe à huile Slocum Glider G3 350 m
     version: '1.2'
   - description:
       en: Vemco Mobile Transceiver
-      fr: FRENCH
+      fr: Émetteur-récepteur mobile Vemco
     id: hydrophones_1282450
     manufacturer: InnovaSea Systems Inc.
     type:
       en: Vemco Mobile Transceiver
-      fr: FRENCH
+      fr: Émetteur-récepteur mobile Vemco
     version: '1.2'
   - description:
       en: Slocum Glider Hybrid Thruster
-      fr: FRENCH
+      fr: Propulseur hybride Slocum Glider
     id: thruster_058
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider Hybrid Thruster
-      fr: FRENCH
+      fr: Propulseur hybride Slocum Glider
     version: '1.2'
   - description:
       en: RBR Legato3 CTD
-      fr: FRENCH
+      fr: RBR Legato3 CTD
     id: CTD_205221
     manufacturer: RBR Ltd
     type:
       en: RBRlegato unpumped CTD
-      fr: FRENCH
+      fr: RBRlegato CTD non pompé
     version: '1.2'
   - description:
       en: digital acoustic monitoring instrument
-      fr: FRENCH
+      fr: instrument numérique de surveillance acoustique
     id: hydrophones_047
     manufacturer: Woods Hole Oceanographic Institution
     type:
       en: "DMON2- Payload Integrated System\r\nSO-A81"
-      fr: FRENCH
+      fr: "DMON2- Système intégré de charge utile\r\nSO-A81"
     version: '1.2'
   type: glider
 spatial:

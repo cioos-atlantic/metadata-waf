@@ -26,7 +26,7 @@ contact:
 distribution:
 - description:
     en: High resolution ERDDAP datasets
-    fr: FRENCH
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://erddap.oceantrack.org/erddap/tabledap/cabot_20250723_213_delayed.html
 identification:
   abstract:
@@ -36,7 +36,13 @@ identification:
       detailed information about the physical, chemical and biological processes of
       the world's oceans. The Slocum glider was designed and built by Teledyne Webb
       Research Corporation, Falmouth, MA, USA.
-    fr: FRENCH
+    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
+      utilisent les changements de flottabilité pour se déplacer verticalement et
+      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
+      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
+      détaillées sur les processus physiques, chimiques et biologiques des océans
+      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
+      Corporation, Falmouth, MA, USA.
   dates:
     creation: '2026-04-15'
   keywords:
@@ -46,21 +52,21 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - FRENCH
-      - FRENCH
-      - FRENCH
+      - Salinité souterraine
+      - Température du sous-sol
+      - autre
   progress_code: completed
   status: published
   temporal_begin: '2025-07-23T14:37:00.000Z'
   temporal_end: '2025-07-29T14:18:00.000Z'
   title:
     en: Davies GOSL Research Cruise in Gulf of St. Lawrence 2025-07-23
-    fr: FRENCH
+    fr: Croisière de recherche Davies GOSL dans le golfe du Saint-Laurent 2025-07-23
 metadata:
   dates:
     publication: '2025-08-18T18:05:35Z'
     revision: '2025-08-18T18:05:35Z'
-  identifier: 387616e4-8711-4ae2-9a1e-eb79a1f98838
+  identifier: 7a017ef2-9f81-4412-b10b-71e25cff69fa
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -75,66 +81,66 @@ platform:
   instruments:
   - description:
       en: Slocum Glider G3 200 m piston pump
-      fr: FRENCH
+      fr: Pompe à piston Slocum Glider G3 200 m
     id: bpump_0108
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider G3 200 m piston pump
-      fr: FRENCH
+      fr: Pompe à piston Slocum Glider G3 200 m
     version: '1.2'
   - description:
       en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
-      fr: FRENCH
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
     id: CTD_9411
     manufacturer: Sea-Bird Scientific
     type:
       en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
-      fr: FRENCH
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
     version: '1.2'
   - description:
       en: Slocum Glider Hybrid Thruster
-      fr: FRENCH
+      fr: Propulseur hybride Slocum Glider
     id: thruster_0298
     manufacturer: Teledyne Webb Research
     type:
       en: Assey 302409 rev c
-      fr: FRENCH
+      fr: Assey 302409 rév. c
     version: '1.2'
   - description:
       en: ASL AZFP Acoustic Zooplankton Fish Profiler
-      fr: FRENCH
+      fr: Profileur acoustique de poissons de zooplancton ASL AZFP
     id: acoustic backscatter sensors_59016
     manufacturer: ASL Environmental Sciences
     type:
       en: ASL AZFP Acoustic Zooplankton Fish Profiler
-      fr: FRENCH
+      fr: Profileur acoustique de poissons de zooplancton ASL AZFP
     version: '1.2'
   - description:
       en: Vemco Mobile Transceiver
-      fr: FRENCH
+      fr: Émetteur-récepteur mobile Vemco
     id: hydrophones_1360674
     manufacturer: InnovaSea Systems Inc.
     type:
       en: Vemco Mobile Transceiver
-      fr: FRENCH
+      fr: Émetteur-récepteur mobile Vemco
     version: '1.2'
   - description:
       en: Williamson Shadowgraph Camera
-      fr: FRENCH
+      fr: Caméra Williamson Shadowgraph
     id: cameras_012
     manufacturer: Williamson & Associates
     type:
       en: Williamson Shadowgraph Camera
-      fr: FRENCH
+      fr: Caméra Williamson Shadowgraph
     version: '1.2'
   - description:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: FRENCH
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
     id: fluorometers_3114
     manufacturer: Sea-Bird Scientific
     type:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: FRENCH
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
     version: '1.2'
   type: glider
 spatial:

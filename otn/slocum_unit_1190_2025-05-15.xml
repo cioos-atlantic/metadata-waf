@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>3602e7dd-3d1c-4fad-ae7a-e19ea52b8c41</gco:CharacterString>
+        <gco:CharacterString>7b9c2b45-5a9d-4d14-b379-1ec725d96398</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -750,7 +750,7 @@
             <gco:CharacterString>Collaborative Operations with Jasco Applied Sciences in Northwest Atlantic Ocean 2025-05-15</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Opérations collaboratives avec Jasco Applied Sciences dans l&#39;océan Atlantique Nord-Ouest 2025-05-15</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -1435,7 +1435,7 @@
         <gco:CharacterString>Slocum gliders are small, free-swimming, unmanned vehicles that use changes in buoyancy to move vertically and horizontally through the water column in a saw-tooth pattern. They are deployed for days to several months and gather detailed information about the physical, chemical and biological processes of the world&#39;s oceans. The Slocum glider was designed and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui utilisent les changements de flottabilité pour se déplacer verticalement et horizontalement dans la colonne d&#39;eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations détaillées sur les processus physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA, USA.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
@@ -1574,21 +1574,21 @@
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Salinité souterraine</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Température du sous-sol</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">autre</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
@@ -1721,7 +1721,7 @@
                 <gco:CharacterString>High resolution ERDDAP datasets</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Ensembles de données ERDDAP haute résolution</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </cit:description>
@@ -1787,7 +1787,7 @@
                     <gco:CharacterString>Sea-Bird Slocum Glider Payload {GPCTD} CTD</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -1797,7 +1797,7 @@
                 <gco:CharacterString>Sea-Bird Slocum Glider Payload {GPCTD} CTD</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
@@ -1824,7 +1824,7 @@
                     <gco:CharacterString>Slocum Glider Hybrid Thruster</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Propulseur hybride Slocum Glider</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -1834,7 +1834,7 @@
                 <gco:CharacterString>Slocum Glider Hybrid Thruster</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Propulseur hybride Slocum Glider</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
@@ -1861,7 +1861,7 @@
                     <gco:CharacterString>Slocum Glider G3 1000 m oil pump</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Pompe à huile Slocum Glider G3 1000 m</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
@@ -1871,7 +1871,7 @@
                 <gco:CharacterString>G3 HD pump</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">FRENCH</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Pompe G3 HD</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>

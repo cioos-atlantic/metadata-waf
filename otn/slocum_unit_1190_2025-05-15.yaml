@@ -31,7 +31,7 @@ contact:
 distribution:
 - description:
     en: High resolution ERDDAP datasets
-    fr: FRENCH
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://erddap.oceantrack.org/erddap/tabledap/unit_1190_20250515_214_delayed.html
 identification:
   abstract:
@@ -41,7 +41,13 @@ identification:
       detailed information about the physical, chemical and biological processes of
       the world's oceans. The Slocum glider was designed and built by Teledyne Webb
       Research Corporation, Falmouth, MA, USA.
-    fr: FRENCH
+    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
+      utilisent les changements de flottabilité pour se déplacer verticalement et
+      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
+      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
+      détaillées sur les processus physiques, chimiques et biologiques des océans
+      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
+      Corporation, Falmouth, MA, USA.
   dates:
     creation: '2026-04-15'
   keywords:
@@ -51,9 +57,9 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - FRENCH
-      - FRENCH
-      - FRENCH
+      - Salinité souterraine
+      - Température du sous-sol
+      - autre
   progress_code: completed
   status: published
   temporal_begin: '2025-05-15T15:03:00.000Z'
@@ -61,12 +67,13 @@ identification:
   title:
     en: Collaborative Operations with Jasco Applied Sciences in Northwest Atlantic
       Ocean 2025-05-15
-    fr: FRENCH
+    fr: Opérations collaboratives avec Jasco Applied Sciences dans l'océan Atlantique
+      Nord-Ouest 2025-05-15
 metadata:
   dates:
     publication: '2025-10-10T23:00:26Z'
     revision: '2025-10-10T23:00:26Z'
-  identifier: 3602e7dd-3d1c-4fad-ae7a-e19ea52b8c41
+  identifier: 7b9c2b45-5a9d-4d14-b379-1ec725d96398
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -81,30 +88,30 @@ platform:
   instruments:
   - description:
       en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
-      fr: FRENCH
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
     id: CTD_9482
     manufacturer: Sea-Bird Scientific
     type:
       en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
-      fr: FRENCH
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
     version: '1.2'
   - description:
       en: Slocum Glider Hybrid Thruster
-      fr: FRENCH
+      fr: Propulseur hybride Slocum Glider
     id: thruster_520
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider Hybrid Thruster
-      fr: FRENCH
+      fr: Propulseur hybride Slocum Glider
     version: '1.2'
   - description:
       en: Slocum Glider G3 1000 m oil pump
-      fr: FRENCH
+      fr: Pompe à huile Slocum Glider G3 1000 m
     id: bpump_836
     manufacturer: Teledyne Webb Research
     type:
       en: G3 HD pump
-      fr: FRENCH
+      fr: Pompe G3 HD
     version: '1.2'
   type: glider
 spatial:

@@ -26,7 +26,7 @@ contact:
 distribution:
 - description:
     en: High resolution ERDDAP datasets
-    fr: FRENCH
+    fr: Ensembles de données ERDDAP haute résolution
   url: https://erddap.oceantrack.org/erddap/tabledap/polly_20250905_215_delayed.html
 identification:
   abstract:
@@ -36,7 +36,13 @@ identification:
       detailed information about the physical, chemical and biological processes of
       the world's oceans. The Slocum glider was designed and built by Teledyne Webb
       Research Corporation, Falmouth, MA, USA.
-    fr: FRENCH
+    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
+      utilisent les changements de flottabilité pour se déplacer verticalement et
+      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
+      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
+      détaillées sur les processus physiques, chimiques et biologiques des océans
+      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
+      Corporation, Falmouth, MA, USA.
   dates:
     creation: '2026-04-15'
   keywords:
@@ -46,21 +52,22 @@ identification:
       - subsurfaceTemperature
       - other
       fr:
-      - FRENCH
-      - FRENCH
-      - FRENCH
+      - Salinité souterraine
+      - Température du sous-sol
+      - autre
   progress_code: completed
   status: published
   temporal_begin: '2025-09-05T13:13:00.000Z'
   temporal_end: '2025-10-03T13:00:00.000Z'
   title:
     en: Halifax Line Monitoring in Northwest Atlantic Ocean 2025-09-05
-    fr: FRENCH
+    fr: Surveillance de la ligne Halifax dans le nord-ouest de l'océan Atlantique
+      2025-09-05
 metadata:
   dates:
     publication: '2025-10-24T19:24:56Z'
     revision: '2025-10-24T19:24:56Z'
-  identifier: ec8a33cf-a482-4119-bde5-61258f89a1fa
+  identifier: dbe0d3ff-f3b9-4dfc-83db-4f913f12f66c
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -75,57 +82,57 @@ platform:
   instruments:
   - description:
       en: Slocum Glider G3 200 m piston pump
-      fr: FRENCH
+      fr: Pompe à piston Slocum Glider G3 200 m
     id: bpump_0111
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider G3 200 m piston pump
-      fr: FRENCH
+      fr: Pompe à piston Slocum Glider G3 200 m
     version: '1.2'
   - description:
       en: Rockland Scientific MicroRider-1000 turbulence microstructure profiler
-      fr: FRENCH
+      fr: Profileur de microstructure de turbulence Rockland Scientific MicroRider-1000
     id: MicroRider-1000_470
     manufacturer: Rockland Scientific
     type:
       en: Modular Turbulence Profiler
-      fr: FRENCH
+      fr: Profileur de turbulence modulaire
     version: '1.2'
   - description:
       en: Vemco Mobile Transceiver
-      fr: FRENCH
+      fr: Émetteur-récepteur mobile Vemco
     id: hydrophones_1360668
     manufacturer: InnovaSea Systems Inc.
     type:
       en: Vemco Mobile Transceiver
-      fr: FRENCH
+      fr: Émetteur-récepteur mobile Vemco
     version: '1.2'
   - description:
       en: RBR Legato3 CTD
-      fr: FRENCH
+      fr: RBR Legato3 CTD
     id: CTD_237044
     manufacturer: RBR Ltd
     type:
       en: RBRLegato unpumped CTD
-      fr: FRENCH
+      fr: RBRLegato CTD non pompé
     version: '1.2'
   - description:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: FRENCH
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
     id: fluorometers_6496
     manufacturer: Sea-Bird Scientific
     type:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: FRENCH
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
     version: '1.2'
   - description:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: FRENCH
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
     id: fluorometers_00017
     manufacturer: Sea-Bird Scientific
     type:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
-      fr: FRENCH
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
     version: '1.2'
   type: glider
 spatial:
