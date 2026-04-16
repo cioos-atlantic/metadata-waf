@@ -74,11 +74,13 @@ identification:
       en:
       - subsurfaceSalinity
       - subsurfaceTemperature
-      - other
+      - passiveAcoustics
+      - acousticTagReceiver
       fr:
       - Salinité souterraine
       - Température du sous-sol
-      - autre
+      - passiveAcoustique
+      - acoustiqueTagReceiver
   progress_code: completed
   status: published
   temporal_begin: '2025-05-22T16:36:00.000Z'
@@ -92,7 +94,7 @@ metadata:
   dates:
     publication: '2025-12-04T07:45:24Z'
     revision: '2025-12-04T07:45:24Z'
-  identifier: 256513af-6736-47d9-92a3-917e737d61c0
+  identifier: 942fc029-b295-43fa-8141-166e75220fd0
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

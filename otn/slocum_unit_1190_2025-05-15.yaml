@@ -58,11 +58,9 @@ identification:
       en:
       - subsurfaceSalinity
       - subsurfaceTemperature
-      - other
       fr:
       - Salinité souterraine
       - Température du sous-sol
-      - autre
   progress_code: completed
   status: published
   temporal_begin: '2025-05-15T15:03:00.000Z'
@@ -76,7 +74,7 @@ metadata:
   dates:
     publication: '2025-10-10T23:00:26Z'
     revision: '2025-10-10T23:00:26Z'
-  identifier: aa516613-b649-4c8c-ad67-f05afb294921
+  identifier: c62dcd32-8588-43ea-bfad-9ab901ce55d8
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

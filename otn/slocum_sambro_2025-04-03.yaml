@@ -23,11 +23,6 @@ contact:
   - pointOfContact
   - distributor
   - funder
-- inCitation: true
-  organization:
-    name: Ocean tracking Network
-  roles:
-  - funder
 distribution:
 - description:
     en: High resolution ERDDAP datasets
@@ -56,11 +51,9 @@ identification:
       en:
       - subsurfaceSalinity
       - subsurfaceTemperature
-      - other
       fr:
       - Salinité souterraine
       - Température du sous-sol
-      - autre
   progress_code: completed
   status: published
   temporal_begin: '2025-04-03T13:26:00.000Z'
@@ -72,7 +65,7 @@ metadata:
   dates:
     publication: '2025-10-10T19:32:53Z'
     revision: '2025-10-10T19:32:53Z'
-  identifier: facefa97-7cd4-4ebe-ab2c-97aabc916dd1
+  identifier: 366fcef6-a0a0-4637-9f73-ad4e520d15d2
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

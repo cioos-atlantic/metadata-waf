@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>9bfa16d8-2eaa-4c6d-8ebd-33ce8e4f3d06</gco:CharacterString>
+        <gco:CharacterString>ac9a2c17-f899-49ee-8e60-8d0bdaf70a15</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -1517,23 +1517,19 @@
       <mri:descriptiveKeywords>
         <mri:MD_Keywords>
           <mri:keyword>
-            <gco:CharacterString>oxygen</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
             <gco:CharacterString>subsurfaceSalinity</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>subsurfaceTemperature</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>other</gco:CharacterString>
+            <gco:CharacterString>oxygen</gco:CharacterString>
           </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">oxygène</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
+          <mri:keyword>
+            <gco:CharacterString>acousticTagReceiver</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
+            <gco:CharacterString>nitrate</gco:CharacterString>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
@@ -1552,7 +1548,21 @@
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">autre</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">oxygène</lan:LocalisedCharacterString>
+              </lan:textGroup>
+            </lan:PT_FreeText>
+          </mri:keyword>
+          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+            <lan:PT_FreeText>
+              <lan:textGroup>
+                <lan:LocalisedCharacterString locale="#fr">acoustiqueTagReceiver</lan:LocalisedCharacterString>
+              </lan:textGroup>
+            </lan:PT_FreeText>
+          </mri:keyword>
+          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+            <lan:PT_FreeText>
+              <lan:textGroup>
+                <lan:LocalisedCharacterString locale="#fr">nitrate</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
@@ -1853,7 +1863,7 @@
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>dissolved gas sensors_948</gco:CharacterString>
+                    <gco:CharacterString>dissolved_gas_sensors_948</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
                     <gco:CharacterString>1.2</gco:CharacterString>
@@ -1931,7 +1941,7 @@ Numéro de lot de feuille : 1824m</lan:LocalisedCharacterString>
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>nutrient analysers_0277</gco:CharacterString>
+                    <gco:CharacterString>nutrient_analysers_0277</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
                     <gco:CharacterString>1.2</gco:CharacterString>

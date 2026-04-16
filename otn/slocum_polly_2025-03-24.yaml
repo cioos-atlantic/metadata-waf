@@ -1,7 +1,7 @@
 contact:
 - inCitation: true
   individual:
-    name: Lennox, Rober
+    name: Lennox, Robert
   roles:
   - principalInvestigator
 - inCitation: true
@@ -22,11 +22,6 @@ contact:
   - processor
   - pointOfContact
   - distributor
-  - funder
-- inCitation: true
-  organization:
-    name: Ocean tracking Network
-  roles:
   - funder
 distribution:
 - description:
@@ -62,11 +57,11 @@ identification:
       en:
       - subsurfaceSalinity
       - subsurfaceTemperature
-      - other
+      - acousticTagReceiver
       fr:
       - Salinité souterraine
       - Température du sous-sol
-      - autre
+      - acoustiqueTagReceiver
   progress_code: completed
   status: published
   temporal_begin: '2025-03-24T16:11:26.000Z'
@@ -78,7 +73,7 @@ metadata:
   dates:
     publication: '2025-04-24T19:44:18Z'
     revision: '2025-04-24T19:44:18Z'
-  identifier: 12bb5b58-941f-4e2d-a664-9b15125818a2
+  identifier: da741643-78c2-458c-90d4-1bad1a777d25
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

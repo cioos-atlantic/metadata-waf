@@ -49,15 +49,17 @@ identification:
   keywords:
     eov:
       en:
-      - oxygen
       - subsurfaceSalinity
       - subsurfaceTemperature
-      - other
+      - oxygen
+      - acousticTagReceiver
+      - nitrate
       fr:
-      - oxygène
       - Salinité souterraine
       - Température du sous-sol
-      - autre
+      - oxygène
+      - acoustiqueTagReceiver
+      - nitrate
   progress_code: completed
   status: published
   temporal_begin: '2025-02-24T16:00:00.000Z'
@@ -69,7 +71,7 @@ metadata:
   dates:
     publication: '2025-06-23T17:56:53Z'
     revision: '2025-06-23T17:56:53Z'
-  identifier: 9bfa16d8-2eaa-4c6d-8ebd-33ce8e4f3d06
+  identifier: ac9a2c17-f899-49ee-8e60-8d0bdaf70a15
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -112,7 +114,7 @@ platform:
   - description:
       en: Aanderaa 4831 oxygen optode
       fr: Optode à oxygène Aanderaa 4831
-    id: dissolved gas sensors_948
+    id: dissolved_gas_sensors_948
     manufacturer: Aanderaa Data Instruments AS
     type:
       en: "Program Version V5.3.1\r\nAanderaa 4831\r\nFoil Batch no: 1824m"
@@ -131,7 +133,7 @@ platform:
   - description:
       en: Satlantic Submersible Ultraviolet Nitrate Analyser (SUNA)
       fr: Analyseur de nitrate ultraviolet submersible satlantique (SUNA)
-    id: nutrient analysers_0277
+    id: nutrient_analysers_0277
     manufacturer: Satlantic Incorporated
     type:
       en: Satlantic Submersible Ultraviolet Nitrate Analyser (SUNA)

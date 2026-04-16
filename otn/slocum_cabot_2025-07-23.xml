@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>23e18a62-d47a-44cc-970d-cff7e82ead3a</gco:CharacterString>
+        <gco:CharacterString>12644bb8-ef07-4c61-91e7-660b02a1842c</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -1378,6 +1378,57 @@
               </cit:party>
             </cit:CI_Responsibility>
           </cit:citedResponsibleParty>
+          <cit:citedResponsibleParty>
+            <cit:CI_Responsibility>
+              <cit:role>
+                <cit:CI_RoleCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="funder"/>
+              </cit:role>
+              <cit:party>
+                <cit:CI_Organisation>
+                  <cit:name>
+                    <gco:CharacterString>University of New Brunswick</gco:CharacterString>
+                  </cit:name>
+                  <cit:contactInfo>
+                    <cit:CI_Contact>
+                      <cit:phone>
+                        <cit:CI_Telephone>
+                          <cit:number>
+                            <gco:CharacterString></gco:CharacterString>
+                          </cit:number>
+                        </cit:CI_Telephone>
+                      </cit:phone>
+                      <cit:address>
+                        <cit:CI_Address>
+                          <cit:deliveryPoint>
+                            <gco:CharacterString></gco:CharacterString>
+                          </cit:deliveryPoint>
+                          <cit:city>
+                            <gco:CharacterString></gco:CharacterString>
+                          </cit:city>
+                          <cit:country>
+                            <gco:CharacterString></gco:CharacterString>
+                          </cit:country>
+                        </cit:CI_Address>
+                      </cit:address>
+                      <cit:onlineResource>
+                        <cit:CI_OnlineResource>
+                          <cit:linkage>
+                            <gco:CharacterString></gco:CharacterString>
+                          </cit:linkage>
+                          <cit:protocol>
+                            <gco:CharacterString>WWW:LINK</gco:CharacterString>
+                          </cit:protocol>
+                          <cit:function>
+                            <cit:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_OnLineFunctionCode" codeListValue="information"></cit:CI_OnLineFunctionCode>
+                          </cit:function>
+                        </cit:CI_OnlineResource>
+                      </cit:onlineResource>
+                    </cit:CI_Contact>
+                  </cit:contactInfo>
+                </cit:CI_Organisation>
+              </cit:party>
+            </cit:CI_Responsibility>
+          </cit:citedResponsibleParty>
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
@@ -1389,10 +1440,10 @@
         </lan:PT_FreeText>
       </mri:abstract>
       <mri:credit xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>The study was funded by Ocean Tracking Network in collaboration and Kim Davies at the University of New Brunswick. The Ocean Tracking Network led this project and their glider team expertly prepared, deployed, piloted and recovered the gliders. The Williamson Shadowgraph camera was loaned to Ocean Tracking Network by Kim Davies at University of New Brunswick.  Additional logistical support was provided by the Ocean Frontiers Institute. Thank you to the vessel captains who supported deployment and recovery.</gco:CharacterString>
+        <gco:CharacterString>The study was funded by the Ocean Tracking Network in collaboration with Kim Davies at the University of New Brunswick. The Ocean Tracking Network led this project and their glider team expertly prepared, deployed, piloted and recovered the gliders. The Williamson Shadowgraph camera was loaned to the Ocean Tracking Network by Kim Davies at the University of New Brunswick. Additional logistical support was provided by the Ocean Frontiers Institute. Thank you to the vessel captains who supported deployment and recovery.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">L&#39;étude a été financée par Ocean Tracking Network en collaboration et Kim Davies de l&#39;Université du Nouveau-Brunswick. L&#39;Ocean Tracking Network a dirigé ce projet et son équipe de planeurs a préparé, déployé, piloté et récupéré les planeurs de manière experte. La caméra Williamson Shadowgraph a été prêtée à Ocean Tracking Network par Kim Davies de l&#39;Université du Nouveau-Brunswick.  Un soutien logistique supplémentaire a été fourni par l&#39;Ocean Frontiers Institute. Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">L&#39;étude a été financée par l&#39;Ocean Tracking Network en collaboration avec Kim Davies de l&#39;Université du Nouveau-Brunswick. L&#39;Ocean Tracking Network a dirigé ce projet et son équipe de planeurs a préparé, déployé, piloté et récupéré les planeurs de manière experte. La caméra Williamson Shadowgraph a été prêtée à l&#39;Ocean Tracking Network par Kim Davies de l&#39;Université du Nouveau-Brunswick. Un soutien logistique supplémentaire a été fourni par l&#39;Ocean Frontiers Institute. Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:credit>
@@ -1523,7 +1574,7 @@
             <gco:CharacterString>subsurfaceTemperature</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>other</gco:CharacterString>
+            <gco:CharacterString>acousticTagReceiver</gco:CharacterString>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
@@ -1542,7 +1593,7 @@
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">autre</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">acoustiqueTagReceiver</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
@@ -1843,7 +1894,7 @@
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>acoustic backscatter sensors_59016</gco:CharacterString>
+                    <gco:CharacterString>acoustic_backscatter_sensors_59016</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
                     <gco:CharacterString>1.2</gco:CharacterString>
