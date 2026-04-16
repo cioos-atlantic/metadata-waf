@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>dbb35969-6aca-4406-b6cc-617ca69b99c6</gco:CharacterString>
+        <gco:CharacterString>9bfa16d8-2eaa-4c6d-8ebd-33ce8e4f3d06</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -757,7 +757,7 @@
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2026-04-15</gco:Date>
+                <gco:Date>2026-04-16</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -1381,15 +1381,20 @@
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>Slocum gliders are small, free-swimming, unmanned vehicles that use changes in buoyancy to move vertically and horizontally through the water column in a saw-tooth pattern. They are deployed for days to several months and gather detailed information about the physical, chemical and biological processes of the world&#39;s oceans. The Slocum glider was designed and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.</gco:CharacterString>
+        <gco:CharacterString>This glider was deployed on the Scotian Shelf in the Northwest Atlantic Ocean with a suite of bio-optical sensors to measure ocean conditions as the NW Atlantic phytoplankton spring bloom develops.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui utilisent les changements de flottabilité pour se déplacer verticalement et horizontalement dans la colonne d&#39;eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations détaillées sur les processus physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA, USA.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Ce planeur a été déployé sur le plateau néo-écossais dans l&#39;océan Atlantique nord-ouest avec une suite de capteurs bio-optiques pour mesurer les conditions océaniques à mesure que se développe la prolifération printanière du phytoplancton de l&#39;Atlantique nord-ouest.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
-      <mri:credit>
-        <gco:CharacterString></gco:CharacterString>
+      <mri:credit xsi:type="lan:PT_FreeText_PropertyType">
+        <gco:CharacterString>This deployment is supported by funding from the Canada Foundation for Innovation through the Ocean Tracking Network. Additional logistical support was provided by the Ocean Frontiers Institute.</gco:CharacterString>
+        <lan:PT_FreeText>
+          <lan:textGroup>
+            <lan:LocalisedCharacterString locale="#fr">Ce déploiement est soutenu par le financement de la Fondation canadienne pour l&#39;innovation par l&#39;intermédiaire de l&#39;Ocean Tracking Network. Un soutien logistique supplémentaire a été fourni par l&#39;Ocean Frontiers Institute.</lan:LocalisedCharacterString>
+          </lan:textGroup>
+        </lan:PT_FreeText>
       </mri:credit>
       <mri:status>
         <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="completed"></mcc:MD_ProgressCode>
@@ -1512,16 +1517,23 @@
       <mri:descriptiveKeywords>
         <mri:MD_Keywords>
           <mri:keyword>
+            <gco:CharacterString>oxygen</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword>
             <gco:CharacterString>subsurfaceSalinity</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
             <gco:CharacterString>subsurfaceTemperature</gco:CharacterString>
           </mri:keyword>
           <mri:keyword>
-            <gco:CharacterString>oxygen</gco:CharacterString>
-          </mri:keyword>
-          <mri:keyword>
             <gco:CharacterString>other</gco:CharacterString>
+          </mri:keyword>
+          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
+            <lan:PT_FreeText>
+              <lan:textGroup>
+                <lan:LocalisedCharacterString locale="#fr">oxygène</lan:LocalisedCharacterString>
+              </lan:textGroup>
+            </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
@@ -1534,13 +1546,6 @@
             <lan:PT_FreeText>
               <lan:textGroup>
                 <lan:LocalisedCharacterString locale="#fr">Température du sous-sol</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">oxygène</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>

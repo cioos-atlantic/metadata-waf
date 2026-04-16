@@ -30,21 +30,23 @@ distribution:
   url: https://erddap.oceantrack.org/erddap/tabledap/polly_20250905_215_delayed.html
 identification:
   abstract:
-    en: Slocum gliders are small, free-swimming, unmanned vehicles that use changes
-      in buoyancy to move vertically and horizontally through the water column in
-      a saw-tooth pattern. They are deployed for days to several months and gather
-      detailed information about the physical, chemical and biological processes of
-      the world's oceans. The Slocum glider was designed and built by Teledyne Webb
-      Research Corporation, Falmouth, MA, USA.
-    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
-      utilisent les changements de flottabilité pour se déplacer verticalement et
-      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
-      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
-      détaillées sur les processus physiques, chimiques et biologiques des océans
-      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
-      Corporation, Falmouth, MA, USA.
+    en: A Teledyne Webb Research Slocum G3s glider was deployed on the Scotian Shelf
+      in the Northwest Atlantic Ocean equipped with an InnovaSea VMT, RBR Legato CTD,
+      and Rockland Scientific MicroRider to monitor oceanic conditions in a transect
+      along the Halifax Line.
+    fr: Un planeur Teledyne Webb Research Slocum G3s a été déployé sur le plateau
+      néo-écossais dans l'océan Atlantique nord-ouest, équipé d'un VMT InnovaSea,
+      d'un RBR Legato CTD et d'un Rockland Scientific MicroRider pour surveiller les
+      conditions océaniques dans un transect le long de la ligne Halifax.
+  acknowledgement:
+    en: This deployment is supported by funding from the Canada Foundation for Innovation
+      through the Ocean Tracking Network. Additional logistical support was provided
+      by the Ocean Frontiers Institute.
+    fr: Ce déploiement est soutenu par le financement de la Fondation canadienne pour
+      l'innovation par l'intermédiaire de l'Ocean Tracking Network. Un soutien logistique
+      supplémentaire a été fourni par l'Ocean Frontiers Institute.
   dates:
-    creation: '2026-04-15'
+    creation: '2026-04-16'
   keywords:
     eov:
       en:
@@ -67,7 +69,7 @@ metadata:
   dates:
     publication: '2025-10-24T19:24:56Z'
     revision: '2025-10-24T19:24:56Z'
-  identifier: dbe0d3ff-f3b9-4dfc-83db-4f913f12f66c
+  identifier: 0cb872c5-46de-4139-a86f-ac22360a63e7
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

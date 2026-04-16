@@ -35,21 +35,24 @@ distribution:
   url: https://erddap.oceantrack.org/erddap/tabledap/unit_1190_20250515_214_delayed.html
 identification:
   abstract:
-    en: Slocum gliders are small, free-swimming, unmanned vehicles that use changes
-      in buoyancy to move vertically and horizontally through the water column in
-      a saw-tooth pattern. They are deployed for days to several months and gather
-      detailed information about the physical, chemical and biological processes of
-      the world's oceans. The Slocum glider was designed and built by Teledyne Webb
-      Research Corporation, Falmouth, MA, USA.
-    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
-      utilisent les changements de flottabilité pour se déplacer verticalement et
-      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
-      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
-      détaillées sur les processus physiques, chimiques et biologiques des océans
-      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
-      Corporation, Falmouth, MA, USA.
+    en: A Teledyne Webb Research Slocum G3s glider equipped with passive acoustic
+      listening device for a multi-month mission surveying the Western Scotian Slope.
+    fr: Un planeur Teledyne Webb Research Slocum G3s équipé d'un dispositif d'écoute
+      acoustique passive pour une mission de plusieurs mois d'arpentage du talus néo-écossais
+      occidental.
+  acknowledgement:
+    en: Jasco Applied Sciences led this project, deployed and recovered their Slocum
+      glider and supported piloting. The Ocean Tracking Network prepared Jasco’s glider,
+      offered remote support for field operations and led functional checks and piloting
+      during mission. Thank you to the vessel captains who supported deployment and
+      recovery.
+    fr: Jasco Applied Sciences a dirigé ce projet, déployé et récupéré son planeur
+      Slocum et soutenu le pilotage. L’Ocean Tracking Network a préparé le planeur
+      de Jasco, a offert un soutien à distance aux opérations sur le terrain et a
+      dirigé les vérifications fonctionnelles et le pilotage pendant la mission. Merci
+      aux capitaines des navires qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-04-15'
+    creation: '2026-04-16'
   keywords:
     eov:
       en:
@@ -73,7 +76,7 @@ metadata:
   dates:
     publication: '2025-10-10T23:00:26Z'
     revision: '2025-10-10T23:00:26Z'
-  identifier: 7b9c2b45-5a9d-4d14-b379-1ec725d96398
+  identifier: aa516613-b649-4c8c-ad67-f05afb294921
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

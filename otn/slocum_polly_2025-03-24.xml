@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>8ca63b83-329b-42b3-9082-5931f8b6c17e</gco:CharacterString>
+        <gco:CharacterString>12bb5b58-941f-4e2d-a664-9b15125818a2</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -757,7 +757,7 @@
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2026-04-15</gco:Date>
+                <gco:Date>2026-04-16</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -1432,15 +1432,20 @@
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>Spring Slocum Glider Survey. Slocum gliders are small, free-swimming, unmanned vehicles\n                that use changes in buoyancy to move vertically and horizontally through the water column in a saw-tooth\n                pattern. They are deployed for days to several months and gather detailed information about the\n                physical, chemical and biological processes of the world&#39;s oceans. The Slocum glider was designed and\n                built by Teledyne Webb Research Corporation, Falmouth, MA, USA.</gco:CharacterString>
+        <gco:CharacterString>A Teledyne Webb Research Slocum G3s glider was deployed on the Scotian Shelf in the Northwest Atlantic Ocean equipped with a suite of bio-optical sensors, Rockland Scientific MicroRider and RBR Legato3 CTD to measure ocean conditions as the NW Atlantic phytoplankton spring bloom develops.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">Enquête printanière sur les planeurs Slocum. Les planeurs Slocum sont de petits véhicules sans pilote à nage libre\n qui utilisent les changements de flottabilité pour se déplacer verticalement et horizontalement à travers la colonne d&#39;eau selon un motif en dents de scie\n. Ils sont déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations détaillées sur les processus physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA, États-Unis.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Un planeur Teledyne Webb Research Slocum G3s a été déployé sur le plateau néo-écossais dans l&#39;océan Atlantique nord-ouest, équipé d&#39;une suite de capteurs bio-optiques, du Rockland Scientific MicroRider et du RBR Legato3 CTD pour mesurer les conditions océaniques à mesure que se développe la prolifération printanière du phytoplancton du nord-ouest de l&#39;Atlantique.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
-      <mri:credit>
-        <gco:CharacterString></gco:CharacterString>
+      <mri:credit xsi:type="lan:PT_FreeText_PropertyType">
+        <gco:CharacterString>This deployment is supported by funding from the Canada Foundation for Innovation through the Ocean Tracking Network. Additional logistical support was provided by the Ocean Frontiers Institute.</gco:CharacterString>
+        <lan:PT_FreeText>
+          <lan:textGroup>
+            <lan:LocalisedCharacterString locale="#fr">Ce déploiement est soutenu par le financement de la Fondation canadienne pour l&#39;innovation par l&#39;intermédiaire de l&#39;Ocean Tracking Network. Un soutien logistique supplémentaire a été fourni par l&#39;Ocean Frontiers Institute.</lan:LocalisedCharacterString>
+          </lan:textGroup>
+        </lan:PT_FreeText>
       </mri:credit>
       <mri:status>
         <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="completed"></mcc:MD_ProgressCode>

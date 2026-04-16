@@ -1,7 +1,7 @@
 contact:
 - inCitation: true
   individual:
-    name: Whorisky, Fred
+    name: Whoriskey, Fred
   roles:
   - principalInvestigator
 - inCitation: true
@@ -40,21 +40,37 @@ distribution:
   url: https://erddap.oceantrack.org/erddap/tabledap/sable_20250224_202_delayed_test.html
 identification:
   abstract:
-    en: Slocum gliders are small, free-swimming, unmanned vehicles that use changes
-      in buoyancy to move vertically and horizontally through the water column in
-      a saw-tooth pattern. They are deployed for days to several months and gather
-      detailed information about the physical, chemical and biological processes of
-      the world's oceans. The Slocum glider was designed and built by Teledyne Webb
-      Research Corporation, Falmouth, MA, USA.
-    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
-      utilisent les changements de flottabilité pour se déplacer verticalement et
-      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
-      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
-      détaillées sur les processus physiques, chimiques et biologiques des océans
-      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
-      Corporation, Falmouth, MA, USA.
+    en: Short test off shore HFX to test a new platform. A Teledyne Webb Research
+      Slocum G3(s) glider equipped with passive acoustic listening device (DMON) for
+      a test mission offshore Halifax. The purpose of this mission is to prepare equipment
+      for monitoring the Gulf of Saint Lawrence shipping lane for the presence of
+      North Atlantic right whales.
+    fr: Petit test offshore HFX pour tester une nouvelle plateforme. Un planeur Teledyne
+      Webb Research Slocum G3(s) équipé d'un dispositif d'écoute acoustique passive
+      (DMON) pour une mission d'essai au large d'Halifax. Le but de cette mission
+      est de préparer des équipements de surveillance de la voie de navigation du
+      golfe du Saint-Laurent pour la présence des baleines noires de l'Atlantique
+      Nord.
+  acknowledgement:
+    en: The study was funded by Transport Canada's Innovation Centre (TC/IC) and supported
+      by Vandana Gopeechund and Alison Butko at the IC. The DMON hydrophone, real-time
+      acoustic software, and automated dissemination of near real-time detections
+      to partners were provided through collaboration with Dr. Mark Baumgartner at
+      the Woods Hole Oceanographic Institution. The Ocean Tracking Network led this
+      project and their glider team expertly prepared, deployed, piloted and recovered
+      the gliders. Additional logistical support was provided by the Ocean Frontiers
+      Institute. Thank you to the vessel captains who supported deployment and recovery.
+    fr: L'étude a été financée par le Centre d'innovation de Transports Canada (TC/IC)
+      et soutenue par Vandana Gopeechund et Alison Butko du IC. L'hydrophone DMON,
+      le logiciel acoustique en temps réel et la diffusion automatisée des détections
+      en temps quasi réel aux partenaires ont été fournis grâce à la collaboration
+      avec le Dr Mark Baumgartner de la Woods Hole Oceanographic Institution. L'Ocean
+      Tracking Network a dirigé ce projet et son équipe de planeurs a préparé, déployé,
+      piloté et récupéré les planeurs de manière experte. Un soutien logistique supplémentaire
+      a été fourni par l'Ocean Frontiers Institute. Merci aux capitaines des navires
+      qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-04-15'
+    creation: '2026-04-16'
   keywords:
     eov:
       en:
@@ -76,7 +92,7 @@ metadata:
   dates:
     publication: '2025-12-16T13:54:40Z'
     revision: '2025-12-16T13:54:40Z'
-  identifier: 1e10fc67-6db1-422f-8359-227e713355e9
+  identifier: cd2b109f-e268-40c5-8dfd-e85a2da4f2bb
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

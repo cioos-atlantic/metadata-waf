@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>7a017ef2-9f81-4412-b10b-71e25cff69fa</gco:CharacterString>
+        <gco:CharacterString>23e18a62-d47a-44cc-970d-cff7e82ead3a</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -757,7 +757,7 @@
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2026-04-15</gco:Date>
+                <gco:Date>2026-04-16</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -1381,15 +1381,20 @@
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>Slocum gliders are small, free-swimming, unmanned vehicles that use changes in buoyancy to move vertically and horizontally through the water column in a saw-tooth pattern. They are deployed for days to several months and gather detailed information about the physical, chemical and biological processes of the world&#39;s oceans. The Slocum glider was designed and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.</gco:CharacterString>
+        <gco:CharacterString>This glider was prepared with an ASL AZFP, WIlliamson Shadowgraph camera, Seabird ecopuck, Seabird pumped CTD, and Innovasea VMT mounted. It was deployed around a pod of North Atlantic Right Whales to collect environmental data to be validated against ship-based oceanographic sampling occurring along side glider</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui utilisent les changements de flottabilité pour se déplacer verticalement et horizontalement dans la colonne d&#39;eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations détaillées sur les processus physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA, USA.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Ce planeur a été préparé avec un ASL AZFP, une caméra WIlliamson Shadowgraph, un ecopuck Seabird, un CTD pompé Seabird et un Innovasea VMT monté. Il a été déployé autour d&#39;un groupe de baleines noires de l&#39;Atlantique Nord pour collecter des données environnementales à valider par rapport à un échantillonnage océanographique effectué à bord d&#39;un navire le long d&#39;un planeur.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
-      <mri:credit>
-        <gco:CharacterString></gco:CharacterString>
+      <mri:credit xsi:type="lan:PT_FreeText_PropertyType">
+        <gco:CharacterString>The study was funded by Ocean Tracking Network in collaboration and Kim Davies at the University of New Brunswick. The Ocean Tracking Network led this project and their glider team expertly prepared, deployed, piloted and recovered the gliders. The Williamson Shadowgraph camera was loaned to Ocean Tracking Network by Kim Davies at University of New Brunswick.  Additional logistical support was provided by the Ocean Frontiers Institute. Thank you to the vessel captains who supported deployment and recovery.</gco:CharacterString>
+        <lan:PT_FreeText>
+          <lan:textGroup>
+            <lan:LocalisedCharacterString locale="#fr">L&#39;étude a été financée par Ocean Tracking Network en collaboration et Kim Davies de l&#39;Université du Nouveau-Brunswick. L&#39;Ocean Tracking Network a dirigé ce projet et son équipe de planeurs a préparé, déployé, piloté et récupéré les planeurs de manière experte. La caméra Williamson Shadowgraph a été prêtée à Ocean Tracking Network par Kim Davies de l&#39;Université du Nouveau-Brunswick.  Un soutien logistique supplémentaire a été fourni par l&#39;Ocean Frontiers Institute. Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.</lan:LocalisedCharacterString>
+          </lan:textGroup>
+        </lan:PT_FreeText>
       </mri:credit>
       <mri:status>
         <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="completed"></mcc:MD_ProgressCode>

@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>bab341fa-3bb0-4133-b6a5-90af09020f24</gco:CharacterString>
+        <gco:CharacterString>256513af-6736-47d9-92a3-917e737d61c0</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -757,7 +757,7 @@
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2026-04-15</gco:Date>
+                <gco:Date>2026-04-16</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -772,7 +772,7 @@
               <cit:party>
                 <cit:CI_Individual>
                   <cit:name>
-                    <gco:CharacterString>Whorisky, Fred</gco:CharacterString>
+                    <gco:CharacterString>Whoriskey, Fred</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact></cit:CI_Contact>
@@ -1452,15 +1452,20 @@
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>Slocum gliders are small, free-swimming, unmanned vehicles that use changes in buoyancy to move vertically and horizontally through the water column in a saw-tooth pattern. They are deployed for days to several months and gather detailed information about the physical, chemical and biological processes of the world&#39;s oceans. The Slocum glider was designed and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.</gco:CharacterString>
+        <gco:CharacterString>A Teledyne Webb Research Slocum G3(s) glider equipped with passive acoustic listening device (DMON) for a multi-month mission with an extended lithium primary battery pack. The purpose of this mission is to monitor the Gulf of Saint Lawrence shipping lane for the presence of North Atlantic right whales.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui utilisent les changements de flottabilité pour se déplacer verticalement et horizontalement dans la colonne d&#39;eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations détaillées sur les processus physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA, USA.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Un planeur Teledyne Webb Research Slocum G3(s) équipé d&#39;un dispositif d&#39;écoute acoustique passive (DMON) pour une mission de plusieurs mois avec une batterie primaire au lithium étendue. Le but de cette mission est de surveiller la voie de navigation du golfe du Saint-Laurent pour détecter la présence de baleines noires de l&#39;Atlantique Nord.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
-      <mri:credit>
-        <gco:CharacterString></gco:CharacterString>
+      <mri:credit xsi:type="lan:PT_FreeText_PropertyType">
+        <gco:CharacterString>The study was funded by Transport Canada&#39;s Innovation Centre (TC/IC) and supported by Vandana Gopeechund and Alison Butko at the IC. The DMON hydrophone, real-time acoustic software, and automated dissemination of near real-time detections to partners were provided through collaboration with Dr. Mark Baumgartner at the Woods Hole Oceanographic Institution. The Ocean Tracking Network led this project and their glider team expertly prepared, deployed, piloted and recovered the gliders. Additional logistical support was provided by the Ocean Frontiers Institute. Thank you to the vessel captains who supported deployment and recovery.</gco:CharacterString>
+        <lan:PT_FreeText>
+          <lan:textGroup>
+            <lan:LocalisedCharacterString locale="#fr">L&#39;étude a été financée par le Centre d&#39;innovation de Transports Canada (TC/IC) et soutenue par Vandana Gopeechund et Alison Butko du IC. L&#39;hydrophone DMON, le logiciel acoustique en temps réel et la diffusion automatisée des détections en temps quasi réel aux partenaires ont été fournis grâce à la collaboration avec le Dr Mark Baumgartner de la Woods Hole Oceanographic Institution. L&#39;Ocean Tracking Network a dirigé ce projet et son équipe de planeurs a préparé, déployé, piloté et récupéré les planeurs de manière experte. Un soutien logistique supplémentaire a été fourni par l&#39;Ocean Frontiers Institute. Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.</lan:LocalisedCharacterString>
+          </lan:textGroup>
+        </lan:PT_FreeText>
       </mri:credit>
       <mri:status>
         <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="completed"></mcc:MD_ProgressCode>

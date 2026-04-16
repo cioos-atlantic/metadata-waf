@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>7b9c2b45-5a9d-4d14-b379-1ec725d96398</gco:CharacterString>
+        <gco:CharacterString>aa516613-b649-4c8c-ad67-f05afb294921</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -757,7 +757,7 @@
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2026-04-15</gco:Date>
+                <gco:Date>2026-04-16</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -1432,15 +1432,20 @@
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>Slocum gliders are small, free-swimming, unmanned vehicles that use changes in buoyancy to move vertically and horizontally through the water column in a saw-tooth pattern. They are deployed for days to several months and gather detailed information about the physical, chemical and biological processes of the world&#39;s oceans. The Slocum glider was designed and built by Teledyne Webb Research Corporation, Falmouth, MA, USA.</gco:CharacterString>
+        <gco:CharacterString>A Teledyne Webb Research Slocum G3s glider equipped with passive acoustic listening device for a multi-month mission surveying the Western Scotian Slope.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui utilisent les changements de flottabilité pour se déplacer verticalement et horizontalement dans la colonne d&#39;eau selon un motif en dents de scie. Ils sont déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations détaillées sur les processus physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA, USA.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Un planeur Teledyne Webb Research Slocum G3s équipé d&#39;un dispositif d&#39;écoute acoustique passive pour une mission de plusieurs mois d&#39;arpentage du talus néo-écossais occidental.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
-      <mri:credit>
-        <gco:CharacterString></gco:CharacterString>
+      <mri:credit xsi:type="lan:PT_FreeText_PropertyType">
+        <gco:CharacterString>Jasco Applied Sciences led this project, deployed and recovered their Slocum glider and supported piloting. The Ocean Tracking Network prepared Jasco’s glider, offered remote support for field operations and led functional checks and piloting during mission. Thank you to the vessel captains who supported deployment and recovery.</gco:CharacterString>
+        <lan:PT_FreeText>
+          <lan:textGroup>
+            <lan:LocalisedCharacterString locale="#fr">Jasco Applied Sciences a dirigé ce projet, déployé et récupéré son planeur Slocum et soutenu le pilotage. L’Ocean Tracking Network a préparé le planeur de Jasco, a offert un soutien à distance aux opérations sur le terrain et a dirigé les vérifications fonctionnelles et le pilotage pendant la mission. Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.</lan:LocalisedCharacterString>
+          </lan:textGroup>
+        </lan:PT_FreeText>
       </mri:credit>
       <mri:status>
         <mcc:MD_ProgressCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ProgressCode" codeListValue="completed"></mcc:MD_ProgressCode>

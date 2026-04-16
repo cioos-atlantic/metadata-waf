@@ -35,21 +35,22 @@ distribution:
   url: https://erddap.oceantrack.org/erddap/tabledap/sambro_20250403_205_delayed_test.html
 identification:
   abstract:
-    en: Slocum gliders are small, free-swimming, unmanned vehicles that use changes
-      in buoyancy to move vertically and horizontally through the water column in
-      a saw-tooth pattern. They are deployed for days to several months and gather
-      detailed information about the physical, chemical and biological processes of
-      the world's oceans. The Slocum glider was designed and built by Teledyne Webb
-      Research Corporation, Falmouth, MA, USA.
-    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
-      utilisent les changements de flottabilité pour se déplacer verticalement et
-      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
-      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
-      détaillées sur les processus physiques, chimiques et biologiques des océans
-      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
-      Corporation, Falmouth, MA, USA.
+    en: Short test offshore HFX to test platform after repair. We also tested the
+      integration of an Ocean Sonics icListen hydrophone. The icListen was wired into
+      the science bay as a logger (power on and power off functions only).
+    fr: Court test offshore HFX pour tester la plateforme après réparation. Nous avons
+      également testé l'intégration d'un hydrophone Ocean Sonics icListen. L'icListen
+      a été connecté à la baie scientifique en tant qu'enregistreur (fonctions de
+      mise sous et hors tension uniquement).
+  acknowledgement:
+    en: This deployment is supported by funding from the Canada Foundation for Innovation
+      through the Ocean Tracking Network. Additional logistical support was provided
+      by the Ocean Frontiers Institute.
+    fr: Ce déploiement est soutenu par le financement de la Fondation canadienne pour
+      l'innovation par l'intermédiaire de l'Ocean Tracking Network. Un soutien logistique
+      supplémentaire a été fourni par l'Ocean Frontiers Institute.
   dates:
-    creation: '2026-04-15'
+    creation: '2026-04-16'
   keywords:
     eov:
       en:
@@ -71,7 +72,7 @@ metadata:
   dates:
     publication: '2025-10-10T19:32:53Z'
     revision: '2025-10-10T19:32:53Z'
-  identifier: b2e93e12-2def-4394-a2b1-8ae5bbbd3597
+  identifier: facefa97-7cd4-4ebe-ab2c-97aabc916dd1
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

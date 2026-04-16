@@ -30,32 +30,33 @@ distribution:
   url: https://erddap.oceantrack.org/erddap/tabledap/otn200_20250224_201_delayed.html
 identification:
   abstract:
-    en: Slocum gliders are small, free-swimming, unmanned vehicles that use changes
-      in buoyancy to move vertically and horizontally through the water column in
-      a saw-tooth pattern. They are deployed for days to several months and gather
-      detailed information about the physical, chemical and biological processes of
-      the world's oceans. The Slocum glider was designed and built by Teledyne Webb
-      Research Corporation, Falmouth, MA, USA.
-    fr: Les planeurs Slocum sont de petits véhicules sans pilote à nage libre qui
-      utilisent les changements de flottabilité pour se déplacer verticalement et
-      horizontalement dans la colonne d'eau selon un motif en dents de scie. Ils sont
-      déployés pendant plusieurs jours ou plusieurs mois et recueillent des informations
-      détaillées sur les processus physiques, chimiques et biologiques des océans
-      du monde. Le planeur Slocum a été conçu et construit par Teledyne Webb Research
-      Corporation, Falmouth, MA, USA.
+    en: This glider was deployed on the Scotian Shelf in the Northwest Atlantic Ocean
+      with a suite of bio-optical sensors to measure ocean conditions as the NW Atlantic
+      phytoplankton spring bloom develops.
+    fr: Ce planeur a été déployé sur le plateau néo-écossais dans l'océan Atlantique
+      nord-ouest avec une suite de capteurs bio-optiques pour mesurer les conditions
+      océaniques à mesure que se développe la prolifération printanière du phytoplancton
+      de l'Atlantique nord-ouest.
+  acknowledgement:
+    en: This deployment is supported by funding from the Canada Foundation for Innovation
+      through the Ocean Tracking Network. Additional logistical support was provided
+      by the Ocean Frontiers Institute.
+    fr: Ce déploiement est soutenu par le financement de la Fondation canadienne pour
+      l'innovation par l'intermédiaire de l'Ocean Tracking Network. Un soutien logistique
+      supplémentaire a été fourni par l'Ocean Frontiers Institute.
   dates:
-    creation: '2026-04-15'
+    creation: '2026-04-16'
   keywords:
     eov:
       en:
+      - oxygen
       - subsurfaceSalinity
       - subsurfaceTemperature
-      - oxygen
       - other
       fr:
+      - oxygène
       - Salinité souterraine
       - Température du sous-sol
-      - oxygène
       - autre
   progress_code: completed
   status: published
@@ -68,7 +69,7 @@ metadata:
   dates:
     publication: '2025-06-23T17:56:53Z'
     revision: '2025-06-23T17:56:53Z'
-  identifier: dbb35969-6aca-4406-b6cc-617ca69b99c6
+  identifier: 9bfa16d8-2eaa-4c6d-8ebd-33ce8e4f3d06
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos

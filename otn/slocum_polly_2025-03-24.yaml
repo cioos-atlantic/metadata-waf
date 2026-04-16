@@ -39,23 +39,24 @@ distribution:
   url: https://erddap.oceantrack.org/erddap/tabledap/polly_20250324_204_delayed.html
 identification:
   abstract:
-    en: Spring Slocum Glider Survey. Slocum gliders are small, free-swimming, unmanned
-      vehicles\n                that use changes in buoyancy to move vertically and
-      horizontally through the water column in a saw-tooth\n                pattern.
-      They are deployed for days to several months and gather detailed information
-      about the\n                physical, chemical and biological processes of the
-      world's oceans. The Slocum glider was designed and\n                built by
-      Teledyne Webb Research Corporation, Falmouth, MA, USA.
-    fr: Enquête printanière sur les planeurs Slocum. Les planeurs Slocum sont de petits
-      véhicules sans pilote à nage libre\n qui utilisent les changements de flottabilité
-      pour se déplacer verticalement et horizontalement à travers la colonne d'eau
-      selon un motif en dents de scie\n. Ils sont déployés pendant plusieurs jours
-      ou plusieurs mois et recueillent des informations détaillées sur les processus
-      physiques, chimiques et biologiques des océans du monde. Le planeur Slocum a
-      été conçu et construit par Teledyne Webb Research Corporation, Falmouth, MA,
-      États-Unis.
+    en: A Teledyne Webb Research Slocum G3s glider was deployed on the Scotian Shelf
+      in the Northwest Atlantic Ocean equipped with a suite of bio-optical sensors,
+      Rockland Scientific MicroRider and RBR Legato3 CTD to measure ocean conditions
+      as the NW Atlantic phytoplankton spring bloom develops.
+    fr: Un planeur Teledyne Webb Research Slocum G3s a été déployé sur le plateau
+      néo-écossais dans l'océan Atlantique nord-ouest, équipé d'une suite de capteurs
+      bio-optiques, du Rockland Scientific MicroRider et du RBR Legato3 CTD pour mesurer
+      les conditions océaniques à mesure que se développe la prolifération printanière
+      du phytoplancton du nord-ouest de l'Atlantique.
+  acknowledgement:
+    en: This deployment is supported by funding from the Canada Foundation for Innovation
+      through the Ocean Tracking Network. Additional logistical support was provided
+      by the Ocean Frontiers Institute.
+    fr: Ce déploiement est soutenu par le financement de la Fondation canadienne pour
+      l'innovation par l'intermédiaire de l'Ocean Tracking Network. Un soutien logistique
+      supplémentaire a été fourni par l'Ocean Frontiers Institute.
   dates:
-    creation: '2026-04-15'
+    creation: '2026-04-16'
   keywords:
     eov:
       en:
@@ -77,7 +78,7 @@ metadata:
   dates:
     publication: '2025-04-24T19:44:18Z'
     revision: '2025-04-24T19:44:18Z'
-  identifier: 8ca63b83-329b-42b3-9082-5931f8b6c17e
+  identifier: 12bb5b58-941f-4e2d-a664-9b15125818a2
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
