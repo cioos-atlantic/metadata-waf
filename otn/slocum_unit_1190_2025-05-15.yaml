@@ -1,0 +1,126 @@
+contact:
+- inCitation: true
+  individual:
+    name: Maxner, Emily
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 6375 Edzell Castle Cir
+    country: Canada
+    email: otndc@dal.ca
+    name: Ocean Tracking Network
+    url: https://oceantrackingnetwork.org/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+  - funder
+- inCitation: true
+  organization:
+    name: Jasco Applied Sciences
+  roles:
+  - funder
+distribution:
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://erddap.oceantrack.org/erddap/tabledap/unit_1190_20250515_214_delayed.html
+identification:
+  abstract:
+    en: A Teledyne Webb Research Slocum G3s glider equipped with passive acoustic
+      listening device for a multi-month mission surveying the Western Scotian Slope.
+    fr: Un planeur Teledyne Webb Research Slocum G3s équipé d'un dispositif d'écoute
+      acoustique passive pour une mission de plusieurs mois d'arpentage du talus néo-écossais
+      occidental.
+  acknowledgement:
+    en: Jasco Applied Sciences led this project, deployed and recovered their Slocum
+      glider and supported piloting. The Ocean Tracking Network prepared Jasco’s glider,
+      offered remote support for field operations and led functional checks and piloting
+      during mission. Thank you to the vessel captains who supported deployment and
+      recovery.
+    fr: Jasco Applied Sciences a dirigé ce projet, déployé et récupéré son planeur
+      Slocum et soutenu le pilotage. L’Ocean Tracking Network a préparé le planeur
+      de Jasco, a offert un soutien à distance aux opérations sur le terrain et a
+      dirigé les vérifications fonctionnelles et le pilotage pendant la mission. Merci
+      aux capitaines des navires qui ont soutenu le déploiement et la récupération.
+  dates:
+    creation: '2026-04-16'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      fr:
+      - Salinité souterraine
+      - Température du sous-sol
+  progress_code: completed
+  status: published
+  temporal_begin: '2025-05-15T15:03:00.000Z'
+  temporal_end: '2025-07-03T10:15:00.000Z'
+  title:
+    en: Collaborative Operations with Jasco Applied Sciences in Northwest Atlantic
+      Ocean 2025-05-15
+    fr: Opérations collaboratives avec Jasco Applied Sciences dans l'océan Atlantique
+      Nord-Ouest 2025-05-15
+metadata:
+  dates:
+    publication: '2025-10-10T23:00:26Z'
+    revision: '2025-10-10T23:00:26Z'
+  identifier: c62dcd32-8588-43ea-bfad-9ab901ce55d8
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: unit_1190
+  instruments:
+  - description:
+      en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+    id: CTD_9482
+    manufacturer: Sea-Bird Scientific
+    type:
+      en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+    version: '1.2'
+  - description:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
+    id: thruster_520
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
+    version: '1.2'
+  - description:
+      en: Slocum Glider G3 1000 m oil pump
+      fr: Pompe à huile Slocum Glider G3 1000 m
+    id: bpump_836
+    manufacturer: Teledyne Webb Research
+    type:
+      en: G3 HD pump
+      fr: Pompe G3 HD
+    version: '1.2'
+  type: glider
+spatial:
+  bbox:
+  - -62.993855
+  - 43.664992
+  - -64.422868
+  - 41.779495
+  vertical:
+  - 0.0027987801004201174
+  - 910.4420166015625

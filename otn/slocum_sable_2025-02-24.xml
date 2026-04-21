@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>cb2336f2-29f5-4c43-890d-3334679c6ab9</gco:CharacterString>
+        <gco:CharacterString>6e5946f9-bc6d-46bf-b279-0d35631e94b5</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -652,7 +652,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2025-12-04T16:46:18Z</gco:DateTime>
+        <gco:DateTime>2025-12-16T13:54:40Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -662,7 +662,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2025-12-04T16:46:18Z</gco:DateTime>
+        <gco:DateTime>2025-12-16T13:54:40Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -747,10 +747,10 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>Laurentian Channel real time whale monitoring for dynamic shipping management in Gulf of St. Lawrence 2025-05-22</gco:CharacterString>
+            <gco:CharacterString>CEOTR Test Missions in Northwest Atlantic Ocean 2025-02-24</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Surveillance des baleines en temps réel dans le chenal Laurentien pour une gestion dynamique de la navigation dans le golfe du Saint-Laurent 2025-05-22</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Missions de test CEOTR dans l’océan Atlantique Nord-Ouest 2025-02-24</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -1452,10 +1452,10 @@
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>A Teledyne Webb Research Slocum G3 glider equipped with passive acoustic listening device (DMON) for a multi-month mission with an extended lithium primary battery pack. The purpose of this mission is to monitor the Gulf of Saint Lawrence shipping lane for the presence of North Atlantic right whales.</gco:CharacterString>
+        <gco:CharacterString>Short test off shore HFX to test a new platform. A Teledyne Webb Research Slocum G3(s) glider equipped with passive acoustic listening device (DMON) for a test mission offshore Halifax. The purpose of this mission is to prepare equipment for monitoring the Gulf of Saint Lawrence shipping lane for the presence of North Atlantic right whales.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">Un planeur Teledyne Webb Research Slocum G3 équipé d&#39;un dispositif d&#39;écoute acoustique passive (DMON) pour une mission de plusieurs mois avec une batterie primaire au lithium étendue. Le but de cette mission est de surveiller la voie de navigation du golfe du Saint-Laurent pour détecter la présence de baleines noires de l&#39;Atlantique Nord.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Petit test offshore HFX pour tester une nouvelle plateforme. Un planeur Teledyne Webb Research Slocum G3(s) équipé d&#39;un dispositif d&#39;écoute acoustique passive (DMON) pour une mission d&#39;essai au large d&#39;Halifax. Le but de cette mission est de préparer des équipements de surveillance de la voie de navigation du golfe du Saint-Laurent pour la présence des baleines noires de l&#39;Atlantique Nord.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
@@ -1481,16 +1481,16 @@
                 <gco:Boolean>true</gco:Boolean>
               </gex:extentTypeCode>
               <gex:westBoundLongitude>
-                <gco:Decimal>-62.958263</gco:Decimal>
+                <gco:Decimal>-63.340432</gco:Decimal>
               </gex:westBoundLongitude>
               <gex:eastBoundLongitude>
-                <gco:Decimal>-64.30066788282208</gco:Decimal>
+                <gco:Decimal>-63.399985</gco:Decimal>
               </gex:eastBoundLongitude>
               <gex:southBoundLatitude>
-                <gco:Decimal>49.326665</gco:Decimal>
+                <gco:Decimal>44.542635</gco:Decimal>
               </gex:southBoundLatitude>
               <gex:northBoundLatitude>
-                <gco:Decimal>48.899142</gco:Decimal>
+                <gco:Decimal>44.493728</gco:Decimal>
               </gex:northBoundLatitude>
             </gex:EX_GeographicBoundingBox>
           </gex:geographicElement>
@@ -1501,10 +1501,10 @@
           <gex:verticalElement>
             <gex:EX_VerticalExtent>
               <gex:minimumValue>
-                <gco:Real>1.036799972590173e-13</gco:Real>
+                <gco:Real>0.002890869975090027</gco:Real>
               </gex:minimumValue>
               <gex:maximumValue>
-                <gco:Real>357.20001220703125</gco:Real>
+                <gco:Real>59.93009948730469</gco:Real>
               </gex:maximumValue>
               <gex:verticalCRSId>
                 <mrs:MD_ReferenceSystem>
@@ -1540,8 +1540,8 @@
             <gex:EX_TemporalExtent>
               <gex:extent>
                 <gml:TimePeriod gml:id="time_period">
-                  <gml:beginPosition>2025-05-22T17:30:00.000Z</gml:beginPosition>
-                  <gml:endPosition>2025-11-26T12:00:00.000Z</gml:endPosition>
+                  <gml:beginPosition>2025-02-24T17:51:00.000Z</gml:beginPosition>
+                  <gml:endPosition>2025-02-26T15:30:00.000Z</gml:endPosition>
                 </gml:TimePeriod>
               </gex:extent>
             </gex:EX_TemporalExtent>
@@ -1744,7 +1744,7 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://erddap.oceantrack.org/erddap/tabledap/fundy_20250522_207_delayed.html</gco:CharacterString>
+                <gco:CharacterString>https://erddap.oceantrack.org/erddap/tabledap/sable_20250224_202_delayed_test.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -1794,7 +1794,7 @@
                 </cit:CI_Citation>
               </mcc:authority>
               <mcc:code>
-                <gco:CharacterString>fundy</gco:CharacterString>
+                <gco:CharacterString>sable</gco:CharacterString>
               </mcc:code>
             </mcc:MD_Identifier>
           </mac:identifier>
@@ -1808,49 +1808,12 @@
                   <mcc:authority>
                     <cit:CI_Citation>
                       <cit:title>
-                        <gco:CharacterString>Teledyne Webb Research</gco:CharacterString>
-                      </cit:title>
-                    </cit:CI_Citation>
-                  </mcc:authority>
-                  <mcc:code>
-                    <gco:CharacterString>bpump_0416</gco:CharacterString>
-                  </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>1.2</gco:CharacterString>
-                  </mcc:version>
-                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>Slocum Glider G3 350 m oil pump</gco:CharacterString>
-                    <lan:PT_FreeText>
-                      <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">Pompe à huile Slocum Glider G3 350 m</lan:LocalisedCharacterString>
-                      </lan:textGroup>
-                    </lan:PT_FreeText>
-                  </mcc:description>
-                </mcc:MD_Identifier>
-              </mac:identifier>
-              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>Slocum Glider G3 350 m oil pump</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Pompe à huile Slocum Glider G3 350 m</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </mac:type>
-            </mac:MI_Instrument>
-          </mac:instrument>
-          <mac:instrument>
-            <mac:MI_Instrument>
-              <mac:identifier>
-                <mcc:MD_Identifier>
-                  <mcc:authority>
-                    <cit:CI_Citation>
-                      <cit:title>
                         <gco:CharacterString>InnovaSea Systems Inc.</gco:CharacterString>
                       </cit:title>
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>hydrophones_1282450</gco:CharacterString>
+                    <gco:CharacterString>hydrophones_1360674</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
                     <gco:CharacterString>1.2</gco:CharacterString>
@@ -1882,12 +1845,123 @@
                   <mcc:authority>
                     <cit:CI_Citation>
                       <cit:title>
+                        <gco:CharacterString>Woods Hole Oceanographic Institution</gco:CharacterString>
+                      </cit:title>
+                    </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>hydrophones_058B</gco:CharacterString>
+                  </mcc:code>
+                  <mcc:version>
+                    <gco:CharacterString>1.2</gco:CharacterString>
+                  </mcc:version>
+                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>digital acoustic monitoring instrument</gco:CharacterString>
+                    <lan:PT_FreeText>
+                      <lan:textGroup>
+                        <lan:LocalisedCharacterString locale="#fr">instrument numérique de surveillance acoustique</lan:LocalisedCharacterString>
+                      </lan:textGroup>
+                    </lan:PT_FreeText>
+                  </mcc:description>
+                </mcc:MD_Identifier>
+              </mac:identifier>
+              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>dmon2</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup>
+                    <lan:LocalisedCharacterString locale="#fr">démon2</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </mac:type>
+            </mac:MI_Instrument>
+          </mac:instrument>
+          <mac:instrument>
+            <mac:MI_Instrument>
+              <mac:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      <cit:title>
                         <gco:CharacterString>Teledyne Webb Research</gco:CharacterString>
                       </cit:title>
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>thruster_058</gco:CharacterString>
+                    <gco:CharacterString>bpump_850</gco:CharacterString>
+                  </mcc:code>
+                  <mcc:version>
+                    <gco:CharacterString>1.2</gco:CharacterString>
+                  </mcc:version>
+                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>Slocum Glider G3 350 m oil pump</gco:CharacterString>
+                    <lan:PT_FreeText>
+                      <lan:textGroup>
+                        <lan:LocalisedCharacterString locale="#fr">Pompe à huile Slocum Glider G3 350 m</lan:LocalisedCharacterString>
+                      </lan:textGroup>
+                    </lan:PT_FreeText>
+                  </mcc:description>
+                </mcc:MD_Identifier>
+              </mac:identifier>
+              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Slocum Glider G3 350 m oil pump</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup>
+                    <lan:LocalisedCharacterString locale="#fr">Pompe à huile Slocum Glider G3 350 m</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </mac:type>
+            </mac:MI_Instrument>
+          </mac:instrument>
+          <mac:instrument>
+            <mac:MI_Instrument>
+              <mac:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      <cit:title>
+                        <gco:CharacterString>RBR Ltd</gco:CharacterString>
+                      </cit:title>
+                    </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>CTD_231026</gco:CharacterString>
+                  </mcc:code>
+                  <mcc:version>
+                    <gco:CharacterString>1.2</gco:CharacterString>
+                  </mcc:version>
+                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>RBR Legato3 CTD</gco:CharacterString>
+                    <lan:PT_FreeText>
+                      <lan:textGroup>
+                        <lan:LocalisedCharacterString locale="#fr">RBR Legato3 CTD</lan:LocalisedCharacterString>
+                      </lan:textGroup>
+                    </lan:PT_FreeText>
+                  </mcc:description>
+                </mcc:MD_Identifier>
+              </mac:identifier>
+              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>RBRLegato unpumped CTD</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup>
+                    <lan:LocalisedCharacterString locale="#fr">RBRLegato CTD non pompé</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </mac:type>
+            </mac:MI_Instrument>
+          </mac:instrument>
+          <mac:instrument>
+            <mac:MI_Instrument>
+              <mac:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      <cit:title>
+                        <gco:CharacterString>Teledyne Webb Research</gco:CharacterString>
+                      </cit:title>
+                    </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>thruster_557</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
                     <gco:CharacterString>1.2</gco:CharacterString>
@@ -1907,82 +1981,6 @@
                 <lan:PT_FreeText>
                   <lan:textGroup>
                     <lan:LocalisedCharacterString locale="#fr">Propulseur hybride Slocum Glider</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </mac:type>
-            </mac:MI_Instrument>
-          </mac:instrument>
-          <mac:instrument>
-            <mac:MI_Instrument>
-              <mac:identifier>
-                <mcc:MD_Identifier>
-                  <mcc:authority>
-                    <cit:CI_Citation>
-                      <cit:title>
-                        <gco:CharacterString>RBR Ltd</gco:CharacterString>
-                      </cit:title>
-                    </cit:CI_Citation>
-                  </mcc:authority>
-                  <mcc:code>
-                    <gco:CharacterString>CTD_205221</gco:CharacterString>
-                  </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>1.2</gco:CharacterString>
-                  </mcc:version>
-                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>RBR Legato3 CTD</gco:CharacterString>
-                    <lan:PT_FreeText>
-                      <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">RBR Legato3 CTD</lan:LocalisedCharacterString>
-                      </lan:textGroup>
-                    </lan:PT_FreeText>
-                  </mcc:description>
-                </mcc:MD_Identifier>
-              </mac:identifier>
-              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>RBRlegato unpumped CTD</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">RBRlegato CTD non pompé</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </mac:type>
-            </mac:MI_Instrument>
-          </mac:instrument>
-          <mac:instrument>
-            <mac:MI_Instrument>
-              <mac:identifier>
-                <mcc:MD_Identifier>
-                  <mcc:authority>
-                    <cit:CI_Citation>
-                      <cit:title>
-                        <gco:CharacterString>Woods Hole Oceanographic Institution</gco:CharacterString>
-                      </cit:title>
-                    </cit:CI_Citation>
-                  </mcc:authority>
-                  <mcc:code>
-                    <gco:CharacterString>hydrophones_047</gco:CharacterString>
-                  </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>1.2</gco:CharacterString>
-                  </mcc:version>
-                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>digital acoustic monitoring instrument</gco:CharacterString>
-                    <lan:PT_FreeText>
-                      <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">instrument numérique de surveillance acoustique</lan:LocalisedCharacterString>
-                      </lan:textGroup>
-                    </lan:PT_FreeText>
-                  </mcc:description>
-                </mcc:MD_Identifier>
-              </mac:identifier>
-              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>DMON2- Payload Integrated System
-SO-A81</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">DMON2- Système intégré de charge utile
-SO-A81</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>

@@ -1,0 +1,117 @@
+contact:
+- inCitation: true
+  individual:
+    name: Lennox, Robert
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 6375 Edzell Castle Cir
+    country: Canada
+    email: otndc@dal.ca
+    name: Ocean Tracking Network
+    url: https://oceantrackingnetwork.org/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+  - funder
+distribution:
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://erddap.oceantrack.org/erddap/tabledap/sambro_20250403_205_delayed_test.html
+identification:
+  abstract:
+    en: Short test offshore HFX to test platform after repair. We also tested the
+      integration of an Ocean Sonics icListen hydrophone. The icListen was wired into
+      the science bay as a logger (power on and power off functions only).
+    fr: Court test offshore HFX pour tester la plateforme après réparation. Nous avons
+      également testé l'intégration d'un hydrophone Ocean Sonics icListen. L'icListen
+      a été connecté à la baie scientifique en tant qu'enregistreur (fonctions de
+      mise sous et hors tension uniquement).
+  acknowledgement:
+    en: This deployment is supported by funding from the Canada Foundation for Innovation
+      through the Ocean Tracking Network. Additional logistical support was provided
+      by the Ocean Frontiers Institute.
+    fr: Ce déploiement est soutenu par le financement de la Fondation canadienne pour
+      l'innovation par l'intermédiaire de l'Ocean Tracking Network. Un soutien logistique
+      supplémentaire a été fourni par l'Ocean Frontiers Institute.
+  dates:
+    creation: '2026-04-16'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      fr:
+      - Salinité souterraine
+      - Température du sous-sol
+  progress_code: completed
+  status: published
+  temporal_begin: '2025-04-03T13:26:00.000Z'
+  temporal_end: '2025-04-03T16:35:00.000Z'
+  title:
+    en: HFX in Northwest Atlantic Ocean 2025-04-03
+    fr: HFX dans l'océan Atlantique Nord-Ouest 2025-04-03
+metadata:
+  dates:
+    publication: '2025-10-10T19:32:53Z'
+    revision: '2025-10-10T19:32:53Z'
+  identifier: 366fcef6-a0a0-4637-9f73-ad4e520d15d2
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: sambro
+  instruments:
+  - description:
+      en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+    id: CTD_9405
+    manufacturer: Sea-Bird Scientific
+    type:
+      en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+    version: '1.2'
+  - description:
+      en: Slocum Glider G2 200 m piston pump
+      fr: Pompe à piston Slocum Glider G2 200 m
+    id: bpump_0111
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider G2 200 m piston pump
+      fr: Pompe à piston Slocum Glider G2 200 m
+    version: '1.2'
+  - description:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
+    id: thruster_CE01
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
+    version: '1.2'
+  type: glider
+spatial:
+  bbox:
+  - -63.371383
+  - 44.514073
+  - -63.379003
+  - 44.504765
+  vertical:
+  - 0.0056077102199196815
+  - 50.34510040283203

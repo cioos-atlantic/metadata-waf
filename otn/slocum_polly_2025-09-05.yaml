@@ -1,0 +1,148 @@
+contact:
+- inCitation: true
+  individual:
+    name: Musgrave, Ruth
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 6375 Edzell Castle Cir
+    country: Canada
+    email: otndc@dal.ca
+    name: Ocean Tracking Network
+    url: https://oceantrackingnetwork.org/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+  - funder
+distribution:
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://erddap.oceantrack.org/erddap/tabledap/polly_20250905_215_delayed.html
+identification:
+  abstract:
+    en: A Teledyne Webb Research Slocum G3s glider was deployed on the Scotian Shelf
+      in the Northwest Atlantic Ocean equipped with an InnovaSea VMT, RBR Legato CTD,
+      and Rockland Scientific MicroRider to monitor oceanic conditions in a transect
+      along the Halifax Line.
+    fr: Un planeur Teledyne Webb Research Slocum G3s a été déployé sur le plateau
+      néo-écossais dans l'océan Atlantique nord-ouest, équipé d'un VMT InnovaSea,
+      d'un RBR Legato CTD et d'un Rockland Scientific MicroRider pour surveiller les
+      conditions océaniques dans un transect le long de la ligne Halifax.
+  acknowledgement:
+    en: This deployment is supported by funding from the Canada Foundation for Innovation
+      through the Ocean Tracking Network. Additional logistical support was provided
+      by the Ocean Frontiers Institute.
+    fr: Ce déploiement est soutenu par le financement de la Fondation canadienne pour
+      l'innovation par l'intermédiaire de l'Ocean Tracking Network. Un soutien logistique
+      supplémentaire a été fourni par l'Ocean Frontiers Institute.
+  dates:
+    creation: '2026-04-16'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - acousticTagReceiver
+      fr:
+      - Salinité souterraine
+      - Température du sous-sol
+      - acoustiqueTagReceiver
+  progress_code: completed
+  status: published
+  temporal_begin: '2025-09-05T13:13:00.000Z'
+  temporal_end: '2025-10-03T13:00:00.000Z'
+  title:
+    en: Halifax Line Monitoring in Northwest Atlantic Ocean 2025-09-05
+    fr: Surveillance de la ligne Halifax dans le nord-ouest de l'océan Atlantique
+      2025-09-05
+metadata:
+  dates:
+    publication: '2025-10-24T19:24:56Z'
+    revision: '2025-10-24T19:24:56Z'
+  identifier: 196c45f7-8db5-460c-8a1a-d60e40656ca3
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: polly
+  instruments:
+  - description:
+      en: Slocum Glider G3 200 m piston pump
+      fr: Pompe à piston Slocum Glider G3 200 m
+    id: bpump_0111
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider G3 200 m piston pump
+      fr: Pompe à piston Slocum Glider G3 200 m
+    version: '1.2'
+  - description:
+      en: Rockland Scientific MicroRider-1000 turbulence microstructure profiler
+      fr: Profileur de microstructure de turbulence Rockland Scientific MicroRider-1000
+    id: MicroRider-1000_470
+    manufacturer: Rockland Scientific
+    type:
+      en: Modular Turbulence Profiler
+      fr: Profileur de turbulence modulaire
+    version: '1.2'
+  - description:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    id: hydrophones_1360668
+    manufacturer: InnovaSea Systems Inc.
+    type:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    version: '1.2'
+  - description:
+      en: RBR Legato3 CTD
+      fr: RBR Legato3 CTD
+    id: CTD_237044
+    manufacturer: RBR Ltd
+    type:
+      en: RBRLegato unpumped CTD
+      fr: RBRLegato CTD non pompé
+    version: '1.2'
+  - description:
+      en: WET Labs {Sea-Bird WETLabs} Triplet sensor
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+    id: fluorometers_6496
+    manufacturer: Sea-Bird Scientific
+    type:
+      en: WET Labs {Sea-Bird WETLabs} Triplet sensor
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+    version: '1.2'
+  - description:
+      en: WET Labs {Sea-Bird WETLabs} Triplet sensor
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+    id: fluorometers_00017
+    manufacturer: Sea-Bird Scientific
+    type:
+      en: WET Labs {Sea-Bird WETLabs} Triplet sensor
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+    version: '1.2'
+  type: glider
+spatial:
+  bbox:
+  - -62.01229
+  - 44.52673
+  - -63.40628771428572
+  - 42.930133
+  vertical:
+  - 0.002721040043979883
+  - 205.5489959716797

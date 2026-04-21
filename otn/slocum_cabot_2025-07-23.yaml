@@ -1,0 +1,171 @@
+contact:
+- inCitation: true
+  individual:
+    name: Davies, Kim
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 6375 Edzell Castle Cir
+    country: Canada
+    email: otndc@dal.ca
+    name: Ocean Tracking Network
+    url: https://oceantrackingnetwork.org/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+  - funder
+- inCitation: true
+  organization:
+    name: University of New Brunswick
+  roles:
+  - funder
+distribution:
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://erddap.oceantrack.org/erddap/tabledap/cabot_20250723_213_delayed.html
+identification:
+  abstract:
+    en: This glider was prepared with an ASL AZFP, WIlliamson Shadowgraph camera,
+      Seabird ecopuck, Seabird pumped CTD, and Innovasea VMT mounted. It was deployed
+      around a pod of North Atlantic Right Whales to collect environmental data to
+      be validated against ship-based oceanographic sampling occurring along side
+      glider
+    fr: Ce planeur a été préparé avec un ASL AZFP, une caméra WIlliamson Shadowgraph,
+      un ecopuck Seabird, un CTD pompé Seabird et un Innovasea VMT monté. Il a été
+      déployé autour d'un groupe de baleines noires de l'Atlantique Nord pour collecter
+      des données environnementales à valider par rapport à un échantillonnage océanographique
+      effectué à bord d'un navire le long d'un planeur.
+  acknowledgement:
+    en: The study was funded by the Ocean Tracking Network in collaboration with Kim
+      Davies at the University of New Brunswick. The Ocean Tracking Network led this
+      project and their glider team expertly prepared, deployed, piloted and recovered
+      the gliders. The Williamson Shadowgraph camera was loaned to the Ocean Tracking
+      Network by Kim Davies at the University of New Brunswick. Additional logistical
+      support was provided by the Ocean Frontiers Institute. Thank you to the vessel
+      captains who supported deployment and recovery.
+    fr: L'étude a été financée par l'Ocean Tracking Network en collaboration avec
+      Kim Davies de l'Université du Nouveau-Brunswick. L'Ocean Tracking Network a
+      dirigé ce projet et son équipe de planeurs a préparé, déployé, piloté et récupéré
+      les planeurs de manière experte. La caméra Williamson Shadowgraph a été prêtée
+      à l'Ocean Tracking Network par Kim Davies de l'Université du Nouveau-Brunswick.
+      Un soutien logistique supplémentaire a été fourni par l'Ocean Frontiers Institute.
+      Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.
+  dates:
+    creation: '2026-04-16'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - acousticTagReceiver
+      fr:
+      - Salinité souterraine
+      - Température du sous-sol
+      - acoustiqueTagReceiver
+  progress_code: completed
+  status: published
+  temporal_begin: '2025-07-23T14:37:00.000Z'
+  temporal_end: '2025-07-29T14:18:00.000Z'
+  title:
+    en: Davies GOSL Research Cruise in Gulf of St. Lawrence 2025-07-23
+    fr: Croisière de recherche Davies GOSL dans le golfe du Saint-Laurent 2025-07-23
+metadata:
+  dates:
+    publication: '2025-08-18T18:05:35Z'
+    revision: '2025-08-18T18:05:35Z'
+  identifier: 12644bb8-ef07-4c61-91e7-660b02a1842c
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+  id: cabot
+  instruments:
+  - description:
+      en: Slocum Glider G3 200 m piston pump
+      fr: Pompe à piston Slocum Glider G3 200 m
+    id: bpump_0108
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider G3 200 m piston pump
+      fr: Pompe à piston Slocum Glider G3 200 m
+    version: '1.2'
+  - description:
+      en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+    id: CTD_9411
+    manufacturer: Sea-Bird Scientific
+    type:
+      en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+    version: '1.2'
+  - description:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
+    id: thruster_0298
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Assey 302409 rev c
+      fr: Assey 302409 rév. c
+    version: '1.2'
+  - description:
+      en: ASL AZFP Acoustic Zooplankton Fish Profiler
+      fr: Profileur acoustique de poissons de zooplancton ASL AZFP
+    id: acoustic_backscatter_sensors_59016
+    manufacturer: ASL Environmental Sciences
+    type:
+      en: ASL AZFP Acoustic Zooplankton Fish Profiler
+      fr: Profileur acoustique de poissons de zooplancton ASL AZFP
+    version: '1.2'
+  - description:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    id: hydrophones_1360674
+    manufacturer: InnovaSea Systems Inc.
+    type:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    version: '1.2'
+  - description:
+      en: Williamson Shadowgraph Camera
+      fr: Caméra Williamson Shadowgraph
+    id: cameras_012
+    manufacturer: Williamson & Associates
+    type:
+      en: Williamson Shadowgraph Camera
+      fr: Caméra Williamson Shadowgraph
+    version: '1.2'
+  - description:
+      en: WET Labs {Sea-Bird WETLabs} Triplet sensor
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+    id: fluorometers_3114
+    manufacturer: Sea-Bird Scientific
+    type:
+      en: WET Labs {Sea-Bird WETLabs} Triplet sensor
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+    version: '1.2'
+  type: glider
+spatial:
+  bbox:
+  - -64.061438
+  - 47.65623
+  - -64.195885
+  - 47.5627
+  vertical:
+  - 0.002756719943135977
+  - 75.3136978149414
