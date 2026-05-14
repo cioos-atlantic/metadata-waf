@@ -1,0 +1,125 @@
+contact:
+- inCitation: true
+  individual:
+    email: acisternasno@mun.ca
+    name: Cisternas-Novoa, Carolina
+    orcid: https://orcid.org/0000-0002-5900-1070
+  organization:
+    city: St. John's
+    country: Canada
+    name: Memorial University
+    ror: https://ror.org/04haebc03
+    url: https://mun.ca
+  roles:
+  - owner
+  - custodian
+  - author
+  - distributor
+distribution:
+- name:
+    en: CIOOS Atlantic ERDDAP link
+    fr: Lien vers l'ERDDAP du COOS pour l'Atlantique
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://cioosatlantic.ca/erddap/tabledap/mun_osc_susp_sink_particle_comp_lab_sea_spr2022.html
+identification:
+  abstract:
+    en: This dataset comprises of measurements of Particulate Organic Carbon (POC),
+      Particulate Nitrogen (PN), Transparent Exopolymer Particles (TEP), Coomassie
+      Stainable Particles (CSP), Particulate Hydrolysable Amino Acids (PHAA), Biogenic
+      Silicate (BSi), and Particulate Inorganic Carbon (PIC) in suspended and sinking
+      particles at multiple depths during a Phaeocystis bloom in the Labrador Sea
+      from 1st to 31st May 2022.
+    fr: "Cet ensemble de donn\xE9es comprend des mesures du carbone organique particulaire\
+      \ (POC), de l'azote particulaire (PN), des particules d'exopolym\xE8re transparent\
+      \ (TEP), des particules colorables de Coomassie (CSP), des acides amin\xE9s\
+      \ hydrolysables par particules (PHAA), du silicate biog\xE9nique (BSi) et du\
+      \ carbone inorganique particulaire (PIC) dans des particules en suspension et\
+      \ coulant \xE0 plusieurs profondeurs lors d'une prolif\xE9ration de pha\xE9\
+      ocystes dans la mer du Labrador du 1er au 31 mai 2022."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '2022-05-01'
+  edition: 1.0.0
+  keywords:
+    default:
+      en:
+      - particle composition
+      - labrador sea
+      - phaeocystis bloom
+      - inorganic carbon
+      - particulate inorganic carbon
+      - particulate organic carbon
+      - organic carbon
+      - particulate nitrogen
+      - nitrogen
+      - transparent exopolymer particles
+      - coomassie stainable particles
+      - particulate hydrolysable amino acids
+      - biogenic silicate
+      - particulate matter
+      - phytoplankton biomass and diversity
+      - north atlantic ocean
+    eov:
+      en:
+      - inorganicCarbon
+      - particulateMatter
+      - phytoplanktonBiomassAndDiversity
+      fr:
+      - Carbone inorganique
+      - "Mati\xE8re particulaire"
+      - "Biomasse et diversit\xE9 de phytoplancton"
+  progress_code: completed
+  status: published
+  temporal_begin: '2022-05-01T15:00:00.000Z'
+  temporal_end: '2022-06-02T14:30:00.000Z'
+  title:
+    en: Suspended and sinking particle composition in the Labrador Sea in Spring 2022
+    fr: Composition des particules en suspension et en train de couler dans la mer
+      du Labrador au printemps 2022
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+metadata:
+  dates:
+    publication: '2026-05-07'
+    revision: '2026-05-06T19:51:13.718Z'
+  history:
+  - scope: Dataset
+    statement:
+      en: MSC  particle collection; biogeochemical analyses of POC, PN, TEP, CSP,
+        PHAA, BSi, PIC.
+  identifier: a3cf18b4-5bae-4ce4-b274-6498db8c8ebc
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/scWs81XqQOe4fDaP4ekYQBOM2TD2/-Oimdyl2_bWXStveyr9X
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+- id: BELAS-1
+  instruments: []
+  type: ship
+spatial:
+  bbox:
+  - -55.0
+  - 56.0
+  - -45.0
+  - 60.0
+  vertical:
+  - 60.0
+  - 500.0
+  vertical_positive: heightPositive
