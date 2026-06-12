@@ -1,0 +1,164 @@
+contact:
+- inCitation: false
+  individual:
+    email: Chantelle.Layton@dfo-mpo.gc.ca
+    name: Layton, Chantelle
+    orcid: https://orcid.org/0000-0002-3199-5763
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+- inCitation: true
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - owner
+  - distributor
+distribution:
+- description:
+    en: ERDDAP data access form
+    fr: "Formulaire d'acc\xE8s aux donn\xE9es ERDDAP"
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+  name:
+    en: ERDDAP Dataset
+    fr: "Ensemble de donn\xE9es ERDDAP"
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_maritimes_glider_LaHaveSEA032_20210914.html
+identification:
+  abstract:
+    en: The Atlantic Zone Monitoring Program (AZMP) was implemented in year 1998 by
+      the four Atlantic regions of Fisheries and Oceans Canada to collect and analyze
+      the biological, chemical, and physical oceanographic field data to characterize
+      and understand the causes of oceanic variability at various time scales, provide
+      multidisciplinary datasets to establish relationships among variables, and provide
+      adequate data to support the development of ocean activities. Ocean gliders
+      were first acquired by Fisheries and Oceans Canada in year 2017 and 2018 for
+      both the West and East coasts. On the East coast, they have been used to monitor
+      hydrographic sections associated with the AZMP. Here, Emerald Basin was surveyed
+      in support of the Cetacean Passive Acoustic Monitoring Glider Project.
+    fr: "Le Programme de surveillance de la zone atlantique (AZMP) a \xE9t\xE9 mis\
+      \ en \u0153uvre en 1998 par les quatre r\xE9gions atlantiques de P\xEAches et\
+      \ Oc\xE9ans Canada afin de recueillir et d'analyser des donn\xE9es oc\xE9anographiques\
+      \ biologiques, chimiques et physiques sur le terrain pour caract\xE9riser et\
+      \ comprendre les causes de la variabilit\xE9 oc\xE9anique \xE0 diff\xE9rentes\
+      \ \xE9chelles de temps, fournir des ensembles de donn\xE9es multidisciplinaires\
+      \ pour \xE9tablir des relations entre les variables et fournir des donn\xE9\
+      es ad\xE9quates pour soutenir le d\xE9veloppement des activit\xE9s oc\xE9aniques.\
+      \ Les planeurs oc\xE9aniques ont \xE9t\xE9 acquis pour la premi\xE8re fois par\
+      \ P\xEAches et Oc\xE9ans Canada en 2017 et 2018 pour les c\xF4tes ouest et est.\
+      \ Sur la c\xF4te est, ils ont \xE9t\xE9 utilis\xE9s pour surveiller les sections\
+      \ hydrographiques associ\xE9es \xE0 l'AZMP. Ici, le bassin d'\xC9meraude a \xE9\
+      t\xE9 \xE9tudi\xE9 dans le cadre du projet de planeur de surveillance acoustique\
+      \ passive des c\xE9tac\xE9s."
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '2021-09-14'
+  keywords:
+    default:
+      en:
+      - autonomous underwater vehicles
+      - chlorophyll a
+      - water pressure
+      - water temperature
+      - salinity
+      - conductivity
+      fr:
+      - chlorophylle a
+      - "temp\xE9rature de l'eau"
+      - "salinit\xE9"
+    eov:
+      en:
+      - oxygen
+      - other
+      - seaSurfaceTemperature
+      - seaSurfaceSalinity
+      - subSurfaceSalinity
+      - subSurfaceTemperature
+      - phytoplanktonBiomassAndDiversity
+      fr:
+      - "Oxyg\xE8ne"
+      - Autre
+      - "Temp\xE9rature de surface"
+      - "Salinit\xE9 de surface"
+      - "Salinit\xE9 sous la surface"
+      - "Temp\xE9rature sous la surface"
+      - "Biomasse et diversit\xE9 de phytoplancton"
+  progress_code: completed
+  status: published
+  temporal_begin: '2021-09-14T15:00:00.000Z'
+  temporal_end: '2021-10-05T15:00:00.000Z'
+  title:
+    en: Maritimes Region Glider Delayed Mode Data LaHave-SEA032 Emerald Basin 20210914
+    fr: "Donn\xE9es en mode diff\xE9r\xE9 du planeur de la r\xE9gion des Maritimes\
+      \ LaHave-SEA032 Emerald Basin 20210914"
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+metadata:
+  dates:
+    publication: '2026-06-11'
+    revision: '2026-06-12T15:34:51.453Z'
+  history: []
+  identifier: aa533a5f-5cab-4922-a01b-357a408a4b09
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/BO44nes72kfY5CVJDWsF9OFXFQk1/-OtjWRtXRutY14fTTeut
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Haven't applied QC on the data.
+platform:
+- description:
+    en: LaHave-SEA032
+  id: 18GV
+  instrumentID: -Oq6kJ195Dj0UuCV6jYD
+  instruments:
+  - id: '4546'
+    instrumentID: -OtZbQqYQnzm1EVdqFxN
+    manufacturer: WET Labs
+    type:
+      en: fluorometers
+    version: WET Labs ECO FLBBCD
+  - id: '205045'
+    instrumentID: -OtjXSy5_id5zu0h8FtK
+    manufacturer: RBR
+    type:
+      en: ctd
+    version: RBR Legato3
+  platformID: -Oq6kJ195Dj0UuCV6jYD
+  type: sub-surface gliders
+spatial:
+  bbox:
+  - -63.45405
+  - 43.45298
+  - -62.65115
+  - 44.52585
+  vertical:
+  - 0.0
+  - 266.0
+  vertical_positive: depthPositive
