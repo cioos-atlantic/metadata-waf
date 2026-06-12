@@ -1,0 +1,171 @@
+contact:
+- inCitation: false
+  individual:
+    email: Chantelle.Layton@dfo-mpo.gc.ca
+    name: Layton, Chantelle
+    orcid: https://orcid.org/0000-0002-3199-5763
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+- inCitation: true
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - owner
+  - distributor
+distribution:
+- description:
+    en: ERDDAP data access form
+    fr: "Formulaire d'acc\xE8s aux donn\xE9es ERDDAP"
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+  name:
+    en: ERDDAP Dataset
+    fr: "Ensemble de donn\xE9es ERDDAP"
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_maritimes_glider_MerseySEA022_20200724.html
+identification:
+  abstract:
+    en: The Atlantic Zone Monitoring Program (AZMP) was implemented in year 1998 by
+      the four Atlantic regions of Fisheries and Oceans Canada to collect and analyze
+      the biological, chemical, and physical oceanographic field data to characterize
+      and understand the causes of oceanic variability at various time scales, provide
+      multidisciplinary datasets to establish relationships among variables, and provide
+      adequate data to support the development of ocean activities. Ocean gliders
+      were first acquired by Fisheries and Oceans Canada in year 2017 and 2018 for
+      both the West and East coasts. On the East coast, they have been used to monitor
+      hydrographic sections associated with the AZMP. Here, the AZMP Bonavista Bay
+      transect is occupied from outside the mouth of Bonavista Bay, Newfoundland Canada
+      at (48.733N, 52.967W) in the off-shelf direction approximately 150 nautical
+      miles to the continental slope at (49.85N, 49.5W).
+    fr: "Le Programme de surveillance de la zone atlantique (AZMP) a \xE9t\xE9 mis\
+      \ en \u0153uvre en 1998 par les quatre r\xE9gions de l\u2019Atlantique de P\xEA\
+      ches et Oc\xE9ans Canada afin de recueillir et d\u2019analyser des donn\xE9\
+      es oc\xE9anographiques biologiques, chimiques et physiques sur le terrain pour\
+      \ caract\xE9riser et comprendre les causes de la variabilit\xE9 oc\xE9anique\
+      \ \xE0 diff\xE9rentes \xE9chelles de temps, fournir des ensembles de donn\xE9\
+      es multidisciplinaires pour \xE9tablir des relations entre les variables et\
+      \ fournir des donn\xE9es ad\xE9quates pour soutenir le d\xE9veloppement des\
+      \ activit\xE9s oc\xE9aniques. Les planeurs oc\xE9aniques ont \xE9t\xE9 acquis\
+      \ pour la premi\xE8re fois par P\xEAches et Oc\xE9ans Canada en 2017 et 2018\
+      \ pour les c\xF4tes ouest et est. Sur la c\xF4te est, ils ont \xE9t\xE9 utilis\xE9\
+      s pour surveiller les sections hydrographiques associ\xE9es \xE0 l\u2019AZMP.\
+      \ Ici, la section transversale de la baie de Bonavista de l\u2019AZMP est occup\xE9\
+      e depuis l\u2019ext\xE9rieur de l\u2019embouchure de la baie de Bonavista, \xE0\
+      \ Terre-Neuve, au Canada (48,733\xB0N, 52,967\xB0O), en direction du large,\
+      \ \xE0 environ 150 milles marins du talus continental (49,85\xB0N, 49,5\xB0\
+      O)."
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '2020-07-24'
+  keywords:
+    default:
+      en:
+      - autonomous underwater vehicles
+      - water pressure
+      - conductivity
+      - salinity
+      - chlorophyll a
+      - water temperature
+      fr:
+      - "salinit\xE9"
+      - chlorophylle a
+      - "temp\xE9rature de l'eau"
+    eov:
+      en:
+      - oxygen
+      - other
+      - phytoplanktonBiomassAndDiversity
+      - seaSurfaceSalinity
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - seaSurfaceTemperature
+      fr:
+      - "Oxyg\xE8ne"
+      - Autre
+      - "Biomasse et diversit\xE9 de phytoplancton"
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
+      - "Temp\xE9rature de surface"
+  progress_code: completed
+  status: published
+  temporal_begin: '2020-07-24T15:00:00.000Z'
+  temporal_end: '2020-08-17T15:00:00.000Z'
+  title:
+    en: Maritimes Region Glider Delayed Mode Data Mersey-SEA022 Bonavista Bay 20200724
+    fr: "Donn\xE9es en mode diff\xE9r\xE9 du planeur de la r\xE9gion des Maritimes\
+      \ Mersey-SEA022 Baie de Bonavista 20200724"
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+metadata:
+  dates:
+    publication: '2026-06-11'
+    revision: '2026-06-12T15:39:13.488Z'
+  history: []
+  identifier: 675c6c2a-be8c-460b-a790-371a13922f74
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/BO44nes72kfY5CVJDWsF9OFXFQk1/-OtiNJxWIPS22n1MvFZ5
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Haven't applied QC on the data.
+platform:
+- description:
+    en: Mersey-SEA022
+  id: 18XZ
+  instrumentID: -Oq6ju_daT-CXoE9IOPh
+  instruments:
+  - id: '0241'
+    instrumentID: -OtZc3l3ngvuFfO_Gr5S
+    manufacturer: Sea-Bird Scientific
+    version: SBE GPCTD
+  - id: '0020'
+    instrumentID: -OtZblqiyYlnTwAOWRFv
+    manufacturer: JFE Advantech
+    type:
+      en: dissolved gas sensors
+    version: JFE Rinko ARO-FT
+  - id: '4739'
+    instrumentID: -OtZbuqK-kYeqg2byiVm
+    manufacturer: WET Labs
+    version: WET Labs ECO FLBBCD
+  platformID: -Oq6ju_daT-CXoE9IOPh
+  type: sub-surface gliders
+spatial:
+  bbox:
+  - -53.53625
+  - 47.8574
+  - -50.08685
+  - 49.6607
+  vertical:
+  - 0.0
+  - 562.0
+  vertical_positive: depthPositive
