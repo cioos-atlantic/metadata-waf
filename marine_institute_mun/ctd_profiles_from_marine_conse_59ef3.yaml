@@ -1,0 +1,231 @@
+contact:
+- inCitation: true
+  individual:
+    email: "Fr\xE9d\xE9ric.Cyr@mi.mun.ca"
+    name: "Cyr, Fr\xE9d\xE9ric"
+    orcid: https://orcid.org/0000-0002-1581-7502
+    position: Research Scientist
+  organization:
+    city: St. John's
+    country: Canada
+    name: Memorial University
+    ror: https://ror.org/04haebc03
+    url: https://mun.ca
+  roles:
+  - pointOfContact
+- inCitation: true
+  individual:
+    email: Martin.Dahl@mi.mun.ca
+    name: Dahl, Martin T.
+    position: Research Technologist
+  organization:
+    city: St. John's
+    country: Canada
+    name: Memorial University
+    ror: https://ror.org/04haebc03
+    url: https://mun.ca
+  roles:
+  - custodian
+- inCitation: true
+  individual:
+    email: Jonathan.Fisher@mi.mun.ca
+    name: Fisher, Jonathan A. D.
+    position: Research Scientist
+  organization:
+    city: St. John's
+    country: Canada
+    name: Memorial University
+    ror: https://ror.org/04haebc03
+    url: https://mun.ca
+  roles:
+  - owner
+  - distributor
+distribution:
+- description:
+    en: Authoritative record for this dataset.
+    fr: "Enregistrement officiel pour ce jeu de donn\xE9es."
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+  name:
+    en: FRDR Dataset
+    fr: "Ensemble de donn\xE9es FRDR"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://www.frdr-dfdr.ca/repo/dataset/c1c13d6f-4a2e-4be7-ac7c-be5efd0a173e
+identification:
+  abstract:
+    en: "This dataset includes Conductivity-Temperature-Depth (CTD) casts from various\
+      \ marine closures and offshore locations in Newfoundland & Labrador, Canada.\
+      \ Two casts from Hermitage Bay are from the same station, taken shortly before\
+      \ and after hurricane Erin past by the coast of Newfoundland. Data was collected\
+      \ using a SBE 19plus V2 seacat CTD and a WET Labs ECO-AFL/FL Fluorometer. Some\
+      \ Data includes dissolved oxygen recorded using a SBE 43 Dissolved Oxygen Sensor.\n\
+      \nThis dataset contains Conductivity-Temperature-Depth (CTD) profiles collected\
+      \ during scientific surveys conducted from 2023 to 2025 in marine conservation\
+      \ areas and offshore environments around Newfoundland and Labrador, Canada.\
+      \ Data were gathered during summer field campaigns aboard the RV Patrick and\
+      \ William under the project \u201CMonitoring and Assessment of Marine Conservation\
+      \ Areas in Newfoundland and Labrador,\u201D funded by the Oceans Management\
+      \ Contribution Program. Sampling sites include four formally designated marine\
+      \ closures (Hawke Channel, Funk Island Deep, Northeast Newfoundland Slope, and\
+      \ Division 3O Coral) as well as additional locations in Hermitage Bay and along\
+      \ the boundary of NAFO divisions 3Ps and 3L.\n\nCTD profiles were collected\
+      \ using a SBE 19plus V2 Seacat CTD equipped with a WET Labs ECO-AFL/FL fluorometer.\
+      \ In 2025, a SBE 43 oxygen sensor was added to the configuration. The CTD unit\
+      \ was deployed using a hydraulic winch from the stern of the vessel and operated\
+      \ at a descent rate of 0.5\u20131 m/s. The instrument sampled at 4 Hz and was\
+      \ held at the surface for two minutes before descent. Standard Sea-Bird data\
+      \ processing routines (v7.26.7) were applied, including conversion, alignment,\
+      \ thermal correction, and derived variable calculations. Further data formatting\
+      \ and quality checks were performed using the `oce` package in R. All files\
+      \ are provided in CSV format."
+    fr: "Cet ensemble de donn\xE9es comprend des donn\xE9es de conductivit\xE9-temp\xE9\
+      rature-profondeur (CTD) provenant de diverses fermetures marines et de sites\
+      \ extrac\xF4tiers \xE0 Terre-Neuve-et-Labrador, au Canada. Deux moulages de\
+      \ Hermitage Bay proviennent de la m\xEAme station et ont \xE9t\xE9 pris peu\
+      \ avant et apr\xE8s le passage de l'ouragan Erin sur la c\xF4te de Terre-Neuve.\
+      \ Les donn\xE9es ont \xE9t\xE9 collect\xE9es \xE0 l'aide d'un Seacat CTD SBE\
+      \ 19plus V2 et d'un fluorom\xE8tre ECO-AFL/FL de WET Labs. Certaines donn\xE9\
+      es incluent l'oxyg\xE8ne dissous enregistr\xE9 \xE0 l'aide d'une sonde \xE0\
+      \ oxyg\xE8ne dissous SBE 43.\n\nCet ensemble de donn\xE9es contient des profils\
+      \ de conductivit\xE9-temp\xE9rature-profondeur (CTD) collect\xE9s lors de relev\xE9\
+      s scientifiques men\xE9s de 2023 \xE0 2025 dans des aires marines de conservation\
+      \ et des environnements extrac\xF4tiers autour de Terre-Neuve-et-Labrador, au\
+      \ Canada. Les donn\xE9es ont \xE9t\xE9 recueillies lors de campagnes estivales\
+      \ sur le terrain \xE0 bord du RV Patrick and William dans le cadre du projet\
+      \ \xAB\_Surveillance et \xE9valuation des aires marines de conservation de Terre-Neuve-et-Labrador\_\
+      \xBB, financ\xE9 par le Programme de contribution \xE0 la gestion des oc\xE9\
+      ans. Les sites d'\xE9chantillonnage comprennent quatre zones maritimes officiellement\
+      \ ferm\xE9es (Hawke Channel, Funk Island Deep, Northeast Newfoundland Slope\
+      \ et Division 3O Coral) ainsi que d'autres sites dans la baie Hermitage et le\
+      \ long de la limite des divisions 3Ps et 3L de l'OPANO.\n\nLes profils CTD ont\
+      \ \xE9t\xE9 collect\xE9s \xE0 l'aide d'un SBE 19plus V2 Seacat CTD \xE9quip\xE9\
+      \ d'un fluorom\xE8tre ECO-AFL/FL de WET Labs. En 2025, un capteur d'oxyg\xE8\
+      ne SBE 43 a \xE9t\xE9 ajout\xE9 \xE0 la configuration. L'unit\xE9 CTD a \xE9\
+      t\xE9 d\xE9ploy\xE9e \xE0 l'aide d'un treuil hydraulique depuis la poupe du\
+      \ navire et a fonctionn\xE9 \xE0 une vitesse de descente de 0,5 \xE0 1 m/s.\
+      \ L'instrument a pr\xE9lev\xE9 des \xE9chantillons \xE0 4 Hz et a \xE9t\xE9\
+      \ maintenu \xE0 la surface pendant deux minutes avant la descente. Les routines\
+      \ standard de traitement des donn\xE9es Sea-Bird (v7.26.7) ont \xE9t\xE9 appliqu\xE9\
+      es, notamment la conversion, l'alignement, la correction thermique et les calculs\
+      \ de variables d\xE9riv\xE9es. D'autres contr\xF4les de mise en forme et de\
+      \ qualit\xE9 des donn\xE9es ont \xE9t\xE9 effectu\xE9s \xE0 l'aide du package\
+      \ \xAB\_oce\xBB dans R. Tous les fichiers sont fournis au format CSV."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '2023-07-10'
+    publication: '2025-12-23'
+  edition: '1.0'
+  identifier: https://doi.org/10.20383/103.01476
+  keywords:
+    default:
+      en:
+      - chlorophyll a
+      - salinity
+      - fluorescence
+      fr:
+      - chlorophylle a
+      - "salinit\xE9"
+      - fluorescence
+    eov:
+      en:
+      - oxygen
+      - subSurfaceSalinity
+      - oceanSound
+      - seaSurfaceSalinity
+      - subSurfaceTemperature
+      - seaSurfaceTemperature
+      fr:
+      - "Oxyg\xE8ne"
+      - "Salinit\xE9 sous la surface"
+      - "Paysage acoustique des oc\xE9ans"
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Temp\xE9rature de surface"
+  progress_code: completed
+  status: published
+  temporal_begin: '2023-07-10T14:30:00.000Z'
+  temporal_end: '2025-08-27T14:30:00.000Z'
+  title:
+    en: "CTD profiles from marine conservation areas and offshore locations around\
+      \ Newfoundland and Labrador (2023\u20132025)"
+    fr: "Profils CTD des aires marines de conservation et des sites extrac\xF4tiers\
+      \ de Terre-Neuve-et-Labrador (2023\u20142025)"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+metadata:
+  dates:
+    publication: '2026-06-01'
+    revision: '2026-06-04T17:28:26.862Z'
+  history: []
+  identifier: 59ef3bfc-ae47-4c3b-9d3d-16b75371aad1
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/VEnEzpfTmUSN12G1BMmdMZ8qW3a2/-OrxGgKPdTzeuXLlL3ST
+  naming_authority: ca.cioos
+  scope: Dataset
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+- id: RV Patrick and William
+  instruments:
+  - id: '8256'
+    manufacturer: Seabird
+    type:
+      en: CTD
+      fr: CTD
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+    version: SBE 19Plus V2 Seacat
+  - id: FLRTD-7991
+    manufacturer: WET Labs
+    type:
+      en: ECO-AFL/FL Fluorometer
+      fr: "Fluorom\xE8tre ECO-AFL/FL"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  - id: 43-4679
+    manufacturer: Seabird
+    type:
+      en: Oxygen sensor
+      fr: "Sonde d'oxyg\xE8ne"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+    version: '43.2211'
+  type: ship
+spatial:
+  bbox:
+  - -56.474321
+  - 43.761665
+  - -48.169104
+  - 53.332325
+  descriptionIdentifier: e9606227-de0b-4054-bee7-594694a2be4a
+  vertical:
+  - 3.0
+  - 2458.0
+  vertical_positive: depthPositive
