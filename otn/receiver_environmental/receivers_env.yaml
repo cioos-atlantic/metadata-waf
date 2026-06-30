@@ -65,7 +65,6 @@ identification:
       - autre
   status: onGoing
   temporal_begin: '2012-06-03T00:00:00.000Z'
-  temporal_end: now
   title:
     en: Ocean Tracking Network - Acoustic Receiver Temperature Logs 
     fr: Ocean Tracking Network - Enregistrements de température des récepteurs acoustiques

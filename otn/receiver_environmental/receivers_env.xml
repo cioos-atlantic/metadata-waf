@@ -1445,7 +1445,7 @@
               <gex:extent>
                 <gml:TimePeriod gml:id="time_period">
                   <gml:beginPosition>2012-06-03T00:00:00.000Z</gml:beginPosition>
-                  <gml:endPosition>now</gml:endPosition>
+                  <gml:endPosition indeterminatePosition="now" />
                 </gml:TimePeriod>
               </gex:extent>
             </gex:EX_TemporalExtent>
