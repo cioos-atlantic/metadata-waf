@@ -37,7 +37,7 @@ distribution:
 - description:
     en: High resolution ERDDAP datasets
     fr: Ensembles de données ERDDAP haute résolution
-  url: https://erddap.oceantrack.org/erddap/tabledap/sable_20250522_208_delayed.html
+  url: https://erddap.oceantrack.org/erddap/tabledap/scotia_20250623_210_delayed.html
 identification:
   abstract:
     en: A Teledyne Webb Research Slocum G3(s) glider equipped with passive acoustic
@@ -68,7 +68,7 @@ identification:
       a été fourni par l'Ocean Frontiers Institute. Merci aux capitaines des navires
       qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-04-16'
+    creation: '2025-12-04'
   keywords:
     eov:
       en:
@@ -83,18 +83,18 @@ identification:
       - acoustiqueTagReceiver
   progress_code: completed
   status: published
-  temporal_begin: '2025-05-22T15:50:00.000Z'
-  temporal_end: '2025-06-23T16:03:03.000Z'
+  temporal_begin: '2025-06-23T13:05:10.000Z'
+  temporal_end: '2025-11-26T13:40:00.000Z'
   title:
     en: Laurentian Channel real time whale monitoring for dynamic shipping management
-      in Gulf of St. Lawrence 2025-05-22
+      in Gulf of St. Lawrence 2025-06-23
     fr: Surveillance des baleines en temps réel dans le chenal Laurentien pour une
-      gestion dynamique de la navigation dans le golfe du Saint-Laurent 2025-05-22
+      gestion dynamique de la navigation dans le golfe du Saint-Laurent 2025-06-23
 metadata:
   dates:
-    publication: '2025-12-15T20:52:13Z'
-    revision: '2025-12-15T20:52:13Z'
-  identifier: 94984905-5a24-496f-800a-6131bbc7007d
+    publication: '2025-12-04T23:24:31Z'
+    revision: '2026-06-30T13:14:48Z'
+  identifier: 9240a1d4-fee3-59a3-a36d-4a6c68878bfa
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -105,30 +105,12 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: sable
+- id: scotia
   instruments:
-  - description:
-      en: Vemco Mobile Transceiver
-      fr: Émetteur-récepteur mobile Vemco
-    id: hydrophones_1360674
-    manufacturer: InnovaSea Systems Inc.
-    type:
-      en: Vemco Mobile Transceiver
-      fr: Émetteur-récepteur mobile Vemco
-    version: '1.2'
-  - description:
-      en: digital acoustic monitoring instrument
-      fr: instrument numérique de surveillance acoustique
-    id: hydrophones_058B
-    manufacturer: Woods Hole Oceanographic Institution
-    type:
-      en: dmon2
-      fr: démon2
-    version: '1.2'
   - description:
       en: Slocum Glider G3 350 m oil pump
       fr: Pompe à huile Slocum Glider G3 350 m
-    id: bpump_850
+    id: bpump_647
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider G3 350 m oil pump
@@ -137,16 +119,34 @@ platform:
   - description:
       en: RBR Legato3 CTD
       fr: RBR Legato3 CTD
-    id: CTD_231026
+    id: CTD_207520
     manufacturer: RBR Ltd
     type:
-      en: RBRLegato unpumped CTD
-      fr: RBRLegato CTD non pompé
+      en: "Legato 1000m\r\nRBRlegato unpumped CTD"
+      fr: "Legato 1000m\r\nRBRlegato CTD non pompé"
+    version: '1.2'
+  - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument numérique de surveillance acoustique
+    id: hydrophones_058
+    manufacturer: Woods Hole Oceanographic Institution
+    type:
+      en: "DMON2- Payload Integrated System\r\nSO-A81"
+      fr: "DMON2- Système intégré de charge utile\r\nSO-A81"
+    version: '1.2'
+  - description:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    id: hydrophones_1360646
+    manufacturer: InnovaSea Systems Inc.
+    type:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
     version: '1.2'
   - description:
       en: Slocum Glider Hybrid Thruster
       fr: Propulseur hybride Slocum Glider
-    id: thruster_557
+    id: thruster_517
     manufacturer: Teledyne Webb Research
     type:
       en: Slocum Glider Hybrid Thruster
@@ -155,10 +155,10 @@ platform:
   type: glider
 spatial:
   bbox:
-  - -63.686905
-  - 49.745917
-  - -65.029587
-  - 49.14492
+  - -63.969482
+  - 49.623319732905976
+  - -65.051438
+  - 49.006425
   vertical:
-  - 0.0028852398972958326
-  - 357.4410095214844
+  - 0.002879830077290535
+  - 355.65399169921875

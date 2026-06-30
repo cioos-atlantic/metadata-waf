@@ -45,7 +45,7 @@ identification:
       l'innovation par l'intermédiaire de l'Ocean Tracking Network. Un soutien logistique
       supplémentaire a été fourni par l'Ocean Frontiers Institute.
   dates:
-    creation: '2026-04-16'
+    creation: '2025-10-10'
   keywords:
     eov:
       en:
@@ -64,8 +64,8 @@ identification:
 metadata:
   dates:
     publication: '2025-10-10T19:32:53Z'
-    revision: '2025-10-10T19:32:53Z'
-  identifier: 366fcef6-a0a0-4637-9f73-ad4e520d15d2
+    revision: '2026-06-30T13:14:48Z'
+  identifier: 0be89ee8-76ee-5502-9e49-aedecf23d8b4
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -76,7 +76,7 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: sambro
+- id: sambro
   instruments:
   - description:
       en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
@@ -104,6 +104,15 @@ platform:
     type:
       en: Slocum Glider Hybrid Thruster
       fr: Propulseur hybride Slocum Glider
+    version: '1.2'
+  - description:
+      en: Ocean Sonics isListen hydrophone
+      fr: Ocean Sonics estÉcoutez l'hydrophone
+    id: hydrophones_1377
+    manufacturer: Ocean Sonics Ltd
+    type:
+      en: Ocean Sonics isListen hydrophone
+      fr: Ocean Sonics estÉcoutez l'hydrophone
     version: '1.2'
   type: glider
 spatial:

@@ -1,0 +1,106 @@
+contact:
+- inCitation: true
+  organization:
+    address: 6375 Edzell Castle Cir
+    country: Canada
+    email: otndc@dal.ca
+    name: Ocean Tracking Network
+    url: https://oceantrackingnetwork.org/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+  - funder
+distribution:
+- description:
+    en: ERDDAP timeseries dataset of acoustic receiver temperature and other diagnostic logs
+    fr: Ensemble de données chronologiques ERDDAP de la température du récepteur acoustique et d'autres journaux de diagnostic
+  url: https://erddap.oceantrack.org/erddap/tabledap/receivers_env.html
+identification:
+  abstract:
+    en: Acoustic receivers are stationary instruments that receive coded pings at specific 
+        frequencies from acoustic tags that are attached to marine species. Many of these 
+        receivers are capable of logging their internal temperature and tilt angle. The 
+        temperature is measured using an uncalibrated sensor, with averaged temperature 
+        data reported every hour to the instrument's internal logs.
+    fr: Les récepteurs acoustiques sont des instruments fixes qui captent des signaux codés 
+        à des fréquences spécifiques émis par des balises acoustiques fixées à des espèces 
+        marines. Nombre de ces récepteurs sont capables d'enregistrer leur température 
+        interne et leur angle d'inclinaison. La température est mesurée à l'aide d'un 
+        capteur non étalonné, et les données de température moyennes sont enregistrées 
+        toutes les heures dans les journaux internes de l'instrument.
+  dates:
+    creation: '2026-05-07'
+  keywords:
+    default:
+      en:
+      - temperature
+      - depth
+      - acoustic Receiver
+      - internal humidity
+      - timeseries
+      - moored
+      fr:
+      - température
+      - profondeur
+      - récepteur acoustique
+      - humidité interne
+      - séries temporelles
+      - amarré
+    eov:
+      en:
+      - subsurfaceTemperature
+      - subsurfaceCurrents
+      - other
+      fr:
+      - Température du sous-sos
+      - Courants sous-marins
+      - autre
+  status: onGoing
+  temporal_begin: '2012-06-03T00:00:00.000Z'
+  title:
+    en: Ocean Tracking Network - Acoustic Receiver Temperature Logs 
+    fr: Ocean Tracking Network - Enregistrements de température des récepteurs acoustiques
+metadata:
+  dates:
+    publication: '2026-05-07T00:00:00Z'
+    revision: '2026-06-30T13:20:00Z'
+  identifier: e3f2aa8d-f79e-469b-a1d9-de8dd969d4e7
+  language: en
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+- id: multiple_acoustic_receivers
+  type: acoustic_receiver
+  manufacturer: InnovaSea
+  description: various different models of InnovaSea acoustic receivers
+  instruments:
+  - description:
+      en: An internal data logger that records various diagnostic data through internal sensors
+      fr: Un enregistreur de données interne qui enregistre diverses données de diagnostic via des capteurs internes
+    id: datalogger
+    manufacturer: InnovaSea
+    type:
+      en: Internal Data Logger
+      fr: Enregistreur de données interne
+spatial:
+  bbox:
+  - -63.53341
+  - 42.83728
+  - -63.07414
+  - 44.478503
+  vertical:
+  - 45.0
+  - 208.0

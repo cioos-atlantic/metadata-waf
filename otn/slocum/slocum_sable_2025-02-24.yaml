@@ -37,18 +37,20 @@ distribution:
 - description:
     en: High resolution ERDDAP datasets
     fr: Ensembles de données ERDDAP haute résolution
-  url: https://erddap.oceantrack.org/erddap/tabledap/peggy_20250522_206_delayed.html
+  url: https://erddap.oceantrack.org/erddap/tabledap/sable_20250224_202_delayed_test.html
 identification:
   abstract:
-    en: A Teledyne Webb Research Slocum G3(s) glider equipped with passive acoustic
-      listening device (DMON) for a multi-month mission with an extended lithium primary
-      battery pack. The purpose of this mission is to monitor the Gulf of Saint Lawrence
-      shipping lane for the presence of North Atlantic right whales.
-    fr: Un planeur Teledyne Webb Research Slocum G3(s) équipé d'un dispositif d'écoute
-      acoustique passive (DMON) pour une mission de plusieurs mois avec une batterie
-      primaire au lithium étendue. Le but de cette mission est de surveiller la voie
-      de navigation du golfe du Saint-Laurent pour détecter la présence de baleines
-      noires de l'Atlantique Nord.
+    en: Short test off shore HFX to test a new platform. A Teledyne Webb Research
+      Slocum G3(s) glider equipped with passive acoustic listening device (DMON) for
+      a test mission offshore Halifax. The purpose of this mission is to prepare equipment
+      for monitoring the Gulf of Saint Lawrence shipping lane for the presence of
+      North Atlantic right whales.
+    fr: Petit test offshore HFX pour tester une nouvelle plateforme. Un planeur Teledyne
+      Webb Research Slocum G3(s) équipé d'un dispositif d'écoute acoustique passive
+      (DMON) pour une mission d'essai au large d'Halifax. Le but de cette mission
+      est de préparer des équipements de surveillance de la voie de navigation du
+      golfe du Saint-Laurent pour la présence des baleines noires de l'Atlantique
+      Nord.
   acknowledgement:
     en: The study was funded by Transport Canada's Innovation Centre (TC/IC) and supported
       by Vandana Gopeechund and Alison Butko at the IC. The DMON hydrophone, real-time
@@ -68,7 +70,7 @@ identification:
       a été fourni par l'Ocean Frontiers Institute. Merci aux capitaines des navires
       qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-04-16'
+    creation: '2025-12-16'
   keywords:
     eov:
       en:
@@ -83,18 +85,16 @@ identification:
       - acoustiqueTagReceiver
   progress_code: completed
   status: published
-  temporal_begin: '2025-05-22T16:36:00.000Z'
-  temporal_end: '2025-11-26T14:05:00.000Z'
+  temporal_begin: '2025-02-24T17:51:00.000Z'
+  temporal_end: '2025-02-26T15:30:00.000Z'
   title:
-    en: Laurentian Channel real time whale monitoring for dynamic shipping management
-      in Gulf of St. Lawrence 2025-05-22
-    fr: Surveillance des baleines en temps réel dans le chenal Laurentien pour une
-      gestion dynamique de la navigation dans le golfe du Saint-Laurent 2025-05-22
+    en: CEOTR Test Missions in Northwest Atlantic Ocean 2025-02-24
+    fr: Missions de test CEOTR dans l’océan Atlantique Nord-Ouest 2025-02-24
 metadata:
   dates:
-    publication: '2025-12-04T07:45:24Z'
-    revision: '2025-12-04T07:45:24Z'
-  identifier: 942fc029-b295-43fa-8141-166e75220fd0
+    publication: '2025-12-16T13:54:40Z'
+    revision: '2026-06-30T13:14:48Z'
+  identifier: b256c444-6821-5192-9a8d-4257a45b8610
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -105,30 +105,12 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: peggy
+- id: sable
   instruments:
-  - description:
-      en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350 m
-    id: bpump_0425
-    manufacturer: Teledyne Webb Research
-    type:
-      en: Slocum Glider G3 350 m oil pump
-      fr: Pompe à huile Slocum Glider G3 350 m
-    version: '1.2'
-  - description:
-      en: Slocum Glider Hybrid Thruster
-      fr: Propulseur hybride Slocum Glider
-    id: thruster_0211
-    manufacturer: Teledyne Webb Research
-    type:
-      en: Slocum Glider Hybrid Thruster
-      fr: Propulseur hybride Slocum Glider
-    version: '1.2'
   - description:
       en: Vemco Mobile Transceiver
       fr: Émetteur-récepteur mobile Vemco
-    id: hydrophones_1282455
+    id: hydrophones_1360674
     manufacturer: InnovaSea Systems Inc.
     type:
       en: Vemco Mobile Transceiver
@@ -137,30 +119,46 @@ platform:
   - description:
       en: digital acoustic monitoring instrument
       fr: instrument numérique de surveillance acoustique
-    id: hydrophones_073
+    id: hydrophones_058B
     manufacturer: Woods Hole Oceanographic Institution
     type:
-      en: "DMON2- Payload Integrated System\r\nSO-A81\r\n\r\nHydophone head P/N 212013\r\
-        \n SN 028"
-      fr: "DMON2- Système intégré de charge utile\r\nSO-A81\r\n\r\nTête d'hydrophone\
-        \ P/N 212013\r\n SN 028"
+      en: dmon2
+      fr: démon2
+    version: '1.2'
+  - description:
+      en: Slocum Glider G3 350 m oil pump
+      fr: Pompe à huile Slocum Glider G3 350 m
+    id: bpump_850
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider G3 350 m oil pump
+      fr: Pompe à huile Slocum Glider G3 350 m
     version: '1.2'
   - description:
       en: RBR Legato3 CTD
       fr: RBR Legato3 CTD
-    id: CTD_207973
+    id: CTD_231026
     manufacturer: RBR Ltd
     type:
-      en: "Legato 1000m\r\nRBRlegato unpumped CTD"
-      fr: "Legato 1000m\r\nRBRlegato CTD non pompé"
+      en: RBRLegato unpumped CTD
+      fr: RBRLegato CTD non pompé
+    version: '1.2'
+  - description:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
+    id: thruster_557
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
     version: '1.2'
   type: glider
 spatial:
   bbox:
-  - -62.000093
-  - 49.150305
-  - -63.682373
-  - 48.448327
+  - -63.340432
+  - 44.542635
+  - -63.399985
+  - 44.493728
   vertical:
-  - 0.0027364599518477917
-  - 358.7619934082031
+  - 0.002890869975090027
+  - 59.93009948730469

@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>6e5946f9-bc6d-46bf-b279-0d35631e94b5</gco:CharacterString>
+        <gco:CharacterString>932716d1-ec5a-5b5e-b991-e45a82f467c2</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -652,7 +652,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2025-12-16T13:54:40Z</gco:DateTime>
+        <gco:DateTime>2026-06-30T13:14:48Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -662,7 +662,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2025-12-16T13:54:40Z</gco:DateTime>
+        <gco:DateTime>2025-12-15T20:52:13Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -747,17 +747,17 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>CEOTR Test Missions in Northwest Atlantic Ocean 2025-02-24</gco:CharacterString>
+            <gco:CharacterString>Laurentian Channel real time whale monitoring for dynamic shipping management in Gulf of St. Lawrence 2025-05-22</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Missions de test CEOTR dans l’océan Atlantique Nord-Ouest 2025-02-24</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Surveillance des baleines en temps réel dans le chenal Laurentien pour une gestion dynamique de la navigation dans le golfe du Saint-Laurent 2025-05-22</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2026-04-16</gco:Date>
+                <gco:Date>2025-12-15</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -1452,10 +1452,10 @@
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>Short test off shore HFX to test a new platform. A Teledyne Webb Research Slocum G3(s) glider equipped with passive acoustic listening device (DMON) for a test mission offshore Halifax. The purpose of this mission is to prepare equipment for monitoring the Gulf of Saint Lawrence shipping lane for the presence of North Atlantic right whales.</gco:CharacterString>
+        <gco:CharacterString>A Teledyne Webb Research Slocum G3(s) glider equipped with passive acoustic listening device (DMON) for a multi-month mission with an extended lithium primary battery pack. The purpose of this mission is to monitor the Gulf of Saint Lawrence shipping lane for the presence of North Atlantic right whales.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">Petit test offshore HFX pour tester une nouvelle plateforme. Un planeur Teledyne Webb Research Slocum G3(s) équipé d&#39;un dispositif d&#39;écoute acoustique passive (DMON) pour une mission d&#39;essai au large d&#39;Halifax. Le but de cette mission est de préparer des équipements de surveillance de la voie de navigation du golfe du Saint-Laurent pour la présence des baleines noires de l&#39;Atlantique Nord.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Un planeur Teledyne Webb Research Slocum G3(s) équipé d&#39;un dispositif d&#39;écoute acoustique passive (DMON) pour une mission de plusieurs mois avec une batterie primaire au lithium étendue. Le but de cette mission est de surveiller la voie de navigation du golfe du Saint-Laurent pour détecter la présence de baleines noires de l&#39;Atlantique Nord.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
@@ -1481,16 +1481,16 @@
                 <gco:Boolean>true</gco:Boolean>
               </gex:extentTypeCode>
               <gex:westBoundLongitude>
-                <gco:Decimal>-63.340432</gco:Decimal>
+                <gco:Decimal>-63.686905</gco:Decimal>
               </gex:westBoundLongitude>
               <gex:eastBoundLongitude>
-                <gco:Decimal>-63.399985</gco:Decimal>
+                <gco:Decimal>-65.029587</gco:Decimal>
               </gex:eastBoundLongitude>
               <gex:southBoundLatitude>
-                <gco:Decimal>44.542635</gco:Decimal>
+                <gco:Decimal>49.745917</gco:Decimal>
               </gex:southBoundLatitude>
               <gex:northBoundLatitude>
-                <gco:Decimal>44.493728</gco:Decimal>
+                <gco:Decimal>49.14492</gco:Decimal>
               </gex:northBoundLatitude>
             </gex:EX_GeographicBoundingBox>
           </gex:geographicElement>
@@ -1501,10 +1501,10 @@
           <gex:verticalElement>
             <gex:EX_VerticalExtent>
               <gex:minimumValue>
-                <gco:Real>0.002890869975090027</gco:Real>
+                <gco:Real>0.0028852398972958326</gco:Real>
               </gex:minimumValue>
               <gex:maximumValue>
-                <gco:Real>59.93009948730469</gco:Real>
+                <gco:Real>357.4410095214844</gco:Real>
               </gex:maximumValue>
               <gex:verticalCRSId>
                 <mrs:MD_ReferenceSystem>
@@ -1540,8 +1540,8 @@
             <gex:EX_TemporalExtent>
               <gex:extent>
                 <gml:TimePeriod gml:id="time_period">
-                  <gml:beginPosition>2025-02-24T17:51:00.000Z</gml:beginPosition>
-                  <gml:endPosition>2025-02-26T15:30:00.000Z</gml:endPosition>
+                  <gml:beginPosition>2025-05-22T15:50:00.000Z</gml:beginPosition>
+                  <gml:endPosition>2025-06-23T16:03:03.000Z</gml:endPosition>
                 </gml:TimePeriod>
               </gex:extent>
             </gex:EX_TemporalExtent>
@@ -1744,7 +1744,7 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://erddap.oceantrack.org/erddap/tabledap/sable_20250224_202_delayed_test.html</gco:CharacterString>
+                <gco:CharacterString>https://erddap.oceantrack.org/erddap/tabledap/sable_20250522_208_delayed.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

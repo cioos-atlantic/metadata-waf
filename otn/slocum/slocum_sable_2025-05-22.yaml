@@ -37,20 +37,18 @@ distribution:
 - description:
     en: High resolution ERDDAP datasets
     fr: Ensembles de données ERDDAP haute résolution
-  url: https://erddap.oceantrack.org/erddap/tabledap/sable_20250224_202_delayed_test.html
+  url: https://erddap.oceantrack.org/erddap/tabledap/sable_20250522_208_delayed.html
 identification:
   abstract:
-    en: Short test off shore HFX to test a new platform. A Teledyne Webb Research
-      Slocum G3(s) glider equipped with passive acoustic listening device (DMON) for
-      a test mission offshore Halifax. The purpose of this mission is to prepare equipment
-      for monitoring the Gulf of Saint Lawrence shipping lane for the presence of
-      North Atlantic right whales.
-    fr: Petit test offshore HFX pour tester une nouvelle plateforme. Un planeur Teledyne
-      Webb Research Slocum G3(s) équipé d'un dispositif d'écoute acoustique passive
-      (DMON) pour une mission d'essai au large d'Halifax. Le but de cette mission
-      est de préparer des équipements de surveillance de la voie de navigation du
-      golfe du Saint-Laurent pour la présence des baleines noires de l'Atlantique
-      Nord.
+    en: A Teledyne Webb Research Slocum G3(s) glider equipped with passive acoustic
+      listening device (DMON) for a multi-month mission with an extended lithium primary
+      battery pack. The purpose of this mission is to monitor the Gulf of Saint Lawrence
+      shipping lane for the presence of North Atlantic right whales.
+    fr: Un planeur Teledyne Webb Research Slocum G3(s) équipé d'un dispositif d'écoute
+      acoustique passive (DMON) pour une mission de plusieurs mois avec une batterie
+      primaire au lithium étendue. Le but de cette mission est de surveiller la voie
+      de navigation du golfe du Saint-Laurent pour détecter la présence de baleines
+      noires de l'Atlantique Nord.
   acknowledgement:
     en: The study was funded by Transport Canada's Innovation Centre (TC/IC) and supported
       by Vandana Gopeechund and Alison Butko at the IC. The DMON hydrophone, real-time
@@ -70,7 +68,7 @@ identification:
       a été fourni par l'Ocean Frontiers Institute. Merci aux capitaines des navires
       qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-04-16'
+    creation: '2025-12-15'
   keywords:
     eov:
       en:
@@ -85,16 +83,18 @@ identification:
       - acoustiqueTagReceiver
   progress_code: completed
   status: published
-  temporal_begin: '2025-02-24T17:51:00.000Z'
-  temporal_end: '2025-02-26T15:30:00.000Z'
+  temporal_begin: '2025-05-22T15:50:00.000Z'
+  temporal_end: '2025-06-23T16:03:03.000Z'
   title:
-    en: CEOTR Test Missions in Northwest Atlantic Ocean 2025-02-24
-    fr: Missions de test CEOTR dans l’océan Atlantique Nord-Ouest 2025-02-24
+    en: Laurentian Channel real time whale monitoring for dynamic shipping management
+      in Gulf of St. Lawrence 2025-05-22
+    fr: Surveillance des baleines en temps réel dans le chenal Laurentien pour une
+      gestion dynamique de la navigation dans le golfe du Saint-Laurent 2025-05-22
 metadata:
   dates:
-    publication: '2025-12-16T13:54:40Z'
-    revision: '2025-12-16T13:54:40Z'
-  identifier: 6e5946f9-bc6d-46bf-b279-0d35631e94b5
+    publication: '2025-12-15T20:52:13Z'
+    revision: '2026-06-30T13:14:48Z'
+  identifier: 932716d1-ec5a-5b5e-b991-e45a82f467c2
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -105,7 +105,7 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: sable
+- id: sable
   instruments:
   - description:
       en: Vemco Mobile Transceiver
@@ -155,10 +155,10 @@ platform:
   type: glider
 spatial:
   bbox:
-  - -63.340432
-  - 44.542635
-  - -63.399985
-  - 44.493728
+  - -63.686905
+  - 49.745917
+  - -65.029587
+  - 49.14492
   vertical:
-  - 0.002890869975090027
-  - 59.93009948730469
+  - 0.0028852398972958326
+  - 357.4410095214844

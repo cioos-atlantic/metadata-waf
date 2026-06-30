@@ -51,7 +51,7 @@ identification:
       l'innovation par l'intermédiaire de l'Ocean Tracking Network. Un soutien logistique
       supplémentaire a été fourni par l'Ocean Frontiers Institute.
   dates:
-    creation: '2026-04-16'
+    creation: '2025-04-24'
   keywords:
     eov:
       en:
@@ -72,8 +72,8 @@ identification:
 metadata:
   dates:
     publication: '2025-04-24T19:44:18Z'
-    revision: '2025-04-24T19:44:18Z'
-  identifier: da741643-78c2-458c-90d4-1bad1a777d25
+    revision: '2026-06-30T13:14:48Z'
+  identifier: b908e843-d022-5cf5-bbab-1b3a1fd0381d
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -84,7 +84,7 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: polly
+- id: polly
   instruments:
   - description:
       en: Slocum Glider G3 1000 m oil pump

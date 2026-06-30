@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>da741643-78c2-458c-90d4-1bad1a777d25</gco:CharacterString>
+        <gco:CharacterString>0be89ee8-76ee-5502-9e49-aedecf23d8b4</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -652,7 +652,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2025-04-24T19:44:18Z</gco:DateTime>
+        <gco:DateTime>2026-06-30T13:14:48Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -662,7 +662,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2025-04-24T19:44:18Z</gco:DateTime>
+        <gco:DateTime>2025-10-10T19:32:53Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -747,17 +747,17 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>SBloGS in Northwest Atlantic Ocean 2025-03-24</gco:CharacterString>
+            <gco:CharacterString>HFX in Northwest Atlantic Ocean 2025-04-03</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">SBloGS dans l&#39;océan Atlantique Nord-Ouest 2025-03-24</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">HFX dans l&#39;océan Atlantique Nord-Ouest 2025-04-03</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2026-04-16</gco:Date>
+                <gco:Date>2025-10-10</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -1381,10 +1381,10 @@
         </cit:CI_Citation>
       </mri:citation>
       <mri:abstract xsi:type="lan:PT_FreeText_PropertyType">
-        <gco:CharacterString>A Teledyne Webb Research Slocum G3s glider was deployed on the Scotian Shelf in the Northwest Atlantic Ocean equipped with a suite of bio-optical sensors, Rockland Scientific MicroRider and RBR Legato3 CTD to measure ocean conditions as the NW Atlantic phytoplankton spring bloom develops.</gco:CharacterString>
+        <gco:CharacterString>Short test offshore HFX to test platform after repair. We also tested the integration of an Ocean Sonics icListen hydrophone. The icListen was wired into the science bay as a logger (power on and power off functions only).</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">Un planeur Teledyne Webb Research Slocum G3s a été déployé sur le plateau néo-écossais dans l&#39;océan Atlantique nord-ouest, équipé d&#39;une suite de capteurs bio-optiques, du Rockland Scientific MicroRider et du RBR Legato3 CTD pour mesurer les conditions océaniques à mesure que se développe la prolifération printanière du phytoplancton du nord-ouest de l&#39;Atlantique.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">Court test offshore HFX pour tester la plateforme après réparation. Nous avons également testé l&#39;intégration d&#39;un hydrophone Ocean Sonics icListen. L&#39;icListen a été connecté à la baie scientifique en tant qu&#39;enregistreur (fonctions de mise sous et hors tension uniquement).</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:abstract>
@@ -1410,16 +1410,16 @@
                 <gco:Boolean>true</gco:Boolean>
               </gex:extentTypeCode>
               <gex:westBoundLongitude>
-                <gco:Decimal>-62.327803</gco:Decimal>
+                <gco:Decimal>-63.371383</gco:Decimal>
               </gex:westBoundLongitude>
               <gex:eastBoundLongitude>
-                <gco:Decimal>-63.375873</gco:Decimal>
+                <gco:Decimal>-63.379003</gco:Decimal>
               </gex:eastBoundLongitude>
               <gex:southBoundLatitude>
-                <gco:Decimal>44.509792</gco:Decimal>
+                <gco:Decimal>44.514073</gco:Decimal>
               </gex:southBoundLatitude>
               <gex:northBoundLatitude>
-                <gco:Decimal>43.370567</gco:Decimal>
+                <gco:Decimal>44.504765</gco:Decimal>
               </gex:northBoundLatitude>
             </gex:EX_GeographicBoundingBox>
           </gex:geographicElement>
@@ -1430,10 +1430,10 @@
           <gex:verticalElement>
             <gex:EX_VerticalExtent>
               <gex:minimumValue>
-                <gco:Real>0.0</gco:Real>
+                <gco:Real>0.0056077102199196815</gco:Real>
               </gex:minimumValue>
               <gex:maximumValue>
-                <gco:Real>257.739990234375</gco:Real>
+                <gco:Real>50.34510040283203</gco:Real>
               </gex:maximumValue>
               <gex:verticalCRSId>
                 <mrs:MD_ReferenceSystem>
@@ -1469,8 +1469,8 @@
             <gex:EX_TemporalExtent>
               <gex:extent>
                 <gml:TimePeriod gml:id="time_period">
-                  <gml:beginPosition>2025-03-24T16:11:26.000Z</gml:beginPosition>
-                  <gml:endPosition>2025-04-15T15:40:00.000Z</gml:endPosition>
+                  <gml:beginPosition>2025-04-03T13:26:00.000Z</gml:beginPosition>
+                  <gml:endPosition>2025-04-03T16:35:00.000Z</gml:endPosition>
                 </gml:TimePeriod>
               </gex:extent>
             </gex:EX_TemporalExtent>
@@ -1522,9 +1522,6 @@
           <mri:keyword>
             <gco:CharacterString>subsurfaceTemperature</gco:CharacterString>
           </mri:keyword>
-          <mri:keyword>
-            <gco:CharacterString>acousticTagReceiver</gco:CharacterString>
-          </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
@@ -1536,13 +1533,6 @@
             <lan:PT_FreeText>
               <lan:textGroup>
                 <lan:LocalisedCharacterString locale="#fr">Température du sous-sol</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">acoustiqueTagReceiver</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
@@ -1663,32 +1653,7 @@
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://erddap.oceantrack.org/erddap/tabledap/polly_20250324_204_realtime.html</gco:CharacterString>
-              </cit:linkage>
-              <cit:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </cit:protocol>
-              <cit:name>
-                <gco:CharacterString>ERDDAP</gco:CharacterString>
-              </cit:name>
-              <cit:description xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>Realtime ERDDAP datasets</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Ensembles de données ERDDAP en temps réel</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </cit:description>
-            </cit:CI_OnlineResource>
-          </mrd:onLine>
-        </mrd:MD_DigitalTransferOptions>
-      </mrd:transferOptions>
-      <mrd:transferOptions>
-        <mrd:MD_DigitalTransferOptions>
-          <mrd:onLine>
-            <cit:CI_OnlineResource>
-              <cit:linkage>
-                <gco:CharacterString>https://erddap.oceantrack.org/erddap/tabledap/polly_20250324_204_delayed.html</gco:CharacterString>
+                <gco:CharacterString>https://erddap.oceantrack.org/erddap/tabledap/sambro_20250403_205_delayed_test.html</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -1738,7 +1703,7 @@
                 </cit:CI_Citation>
               </mcc:authority>
               <mcc:code>
-                <gco:CharacterString>polly</gco:CharacterString>
+                <gco:CharacterString>sambro</gco:CharacterString>
               </mcc:code>
             </mcc:MD_Identifier>
           </mac:identifier>
@@ -1752,31 +1717,68 @@
                   <mcc:authority>
                     <cit:CI_Citation>
                       <cit:title>
+                        <gco:CharacterString>Sea-Bird Scientific</gco:CharacterString>
+                      </cit:title>
+                    </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>CTD_9405</gco:CharacterString>
+                  </mcc:code>
+                  <mcc:version>
+                    <gco:CharacterString>1.2</gco:CharacterString>
+                  </mcc:version>
+                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
+                    <gco:CharacterString>Sea-Bird Slocum Glider Payload {GPCTD} CTD</gco:CharacterString>
+                    <lan:PT_FreeText>
+                      <lan:textGroup>
+                        <lan:LocalisedCharacterString locale="#fr">Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD</lan:LocalisedCharacterString>
+                      </lan:textGroup>
+                    </lan:PT_FreeText>
+                  </mcc:description>
+                </mcc:MD_Identifier>
+              </mac:identifier>
+              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Sea-Bird Slocum Glider Payload {GPCTD} CTD</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup>
+                    <lan:LocalisedCharacterString locale="#fr">Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </mac:type>
+            </mac:MI_Instrument>
+          </mac:instrument>
+          <mac:instrument>
+            <mac:MI_Instrument>
+              <mac:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      <cit:title>
                         <gco:CharacterString>Teledyne Webb Research</gco:CharacterString>
                       </cit:title>
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>bpump_733</gco:CharacterString>
+                    <gco:CharacterString>bpump_0111</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
                     <gco:CharacterString>1.2</gco:CharacterString>
                   </mcc:version>
                   <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>Slocum Glider G3 1000 m oil pump</gco:CharacterString>
+                    <gco:CharacterString>Slocum Glider G2 200 m piston pump</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">Pompe à huile Slocum Glider G3 1000 m</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Pompe à piston Slocum Glider G2 200 m</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
                 </mcc:MD_Identifier>
               </mac:identifier>
               <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>G3 HD pump - ASSY 305685-1KM</gco:CharacterString>
+                <gco:CharacterString>Slocum Glider G2 200 m piston pump</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Pompe G3 HD - ASSY 305685-1KM</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Pompe à piston Slocum Glider G2 200 m</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
@@ -1789,31 +1791,31 @@
                   <mcc:authority>
                     <cit:CI_Citation>
                       <cit:title>
-                        <gco:CharacterString>Rockland Scientific</gco:CharacterString>
+                        <gco:CharacterString>Teledyne Webb Research</gco:CharacterString>
                       </cit:title>
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>MicroRider-1000_470</gco:CharacterString>
+                    <gco:CharacterString>thruster_CE01</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
                     <gco:CharacterString>1.2</gco:CharacterString>
                   </mcc:version>
                   <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>Rockland Scientific MicroRider-1000 turbulence microstructure profiler</gco:CharacterString>
+                    <gco:CharacterString>Slocum Glider Hybrid Thruster</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">Profileur de microstructure de turbulence Rockland Scientific MicroRider-1000</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Propulseur hybride Slocum Glider</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
                 </mcc:MD_Identifier>
               </mac:identifier>
               <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>Modular Turbulence Profiler</gco:CharacterString>
+                <gco:CharacterString>Slocum Glider Hybrid Thruster</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Profileur de turbulence modulaire</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Propulseur hybride Slocum Glider</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
@@ -1826,142 +1828,31 @@
                   <mcc:authority>
                     <cit:CI_Citation>
                       <cit:title>
-                        <gco:CharacterString>InnovaSea Systems Inc.</gco:CharacterString>
+                        <gco:CharacterString>Ocean Sonics Ltd</gco:CharacterString>
                       </cit:title>
                     </cit:CI_Citation>
                   </mcc:authority>
                   <mcc:code>
-                    <gco:CharacterString>hydrophones_1360646</gco:CharacterString>
+                    <gco:CharacterString>hydrophones_1377</gco:CharacterString>
                   </mcc:code>
                   <mcc:version>
                     <gco:CharacterString>1.2</gco:CharacterString>
                   </mcc:version>
                   <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>Vemco Mobile Transceiver</gco:CharacterString>
+                    <gco:CharacterString>Ocean Sonics isListen hydrophone</gco:CharacterString>
                     <lan:PT_FreeText>
                       <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">Émetteur-récepteur mobile Vemco</lan:LocalisedCharacterString>
+                        <lan:LocalisedCharacterString locale="#fr">Ocean Sonics estÉcoutez l&#39;hydrophone</lan:LocalisedCharacterString>
                       </lan:textGroup>
                     </lan:PT_FreeText>
                   </mcc:description>
                 </mcc:MD_Identifier>
               </mac:identifier>
               <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>Vemco Mobile Transceiver</gco:CharacterString>
+                <gco:CharacterString>Ocean Sonics isListen hydrophone</gco:CharacterString>
                 <lan:PT_FreeText>
                   <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Émetteur-récepteur mobile Vemco</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </mac:type>
-            </mac:MI_Instrument>
-          </mac:instrument>
-          <mac:instrument>
-            <mac:MI_Instrument>
-              <mac:identifier>
-                <mcc:MD_Identifier>
-                  <mcc:authority>
-                    <cit:CI_Citation>
-                      <cit:title>
-                        <gco:CharacterString>RBR Ltd</gco:CharacterString>
-                      </cit:title>
-                    </cit:CI_Citation>
-                  </mcc:authority>
-                  <mcc:code>
-                    <gco:CharacterString>CTD_237044</gco:CharacterString>
-                  </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>1.2</gco:CharacterString>
-                  </mcc:version>
-                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>RBR Legato3 CTD</gco:CharacterString>
-                    <lan:PT_FreeText>
-                      <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">RBR Legato3 CTD</lan:LocalisedCharacterString>
-                      </lan:textGroup>
-                    </lan:PT_FreeText>
-                  </mcc:description>
-                </mcc:MD_Identifier>
-              </mac:identifier>
-              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>RBRLegato unpumped CTD</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">RBRLegato CTD non pompé</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </mac:type>
-            </mac:MI_Instrument>
-          </mac:instrument>
-          <mac:instrument>
-            <mac:MI_Instrument>
-              <mac:identifier>
-                <mcc:MD_Identifier>
-                  <mcc:authority>
-                    <cit:CI_Citation>
-                      <cit:title>
-                        <gco:CharacterString>Sea-Bird Scientific</gco:CharacterString>
-                      </cit:title>
-                    </cit:CI_Citation>
-                  </mcc:authority>
-                  <mcc:code>
-                    <gco:CharacterString>fluorometers_6496</gco:CharacterString>
-                  </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>1.2</gco:CharacterString>
-                  </mcc:version>
-                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>WET Labs {Sea-Bird WETLabs} Triplet sensor</gco:CharacterString>
-                    <lan:PT_FreeText>
-                      <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">WET Labs {Sea-Bird WETLabs} Capteur triplet</lan:LocalisedCharacterString>
-                      </lan:textGroup>
-                    </lan:PT_FreeText>
-                  </mcc:description>
-                </mcc:MD_Identifier>
-              </mac:identifier>
-              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>WET Labs {Sea-Bird WETLabs} Triplet sensor</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">WET Labs {Sea-Bird WETLabs} Capteur triplet</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </mac:type>
-            </mac:MI_Instrument>
-          </mac:instrument>
-          <mac:instrument>
-            <mac:MI_Instrument>
-              <mac:identifier>
-                <mcc:MD_Identifier>
-                  <mcc:authority>
-                    <cit:CI_Citation>
-                      <cit:title>
-                        <gco:CharacterString>Sea-Bird Scientific</gco:CharacterString>
-                      </cit:title>
-                    </cit:CI_Citation>
-                  </mcc:authority>
-                  <mcc:code>
-                    <gco:CharacterString>fluorometers_00017</gco:CharacterString>
-                  </mcc:code>
-                  <mcc:version>
-                    <gco:CharacterString>1.2</gco:CharacterString>
-                  </mcc:version>
-                  <mcc:description xsi:type="lan:PT_FreeText_PropertyType">
-                    <gco:CharacterString>WET Labs {Sea-Bird WETLabs} Triplet sensor</gco:CharacterString>
-                    <lan:PT_FreeText>
-                      <lan:textGroup>
-                        <lan:LocalisedCharacterString locale="#fr">WET Labs {Sea-Bird WETLabs} Capteur triplet</lan:LocalisedCharacterString>
-                      </lan:textGroup>
-                    </lan:PT_FreeText>
-                  </mcc:description>
-                </mcc:MD_Identifier>
-              </mac:identifier>
-              <mac:type xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>WET Labs {Sea-Bird WETLabs} Triplet sensor</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">WET Labs {Sea-Bird WETLabs} Capteur triplet</lan:LocalisedCharacterString>
+                    <lan:LocalisedCharacterString locale="#fr">Ocean Sonics estÉcoutez l&#39;hydrophone</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </mac:type>
