@@ -1,0 +1,170 @@
+contact:
+- inCitation: false
+  individual:
+    email: Chantelle.Layton@dfo-mpo.gc.ca
+    name: Layton, Chantelle
+    orcid: https://orcid.org/0000-0002-3199-5763
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+- inCitation: true
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - owner
+  - distributor
+distribution:
+- description:
+    en: ERDDAP data access form
+    fr: "Formulaire d\u2019acc\xE8s aux donn\xE9es ERDDAP"
+    translations:
+      fr:
+        message: "text translated using Cohere / texte traduit \xE0 l'aide de Cohere"
+        verified: false
+  name:
+    en: ERDDAP Dataset
+    fr: "Ensemble de donn\xE9es ERDDAP"
+    translations:
+      fr:
+        message: "text translated using Cohere / texte traduit \xE0 l'aide de Cohere"
+        verified: false
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_maritimes_glider_MerseySEA022_20251006.html
+identification:
+  abstract:
+    en: The Atlantic Zone Monitoring Program (AZMP) was implemented in year 1998 by
+      the four Atlantic regions of Fisheries and Oceans Canada to collect and analyze
+      the biological, chemical, and physical oceanographic field data to characterize
+      and understand the causes of oceanic variability at various time scales, provide
+      multidisciplinary datasets to establish relationships among variables, and provide
+      adequate data to support the development of ocean activities. Ocean gliders
+      were first acquired by Fisheries and Oceans Canada in year 2017 and 2018 for
+      both the West and East coasts. On the East coast, they have been used to monitor
+      hydrographic sections associated with the AZMP. Here, the AZMP Halifax line
+      is occupied from outside the mouth of Halifax harbor, Nova Scotia Canada at
+      (44.267N, 63.317W) in the off-shelf direction approximately 135 nautical miles
+      to deep waters off the continental slope at (42.475N, 61.433W).
+    fr: "Le Programme de surveillance de la zone atlantique (AZMP) a \xE9t\xE9 mis\
+      \ en \u0153uvre en 1998 par les quatre r\xE9gions de l'Atlantique de P\xEAches\
+      \ et Oc\xE9ans Canada afin de recueillir et d'analyser des donn\xE9es oc\xE9\
+      anographiques biologiques, chimiques et physiques sur le terrain pour caract\xE9\
+      riser et comprendre les causes de la variabilit\xE9 oc\xE9anique \xE0 diff\xE9\
+      rentes \xE9chelles de temps, fournir des ensembles de donn\xE9es multidisciplinaires\
+      \ pour \xE9tablir des relations entre les variables et fournir des donn\xE9\
+      es ad\xE9quates pour soutenir le d\xE9veloppement des activit\xE9s oc\xE9aniques.\
+      \ Les planeurs oc\xE9aniques ont \xE9t\xE9 acquis pour la premi\xE8re fois par\
+      \ P\xEAches et Oc\xE9ans Canada en 2017 et 2018 pour les c\xF4tes ouest et est.\
+      \ Sur la c\xF4te est, ils ont \xE9t\xE9 utilis\xE9s pour surveiller les sections\
+      \ hydrographiques associ\xE9es \xE0 l'AZMP. Ici, la ligne AZMP de Halifax est\
+      \ occup\xE9e depuis l'ext\xE9rieur de l'embouchure du port de Halifax, en Nouvelle-\xC9\
+      cosse, au Canada (44,267N, 63,317W), en direction du large, sur environ 135\
+      \ milles marins, jusqu'aux eaux profondes au large de la pente continentale\
+      \ (42,475N, 61,433W)."
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '2025-10-06'
+  keywords:
+    default:
+      en:
+      - autonomous underwater vehicles
+      - chlorophyll a
+      - water pressure
+      - water temperature
+      - salinity
+      - conductivity
+      fr:
+      - chlorophylle a
+      - "temp\xE9rature de l'eau"
+      - "salinit\xE9"
+    eov:
+      en:
+      - oxygen
+      - other
+      - phytoplanktonBiomassAndDiversity
+      - subSurfaceTemperature
+      - seaSurfaceSalinity
+      - subSurfaceSalinity
+      - seaSurfaceTemperature
+      fr:
+      - "Oxyg\xE8ne"
+      - Autre
+      - "Biomasse et diversit\xE9 de phytoplancton"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 de surface"
+      - "Salinit\xE9 sous la surface"
+      - "Temp\xE9rature de surface"
+  progress_code: completed
+  status: published
+  temporal_begin: '2025-10-06T15:00:00.000Z'
+  temporal_end: '2025-10-27T15:00:00.000Z'
+  title:
+    en: Maritimes Region Glider Delayed Mode Data Mersey-SEA022 Halifax Line 20251006
+    fr: "Donn\xE9es diff\xE9r\xE9es du planeur de la r\xE9gion des Maritimes Mersey-SEA022\
+      \ Ligne Halifax 20251006"
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+metadata:
+  dates:
+    publication: '2026-06-30'
+    revision: '2026-06-30T14:59:20.654Z'
+  history: []
+  identifier: b95969e4-dc88-4a29-b8c6-636f3aa71b76
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/BO44nes72kfY5CVJDWsF9OFXFQk1/-OulRwnS4W57khZDyBz7
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Haven't applied QC on the data.
+platform:
+- description:
+    en: Mersey-SEA022
+  id: 18XZ
+  instrumentID: -Oq6ju_daT-CXoE9IOPh
+  instruments:
+  - id: '212970'
+    manufacturer: RBR
+    type:
+      en: dissolved gas sensors
+    version: RBR Coda T.ODO
+  - id: '4551'
+    instrumentID: '4551'
+    manufacturer: WET Labs
+    version: WET Labs ECO FLBBCD
+  - id: '214389'
+    manufacturer: RBR
+    type:
+      en: ctd
+    version: RBR Legato3
+  platformID: -Oq6ju_daT-CXoE9IOPh
+  type: sub-surface gliders
+spatial:
+  bbox:
+  - -63.43258
+  - 42.45937
+  - -61.423
+  - 44.5318
+  vertical:
+  - 0.0
+  - 819.0
+  vertical_positive: depthPositive
