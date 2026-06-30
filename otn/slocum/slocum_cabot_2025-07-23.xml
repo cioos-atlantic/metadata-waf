@@ -31,7 +31,7 @@
         </cit:CI_Citation>
       </mcc:authority>
       <mcc:code>
-        <gco:CharacterString>12644bb8-ef07-4c61-91e7-660b02a1842c</gco:CharacterString>
+        <gco:CharacterString>713a6bb2-e133-517f-bab1-6669d2e24b00</gco:CharacterString>
       </mcc:code>
     </mcc:MD_Identifier>
   </mdb:metadataIdentifier>
@@ -652,7 +652,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2025-08-18T18:05:35Z</gco:DateTime>
+        <gco:DateTime>2026-06-30T13:14:48Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -757,7 +757,7 @@
           <cit:date>
             <cit:CI_Date>
               <cit:date>
-                <gco:Date>2026-04-16</gco:Date>
+                <gco:Date>2025-08-18</gco:Date>
               </cit:date>
               <cit:dateType>
                 <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -1443,7 +1443,7 @@
         <gco:CharacterString>The study was funded by the Ocean Tracking Network in collaboration with Kim Davies at the University of New Brunswick. The Ocean Tracking Network led this project and their glider team expertly prepared, deployed, piloted and recovered the gliders. The Williamson Shadowgraph camera was loaned to the Ocean Tracking Network by Kim Davies at the University of New Brunswick. Additional logistical support was provided by the Ocean Frontiers Institute. Thank you to the vessel captains who supported deployment and recovery.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">L&#39;étude a été financée par l&#39;Ocean Tracking Network en collaboration avec Kim Davies de l&#39;Université du Nouveau-Brunswick. L&#39;Ocean Tracking Network a dirigé ce projet et son équipe de planeurs a préparé, déployé, piloté et récupéré les planeurs de manière experte. La caméra Williamson Shadowgraph a été prêtée à l&#39;Ocean Tracking Network par Kim Davies de l&#39;Université du Nouveau-Brunswick. Un soutien logistique supplémentaire a été fourni par l&#39;Ocean Frontiers Institute. Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">L&#39;étude a été financée par l&#39;Ocean Tracking Network en collaboration avec Kim Davies de l&#39;Université du Nouveau-Brunswick. L&#39;Ocean Tracking Network a dirigé ce projet et son équipe de planeurs a préparé, déployé, piloté et récupéré les planeurs de manière experte. La caméra Williamson Shadowgraph a été prêtée au Ocean Tracking Network par Kim Davies de l&#39;Université du Nouveau-Brunswick. Un soutien logistique supplémentaire a été fourni par l&#39;Ocean Frontiers Institute. Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:credit>

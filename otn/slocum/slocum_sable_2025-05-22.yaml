@@ -68,7 +68,7 @@ identification:
       a été fourni par l'Ocean Frontiers Institute. Merci aux capitaines des navires
       qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-04-16'
+    creation: '2025-12-15'
   keywords:
     eov:
       en:
@@ -93,8 +93,8 @@ identification:
 metadata:
   dates:
     publication: '2025-12-15T20:52:13Z'
-    revision: '2025-12-15T20:52:13Z'
-  identifier: 94984905-5a24-496f-800a-6131bbc7007d
+    revision: '2026-06-30T13:14:48Z'
+  identifier: 932716d1-ec5a-5b5e-b991-e45a82f467c2
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -105,7 +105,7 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: sable
+- id: sable
   instruments:
   - description:
       en: Vemco Mobile Transceiver

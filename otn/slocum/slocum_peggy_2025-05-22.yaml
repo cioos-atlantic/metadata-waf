@@ -68,7 +68,7 @@ identification:
       a été fourni par l'Ocean Frontiers Institute. Merci aux capitaines des navires
       qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-04-16'
+    creation: '2025-12-04'
   keywords:
     eov:
       en:
@@ -93,8 +93,8 @@ identification:
 metadata:
   dates:
     publication: '2025-12-04T07:45:24Z'
-    revision: '2025-12-04T07:45:24Z'
-  identifier: 942fc029-b295-43fa-8141-166e75220fd0
+    revision: '2026-06-30T13:14:48Z'
+  identifier: 1ec68f1f-f893-548f-b7a3-802c7d5b799d
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -105,7 +105,7 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: peggy
+- id: peggy
   instruments:
   - description:
       en: Slocum Glider G3 350 m oil pump

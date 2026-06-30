@@ -71,7 +71,8 @@ identification:
     fr: Ocean Tracking Network - Enregistrements de température des récepteurs acoustiques
 metadata:
   dates:
-    publication: 2026-05-07
+    publication: 2026-05-07T00:00:00Z
+    revision: 2026-06-30T13:20:00Z
   identifier: e3f2aa8d-f79e-469b-a1d9-de8dd969d4e7
   language: en
   naming_authority: ca.cioos
@@ -82,7 +83,7 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: multiple_acoustic_receivers
+- id: multiple_acoustic_receivers
   type: acoustic_receiver
   manufacturer: InnovaSea
   description: various different models of InnovaSea acoustic receivers

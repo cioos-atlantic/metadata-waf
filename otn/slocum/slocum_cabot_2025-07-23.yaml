@@ -57,11 +57,11 @@ identification:
       Kim Davies de l'Université du Nouveau-Brunswick. L'Ocean Tracking Network a
       dirigé ce projet et son équipe de planeurs a préparé, déployé, piloté et récupéré
       les planeurs de manière experte. La caméra Williamson Shadowgraph a été prêtée
-      à l'Ocean Tracking Network par Kim Davies de l'Université du Nouveau-Brunswick.
+      au Ocean Tracking Network par Kim Davies de l'Université du Nouveau-Brunswick.
       Un soutien logistique supplémentaire a été fourni par l'Ocean Frontiers Institute.
       Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-04-16'
+    creation: '2025-08-18'
   keywords:
     eov:
       en:
@@ -82,8 +82,8 @@ identification:
 metadata:
   dates:
     publication: '2025-08-18T18:05:35Z'
-    revision: '2025-08-18T18:05:35Z'
-  identifier: 12644bb8-ef07-4c61-91e7-660b02a1842c
+    revision: '2026-06-30T13:14:48Z'
+  identifier: 713a6bb2-e133-517f-bab1-6669d2e24b00
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -94,7 +94,7 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: cabot
+- id: cabot
   instruments:
   - description:
       en: Slocum Glider G3 200 m piston pump

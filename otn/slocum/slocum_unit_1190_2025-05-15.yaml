@@ -52,7 +52,7 @@ identification:
       dirigé les vérifications fonctionnelles et le pilotage pendant la mission. Merci
       aux capitaines des navires qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-04-16'
+    creation: '2025-10-10'
   keywords:
     eov:
       en:
@@ -73,8 +73,8 @@ identification:
 metadata:
   dates:
     publication: '2025-10-10T23:00:26Z'
-    revision: '2025-10-10T23:00:26Z'
-  identifier: c62dcd32-8588-43ea-bfad-9ab901ce55d8
+    revision: '2026-06-30T13:14:48Z'
+  identifier: ec5a90bb-9705-5767-84fb-86e78d213d51
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -85,7 +85,7 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: unit_1190
+- id: unit_1190
   instruments:
   - description:
       en: Sea-Bird Slocum Glider Payload {GPCTD} CTD

@@ -45,7 +45,7 @@ identification:
       l'innovation par l'intermédiaire de l'Ocean Tracking Network. Un soutien logistique
       supplémentaire a été fourni par l'Ocean Frontiers Institute.
   dates:
-    creation: '2026-04-16'
+    creation: '2025-06-23'
   keywords:
     eov:
       en:
@@ -70,8 +70,8 @@ identification:
 metadata:
   dates:
     publication: '2025-06-23T17:56:53Z'
-    revision: '2025-06-23T17:56:53Z'
-  identifier: ac9a2c17-f899-49ee-8e60-8d0bdaf70a15
+    revision: '2026-06-30T13:14:48Z'
+  identifier: da36b3b8-1634-5410-af81-45640e6dd572
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
   naming_authority: ca.cioos
@@ -82,7 +82,7 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-  id: otn200
+- id: otn200
   instruments:
   - description:
       en: Slocum Glider Hybrid Thruster
@@ -92,15 +92,6 @@ platform:
     type:
       en: Slocum Glider Hybrid Thruster
       fr: Propulseur hybride Slocum Glider
-    version: '1.2'
-  - description:
-      en: Satlantic {Sea-Bird} OCR-504 multispectral radiometer
-      fr: Radiomètre multispectral Satlantic {Sea-Bird} OCR-504
-    id: radiometers_0167
-    manufacturer: Satlantic Incorporated
-    type:
-      en: OCR 504 Multispectral Radiometer
-      fr: Radiomètre multispectral OCR 504
     version: '1.2'
   - description:
       en: Slocum Glider G3 350 m oil pump
@@ -151,8 +142,8 @@ platform:
   - description:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
       fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
-    id: fluorometers_1057
-    manufacturer: Sea-Bird Scientific
+    id: fluorometers_1059
+    manufacturer: Wet Labs
     type:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
       fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
@@ -160,8 +151,8 @@ platform:
   - description:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
       fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
-    id: fluorometers_1059
-    manufacturer: Wet Labs
+    id: fluorometers_1057
+    manufacturer: Sea-Bird Scientific
     type:
       en: WET Labs {Sea-Bird WETLabs} Triplet sensor
       fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
