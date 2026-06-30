@@ -652,7 +652,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2026-05-07</gco:Date>
+        <gco:DateTime>2026-05-07T00:00:00Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -1444,7 +1444,7 @@
             <gex:EX_TemporalExtent>
               <gex:extent>
                 <gml:TimePeriod gml:id="time_period">
-                  <gml:beginPosition>2012-06-03 00:00:00+00:00</gml:beginPosition>
+                  <gml:beginPosition>2012-06-03T00:00:00.000Z</gml:beginPosition>
                   <gml:endPosition>now</gml:endPosition>
                 </gml:TimePeriod>
               </gex:extent>

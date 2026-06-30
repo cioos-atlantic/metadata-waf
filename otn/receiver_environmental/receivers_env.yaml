@@ -37,7 +37,7 @@ identification:
         capteur non étalonné, et les données de température moyennes sont enregistrées 
         toutes les heures dans les journaux internes de l'instrument.
   dates:
-    creation: 2026-05-07
+    creation: '2026-05-07'
   keywords:
     default:
       en:
@@ -64,15 +64,15 @@ identification:
       - Courants sous-marins
       - autre
   status: onGoing
-  temporal_begin: 2012-06-03T00:00:00.000Z
+  temporal_begin: '2012-06-03T00:00:00.000Z'
   temporal_end: now
   title:
     en: Ocean Tracking Network - Acoustic Receiver Temperature Logs 
     fr: Ocean Tracking Network - Enregistrements de température des récepteurs acoustiques
 metadata:
   dates:
-    publication: 2026-05-07T00:00:00Z
-    revision: 2026-06-30T13:20:00Z
+    publication: '2026-05-07T00:00:00Z'
+    revision: '2026-06-30T13:20:00Z'
   identifier: e3f2aa8d-f79e-469b-a1d9-de8dd969d4e7
   language: en
   naming_authority: ca.cioos
