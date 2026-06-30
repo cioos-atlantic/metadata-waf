@@ -1,0 +1,334 @@
+contact:
+- inCitation: true
+  individual:
+    email: Stephanie.Clay@dfo-mpo.gc.ca
+    name: Clay, Stephanie
+    orcid: https://orcid.org/0000-0001-5113-2378
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+  - owner
+  - distributor
+- inCitation: true
+  individual:
+    email: Emmanuel.Devred@dfo-mpo.gc.ca
+    name: Devred, Emmanuel
+    orcid: https://orcid.org/0000-0001-9446-0005
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - owner
+  - distributor
+distribution:
+- description:
+    en: Created with map_and_write_to_netcdf.R. Input data were 4km-resolution spring
+      bloom metrics and annual average chlorophyll-a (chl-a) concentration per bin.
+      Bloom metrics for each bin and year were derived from a shifted gaussian curve
+      fitted to the time series of daily logged chl-a data within that bin. Chl-a
+      data were taken from the POLY4 chl-a dataset which was generated using remote
+      sensing reflectances (Rrs) from the OC-CCI multisensor product (www.oceancolour.org)
+      and regionally-tuned coefficients, and subsequently gap-filled using DINEOF
+      (https://github.com/aida-alvera/DINEOF).
+    fr: "Cr\xE9\xE9es avec map_and_write_to_netcdf.R. Les donn\xE9es d'entr\xE9e sont\
+      \ des mesures de floraison printani\xE8re \xE0 une r\xE9solution de 4 km et\
+      \ une concentration moyenne annuelle de chlorophylle-a (chl-a) par r\xE9gion.\
+      \ Les mesures de floraison pour chaque r\xE9gion et chaque ann\xE9e ont \xE9\
+      t\xE9 d\xE9riv\xE9es d'une courbe gaussienne d\xE9cal\xE9e ajust\xE9e \xE0 la\
+      \ s\xE9rie temporelle des donn\xE9es chl-a enregistr\xE9es quotidiennement dans\
+      \ cette r\xE9gion. Les donn\xE9es Chl-a ont \xE9t\xE9 extraites du jeu de donn\xE9\
+      es POLY4 chl-a qui a \xE9t\xE9 g\xE9n\xE9r\xE9 \xE0 l'aide des r\xE9flectances\
+      \ de t\xE9l\xE9d\xE9tection (Rrs) du produit multi-capteur OC-CCI (www.oceancolour.org)\
+      \ et de coefficients ajust\xE9s au niveau r\xE9gional, puis combl\xE9 les lacunes\
+      \ \xE0 l'aide de DINEOF (https://github.com/aida-alvera/DINEOF)."
+    translations:
+      fr:
+        verified: true
+  name:
+    en: Northwest Atlantic per-pixel spring bloom metrics derived from OC-CCI POLY4
+      satellite Chlorophyll-a, 1998-Present
+    fr: "Par-Pixel m\xE9triques de la floraison printani\xE8re dans l'Atlantique du\
+      \ Nord-ouest d\xE9riv\xE9es de la Chlorophylle-a satellitaire OC-CCI POLY-4"
+    translations:
+      fr:
+        verified: true
+  url: https://cioosatlantic.ca/erddap/griddap/bio_remote_sensing_occci_nwa_poly4_spring_bloom
+identification:
+  abstract:
+    en: "This dataset contains the metrics derived from fitting a shifted Gaussian\
+      \ to the time series of daily 4km-resolution satellite-derived surface chlorophyll-a\
+      \ concentration (Chl-a) within a single pixel for a given year. The fitting\
+      \ procedure is the same as that used in the PhytoFit R-shiny application (https://github.com/BIO-RSG/PhytoFit)\
+      \ to model the spring phytoplankton bloom within a user-selected region of interest.\
+      \ The derived bloom metrics include the day of year of the start of the bloom\
+      \ and its duration, the maximum chl-a and the total chl-a produced during the\
+      \ bloom period, and the mean annual chl-a. Each year contains these five layers\
+      \ as well as two layers describing the quality of the data and the accuracy\
+      \ of the Gaussian fit. The metrics cover an area spanning the Northwest Atlantic\
+      \ (39-66\xB0N, 42-76\xB0W, excluding Hudson Strait) from 1998 to present. The\
+      \ chl-a data used in the time series were the regionally-tuned POLY4 chl-a derived\
+      \ from remote sensing reflectance data provided in the OC-CCI multisensor product\
+      \ (oceancolour.org), which were gap-filled using the DINEOF method (https://github.com/aida-alvera/DINEOF).\
+      \ These metrics can be used to inform on the state of the ecosystem in a particular\
+      \ area and its variability over time, which could have implications for higher\
+      \ trophic level dynamics."
+    fr: "Ce jeu de donn\xE9es contient les mesures d\xE9riv\xE9es de l'ajustement\
+      \ d'une courbe gaussienne d\xE9cal\xE9e \xE0 une s\xE9rie temporelle de concentrations\
+      \ quotidiennes de chlorophylle-a mesur\xE9es en surface (Chl-a) par d\xE9riv\xE9\
+      e par satellite avec une r\xE9solution de 4 km pour chaque pixel pour une ann\xE9\
+      e donn\xE9e. La proc\xE9dure d'ajustement est la m\xEAme que celle utilis\xE9\
+      e dans l'application PhytoFit R-shiny (https://github.com/BIO-RSG/PhytoFit)\
+      \ pour mod\xE9liser la floraison printani\xE8re de phytoplancton dans une r\xE9\
+      gion d'int\xE9r\xEAt s\xE9lectionn\xE9e par l'utilisateur. Les param\xE8tres\
+      \ d\xE9riv\xE9s de la floraison printani\xE8re comprennent le jour de l'ann\xE9\
+      e du d\xE9but de la floraison et sa dur\xE9e, la chl-a maximale et la chl-a\
+      \ totale produite pendant la p\xE9riode de floraison, ainsi que la chl-a annuelle\
+      \ moyenne. Chaque ann\xE9e contient ces cinq couches ainsi que deux couches\
+      \ d\xE9crivant la qualit\xE9 des donn\xE9es et la pr\xE9cision de l'ajustement\
+      \ gaussien. Les mesures couvrent une zone s'\xE9tendant sur l'Atlantique Nord-Ouest\
+      \ (39-66\xB0N, 42-76\xB0O, \xE0 l'exclusion du d\xE9troit d'Hudson) de 1998\
+      \ \xE0 aujourd'hui. Les donn\xE9es chl-a utilis\xE9es dans la s\xE9rie temporelles\
+      \ sont les donn\xE9es chl-a POLY4 ajust\xE9es au niveau r\xE9gional, d\xE9riv\xE9\
+      es des donn\xE9es de r\xE9flectance de t\xE9l\xE9d\xE9tection fournies par le\
+      \ produit multi capteur OC-CCI (oceancolour.org), dont les donn\xE9es manquantes\
+      \ ont \xE9t\xE9 calcul\xE9e en utilisant la m\xE9thode DINEOF (https://github.com/aida-alvera/DINEOF).\
+      \ Ces mesures peuvent \xEAtre utilis\xE9es pour fournir des informations sur\
+      \ l'\xE9tat de l'\xE9cosyst\xE8me dans une zone particuli\xE8re ainsi que sa\
+      \ variabilit\xE9 temporelle, ce qui pourrait avoir des implications pour la\
+      \ dynamique des niveaux trophiques sup\xE9rieurs."
+    translations:
+      fr:
+        verified: true
+  associated_resources:
+  - association_type: Cites
+    association_type_iso: crossReference
+    authority: URL
+    code: https://www.mdpi.com/2072-4292/11/22/2609
+    title:
+      en: Evaluation of Satellite-Based Algorithms to Retrieve Chlorophyll-a Concentration
+        in the Canadian Atlantic and Pacific Oceans
+      fr: "\xC9valuation d'algorithmes satellitaires pour d\xE9terminer la concentration\
+        \ en chlorophylle-a dans les oc\xE9ans Atlantique et Pacifique Canadiens"
+      translations:
+        fr:
+          verified: true
+  - association_type: Cites
+    association_type_iso: crossReference
+    authority: DOI
+    code: doi:10.3390/s19194285
+    title:
+      en: 'An Ocean-Colour Time Series for Use in Climate Studies: The Experience
+        of the Ocean-Colour Climate Change Initiative (OC-CCI)'
+      fr: "Une s\xE9rie temporelle de la couleur des oc\xE9ans pour des \xE9tudes\
+        \ sur le climat : l'exp\xE9rience de l'Initiative sur le changement climatique\
+        \ de la couleur des oc\xE9ans (OC-CCI)"
+      translations:
+        fr:
+          verified: true
+  - association_type: Cites
+    association_type_iso: crossReference
+    authority: URL
+    code: https://catalogue.ceda.ac.uk/uuid/690fdf8f229c4d04a2aa68de67beb733
+    title:
+      en: 'ESA Ocean Colour Climate Change Initiative (Ocean_Colour_CCI): Monthly
+        climatology of global ocean colour data products at 4km resolution, Version
+        6.0'
+      fr: "ASE (Agence Spatiale Europ\xE9enne)  Initiative sur le Changement Climatique\
+        \ - Couleur de l'Oc\xE9an: Climatologie Mensuelle des produits globaux de\
+        \ la couleur de l'Oc\xE9an \xE0 4-km de r\xE9solution, version 6.0."
+      translations:
+        fr:
+          verified: true
+  - association_type: Cites
+    association_type_iso: crossReference
+    authority: URL
+    code: https://publications.gc.ca/collections/collection_2022/mpo-dfo/Fs97-18-340-eng.pdf
+    title:
+      en: A comparison of phytoplankton spring bloom fitting methods using MODIS satellite-derived
+        chlorophyll-a concentration for the Maritimes region.
+      fr: "Comparaison des m\xE9thodes d'ajustement de la floraison printani\xE8re\
+        \ du phytoplancton \xE0 partir de la concentration de chlorophylle-a d\xE9\
+        riv\xE9e du satellite MODIS pour la r\xE9gion des Maritimes."
+      translations:
+        fr:
+          verified: true
+  - association_type: Cites
+    association_type_iso: crossReference
+    authority: DOI
+    code: doi:10.5281/zenodo.4770754
+    title:
+      en: PhytoFit
+      fr: PhytoFit
+      translations:
+        fr:
+          verified: true
+  - association_type: Cites
+    association_type_iso: crossReference
+    authority: DOI
+    code: doi:10.1016/j.ocemod.2004.08.001
+    title:
+      en: 'Reconstruction of incomplete oceanographic data sets using empirical orthogonal
+        functions: application to the Adriatic Sea surface temperature'
+      fr: "Reconstruction de jeux de donn\xE9es oc\xE9anographiques incomplets \xE0\
+        \ l'aide de fonctions orthogonales empiriques : application \xE0 la temp\xE9\
+        rature de surface de la mer Adriatique"
+      translations:
+        fr:
+          verified: true
+  dates:
+    creation: '1998-01-01'
+  edition: '1.1'
+  keywords:
+    default:
+      en:
+      - chlorophyll a
+      - phytoplankton
+      - remote sensing
+      - spring phytoplankton bloom
+      fr:
+      - chlorophylle a
+      - phytoplancton
+      - "t\xE9l\xE9d\xE9tection"
+      - "Floraison printani\xE8re de phytoplancton"
+    eov:
+      en:
+      - phytoplanktonBiomassAndDiversity
+      - oceanColour
+      fr:
+      - "Biomasse et diversit\xE9 de phytoplancton"
+      - "Couleur des oc\xE9ans"
+  progress_code: onGoing
+  status: published
+  temporal_begin: '1998-01-01T16:00:00.000Z'
+  title:
+    en: Northwest Atlantic per-pixel spring bloom metrics derived from OC-CCI POLY4
+      satellite Chlorophyll-a
+    fr: "Par-Pixel m\xE9triques de la floraison printani\xE8re dans l'Atlantique du\
+      \ Nord-ouest d\xE9riv\xE9es de la Chlorophylle-a satellitaire OC-CCI POLY-4"
+    translations:
+      fr:
+        verified: true
+metadata:
+  dates:
+    publication: '2025-09-02'
+    revision: '2025-09-02T18:33:55.714Z'
+  history: []
+  identifier: 473fe40d-613e-4aba-b335-7a31a04e5d69
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/0ZgH5TAey4fnwk04trhoypEZuJy2/-OYpdij3R8Hii9XR1qnc
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Use caution with data in coastal areas, in the central Labrador Sea, and
+        in areas where contiguous pixels show large differences. In lieu of using
+        a single pixel value over your area of interest, it is advised to use the
+        average or median of the pixels within a radius of 20km, preferably after
+        filtering outliers. Values with NRMSE (i.e. root mean square error of the
+        Gaussian fit normalized to the maximum chl-a concentration) computed during
+        the bloom duration exceeding 0.5 should be considered suspicious. Standardized
+        anomalies exceeding 3 standard deviations from the mean should also be considered
+        suspicious (e.g. calculated as [value-climatology_mean]/climatology_stdev
+        for a climatology period of 1998-2024).
+      fr: "Les donn\xE9es relatives aux zones c\xF4ti\xE8res sont \xE0 traiter avec\
+        \ pr\xE9caution, ainsi que la partie centrale de la mer du Labrador et dans\
+        \ les zones o\xF9 des pixels contigus pr\xE9sentent des diff\xE9rences importantes.\
+        \ Au lieu d'utiliser une seule valeur de pixel pour la zone qui vous int\xE9\
+        resse, il est conseill\xE9 d'utiliser la moyenne ou la m\xE9diane des pixels\
+        \ dans un rayon de 20 km, de pr\xE9f\xE9rence apr\xE8s avoir filtr\xE9 les\
+        \ valeurs aberrantes. Les valeurs dont le calcul NRMSE (c'est-\xE0-dire l'erreur\
+        \ quadratique moyenne de l'ajustement gaussien normalis\xE9 \xE0 la concentration\
+        \ maximale de chl-a) pendant la dur\xE9e de la floraison d\xE9passe 0.5 doivent\
+        \ \xEAtre consid\xE9r\xE9es comme suspectes. Les anomalies normalis\xE9es\
+        \ d\xE9passant 3 \xE9carts-types par rapport \xE0 la moyenne doivent \xE9\
+        galement \xEAtre consid\xE9r\xE9es comme suspectes (par exemple, calcul\xE9\
+        es comme [valeur \u2013 moyenne_climatologique] / \xE9cart-type climatologique\
+        \ pour une p\xE9riode climatologique de 1998 \xE0 2024)."
+      translations:
+        fr:
+          verified: true
+platform:
+- description:
+    en: Aqua
+  id: SDN:C17::33V4
+  instruments:
+  - id: MODIS
+    platform: SDN:C17::33V4
+  type: satellite
+- description:
+    en: Envisat
+  id: SDN:C17::33JQ
+  instruments:
+  - id: MERIS
+    platform: SDN:C17::33JQ
+  type: satellite
+- id: Suomi-NPP
+  instruments:
+  - id: VIIRS
+    platform: Suomi-NPP
+  type: satellite
+- description:
+    en: Terra
+  id: SDN:C17::33XX
+  instruments:
+  - id: MODIS
+    platform: SDN:C17::33XX
+  type: satellite
+- description:
+    en: NOAA-20
+  id: SDN:C17::33YO
+  instruments:
+  - id: VIIRS
+    platform: SDN:C17::33YO
+  type: satellite
+- description:
+    en: Orbview-2
+  id: SDN:C17::33QS
+  instruments:
+  - id: SeaWiFS
+    platform: SDN:C17::33QS
+  type: satellite
+- id: Sentinel-3A
+  instruments:
+  - id: OLCI
+    platform: Sentinel-3A
+  type: satellite
+- id: Sentinel-3B
+  instruments:
+  - id: OLCI
+    platform: Sentinel-3B
+  type: satellite
+spatial:
+  polygon: -76,39 -76,46 -65,60 -65,63 -64,65 -62.5,66 -42,66 -42,39 -76,39
+  vertical:
+  - 0
+  - 0
+  vertical_epsg:
+    Area: World
+    Code: 5829
+    DataSource: EPSG
+    Deprecated: false
+    Links:
+    - href: https://apps.epsg.org/api/v1/VerticalCoordRefSystem/5829
+      rel: result
+    Name: Instantaneous Water Level height
+    Remarks: Height relative to instantaneous water level uncorrected for tide. Not
+      specific to any location or epoch.
+    RevisionDate: '2012-08-10T00:00:00'
+    Superseded: false
+    Type: vertical
+  vertical_positive: heightPositive
