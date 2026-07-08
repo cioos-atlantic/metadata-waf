@@ -1,0 +1,163 @@
+contact:
+- inCitation: true
+  individual:
+    name: Whoriskey, Fred
+  roles:
+  - principalInvestigator
+- inCitation: true
+  individual:
+    name: Davies, Kim
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 6375 Edzell Castle Cir
+    country: Canada
+    email: otndc@dal.ca
+    name: Ocean Tracking Network
+    url: https://oceantrackingnetwork.org/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+  - funder
+- inCitation: true
+  organization:
+    name: Transport Canada's Innovation Centre
+  roles:
+  - funder
+distribution:
+- description:
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
+  url: https://erddap.oceantrack.org/erddap/tabledap/sable_20260621_224_realtime.html
+identification:
+  abstract:
+    en: A Teledyne Webb Research Slocum G3(s) glider equipped with passive acoustic
+      listening device (DMON) for a multi-month mission with an extended lithium primary
+      battery pack. The purpose of this mission is to monitor the Gulf of Saint Lawrence
+      shipping lane for the presence of North Atlantic right whales.
+    fr: Un planeur Teledyne Webb Research Slocum G3(s) équipé d'un dispositif d'écoute
+      acoustique passive (DMON) pour une mission de plusieurs mois avec une batterie
+      primaire au lithium étendue. Le but de cette mission est de surveiller la voie
+      de navigation du golfe du Saint-Laurent pour détecter la présence de baleines
+      noires de l'Atlantique Nord.
+  acknowledgement:
+    en: The study was funded by Transport Canada's Innovation Centre (TC/IC) and supported
+      by Laurence Lecavalier and Alison Butko at the IC. The DMON hydrophone, real-time
+      acoustic software, and automated dissemination of near real-time detections
+      to partners were provided through collaboration with Dr. Mark Baumgartner at
+      the Woods Hole Oceanographic Institution. The Ocean Tracking Network led this
+      project and their glider team expertly prepared, deployed, piloted and recovered
+      the gliders. Additional logistical support was provided by the Ocean Frontiers
+      Institute. Thank you to the vessel captains who supported deployment and recovery.
+    fr: L'étude a été financée par le Centre d'innovation de Transports Canada (TC/IC)
+      et soutenue par Laurence Lecavalier et Alison Butko du IC. L'hydrophone DMON,
+      le logiciel acoustique en temps réel et la diffusion automatisée des détections
+      en temps quasi réel aux partenaires ont été fournis grâce à la collaboration
+      avec le Dr Mark Baumgartner de la Woods Hole Oceanographic Institution. L'Ocean
+      Tracking Network a dirigé ce projet et son équipe de planeurs a préparé, déployé,
+      piloté et récupéré les planeurs de manière experte. Un soutien logistique supplémentaire
+      a été fourni par l'Ocean Frontiers Institute. Merci aux capitaines des navires
+      qui ont soutenu le déploiement et la récupération.
+  dates:
+    creation: '2026-07-07'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - passiveAcoustics
+      - acousticTagReceiver
+      fr:
+      - Salinité souterraine
+      - Température du sous-sol
+      - passiveAcoustique
+      - acoustiqueTagReceiver
+  status: onGoing
+  temporal_begin: '2026-06-21T13:27:48.000Z'
+  temporal_end: null
+  title:
+    en: Laurentian Channel real time whale monitoring for dynamic shipping management
+      in Gulf of St. Lawrence 2026-06-21
+    fr: Surveillance des baleines en temps réel dans le chenal Laurentien pour une
+      gestion dynamique de la navigation dans le golfe du Saint-Laurent 2026-06-21
+metadata:
+  dates:
+    publication: '2026-07-07T19:01:52Z'
+    revision: '2026-07-08T17:41:21Z'
+  identifier: 03f6c286-f35a-5167-9b15-1c055fbb7751
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+- id: sable
+  instruments:
+  - description:
+      en: RBR Legato3 CTD
+      fr: RBR Legato3 CTD
+    id: CTD_207520
+    manufacturer: RBR Ltd
+    type:
+      en: "Legato 1000m\r\nRBRlegato unpumped CTD"
+      fr: "Legato 1000m\r\nRBRlegato CTD non pompé"
+    version: '1.2'
+  - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument numérique de surveillance acoustique
+    id: hydrophones_058
+    manufacturer: Woods Hole Oceanographic Institution
+    type:
+      en: "DMON2- Payload Integrated System\r\nSO-A81"
+      fr: "DMON2- Système intégré de charge utile\r\nSO-A81"
+    version: '1.2'
+  - description:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    id: hydrophones_1360669
+    manufacturer: InnovaSea Systems Inc.
+    type:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    version: '1.2'
+  - description:
+      en: Slocum Glider G3 350 m oil pump
+      fr: Pompe à huile Slocum Glider G3 350 m
+    id: bpump_850
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider G3 350 m oil pump
+      fr: Pompe à huile Slocum Glider G3 350 m
+    version: '1.2'
+  - description:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
+    id: thruster_557
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
+    version: '1.2'
+  type: glider
+spatial:
+  bbox:
+  - -63.017552
+  - 49.254948
+  - -64.14846
+  - 48.914553
+  vertical:
+  - 0.0028881500475108624
+  - 347.7250061035156
