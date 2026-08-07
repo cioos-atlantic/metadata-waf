@@ -1,0 +1,166 @@
+contact:
+- inCitation: true
+  individual:
+    name: Bertrand, Erin
+    orcid: https://orcid.org/0000-0002-5950-6810
+  organization:
+    name: Dalhousie University (Ocean Frontier Institute)
+    url: https://ror.org/01e6qks80
+  roles:
+  - owner
+  - custodian
+  - distributor
+- inCitation: true
+  individual:
+    name: Finkel, Zoe
+    orcid: https://orcid.org/0000-0003-4212-3917
+  organization:
+    name: Dalhousie University
+    url: https://ror.org/01e6qks80
+  roles:
+  - owner
+  - distributor
+- inCitation: true
+  individual:
+    name: Kienast, Stephanie
+    orcid: https://orcid.org/0000-0003-3867-4919
+  organization:
+    name: Dalhousie University
+    url: https://ror.org/01e6qks80
+  roles:
+  - owner
+  - distributor
+- inCitation: true
+  individual:
+    name: Buchwald, Carly
+  organization:
+    name: Dalhousie University
+    url: https://ror.org/01e6qks80
+  roles:
+  - owner
+  - distributor
+distribution:
+- description:
+    en: The data is hosted at the ERDDAP servers of CIOOS Atlantic. Data users can
+      use this platform to downlod the data in any format of their choice.
+    fr: "Les donn\xE9es sont h\xE9berg\xE9es sur les serveurs ERDDAP du SIOOC Atlantique.\
+      \ Les utilisateurs de donn\xE9es peuvent utiliser cette plateforme pour t\xE9\
+      l\xE9charger les donn\xE9es dans n'importe quel format de leur choix."
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+  name:
+    en: CIOOS ERDDAP Server
+    fr: Serveur ERDDAP du SIOOC
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+  url: https://cioosatlantic.ca/erddap/tabledap/ofi_BELAS-1_ctd.html
+identification:
+  abstract:
+    en: Quality-controlled shipborne CTD profile observations collected during cruise
+      CE22009 aboard the R/V Celtic Explorer from 2022-05-18 to 2022-06-02. The dataset
+      includes cast identifiers, station names, location, time, depth, pressure, dual-channel
+      temperature, conductivity, salinity, potential temperature, sigma-theta, sound
+      velocity, dissolved oxygen, turbidity, fluorescence, transmissometer/voltage
+      channels, and corrected chlorophyll.
+    fr: "Observations de profils CTD embarqu\xE9s et contr\xF4l\xE9s en termes de\
+      \ qualit\xE9, collect\xE9es lors de la croisi\xE8re CE22009 \xE0 bord du R/V\
+      \ Celtic Explorer du 18 mai 2022 au 2 juin 2022. Le jeu de donn\xE9es comprend\
+      \ des identifiants de profile, des noms de stations, la localisation, l'heure,\
+      \ la profondeur, la pression, la temp\xE9rature \xE0 double canal, la conductivit\xE9\
+      , la salinit\xE9, la temp\xE9rature potentielle, le sigma-theta, la vitesse\
+      \ du son, l'oxyg\xE8ne dissous, la turbidit\xE9, la fluorescence, les canaux\
+      \ du transmissom\xE8tre/de la tension et la chlorophylle corrig\xE9e."
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '2022-05-18'
+  edition: '1.0'
+  identifier: https://doi.org/10.60622/aa1d-sf40
+  keywords:
+    default:
+      en:
+      - BELAS-1
+      - Celtic Explorer
+      - ctd
+      - vertical profiles
+      - temperature
+      - salinity
+      - dissolved oxygen
+      - chlorophyll a
+      - fluorescence
+      - turbidity
+      - conductivity
+      - pressure
+      - depth
+      - phytoplankton
+      - oxygen
+      - particulate matter
+      - subsurface temperature
+      - subsurface salinity
+      - water temperature
+      fr:
+      - "salinit\xE9"
+      - chlorophylle a
+      - fluorescence
+      - phytoplancton
+      - "temp\xE9rature de l'eau"
+    eov:
+      en:
+      - oxygen
+      - phytoplanktonBiomassAndDiversity
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - particulateMatter
+      fr:
+      - "Oxyg\xE8ne"
+      - "Biomasse et diversit\xE9 de phytoplancton"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
+      - "Mati\xE8re particulaire"
+  progress_code: completed
+  status: submitted
+  temporal_begin: '2022-05-18T15:00:00.000Z'
+  temporal_end: '2022-06-02T15:00:00.000Z'
+  title:
+    en: BELAS-1 CTD vertical profiles
+    fr: Profils verticaux CTD BELAS-1
+    translations:
+      fr:
+        message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
+        verified: false
+metadata:
+  dates:
+    revision: '2026-08-05T14:09:55.735Z'
+  history: []
+  identifier: 956b41d8-d545-4be2-b6c9-b2958e21fa44
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/scWs81XqQOe4fDaP4ekYQBOM2TD2/-OmzZciwS-nk1HPEAr1q
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+- id: BELAS-1
+  instruments: []
+  type: ship
+spatial:
+  bbox:
+  - -52.4703
+  - 56.6515
+  - -48.6158
+  - 59.507
+  vertical:
+  - 82.0
+  - 3634.0
+  vertical_positive: heightPositive
