@@ -271,7 +271,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2026-08-05T14:09:55.735Z</gco:DateTime>
+        <gco:DateTime>2026-09-09T16:07:01.670Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -1701,7 +1701,7 @@
                 </cit:CI_Citation>
               </mcc:authority>
               <mcc:code>
-                <gco:CharacterString>BELAS-1</gco:CharacterString>
+                <gco:CharacterString>R/V Celtic Explorer</gco:CharacterString>
               </mcc:code>
             </mcc:MD_Identifier>
           </mac:identifier>
@@ -1711,7 +1711,7 @@
           <mac:instrument/>
           <mac:otherProperty xlink:href="http://vocab.nerc.ac.uk/collection/L06/current/" xlink:title="SeaVoX Platform Categories">
             <gco:Record>
-              <gco:CharacterString>ship</gco:CharacterString>
+              <gco:CharacterString>research vessel</gco:CharacterString>
             </gco:Record>
           </mac:otherProperty>
         </mac:MI_Platform>

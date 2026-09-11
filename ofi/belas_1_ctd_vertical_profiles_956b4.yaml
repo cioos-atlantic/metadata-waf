@@ -135,14 +135,19 @@ identification:
       fr:
         message: Cohere command-a-translate-08-2025, cioos-commons@4c76a84
         verified: false
+  topic_category:
+  - oceans
 metadata:
   dates:
-    revision: '2026-08-05T14:09:55.735Z'
+    revision: '2026-09-09T16:07:01.670Z'
   history: []
   identifier: 956b41d8-d545-4be2-b6c9-b2958e21fa44
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/scWs81XqQOe4fDaP4ekYQBOM2TD2/-OmzZciwS-nk1HPEAr1q
+  metadataScope: Dataset
   naming_authority: ca.cioos
+  resourceType:
+  - oceanographic
   scope: dataset
   use_constraints:
     licence:
@@ -151,9 +156,9 @@ metadata:
         en: Creative Commons Attribution 4.0 Attribution
       url: https://creativecommons.org/licenses/by/4.0
 platform:
-- id: BELAS-1
+- id: R/V Celtic Explorer
   instruments: []
-  type: ship
+  type: research vessel
 spatial:
   bbox:
   - -52.4703
@@ -164,3 +169,4 @@ spatial:
   - 82.0
   - 3634.0
   vertical_positive: heightPositive
+
