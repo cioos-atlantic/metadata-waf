@@ -49,6 +49,7 @@ identification:
   dates:
     creation: '2022-05-01'
   edition: 1.0.0
+  identifier: https://doi.org/10.60622/t3ks-ns32
   keywords:
     default:
       en:
@@ -93,7 +94,7 @@ identification:
 metadata:
   dates:
     publication: '2026-05-07'
-    revision: '2026-05-06T19:51:13.718Z'
+    revision: '2026-07-31T15:35:48.192Z'
   history:
   - scope: Dataset
     statement:
@@ -103,6 +104,7 @@ metadata:
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/scWs81XqQOe4fDaP4ekYQBOM2TD2/-Oimdyl2_bWXStveyr9X
   naming_authority: ca.cioos
+  scope: dataset
   use_constraints:
     licence:
       code: CC-BY-4.0
