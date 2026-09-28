@@ -63,7 +63,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>DFO</gco:CharacterString>
+            <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -77,10 +77,10 @@
               <cit:address>
                 <cit:CI_Address>
                   <cit:deliveryPoint>
-                    <gco:CharacterString>Bedford Institute of Oceanography, Fisheries and Oceans Canada</gco:CharacterString>
+                    <gco:CharacterString></gco:CharacterString>
                   </cit:deliveryPoint>
                   <cit:city>
-                    <gco:CharacterString>Dartmouth</gco:CharacterString>
+                    <gco:CharacterString>Ottawa</gco:CharacterString>
                   </cit:city>
                   <cit:country>
                     <gco:CharacterString>Canada</gco:CharacterString>
@@ -93,7 +93,7 @@
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
                   <cit:linkage>
-                    <gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>
+                    <gco:CharacterString>https://www.dfo-mpo.gc.ca</gco:CharacterString>
                   </cit:linkage>
                   <cit:protocol>
                     <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -105,6 +105,13 @@
               </cit:onlineResource>
             </cit:CI_Contact>
           </cit:contactInfo>
+          <cit:partyIdentifier>
+            <mcc:MD_Identifier>
+              <mcc:code>
+                <gco:CharacterString>https://ror.org/02qa1x782</gco:CharacterString>
+              </mcc:code>
+            </mcc:MD_Identifier>
+          </cit:partyIdentifier>
           <cit:individual>
             <cit:CI_Individual>
               <cit:name>
@@ -147,7 +154,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>DFO</gco:CharacterString>
+            <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -161,10 +168,10 @@
               <cit:address>
                 <cit:CI_Address>
                   <cit:deliveryPoint>
-                    <gco:CharacterString>Bedford Institute of Oceanography, Fisheries and Oceans Canada</gco:CharacterString>
+                    <gco:CharacterString></gco:CharacterString>
                   </cit:deliveryPoint>
                   <cit:city>
-                    <gco:CharacterString>Dartmouth</gco:CharacterString>
+                    <gco:CharacterString>Ottawa</gco:CharacterString>
                   </cit:city>
                   <cit:country>
                     <gco:CharacterString>Canada</gco:CharacterString>
@@ -177,7 +184,7 @@
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
                   <cit:linkage>
-                    <gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>
+                    <gco:CharacterString>https://www.dfo-mpo.gc.ca</gco:CharacterString>
                   </cit:linkage>
                   <cit:protocol>
                     <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -189,6 +196,13 @@
               </cit:onlineResource>
             </cit:CI_Contact>
           </cit:contactInfo>
+          <cit:partyIdentifier>
+            <mcc:MD_Identifier>
+              <mcc:code>
+                <gco:CharacterString>https://ror.org/02qa1x782</gco:CharacterString>
+              </mcc:code>
+            </mcc:MD_Identifier>
+          </cit:partyIdentifier>
           <cit:individual>
             <cit:CI_Individual>
               <cit:name>
@@ -231,7 +245,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
+            <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -245,10 +259,10 @@
               <cit:address>
                 <cit:CI_Address>
                   <cit:deliveryPoint>
-                    <gco:CharacterString>1 Challenger Drive</gco:CharacterString>
+                    <gco:CharacterString></gco:CharacterString>
                   </cit:deliveryPoint>
                   <cit:city>
-                    <gco:CharacterString>DARTMOUTH</gco:CharacterString>
+                    <gco:CharacterString>Ottawa</gco:CharacterString>
                   </cit:city>
                   <cit:country>
                     <gco:CharacterString>Canada</gco:CharacterString>
@@ -258,7 +272,7 @@
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
                   <cit:linkage>
-                    <gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>
+                    <gco:CharacterString>https://www.dfo-mpo.gc.ca</gco:CharacterString>
                   </cit:linkage>
                   <cit:protocol>
                     <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -270,6 +284,13 @@
               </cit:onlineResource>
             </cit:CI_Contact>
           </cit:contactInfo>
+          <cit:partyIdentifier>
+            <mcc:MD_Identifier>
+              <mcc:code>
+                <gco:CharacterString>https://ror.org/02qa1x782</gco:CharacterString>
+              </mcc:code>
+            </mcc:MD_Identifier>
+          </cit:partyIdentifier>
           <cit:individual>
             <cit:CI_Individual>
               <cit:name>
@@ -307,7 +328,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2023-07-31T19:02:07.898Z</gco:DateTime>
+        <gco:DateTime>2026-07-22T19:04:43.678Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -317,7 +338,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:Date>2023-08-01</gco:Date>
+        <gco:Date>2025-09-11</gco:Date>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -374,7 +395,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra"></lan:LanguageCode>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng"></lan:LanguageCode>
       </lan:language>
       <lan:country>
         <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN"></lan:CountryCode>
@@ -387,7 +408,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng"></lan:LanguageCode>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra"></lan:LanguageCode>
       </lan:language>
       <lan:country>
         <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN"></lan:CountryCode>
@@ -404,7 +425,7 @@
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
             <gco:CharacterString>Maritimes Region Historical RAPID Climate Change Program Moored Time Series Data</gco:CharacterString>
             <lan:PT_FreeText>
-              <lan:textGroup>
+              <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
                 <lan:LocalisedCharacterString locale="#fr">Données chronologiques historiques du programme RAPID sur les changements climatiques de la région des Maritimes</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
@@ -419,6 +440,13 @@
               </cit:dateType>
             </cit:CI_Date>
           </cit:date>
+          <cit:identifier>
+            <mcc:MD_Identifier>
+              <mcc:code>
+                <gco:CharacterString>https://doi.org/10.5285/3a1e1bde-f356-c7f5-e063-7086abc04c0b</gco:CharacterString>
+              </mcc:code>
+            </mcc:MD_Identifier>
+          </cit:identifier>
           <cit:citedResponsibleParty>
             <cit:CI_Responsibility>
               <cit:role>
@@ -427,7 +455,7 @@
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
+                    <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
@@ -441,10 +469,10 @@
                       <cit:address>
                         <cit:CI_Address>
                           <cit:deliveryPoint>
-                            <gco:CharacterString>1 Challenger Drive</gco:CharacterString>
+                            <gco:CharacterString></gco:CharacterString>
                           </cit:deliveryPoint>
                           <cit:city>
-                            <gco:CharacterString>DARTMOUTH</gco:CharacterString>
+                            <gco:CharacterString>Ottawa</gco:CharacterString>
                           </cit:city>
                           <cit:country>
                             <gco:CharacterString>Canada</gco:CharacterString>
@@ -454,7 +482,7 @@
                       <cit:onlineResource>
                         <cit:CI_OnlineResource>
                           <cit:linkage>
-                            <gco:CharacterString>https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp</gco:CharacterString>
+                            <gco:CharacterString>https://www.dfo-mpo.gc.ca</gco:CharacterString>
                           </cit:linkage>
                           <cit:protocol>
                             <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -466,10 +494,17 @@
                       </cit:onlineResource>
                     </cit:CI_Contact>
                   </cit:contactInfo>
+                  <cit:partyIdentifier>
+                    <mcc:MD_Identifier>
+                      <mcc:code>
+                        <gco:CharacterString>https://ror.org/02qa1x782</gco:CharacterString>
+                      </mcc:code>
+                    </mcc:MD_Identifier>
+                  </cit:partyIdentifier>
                   <cit:individual>
                     <cit:CI_Individual>
                       <cit:name>
-                        <gco:CharacterString>Environmental Data Section (MEDS), Marine</gco:CharacterString>
+                        <gco:CharacterString>Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)</gco:CharacterString>
                       </cit:name>
                       <cit:contactInfo>
                         <cit:CI_Contact></cit:CI_Contact>
@@ -492,7 +527,7 @@ The specific scientific objectives of the RAPID program were agreed by the Rapid
 
 In the Maritimes the Rapid moorings were mostly on the Scotian shelf and slope off of Halifax from 2004 to 2010.</gco:CharacterString>
         <lan:PT_FreeText>
-          <lan:textGroup>
+          <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
             <lan:LocalisedCharacterString locale="#fr">Rapid Climate Change (RAPID) était à l&#39;origine un programme de 20 millions de livres sterling sur six ans (2001-2007) du Natural Environment Research Council. Cet effort de suivi s&#39;est poursuivi dans le cadre du programme de suivi RAPID-WATCH 2008-2014 financé par le NERC. Le programme visait à améliorer la capacité de quantifier la probabilité et l&#39;ampleur des futurs changements rapides du climat, en mettant l&#39;accent (mais pas exclusivement) sur le rôle de la circulation thermohaline de l&#39;océan Atlantique. Le programme a utilisé une combinaison d&#39;observations (actuelles et paléo) et de modélisation (atmosphérique, océanique, terrestre, cryosphérique). Des observations telles que des amarrages ont été utilisées pour tester des simulations de la variabilité de la circulation thermohaline et du changement climatique, y compris la circulation de renversement méridienne de l&#39;Atlantique, les processus de transport et de mélange à long terme, le forçage atmosphérique dû à la convection océanique, ainsi que les transports océaniques à grande échelle. 
 
 Les objectifs scientifiques spécifiques du programme RAPID ont été approuvés par le comité directeur sur le changement climatique rapide et sont détaillés dans le plan scientifique RAPID (https://rapid.ac.uk/rapid/Scienceplan.php).
@@ -548,7 +583,7 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
                   <mrs:referenceSystemIdentifier>
                     <mcc:MD_Identifier>
                       <mcc:code>
-                        <gco:CharacterString>5831</gco:CharacterString>
+                        <gco:CharacterString>5829</gco:CharacterString>
                       </mcc:code>
                       <mcc:codeSpace>
                         <gco:CharacterString>EPSG</gco:CharacterString>
@@ -557,7 +592,7 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
                         <gco:CharacterString>2012-08-10</gco:CharacterString>
                       </mcc:version>
                       <mcc:description>
-                        <gco:CharacterString>EPSG::5831 - Instantaneous Water Level depth - Depth relative to instantaneous water level uncorrected for tide. Not specific to any location or epoch.</gco:CharacterString>
+                        <gco:CharacterString>EPSG::5829 - Instantaneous Water Level height - Height relative to instantaneous water level uncorrected for tide. Not specific to any location or epoch.</gco:CharacterString>
                       </mcc:description>
                     </mcc:MD_Identifier>
                   </mrs:referenceSystemIdentifier>
@@ -591,7 +626,7 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
             <mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>
           </mmi:maintenanceAndUpdateFrequency>
           <mmi:maintenanceNote>
-            <gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form</gco:CharacterString>
+            <gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-NZgR1tZpS4P58nm-5WF</gco:CharacterString>
           </mmi:maintenanceNote>
         </mmi:MD_MaintenanceInformation>
       </mri:resourceMaintenance>
@@ -888,6 +923,39 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
           </mco:useLimitation>
         </mco:MD_Constraints>
       </mri:resourceConstraints>
+      <mri:associatedResource>
+        <mri:MD_AssociatedResource>
+          <mri:name>
+            <cit:CI_Citation>
+              <cit:title xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Moored ADCP and hydrographic measurements from the RAPID WAVE Scotian Line 2008-2014</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
+                    <lan:LocalisedCharacterString locale="#fr">ADCP amarré et mesures hydrographiques de la RAPID WAVE Scotian Line 2008-2014</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:title>
+              <cit:identifier>
+                <mcc:MD_Identifier>
+                  <mcc:authority>
+                    <cit:CI_Citation>
+                      <cit:title>
+                        <gco:CharacterString>DOI</gco:CharacterString>
+                      </cit:title>
+                    </cit:CI_Citation>
+                  </mcc:authority>
+                  <mcc:code>
+                    <gco:CharacterString>doi:10.5285/3a1e1bde-f356-c7f5-e063-7086abc04c0b</gco:CharacterString>
+                  </mcc:code>
+                </mcc:MD_Identifier>
+              </cit:identifier>
+            </cit:CI_Citation>
+          </mri:name>
+          <mri:associationType>
+            <mri:DS_AssociationTypeCode codeList="https://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#DS_AssociationTypeCode" codeListValue="revisionOf"></mri:DS_AssociationTypeCode>
+          </mri:associationType>
+        </mri:MD_AssociatedResource>
+      </mri:associatedResource>
       <mri:supplementalInformation>
         <gco:CharacterString></gco:CharacterString>
       </mri:supplementalInformation>
@@ -905,7 +973,7 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
+                    <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
@@ -919,10 +987,10 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
                       <cit:address>
                         <cit:CI_Address>
                           <cit:deliveryPoint>
-                            <gco:CharacterString>1 Challenger Drive</gco:CharacterString>
+                            <gco:CharacterString></gco:CharacterString>
                           </cit:deliveryPoint>
                           <cit:city>
-                            <gco:CharacterString>DARTMOUTH</gco:CharacterString>
+                            <gco:CharacterString>Ottawa</gco:CharacterString>
                           </cit:city>
                           <cit:country>
                             <gco:CharacterString>Canada</gco:CharacterString>
@@ -932,7 +1000,7 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
                       <cit:onlineResource>
                         <cit:CI_OnlineResource>
                           <cit:linkage>
-                            <gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>
+                            <gco:CharacterString>https://www.dfo-mpo.gc.ca</gco:CharacterString>
                           </cit:linkage>
                           <cit:protocol>
                             <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -944,6 +1012,13 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
                       </cit:onlineResource>
                     </cit:CI_Contact>
                   </cit:contactInfo>
+                  <cit:partyIdentifier>
+                    <mcc:MD_Identifier>
+                      <mcc:code>
+                        <gco:CharacterString>https://ror.org/02qa1x782</gco:CharacterString>
+                      </mcc:code>
+                    </mcc:MD_Identifier>
+                  </cit:partyIdentifier>
                   <cit:individual>
                     <cit:CI_Individual>
                       <cit:name>
@@ -985,37 +1060,7 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
           <mrd:onLine>
             <cit:CI_OnlineResource>
               <cit:linkage>
-                <gco:CharacterString>https://rapid.ac.uk/rapid/Scienceplan.php</gco:CharacterString>
-              </cit:linkage>
-              <cit:protocol>
-                <gco:CharacterString>WWW:LINK</gco:CharacterString>
-              </cit:protocol>
-              <cit:name xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>RAPID Science Plan</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Plan scientifique RAPID</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </cit:name>
-              <cit:description xsi:type="lan:PT_FreeText_PropertyType">
-                <gco:CharacterString>RAPID Science Plan</gco:CharacterString>
-                <lan:PT_FreeText>
-                  <lan:textGroup>
-                    <lan:LocalisedCharacterString locale="#fr">Plan scientifique RAPID</lan:LocalisedCharacterString>
-                  </lan:textGroup>
-                </lan:PT_FreeText>
-              </cit:description>
-            </cit:CI_OnlineResource>
-          </mrd:onLine>
-        </mrd:MD_DigitalTransferOptions>
-      </mrd:transferOptions>
-      <mrd:transferOptions>
-        <mrd:MD_DigitalTransferOptions>
-          <mrd:onLine>
-            <cit:CI_OnlineResource>
-              <cit:linkage>
-                <gco:CharacterString>https://rapid.ac.uk/rapid/rapid.php</gco:CharacterString>
+                <gco:CharacterString>https://rapid.ac.uk</gco:CharacterString>
               </cit:linkage>
               <cit:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -1023,7 +1068,7 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
               <cit:name xsi:type="lan:PT_FreeText_PropertyType">
                 <gco:CharacterString>Rapid Climate Change home page</gco:CharacterString>
                 <lan:PT_FreeText>
-                  <lan:textGroup>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
                     <lan:LocalisedCharacterString locale="#fr">Page d&#39;accueil sur le changement climatique rapide</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
@@ -1031,7 +1076,7 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
               <cit:description xsi:type="lan:PT_FreeText_PropertyType">
                 <gco:CharacterString>Rapid Climate Change home page</gco:CharacterString>
                 <lan:PT_FreeText>
-                  <lan:textGroup>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
                     <lan:LocalisedCharacterString locale="#fr">Page d&#39;accueil sur le changement climatique rapide</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
@@ -1053,7 +1098,7 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
               <cit:name xsi:type="lan:PT_FreeText_PropertyType">
                 <gco:CharacterString>CIOOS Atlantic ERDDAP dataset</gco:CharacterString>
                 <lan:PT_FreeText>
-                  <lan:textGroup>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
                     <lan:LocalisedCharacterString locale="#fr">Ensemble de données ERDDAP CIOOS Atlantic</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
@@ -1061,8 +1106,38 @@ Dans les Maritimes, les mouillages du Rapid se trouvaient principalement sur le 
               <cit:description xsi:type="lan:PT_FreeText_PropertyType">
                 <gco:CharacterString>CIOOS Atlantic ERDDAP dataset link for moored CTD data</gco:CharacterString>
                 <lan:PT_FreeText>
-                  <lan:textGroup>
+                  <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
                     <lan:LocalisedCharacterString locale="#fr">Lien vers la base de données ERDDAP du CIOOS Atlantic pour les données CTD amarrées</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:description>
+            </cit:CI_OnlineResource>
+          </mrd:onLine>
+        </mrd:MD_DigitalTransferOptions>
+      </mrd:transferOptions>
+      <mrd:transferOptions>
+        <mrd:MD_DigitalTransferOptions>
+          <mrd:onLine>
+            <cit:CI_OnlineResource>
+              <cit:linkage>
+                <gco:CharacterString>https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41292868.pdf</gco:CharacterString>
+              </cit:linkage>
+              <cit:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </cit:protocol>
+              <cit:name xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Publication:Moored Current and Hydrographic Measurements from the  RAPID WAVE Scotian Line, 2008 to 2018</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup>
+                    <lan:LocalisedCharacterString locale="#fr">Publication : Mesures hydrographiques et courants amarrées à partir de la ligne SCOTIAN RAPID WAVE, 2008 à 2018</lan:LocalisedCharacterString>
+                  </lan:textGroup>
+                </lan:PT_FreeText>
+              </cit:name>
+              <cit:description xsi:type="lan:PT_FreeText_PropertyType">
+                <gco:CharacterString>Publication that summarises the moored measurements of currents, temperature, salinity and bottom pressure made at 6 sites  across the Scotian Slope and Rise between October 2008 and May 2018  with  respect to positions and periods; data return, quality and availability; and salient features</gco:CharacterString>
+                <lan:PT_FreeText>
+                  <lan:textGroup>
+                    <lan:LocalisedCharacterString locale="#fr">Publication qui résume les mesures amarrées des courants, de la température, de la salinité et de la pression de fond effectuées sur 6 sites le long du versant et de la montée de l&#39;Écosse entre octobre 2008 et mai 2018 en ce qui concerne les positions et les périodes ; le retour des données, la qualité et la disponibilité ; et les principales caractéristiques</lan:LocalisedCharacterString>
                   </lan:textGroup>
                 </lan:PT_FreeText>
               </cit:description>

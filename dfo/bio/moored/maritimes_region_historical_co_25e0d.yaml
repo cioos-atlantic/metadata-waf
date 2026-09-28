@@ -5,12 +5,12 @@ contact:
     name: Cardoso, Diana
     position: Maritimes Region oceanographic data manager
   organization:
-    address: Bedford Institute of Oceanography, Fisheries and Oceans Canada
-    city: Dartmouth
+    city: Ottawa
     country: Canada
     email: Diana.Cardoso@dfo-mpo.gc.ca
-    name: DFO
-    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - custodian
   - pointOfContact
@@ -20,22 +20,22 @@ contact:
     name: Data Services, BIO
     position: Data Management
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - distributor
 - inCitation: true
   individual:
-    name: Environmental Data Section (MEDS), Marine
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - owner
 distribution:
@@ -43,58 +43,58 @@ distribution:
     en: 'Gurbutt, P.A; Petrie, B; Jordan, F.  1993.  The physical oceanography of
       the Bras d''Or lakes : data analysis and modelling.  Canadian technical report
       of hydrography and ocean sciences. 147: vii, 61 pp.'
-    fr: 'Gurbutt, P.A. ; Petrie, B. ; Jordan, F. 1993. L''océanographie physique des
-      lacs Bras d''Or : analyse des données et modélisation. Rapport technique canadien
-      sur l''hydrographie et les sciences de la mer. 147 : vii, 61 p.'
+    fr: "Gurbutt, P.A.\_; Petrie, B.\_; Jordan, F. 1993. L'oc\xE9anographie physique\
+      \ des lacs Bras d'Or\_: analyse des donn\xE9es et mod\xE9lisation. Rapport technique\
+      \ canadien sur l'hydrographie et les sciences de la mer. 147\_: vii, 61 p."
   name:
     en: 'Gurbutt, P.A; Petrie, B; Jordan, F.  1993.  The physical oceanography of
       the Bras d''Or lakes : data analysis and modelling.  Canadian technical report
       of hydrography and ocean sciences. 147: vii, 61 pp.'
-    fr: 'Gurbutt, P.A. ; Petrie, B. ; Jordan, F. 1993. L''océanographie physique des
-      lacs Bras d''Or : analyse des données et modélisation. Rapport technique canadien
-      sur l''hydrographie et les sciences de la mer. 147 : vii, 61 p.'
+    fr: "Gurbutt, P.A.\_; Petrie, B.\_; Jordan, F. 1993. L'oc\xE9anographie physique\
+      \ des lacs Bras d'Or\_: analyse des donn\xE9es et mod\xE9lisation. Rapport technique\
+      \ canadien sur l'hydrographie et les sciences de la mer. 147\_: vii, 61 p."
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/148083.pdf
 - description:
     en: Krauel, D.P. 1975. The physical oceanography of the Bras d'Or Lakes, 1972-1974.  Technical
       report (Canada. Fisheries and Marine Service. Research and Development Directorate)
       ; 570
-    fr: Krauel, D. P. 1975. L'océanographie physique des lacs Bras d'Or, 1972-1974.
-      Rapport technique (Canada). Service des pêches et de la marine. Direction de
-      la recherche et du développement) ; 570
+    fr: "Krauel, D. P. 1975. L'oc\xE9anographie physique des lacs Bras d'Or, 1972-1974.\
+      \ Rapport technique (Canada). Service des p\xEAches et de la marine. Direction\
+      \ de la recherche et du d\xE9veloppement)\_; 570"
   name:
     en: Krauel, D.P. 1975. The physical oceanography of the Bras d'Or Lakes, 1972-1974.  Technical
       report (Canada. Fisheries and Marine Service. Research and Development Directorate)
       ; 570
-    fr: Krauel, D. P. 1975. L'océanographie physique des lacs Bras d'Or, 1972-1974.
-      Rapport technique (Canada). Service des pêches et de la marine. Direction de
-      la recherche et du développement) ; 570
+    fr: "Krauel, D. P. 1975. L'oc\xE9anographie physique des lacs Bras d'Or, 1972-1974.\
+      \ Rapport technique (Canada). Service des p\xEAches et de la marine. Direction\
+      \ de la recherche et du d\xE9veloppement)\_; 570"
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/52266.pdf
 - description:
     en: 'P.D. Keizer, G. Bugden, D.V. Subba Rao, and P.M. Strain. 1996. Long-term
       monitoring program : Indian Point and Sambro, Nova Scotia, for the period July
       1992 to December 1994. Canadian data report of fisheries and aquatic sciences.  980:
       v, 20 pp.'
-    fr: 'P.D. Keizer, G. Bugden, D. V. Subba Rao et P.M. Strain. 1996. Programme de
-      surveillance à long terme : Indian Point et Sambro, Nouvelle-Écosse, pour la
-      période de juillet 1992 à décembre 1994. Rapport de données sur les sciences
-      halieutiques et aquatiques au Canada. 980 : v, 20 p.'
+    fr: "P.D. Keizer, G. Bugden, D. V. Subba Rao et P.M. Strain. 1996. Programme de\
+      \ surveillance \xE0 long terme\_: Indian Point et Sambro, Nouvelle-\xC9cosse,\
+      \ pour la p\xE9riode de juillet 1992 \xE0 d\xE9cembre 1994. Rapport de donn\xE9\
+      es sur les sciences halieutiques et aquatiques au Canada. 980\_: v, 20 p."
   name:
     en: 'P.D. Keizer, G. Bugden, D.V. Subba Rao, and P.M. Strain. 1996. Long-term
       monitoring program : Indian Point and Sambro, Nova Scotia, for the period July
       1992 to December 1994. Canadian data report of fisheries and aquatic sciences.  980:
       v, 20 pp.'
-    fr: 'P.D. Keizer, G. Bugden, D. V. Subba Rao et P.M. Strain. 1996. Programme de
-      surveillance à long terme : Indian Point et Sambro, Nouvelle-Écosse, pour la
-      période de juillet 1992 à décembre 1994. Rapport de données sur les sciences
-      halieutiques et aquatiques au Canada. 980 : v, 20 p.'
+    fr: "P.D. Keizer, G. Bugden, D. V. Subba Rao et P.M. Strain. 1996. Programme de\
+      \ surveillance \xE0 long terme\_: Indian Point et Sambro, Nouvelle-\xC9cosse,\
+      \ pour la p\xE9riode de juillet 1992 \xE0 d\xE9cembre 1994. Rapport de donn\xE9\
+      es sur les sciences halieutiques et aquatiques au Canada. 980\_: v, 20 p."
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/199959.pdf
 - description:
     en: CIOOS Atlantic ERDDAP dataset link for moored CTD data
-    fr: Lien vers la base de données ERDDAP du CIOOS Atlantic pour les données CTD
-      amarrées
+    fr: "Lien vers la base de donn\xE9es ERDDAP du CIOOS Atlantic pour les donn\xE9\
+      es CTD amarr\xE9es"
   name:
     en: CIOOS Atlantic ERDDAP dataset
-    fr: Ensemble de données ERDDAP CIOOS Atlantic
+    fr: "Ensemble de donn\xE9es ERDDAP CIOOS Atlantic"
   url: https://cioosatlantic.ca/erddap/tabledap/bio_historical_coastal_moored_ctd.html
 identification:
   abstract:
@@ -102,11 +102,12 @@ identification:
       participated in between 1970s and present which collected moored time series
       data. These missions were part of various projects in several coastal areas
       around Nova Scotia and southern New Brunswick.
-    fr: Missions côtières historiques auxquelles l'Institut océanographique de Bedford
-      de Pêches et Océans Canada a participé entre les années 1970 et aujourd'hui,
-      qui ont permis de recueillir des données chronologiques amarrées. Ces missions
-      s'inscrivaient dans le cadre de divers projets dans plusieurs zones côtières
-      de la Nouvelle-Écosse et du sud du Nouveau-Brunswick.
+    fr: "Missions c\xF4ti\xE8res historiques auxquelles l'Institut oc\xE9anographique\
+      \ de Bedford de P\xEAches et Oc\xE9ans Canada a particip\xE9 entre les ann\xE9\
+      es 1970 et aujourd'hui, qui ont permis de recueillir des donn\xE9es chronologiques\
+      \ amarr\xE9es. Ces missions s'inscrivaient dans le cadre de divers projets dans\
+      \ plusieurs zones c\xF4ti\xE8res de la Nouvelle-\xC9cosse et du sud du Nouveau-Brunswick."
+  associated_resources: []
   dates:
     creation: '1974-01-01'
   keywords:
@@ -125,16 +126,16 @@ identification:
       - oxygen
       fr:
       - changement climatique
-      - salinité
-      - température de l'eau
-      - densité eau
-      - échantillonnage
-      - missions océanographique
+      - "salinit\xE9"
+      - "temp\xE9rature de l'eau"
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
       - physico-chimie
       - pression
-      - température potentielle
-      - densité potentielle
-      - densité d'eau de mer
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
       - oxygen
     eov:
       en:
@@ -147,12 +148,12 @@ identification:
       - surfaceCurrents
       - subSurfaceCurrents
       fr:
-      - Salinité de surface
-      - Température de surface
-      - Température sous la surface
-      - Salinité sous la surface
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
       - Autre
-      - Oxygène
+      - "Oxyg\xE8ne"
       - Courants de surface
       - Courants sous-marins
   progress_code: onGoing
@@ -160,31 +161,36 @@ identification:
   temporal_begin: '1974-01-01T16:00:00.000Z'
   title:
     en: Maritimes Region Historical Coastal Moored Time Series Data
-    fr: Données chronologiques historiques sur les navires amarrés côtiers de la région
-      des Maritimes
+    fr: "Donn\xE9es chronologiques historiques sur les navires amarr\xE9s c\xF4tiers\
+      \ de la r\xE9gion des Maritimes"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
 metadata:
   dates:
     publication: '2023-07-31'
-    revision: '2023-07-31T18:58:04.834Z'
+    revision: '2026-07-22T19:02:15.767Z'
+  history: []
   identifier: 25e0d107-5c16-45ec-9632-b2a4f7b2ecd2
   language: en
-  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-NZgKrVUAVwqtUTTeI8t
   naming_authority: ca.cioos
+  scope: dataset
   use_constraints:
     licence:
       code: government-open-license-canada
       title:
         en: Open Government Licence - Canada
-        fr: 'Licence du gouvernement ouvert – Canada '
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
       url: https://open.canada.ca/en/open-government-licence-canada
     limitations:
       en: Availability of data varies both between and within years due to mission
         cancellations.
-      fr: La disponibilité des données varie entre les années et au cours des années
-        en raison des annulations de missions.
-platform:
-  id: SDN:L06::48
-  type: mooring
+      fr: "La disponibilit\xE9 des donn\xE9es varie entre les ann\xE9es et au cours\
+        \ des ann\xE9es en raison des annulations de missions."
+platform: []
 spatial:
   bbox:
   - -68.35
@@ -194,3 +200,4 @@ spatial:
   vertical:
   - 1.0
   - 200.0
+  vertical_positive: heightPositive

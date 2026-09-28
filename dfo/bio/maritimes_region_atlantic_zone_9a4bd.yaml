@@ -5,11 +5,11 @@ contact:
     name: Beazley, Lindsay
     position: Maritimes Region AZMP Operational Lead
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - custodian
   - pointOfContact
@@ -19,22 +19,22 @@ contact:
     name: Data Services, BIO
     position: Data Management
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - distributor
 - inCitation: true
   individual:
     name: Environmental Data Section (MEDS), Marine
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - owner
 distribution:
@@ -48,12 +48,12 @@ distribution:
   url: https://mar-azmp.shinyapps.io/MAR_AZMP_Stations/
 - description:
     en: Core sampling protocols for the Atlantic Zone Monitoring Program
-    fr: Principaux protocoles d'échantillonnage pour le Programme de surveillance
-      de la zone atlantique
+    fr: "Principaux protocoles d'\xE9chantillonnage pour le Programme de surveillance\
+      \ de la zone atlantique"
     translations:
       fr:
-        message: text translated using the Amazon translate service / texte traduit
-          à l'aide du service de traduction Amazon
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
         verified: false
   name:
     en: Atlantic Zonal Monitoring Program Sampling Protocol
@@ -61,16 +61,16 @@ distribution:
 - description:
     en: Fisheries and Oceans Canada website for the Atlantic Zone Monitoring Program
       (AZMP)
-    fr: Site Web de Pêches et Océans Canada pour le Programme de monitorage de la
-      zone Atlantique (PMZA)
+    fr: "Site Web de P\xEAches et Oc\xE9ans Canada pour le Programme de monitorage\
+      \ de la zone Atlantique (PMZA)"
   name:
     en: Atlantic Zone Monitoring Program (AZMP)
   url: https://www.dfo-mpo.gc.ca/science/data-donnees/azmp-pmza/index-eng.html
 - description:
     en: Website containing publications produced under the Canadian Science Advisory
       Secretariat
-    fr: Site Web contenant des publications produites par le Secrétariat canadien
-      de consultation scientifique
+    fr: "Site Web contenant des publications produites par le Secr\xE9tariat canadien\
+      \ de consultation scientifique"
   name:
     en: Canadian Science Advisory Secretariat (CSAS) Publications
   url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
@@ -80,8 +80,8 @@ distribution:
 - description:
     en: National Department of Fisheries and Oceans (DFO) archive for plankton and
       chemical data
-    fr: Archives du ministère national des Pêches et des Océans (MPO) pour les données
-      sur le plancton et les produits chimiques
+    fr: "Archives du minist\xE8re national des P\xEAches et des Oc\xE9ans (MPO) pour\
+      \ les donn\xE9es sur le plancton et les produits chimiques"
   name:
     en: BioChem DFO Database for plankton and chemical data
   url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
@@ -107,32 +107,35 @@ identification:
       into two annual reports on the physical and chemical/biological changes in the
       Maritimes Region, and are also used to evaluate changes across the Atlantic
       zone.
-    fr: Le Programme de surveillance de la zone atlantique (PMZA) a été mis en œuvre
-      en 1998 dans le but de détecter et de suivre les changements climatiques et
-      la variabilité dans l'Atlantique Nord-Ouest, d'évaluer les changements dans
-      les propriétés physiques, chimiques et biologiques de l'océan et la dynamique
-      prédateur-proie des ressources marines, améliorant ainsi le Canada. de comprendre,
-      de décrire et de prévoir l'état de l'écosystème marin. Le schéma d'échantillonnage
-      de l'AZMP dans la région des Maritimes comprend un échantillonnage océanographique
-      à deux stations côtières fixes à haute fréquence (bihebdomadaire à mensuelle),
-      un échantillonnage semestriel à des emplacements stratifiés aléatoires pendant
-      les relevés au chalut écosystémique dirigés par le MPO, un échantillonnage biannuel
-      le long de sections transversales fixes (Cabot Strait Line, Louisbourg Line,
-      Halifax Line, Browns Bank Line et Northeast Channel) ; ces derniers peuvent
-      également inclure un échantillonnage opportuniste dans les stations du chenal
-      Laurentien, du golfe du Maine et de diverses aires marines protégées (AMP) à
-      l'appui de programmes et d'initiatives de recherche auxiliaire. L'échantillonnage
-      AZMP est effectué conformément aux procédures normalisées (voir https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6)
-      et comprend la collecte de profils CTD et d'échantillons d'eau pour la détermination
-      des variables physiques (p. ex. T, S), chimiques (nutriments, oxygène, pH) et
-      biologiques (chl a) et verticales remorquage de filet d'anneau. Les données
-      recueillies sont synthétisées dans deux rapports annuels sur les changements
-      physiques et chimiques et biologiques dans la région des Maritimes, et sont
-      également utilisées pour évaluer les changements dans la zone atlantique.
+    fr: "Le Programme de surveillance de la zone atlantique (PMZA) a \xE9t\xE9 mis\
+      \ en \u0153uvre en 1998 dans le but de d\xE9tecter et de suivre les changements\
+      \ climatiques et la variabilit\xE9 dans l'Atlantique Nord-Ouest, d'\xE9valuer\
+      \ les changements dans les propri\xE9t\xE9s physiques, chimiques et biologiques\
+      \ de l'oc\xE9an et la dynamique pr\xE9dateur-proie des ressources marines, am\xE9\
+      liorant ainsi le Canada. de comprendre, de d\xE9crire et de pr\xE9voir l'\xE9\
+      tat de l'\xE9cosyst\xE8me marin. Le sch\xE9ma d'\xE9chantillonnage de l'AZMP\
+      \ dans la r\xE9gion des Maritimes comprend un \xE9chantillonnage oc\xE9anographique\
+      \ \xE0 deux stations c\xF4ti\xE8res fixes \xE0 haute fr\xE9quence (bihebdomadaire\
+      \ \xE0 mensuelle), un \xE9chantillonnage semestriel \xE0 des emplacements stratifi\xE9\
+      s al\xE9atoires pendant les relev\xE9s au chalut \xE9cosyst\xE9mique dirig\xE9\
+      s par le MPO, un \xE9chantillonnage biannuel le long de sections transversales\
+      \ fixes (Cabot Strait Line, Louisbourg Line, Halifax Line, Browns Bank Line\
+      \ et Northeast Channel)\_; ces derniers peuvent \xE9galement inclure un \xE9\
+      chantillonnage opportuniste dans les stations du chenal Laurentien, du golfe\
+      \ du Maine et de diverses aires marines prot\xE9g\xE9es (AMP) \xE0 l'appui de\
+      \ programmes et d'initiatives de recherche auxiliaire. L'\xE9chantillonnage\
+      \ AZMP est effectu\xE9 conform\xE9ment aux proc\xE9dures normalis\xE9es (voir\
+      \ https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6) et comprend la collecte\
+      \ de profils CTD et d'\xE9chantillons d'eau pour la d\xE9termination des variables\
+      \ physiques (p. ex. T, S), chimiques (nutriments, oxyg\xE8ne, pH) et biologiques\
+      \ (chl a) et verticales remorquage de filet d'anneau. Les donn\xE9es recueillies\
+      \ sont synth\xE9tis\xE9es dans deux rapports annuels sur les changements physiques\
+      \ et chimiques et biologiques dans la r\xE9gion des Maritimes, et sont \xE9\
+      galement utilis\xE9es pour \xE9valuer les changements dans la zone atlantique."
     translations:
       fr:
-        message: text translated using the Amazon translate service / texte traduit
-          à l'aide du service de traduction Amazon
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
         verified: false
   associated_resources: []
   dates:
@@ -159,22 +162,22 @@ identification:
       - seawater density
       fr:
       - changement climatique
-      - salinité
+      - "salinit\xE9"
       - chlorophylle a
-      - température de l'eau
-      - télédétection
+      - "temp\xE9rature de l'eau"
+      - "t\xE9l\xE9d\xE9tection"
       - fluorescence
-      - densité eau
-      - échantillonnage
-      - missions océanographique
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
       - physico-chimie
       - pression
       - nitrate
       - phosphate
       - silicate
-      - température potentielle
-      - densité potentielle
-      - densité d'eau de mer
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
     eov:
       en:
       - oxygen
@@ -187,11 +190,11 @@ identification:
       - inorganicCarbon
       - dissolvedOrganicCarbon
       fr:
-      - Oxygène
-      - Salinité de surface
-      - Température de surface
-      - Température sous la surface
-      - Salinité sous la surface
+      - "Oxyg\xE8ne"
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
       - Autre
       - Nutriments
       - Carbone inorganique
@@ -201,27 +204,30 @@ identification:
   temporal_begin: '1998-01-01T16:00:00.000Z'
   title:
     en: Maritimes Region Atlantic Zone Monitoring Program (AZMP) CTD Profiles
-    fr: Programme de surveillance de la zone atlantique de la région des Maritimes
-      (PMZA) profils verticaux des rosettes
+    fr: "Programme de surveillance de la zone atlantique de la r\xE9gion des Maritimes\
+      \ (PMZA) profils verticaux des rosettes"
     translations:
       fr:
-        message: text translated using the Amazon translate service / texte traduit
-          à l'aide du service de traduction Amazon
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
         verified: false
+instruments: []
 metadata:
   dates:
     publication: '2024-12-02'
-    revision: '2024-11-27T12:48:01.731Z'
+    revision: '2026-07-27T18:59:46.978Z'
+  history: []
   identifier: 9a4bd73f-12a2-40ff-a7c7-b961a1d11311
   language: en
   maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/2Q2KWyc5ZthYj9zIpuTedNSVsci2/-MePqGIXPInEttllRPho
   naming_authority: ca.cioos
+  scope: dataset
   use_constraints:
     licence:
       code: government-open-license-canada
       title:
         en: Open Government Licence - Canada
-        fr: 'Licence du gouvernement ouvert – Canada '
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
       url: https://open.canada.ca/en/open-government-licence-canada
     limitations:
       en: Availability of data varies both between and within years due to mission

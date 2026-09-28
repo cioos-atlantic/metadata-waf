@@ -5,12 +5,12 @@ contact:
     name: Cardoso, Diana
     position: Maritimes Oceanographic data manager
   organization:
-    address: Bedford Institute of Oceanography, Fisheries and Oceans Canada
-    city: Dartmouth
+    city: Ottawa
     country: Canada
     email: Diana.Cardoso@dfo-mpo.gc.ca
-    name: DFO
-    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - custodian
   - pointOfContact
@@ -20,22 +20,22 @@ contact:
     name: Data Services, BIO
     position: Data Management
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - distributor
 - inCitation: true
   individual:
-    name: Environmental Data Section (MEDS), Marine
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - owner
 distribution:
@@ -43,63 +43,65 @@ distribution:
     en: 'Greenan, B.J.W., B.D. Petrie, D.A. Cardoso, W.G. Harrison, E.J.H. Head and
       W.K.W. Li. 2013. Physical,  chemical and biological variability of the Sable
       Gully 2006-07. Can. Tech. Rep. Hydrogr. Ocean. Sci.  293: x+261 pp.'
-    fr: 'Greenan, B.J.W., B. D. Petrie, D. A. Cardoso, W. G. Harrison, E.J.H. Head
-      et W.K.W. Li. 2013. Variabilité physique, chimique et biologique du ravin de
-      Sable 2006-2007. Peut. Technologie. Rép. Hydrogr. Océan. Sci. 293 : x+261 p.'
+    fr: "Greenan, B.J.W., B. D. Petrie, D. A. Cardoso, W. G. Harrison, E.J.H. Head\
+      \ et W.K.W. Li. 2013. Variabilit\xE9 physique, chimique et biologique du ravin\
+      \ de Sable 2006-2007. Peut. Technologie. R\xE9p. Hydrogr. Oc\xE9an. Sci. 293\_\
+      : x+261 p."
   name:
     en: 'Greenan, B.J.W., B.D. Petrie, D.A. Cardoso, W.G. Harrison, E.J.H. Head and
       W.K.W. Li. 2013. Physical,  chemical and biological variability of the Sable
       Gully 2006-07. Can. Tech. Rep. Hydrogr. Ocean. Sci.  293: x+261 pp.'
-    fr: 'Greenan, B.J.W., B. D. Petrie, D. A. Cardoso, W. G. Harrison, E.J.H. Head
-      et W.K.W. Li. 2013. Variabilité physique, chimique et biologique du ravin de
-      Sable 2006-2007. Peut. Technologie. Rép. Hydrogr. Océan. Sci. 293 : x+261 p.'
+    fr: "Greenan, B.J.W., B. D. Petrie, D. A. Cardoso, W. G. Harrison, E.J.H. Head\
+      \ et W.K.W. Li. 2013. Variabilit\xE9 physique, chimique et biologique du ravin\
+      \ de Sable 2006-2007. Peut. Technologie. R\xE9p. Hydrogr. Oc\xE9an. Sci. 293\_\
+      : x+261 p."
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/350069.pdf
 - description:
     en: 'Canadian data report of hydrography and ocean sciences ; 91:  Labrador Current
       variability study : current meter observations October 1985 to January 1986'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques ;
-      91 : Étude de la variabilité du courant au Labrador : observations effectuées
-      par courantomètre, octobre 1985 à janvier 1986'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques\_; 91\_: \xC9tude de la variabilit\xE9 du courant au Labrador\_: observations\
+      \ effectu\xE9es par courantom\xE8tre, octobre 1985 \xE0 janvier 1986"
   name:
     en: 'Canadian data report of hydrography and ocean sciences ; 91:  Labrador Current
       variability study : current meter observations October 1985 to January 1986'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques ;
-      91 : Étude de la variabilité du courant au Labrador : observations effectuées
-      par courantomètre, octobre 1985 à janvier 1986'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques\_; 91\_: \xC9tude de la variabilit\xE9 du courant au Labrador\_: observations\
+      \ effectu\xE9es par courantom\xE8tre, octobre 1985 \xE0 janvier 1986"
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/33610.pdf
 - description:
     en: 'Canadian technical report of hydrography and ocean sciences ; 157: Current
       meter observations from Hamilton Bank and NE Newfoundland Shelf, 1990 to 1993'
-    fr: 'Rapport technique canadien sur l''hydrographie et les sciences océaniques ;
-      157 : Observations de courantomètres sur le banc Hamilton et le nord-est du
-      plateau continental de Terre-Neuve, 1990 à 1993'
+    fr: "Rapport technique canadien sur l'hydrographie et les sciences oc\xE9aniques\_\
+      ; 157\_: Observations de courantom\xE8tres sur le banc Hamilton et le nord-est\
+      \ du plateau continental de Terre-Neuve, 1990 \xE0 1993"
   name:
     en: 'Canadian technical report of hydrography and ocean sciences ; 157: Current
       meter observations from Hamilton Bank and NE Newfoundland Shelf, 1990 to 1993'
-    fr: 'Rapport technique canadien sur l''hydrographie et les sciences océaniques ;
-      157 : Observations de courantomètres sur le banc Hamilton et le nord-est du
-      plateau continental de Terre-Neuve, 1990 à 1993'
+    fr: "Rapport technique canadien sur l'hydrographie et les sciences oc\xE9aniques\_\
+      ; 157\_: Observations de courantom\xE8tres sur le banc Hamilton et le nord-est\
+      \ du plateau continental de Terre-Neuve, 1990 \xE0 1993"
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/167430.pdf
 - description:
     en: 'Canadian technical report of hydrography and ocean sciences ; 40: Current
       meter, meteorological, and sea-level observations off Cape Sable, Nova Scotia'
-    fr: 'Rapport technique canadien sur l''hydrographie et les sciences océaniques ;
-      40 : Observations du courant, de la météorologie et du niveau de la mer au large
-      du cap Sable, en Nouvelle-Écosse'
+    fr: "Rapport technique canadien sur l'hydrographie et les sciences oc\xE9aniques\_\
+      ; 40\_: Observations du courant, de la m\xE9t\xE9orologie et du niveau de la\
+      \ mer au large du cap Sable, en Nouvelle-\xC9cosse"
   name:
     en: 'Canadian technical report of hydrography and ocean sciences ; 40: Current
       meter, meteorological, and sea-level observations off Cape Sable, Nova Scotia'
-    fr: 'Rapport technique canadien sur l''hydrographie et les sciences océaniques ;
-      40 : Observations du courant, de la météorologie et du niveau de la mer au large
-      du cap Sable, en Nouvelle-Écosse'
+    fr: "Rapport technique canadien sur l'hydrographie et les sciences oc\xE9aniques\_\
+      ; 40\_: Observations du courant, de la m\xE9t\xE9orologie et du niveau de la\
+      \ mer au large du cap Sable, en Nouvelle-\xC9cosse"
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/90601.pdf
 - description:
     en: CIOOS Atlantic ERDDAP dataset link for moored CTD data
-    fr: Lien vers la base de données ERDDAP du CIOOS Atlantic pour les données CTD
-      amarrées
+    fr: "Lien vers la base de donn\xE9es ERDDAP du CIOOS Atlantic pour les donn\xE9\
+      es CTD amarr\xE9es"
   name:
     en: CIOOS Atlantic ERDDAP dataset
-    fr: Ensemble de données ERDDAP CIOOS Atlantic
+    fr: "Ensemble de donn\xE9es ERDDAP CIOOS Atlantic"
   url: https://cioosatlantic.ca/erddap/tabledap/bio_historical_offshore_moored_ctd.html
 identification:
   abstract:
@@ -108,12 +110,14 @@ identification:
       data. These missions were part of various projects and visited several areas
       within Canadian waters such as: Scotian Shelf, Labrador Sea, Gulf of St Lawrence,
       Bay of Fundy, and Northwest Atlantic.'
-    fr: Missions historiques en mer auxquelles l'Institut océanographique de Bedford
-      de Pêches et Océans Canada a participé entre les années 1970 et aujourd'hui
-      et qui ont permis de recueillir des données chronologiques amarrées. Ces missions
-      s'inscrivaient dans le cadre de divers projets et ont visité plusieurs zones
-      des eaux canadiennes, telles que le plateau néo-écossais, la mer du Labrador,
-      le golfe du Saint-Laurent, la baie de Fundy et l'Atlantique Nord-Ouest.
+    fr: "Missions historiques en mer auxquelles l'Institut oc\xE9anographique de Bedford\
+      \ de P\xEAches et Oc\xE9ans Canada a particip\xE9 entre les ann\xE9es 1970 et\
+      \ aujourd'hui et qui ont permis de recueillir des donn\xE9es chronologiques\
+      \ amarr\xE9es. Ces missions s'inscrivaient dans le cadre de divers projets et\
+      \ ont visit\xE9 plusieurs zones des eaux canadiennes, telles que le plateau\
+      \ n\xE9o-\xE9cossais, la mer du Labrador, le golfe du Saint-Laurent, la baie\
+      \ de Fundy et l'Atlantique Nord-Ouest."
+  associated_resources: []
   dates:
     creation: '1969-01-01'
   keywords:
@@ -131,17 +135,17 @@ identification:
       - seawater density
       fr:
       - changement climatique
-      - salinité
-      - température de l'eau
-      - télédétection
-      - densité eau
-      - échantillonnage
-      - missions océanographique
+      - "salinit\xE9"
+      - "temp\xE9rature de l'eau"
+      - "t\xE9l\xE9d\xE9tection"
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
       - physico-chimie
       - pression
-      - température potentielle
-      - densité potentielle
-      - densité d'eau de mer
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
       - oxygen
     eov:
       en:
@@ -154,12 +158,12 @@ identification:
       - subSurfaceCurrents
       - surfaceCurrents
       fr:
-      - Salinité de surface
-      - Température de surface
-      - Température sous la surface
-      - Salinité sous la surface
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
       - Autre
-      - Oxygène
+      - "Oxyg\xE8ne"
       - Courants sous-marins
       - Courants de surface
   progress_code: onGoing
@@ -167,26 +171,31 @@ identification:
   temporal_begin: '1969-01-01T16:00:00.000Z'
   title:
     en: Maritimes Region Historical Offshore Moored Time Series Data
-    fr: Données chronologiques historiques sur les navires amarrés au large de la
-      région des Maritimes
+    fr: "Donn\xE9es chronologiques historiques sur les navires amarr\xE9s au large\
+      \ de la r\xE9gion des Maritimes"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
 metadata:
   dates:
     publication: '2023-08-01'
-    revision: '2023-07-31T18:56:53.906Z'
+    revision: '2026-07-22T19:00:20.230Z'
+  history: []
   identifier: 2761b8a1-7a93-481a-b43a-b4c2bb634c79
   language: en
-  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-NZd0KzoGgO6MkioIRRA
   naming_authority: ca.cioos
+  scope: dataset
   use_constraints:
     licence:
       code: government-open-license-canada
       title:
         en: Open Government Licence - Canada
-        fr: 'Licence du gouvernement ouvert – Canada '
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
       url: https://open.canada.ca/en/open-government-licence-canada
-platform:
-  id: SDN:L06::48
-  type: mooring
+platform: []
 spatial:
   bbox:
   - -89.0
@@ -196,3 +205,4 @@ spatial:
   vertical:
   - 1.0
   - 4000.0
+  vertical_positive: heightPositive

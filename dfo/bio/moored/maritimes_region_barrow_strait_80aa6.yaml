@@ -5,11 +5,11 @@ contact:
     name: Richards, Clark
     position: Maritimes Region Barrow Strait Operational Lead and Researcher
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - custodian
   - pointOfContact
@@ -19,156 +19,157 @@ contact:
     name: Data Services, BIO
     position: Data Management
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - distributor
 - inCitation: true
   individual:
-    name: Environmental Data Section (MEDS), Marine
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - owner
 distribution:
 - description:
     en: CIOOS Atlantic ERDDAP dataset link for moored CTD data
-    fr: Lien vers la base de données ERDDAP du CIOOS Atlantic pour les données CTD
-      amarrées
+    fr: "Lien vers la base de donn\xE9es ERDDAP du CIOOS Atlantic pour les donn\xE9\
+      es CTD amarr\xE9es"
   name:
     en: CIOOS Atlantic ERDDAP dataset
-    fr: Ensemble de données ERDDAP CIOOS Atlantic
+    fr: "Ensemble de donn\xE9es ERDDAP CIOOS Atlantic"
   url: https://cioosatlantic.ca/erddap/tabledap/bio_barrow_strait_program_moored_ctd.html
 - description:
     en: Fisheries and Oceans Canada website for the ocean observatory at the eastern
       end of the Northwest Passage providing hourly ocean and ice conditions
-    fr: Site Web de Pêches et Océans Canada pour l'observatoire océanique à l'extrémité
-      est du passage du Nord-Ouest, fournissant l'état horaire de l'océan et des glaces.
+    fr: "Site Web de P\xEAches et Oc\xE9ans Canada pour l'observatoire oc\xE9anique\
+      \ \xE0 l'extr\xE9mit\xE9 est du passage du Nord-Ouest, fournissant l'\xE9tat\
+      \ horaire de l'oc\xE9an et des glaces."
   name:
     en: DFO's Real-Time Arctic Ocean Observatory
   url: https://www.bio.gc.ca/science/newtech-technouvelles/observatory-observatoire-en.php
 - description:
     en: National Department of Fisheries and Oceans (DFO) archive for plankton and
       chemical data
-    fr: Archives du ministère national des Pêches et des Océans (MPO) pour les données
-      sur le plancton et les produits chimiques
+    fr: "Archives du minist\xE8re national des P\xEAches et des Oc\xE9ans (MPO) pour\
+      \ les donn\xE9es sur le plancton et les produits chimiques"
   name:
     en: BioChem DFO Database for plankton and chemical data
   url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
 - description:
     en: The Barrow Strait Real Time Observatory website streaming live data
-    fr: Le site Web de l'Observatoire en temps réel du détroit de Barrow diffusant
+    fr: "Le site Web de l'Observatoire en temps r\xE9el du d\xE9troit de Barrow diffusant"
   name:
     en: The Barrow Strait Real Time Observatory operated by Fisheries and Oceans Canada
       (DFO)
   url: https://noise.phys.ocean.dal.ca/barrow/
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #157'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #157'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #157"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  1998-1999'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/264542.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #161'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #161'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #161"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  1999-2000'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/270890.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #165'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #165'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #165"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  2000-2001'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/281063.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #166'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #166'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #166"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  2001-2002'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/318528.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #167'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #167'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #167"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  2002-2003'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/321132.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #173'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #173'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #173"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  2003-2004'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334710.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #193'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #193'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #193"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  2004-2005'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334712.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #190'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #190'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #190"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  2005-2006'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/341327.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #192'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #192'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #192"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  2006-2007'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/350346.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #193'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #193'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #193"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  2007-2008'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/350349.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #191'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #191'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #191"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  2008-2009'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/350342.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #194'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #194'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #194"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  2009-2010'
   url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40609923.pdf
 - description:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences #195'
-    fr: 'Rapport de données canadiennes sur l''hydrographie et les sciences océaniques
-      #195'
+    fr: "Rapport de donn\xE9es canadiennes sur l'hydrographie et les sciences oc\xE9\
+      aniques #195"
   name:
     en: 'Canadian Data Report of  Hydrography and Ocean Sciences: Moored Current Meter
       and CTD Observations from Barrow Strait  2010-2011'
@@ -177,48 +178,50 @@ distribution:
     en: Barrow Strait cruise reports
   url: https://cioosatlantic.ca/raw/dfo/bio/ctd/cruise_reports/
 - description:
-    en: publication, J. Geophys. Res. Oceans, 118, 5625–5639, doi:10.1002/jgrc.20382.
-    fr: publication, J. Geophys. Res. Oceans, 118, 5625—5639, doi:10.1002/jgrc.20382.
+    en: "publication, J. Geophys. Res. Oceans, 118, 5625\u20135639, doi:10.1002/jgrc.20382."
+    fr: "publication, J. Geophys. Res. Oceans, 118, 5625\u20145639, doi:10.1002/jgrc.20382."
   name:
-    en: Links between ocean properties, ice cover, and plankton dynamics on interannual
-      time scales in the Canadian Arctic Archipelago, J. Geophys. Res. Oceans, 118,
-      5625–5639, doi:10.1002/jgrc.20382.
-    fr: Liens entre les propriétés océaniques, la couverture de glace et la dynamique
-      du plancton à des échelles de temps interannuelles dans l'archipel arctique
-      canadien, J. Geophys. Res. Oceans, 118, 5625—5639, doi:10.1002/jgrc.20382.
+    en: "Links between ocean properties, ice cover, and plankton dynamics on interannual\
+      \ time scales in the Canadian Arctic Archipelago, J. Geophys. Res. Oceans, 118,\
+      \ 5625\u20135639, doi:10.1002/jgrc.20382."
+    fr: "Liens entre les propri\xE9t\xE9s oc\xE9aniques, la couverture de glace et\
+      \ la dynamique du plancton \xE0 des \xE9chelles de temps interannuelles dans\
+      \ l'archipel arctique canadien, J. Geophys. Res. Oceans, 118, 5625\u20145639,\
+      \ doi:10.1002/jgrc.20382."
   url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgrc.20382
 - description:
     en: 'publication:  James M. Hamilton & Merle D. Pittman (2015): Sea-Ice Freeze-up
       Forecasts with an Operational Ocean Observatory, Atmosphere-Ocean, DOI: 10.1080/07055900.2014.1002447'
-    fr: 'publication : James M. Hamilton et Merle D. Pittman (2015) : Prévisions de
-      gel des glaces de mer avec un observatoire océanique opérationnel, Atmosphere-Ocean,
-      DOI : 10.1080/07055900.2014.1002447'
+    fr: "publication\_: James M. Hamilton et Merle D. Pittman (2015)\_: Pr\xE9visions\
+      \ de gel des glaces de mer avec un observatoire oc\xE9anique op\xE9rationnel,\
+      \ Atmosphere-Ocean, DOI\_: 10.1080/07055900.2014.1002447"
   name:
     en: 'James M. Hamilton & Merle D. Pittman (2015): Sea-Ice Freeze-up Forecasts
       with an Operational Ocean Observatory, Atmosphere-Ocean, DOI: 10.1080/07055900.2014.1002447'
-    fr: 'James M. Hamilton et Merle D. Pittman (2015) : Prévisions de gel des glaces
-      de mer avec un observatoire océanique opérationnel, Atmosphere-Ocean, DOI :
-      10.1080/07055900.2014.1002447'
+    fr: "James M. Hamilton et Merle D. Pittman (2015)\_: Pr\xE9visions de gel des\
+      \ glaces de mer avec un observatoire oc\xE9anique op\xE9rationnel, Atmosphere-Ocean,\
+      \ DOI\_: 10.1080/07055900.2014.1002447"
   url: https://www.tandfonline.com/doi/full/10.1080/07055900.2014.1002447
 - description:
-    en: 'Publication: The Barrow Strait Real Time Observatory: Under-ice Monitoring
-      in the Canadian High Arctic. In Proceedings of the 12th International Conference
-      on Underwater Networks & Systems (WUWNet ''17). Association for Computing Machinery,
-      New York, NY, USA, Article 8, 1–7. https://doi.org/10.1145/3148675.'
-    fr: 'Publication : L''observatoire en temps réel du détroit de Barrow : surveillance
-      sous la glace dans l''Extrême-Arctique canadien. Dans Actes de la 12e Conférence
-      internationale sur les réseaux et systèmes sous-marins (WuWnet ''17). Association
-      pour les machines informatiques, New York, NY, États-Unis, articles 8, 1—7.
-      https://doi.org/10.1145/3148675.'
+    en: "Publication: The Barrow Strait Real Time Observatory: Under-ice Monitoring\
+      \ in the Canadian High Arctic. In Proceedings of the 12th International Conference\
+      \ on Underwater Networks & Systems (WUWNet '17). Association for Computing Machinery,\
+      \ New York, NY, USA, Article 8, 1\u20137. https://doi.org/10.1145/3148675."
+    fr: "Publication\_: L'observatoire en temps r\xE9el du d\xE9troit de Barrow\_\
+      : surveillance sous la glace dans l'Extr\xEAme-Arctique canadien. Dans Actes\
+      \ de la 12e Conf\xE9rence internationale sur les r\xE9seaux et syst\xE8mes sous-marins\
+      \ (WuWnet '17). Association pour les machines informatiques, New York, NY, \xC9\
+      tats-Unis, articles 8, 1\u20147. https://doi.org/10.1145/3148675."
   name:
-    en: 'The Barrow Strait Real Time Observatory: Under-ice Monitoring in the Canadian
-      High Arctic. In Proceedings of the 12th International Conference on Underwater
-      Networks & Systems (WUWNet ''17). Association for Computing Machinery, New York,
-      NY, USA, Article 8, 1–7. https://doi.org/10.1145/3148675.3152195'
-    fr: 'L''observatoire en temps réel du détroit de Barrow : surveillance sous la
-      glace dans l''Extrême-Arctique canadien. Dans Actes de la 12e Conférence internationale
-      sur les réseaux et systèmes sous-marins (WuWnet ''17). Association pour les
-      machines informatiques, New York, NY, États-Unis, articles 8, 1—7. https://doi.org/10.1145/3148675.3152195'
+    en: "The Barrow Strait Real Time Observatory: Under-ice Monitoring in the Canadian\
+      \ High Arctic. In Proceedings of the 12th International Conference on Underwater\
+      \ Networks & Systems (WUWNet '17). Association for Computing Machinery, New\
+      \ York, NY, USA, Article 8, 1\u20137. https://doi.org/10.1145/3148675.3152195"
+    fr: "L'observatoire en temps r\xE9el du d\xE9troit de Barrow\_: surveillance sous\
+      \ la glace dans l'Extr\xEAme-Arctique canadien. Dans Actes de la 12e Conf\xE9\
+      rence internationale sur les r\xE9seaux et syst\xE8mes sous-marins (WuWnet '17).\
+      \ Association pour les machines informatiques, New York, NY, \xC9tats-Unis,\
+      \ articles 8, 1\u20147. https://doi.org/10.1145/3148675.3152195"
   url: https://dl.acm.org/doi/10.1145/3148675.3152195
 identification:
   abstract:
@@ -250,39 +253,39 @@ identification:
       a "data hub" at the offshore end of an underwater cable, sent through the cable,
       and then transmitted from the shore station by Iridium satellite for access
       on the web (https://www.bio.gc.ca/science/newtech-technouvelles/observatory-observatoire-en.php)'
-    fr: 'Le programme d''observation du débit du détroit de Barrow a débuté en 1998
-      et s''est poursuivi pendant 13 ans, jusqu''en 2012. Cela a été suivi par le
-      projet d''observatoire en temps réel du détroit de Barrow jusqu''en 2016, puis
-      le projet est une combinaison des deux projets et a été baptisé Programme de
-      surveillance du détroit de Barrow dans la région des Maritimes.
-
-
-      Le détroit de Barrow est le plus large des quatre passages de l''archipel canadien,
-      ce qui en fait un lieu de surveillance important. Le programme explore l''ampleur
-      et la variabilité des transports d''eau douce, de chaleur et de volume par l''est
-      du passage du Nord-Ouest. Les données mesurées comprenaient : le profil CTD
-      et les séries chronologiques de température, de salinité, de densité, de courants,
-      de tirant d''eau et de vitesse de dérive des glaces. Les données chronologiques
-      collectées ont été utilisées pour quantifier le débit d''eau douce de l''océan
-      Arctique par le détroit de Barrow dans l''Atlantique nord-ouest, et établir
-      un lien entre la variabilité de ce débit sortant d''eau douce et les conditions
-      météorologiques à grande échelle. Les analyses annuelles effectuées sur les
-      données collectées incluent : le filtrage passe-bas, les spectres de puissance,
-      le diagramme vectoriel progressif, les analyses des marées, les statistiques
-      moyennes saisonnières et mensuelles, le débit moyen et la vitesse des glaces.
-      Les données du programme, ainsi qu''une description des méthodes utilisées,
-      ont été publiées chaque année jusqu''en 2015 dans le rapport de données canadiennes
-      sur l''hydrographie et les sciences océaniques numéros 190 à 195, 173, 167,
-      166, 165, 161 et 157.
-
-
-      Un observatoire océanique a été installé à l''extrémité est du passage du Nord-Ouest
-      en 2009 pour fournir des informations horaires sur l''état de l''océan et des
-      glaces à l''intention des navigateurs et des modélisateurs climatiques. Les
-      données provenant d''amarrages instrumentés sont transmises acoustiquement à
-      un « hub de données » situé à l''extrémité offshore d''un câble sous-marin,
-      puis envoyées par le câble, puis transmises depuis la station côtière par le
-      satellite Iridium pour être consultées sur le Web (https://www.bio.gc.ca/science/newtech-technouvelles/observatory-observatoire-en.php)'
+    fr: "Le programme d'observation du d\xE9bit du d\xE9troit de Barrow a d\xE9but\xE9\
+      \ en 1998 et s'est poursuivi pendant 13 ans, jusqu'en 2012. Cela a \xE9t\xE9\
+      \ suivi par le projet d'observatoire en temps r\xE9el du d\xE9troit de Barrow\
+      \ jusqu'en 2016, puis le projet est une combinaison des deux projets et a \xE9\
+      t\xE9 baptis\xE9 Programme de surveillance du d\xE9troit de Barrow dans la r\xE9\
+      gion des Maritimes.\n\nLe d\xE9troit de Barrow est le plus large des quatre\
+      \ passages de l'archipel canadien, ce qui en fait un lieu de surveillance important.\
+      \ Le programme explore l'ampleur et la variabilit\xE9 des transports d'eau douce,\
+      \ de chaleur et de volume par l'est du passage du Nord-Ouest. Les donn\xE9es\
+      \ mesur\xE9es comprenaient\_: le profil CTD et les s\xE9ries chronologiques\
+      \ de temp\xE9rature, de salinit\xE9, de densit\xE9, de courants, de tirant d'eau\
+      \ et de vitesse de d\xE9rive des glaces. Les donn\xE9es chronologiques collect\xE9\
+      es ont \xE9t\xE9 utilis\xE9es pour quantifier le d\xE9bit d'eau douce de l'oc\xE9\
+      an Arctique par le d\xE9troit de Barrow dans l'Atlantique nord-ouest, et \xE9\
+      tablir un lien entre la variabilit\xE9 de ce d\xE9bit sortant d'eau douce et\
+      \ les conditions m\xE9t\xE9orologiques \xE0 grande \xE9chelle. Les analyses\
+      \ annuelles effectu\xE9es sur les donn\xE9es collect\xE9es incluent\_: le filtrage\
+      \ passe-bas, les spectres de puissance, le diagramme vectoriel progressif, les\
+      \ analyses des mar\xE9es, les statistiques moyennes saisonni\xE8res et mensuelles,\
+      \ le d\xE9bit moyen et la vitesse des glaces. Les donn\xE9es du programme, ainsi\
+      \ qu'une description des m\xE9thodes utilis\xE9es, ont \xE9t\xE9 publi\xE9es\
+      \ chaque ann\xE9e jusqu'en 2015 dans le rapport de donn\xE9es canadiennes sur\
+      \ l'hydrographie et les sciences oc\xE9aniques num\xE9ros 190 \xE0 195, 173,\
+      \ 167, 166, 165, 161 et 157.\n\nUn observatoire oc\xE9anique a \xE9t\xE9 install\xE9\
+      \ \xE0 l'extr\xE9mit\xE9 est du passage du Nord-Ouest en 2009 pour fournir des\
+      \ informations horaires sur l'\xE9tat de l'oc\xE9an et des glaces \xE0 l'intention\
+      \ des navigateurs et des mod\xE9lisateurs climatiques. Les donn\xE9es provenant\
+      \ d'amarrages instrument\xE9s sont transmises acoustiquement \xE0 un \xAB\_\
+      hub de donn\xE9es\_\xBB situ\xE9 \xE0 l'extr\xE9mit\xE9 offshore d'un c\xE2\
+      ble sous-marin, puis envoy\xE9es par le c\xE2ble, puis transmises depuis la\
+      \ station c\xF4ti\xE8re par le satellite Iridium pour \xEAtre consult\xE9es\
+      \ sur le Web (https://www.bio.gc.ca/science/newtech-technouvelles/observatory-observatoire-en.php)"
+  associated_resources: []
   dates:
     creation: '1998-08-01'
   keywords:
@@ -302,22 +305,22 @@ identification:
       - sea ice
       fr:
       - changement climatique
-      - salinité
+      - "salinit\xE9"
       - chlorophylle a
-      - température de l'eau
-      - télédétection
+      - "temp\xE9rature de l'eau"
+      - "t\xE9l\xE9d\xE9tection"
       - fluorescence
-      - densité eau
-      - échantillonnage
-      - missions océanographique
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
       - physico-chimie
       - pression
       - nitrate
       - phosphate
       - silicate
-      - température potentielle
-      - densité potentielle
-      - densité d'eau de mer
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
       - courant marin
       - glace de mer
     eov:
@@ -331,10 +334,10 @@ identification:
       - subSurfaceCurrents
       - surfaceCurrents
       fr:
-      - Salinité de surface
-      - Température de surface
-      - Température sous la surface
-      - Salinité sous la surface
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
       - Autre
       - Glace de mer
       - Courants sous-marins
@@ -344,31 +347,36 @@ identification:
   temporal_begin: '1998-08-01T15:00:00.000Z'
   title:
     en: Maritimes Region Barrow Strait Monitoring Program Moored Time Series Data
-    fr: Données chronologiques ancrées du Programme de surveillance du détroit de
-      Barrow dans la région des Maritimes
+    fr: "Donn\xE9es chronologiques ancr\xE9es du Programme de surveillance du d\xE9\
+      troit de Barrow dans la r\xE9gion des Maritimes"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
 metadata:
   dates:
     publication: '2023-07-31'
-    revision: '2023-07-31T18:54:44.595Z'
+    revision: '2026-07-22T18:41:44.269Z'
+  history: []
   identifier: 80aa63f1-3b88-44ab-a157-e17292cd4d51
   language: en
-  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-NUggBwerqNRD8gHeF3t
   naming_authority: ca.cioos
+  scope: dataset
   use_constraints:
     licence:
       code: government-open-license-canada
       title:
         en: Open Government Licence - Canada
-        fr: 'Licence du gouvernement ouvert – Canada '
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
       url: https://open.canada.ca/en/open-government-licence-canada
     limitations:
       en: Availability of data varies both between and within years due to mission
         cancellations and instrument failures
-      fr: La disponibilité des données varie entre les années et au cours des années
-        en raison des annulations de missions.
-platform:
-  id: There are multiple moorings in this dataset
-  type: subsurface mooring
+      fr: "La disponibilit\xE9 des donn\xE9es varie entre les ann\xE9es et au cours\
+        \ des ann\xE9es en raison des annulations de missions."
+platform: []
 spatial:
   bbox:
   - -96.0
@@ -378,3 +386,4 @@ spatial:
   vertical:
   - 1.0
   - 250.0
+  vertical_positive: heightPositive

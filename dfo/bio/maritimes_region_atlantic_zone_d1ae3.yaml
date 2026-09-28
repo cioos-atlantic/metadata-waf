@@ -1,0 +1,319 @@
+contact:
+- inCitation: false
+  individual:
+    email: Lindsay.Beazley@dfo-mpo.gc.ca
+    name: Beazley, Lindsay
+    position: Maritimes Region AZMP Operational Lead
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - owner
+distribution:
+- description:
+    en: ERDDAP access to the data
+    fr: "Acc\xE8s ERDDAP aux donn\xE9es"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: ERDDAP Dataset
+    fr: "Ensemble de donn\xE9es ERDDAP"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_atlantic_zone_monitoring_program_bottle_bbmp.html
+- description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: "Site Web contenant des publications produites par le Secr\xE9tariat canadien\
+      \ de consultation scientifique"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
+    fr: "Publications du Secr\xE9tariat canadien de consultation scientifique (SCCS)"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+- description:
+    en: Atlantic Zone Monitoring Program (AZMP) (dfo-mpo.gc.ca) DFO website
+    fr: Programme de surveillance de la zone Atlantique (AZMP) (dfo-mpo.gc.ca) Site
+      Web du MPO
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: Atlantic Zone Monitoring Program (AZMP) (dfo-mpo.gc.ca) website
+    fr: Site Web du Programme de surveillance de la zone Atlantique (AZMP) (dfo-mpo.gc.ca)
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://www.dfo-mpo.gc.ca/science/data-donnees/azmp-pmza/index-eng.html
+- description:
+    en: Core sampling protocols for the Atlantic Zone Monitoring Program
+    fr: "Protocoles d'\xE9chantillonnage de base pour le programme de surveillance\
+      \ de la zone Atlantique"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: Atlantic Zonal Monitoring Program Sampling Protocol
+    fr: "Protocole d'\xE9chantillonnage du Programme de surveillance de la zone Atlantique"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://waves-vagues.dfo-mpo.gc.ca/Library/265754.pdf
+- description:
+    en: National Department of Fisheries and Oceans (DFO) archive for plankton and
+      chemical data
+    fr: "Archives du minist\xE8re national des P\xEAches et des Oc\xE9ans (MPO) pour\
+      \ les donn\xE9es sur le plancton et les produits chimiques"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: BioChem DFO Database for plankton and chemical data
+    fr: "Base de donn\xE9es BioChem DFO pour les donn\xE9es sur le plancton et les\
+      \ produits chimiques"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
+- description:
+    en: AZMP Mission Reports
+    fr: Rapports de mission AZMP
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: AZMP Mission Reports
+    fr: Rapports de mission AZMP
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://cioosatlantic.ca/raw/dfo/bio/ctd/cruise_reports/
+identification:
+  abstract:
+    en: "The Atlantic Zone Monitoring Program (AZMP) was implemented in 1998 with\
+      \ the aim of detecting and tracking climate change and variability in the northwest\
+      \ Atlantic, evaluating changes in the physical, chemical and biological ocean\
+      \ properties and predator-prey dynamics of marine resources, thereby enhancing\
+      \ Canada's ability to understand, describe, and forecast the state of the marine\
+      \ ecosystem. AZMP's sampling scheme in the Maritimes Region involves oceanographic\
+      \ sampling at two high-frequency (biweekly to monthly) fixed coastal stations,\
+      \ biannual sampling at stratified-random locations during DFO-led Ecosystem\
+      \ Trawl Surveys, biannual sampling along fixed cross-shelf sections (Cabot Strait\
+      \ Line, Louisbourg Line, Halifax Line, Browns Bank Line, and the Northeast Channel);\
+      \ the latter of which may also include opportunistic sampling at stations in\
+      \ the Laurentian Channel, Gulf of Maine, and various Marine Protected Areas\
+      \ (MPAs) in support of ancillary research programs and initiatives. \nThe data\
+      \ collected are synthesized into two annual reports on the physical and chemical/biological\
+      \ changes in the Maritimes Region, and are also used to evaluate changes across\
+      \ the Atlantic zone."
+    fr: "Le Programme de surveillance de la zone Atlantique (AZMP) a \xE9t\xE9 mis\
+      \ en \u0153uvre en 1998 dans le but de d\xE9tecter et de suivre les changements\
+      \ et la variabilit\xE9 climatiques dans l'Atlantique Nord-Ouest, d'\xE9valuer\
+      \ les changements dans les propri\xE9t\xE9s physiques, chimiques et biologiques\
+      \ des oc\xE9ans et la dynamique pr\xE9dateur-proie des ressources marines, am\xE9\
+      liorant ainsi la capacit\xE9 du Canada \xE0 comprendre, d\xE9crire et pr\xE9\
+      voir l'\xE9tat de l'\xE9cosyst\xE8me marin. Le plan d'\xE9chantillonnage de\
+      \ l'AZMP dans la r\xE9gion des Maritimes comprend un \xE9chantillonnage oc\xE9\
+      anographique dans deux stations c\xF4ti\xE8res fixes \xE0 haute fr\xE9quence\
+      \ (bihebdomadaire \xE0 mensuelle), un \xE9chantillonnage semestriel \xE0 des\
+      \ emplacements al\xE9atoires stratifi\xE9s lors des relev\xE9s au chalut \xE9\
+      cosyst\xE9mique men\xE9s par le MPO, un \xE9chantillonnage semestriel le long\
+      \ de sections transversales fixes du plateau (ligne du d\xE9troit de Cabot,\
+      \ ligne Louisbourg, ligne Halifax, ligne Browns Bank et canal nord-est)\_; ce\
+      \ dernier volet peut \xE9galement inclure un \xE9chantillonnage opportuniste\
+      \ dans des stations situ\xE9es dans les Laurentides Manche, golfe du Maine et\
+      \ diverses aires marines prot\xE9g\xE9es (ZPM) \xE0 l'appui des activit\xE9\
+      s auxiliaires programmes et initiatives de recherche. \nLes donn\xE9es recueillies\
+      \ sont synth\xE9tis\xE9es dans deux rapports annuels sur les changements physiques\
+      \ et chimiques/biologiques dans la r\xE9gion des Maritimes et sont \xE9galement\
+      \ utilis\xE9es pour \xE9valuer les changements dans la zone atlantique."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  associated_resources:
+  - association_type: IsSupplementTo
+    association_type_iso: crossReference
+    authority: URL
+    code: https://catalogue.cioosatlantic.ca/dataset/ca-cioos_9a4bd73f-12a2-40ff-a7c7-b961a1d11311
+    title:
+      en: Maritimes Region Atlantic Zone Monitoring Program (AZMP) CTD Profiles
+      fr: "Profils CTD du Programme de surveillance de la zone Atlantique (AZMP) de\
+        \ la r\xE9gion des Maritimes"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  - association_type: IsSupplementedBy
+    association_type_iso: crossReference
+    authority: URL
+    code: https://mar-azmp.shinyapps.io/MAR_AZMP_Stations/
+    title:
+      en: RShiny app containing Maritimes Region AZMP nominal stations
+      fr: "Stations AZMP de la r\xE9gion des Maritimes"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  dates:
+    creation: '1998-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - oceanographic missions
+      - physical-chemical
+      - CTD
+      - chlorophyll a
+      - sampling
+      fr:
+      - changement climatique
+      - "salinit\xE9"
+      - "t\xE9l\xE9d\xE9tection"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
+      - physico-chimie
+      - chlorophylle a
+    eov:
+      en:
+      - oxygen
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - subSurfaceCurrents
+      - surfaceCurrents
+      - nutrients
+      - oceanColour
+      - seaSurfaceSalinity
+      fr:
+      - "Oxyg\xE8ne"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
+      - Autre
+      - Courants sous-marins
+      - Courants de surface
+      - Nutriments
+      - "Couleur des oc\xE9ans"
+      - "Salinit\xE9 de surface"
+  progress_code: onGoing
+  status: published
+  temporal_begin: '1998-01-01T16:00:00.000Z'
+  title:
+    en: Maritimes Region Atlantic Zone Monitoring Program (AZMP) Bio-Chemical Bottle
+      Sample Data
+    fr: "Donn\xE9es d'\xE9chantillons biochimiques en bouteilles du Programme de surveillance\
+      \ de la zone atlantique de la r\xE9gion des Maritimes (AZMP)"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+instruments: []
+metadata:
+  dates:
+    publication: '2026-01-26'
+    revision: '2026-07-22T19:08:47.102Z'
+  history: []
+  identifier: d1ae36a7-f4f7-4932-bdb5-7d3e6b9ef8f0
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-Oj2-xE-r9tjMCbjKBRX
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Availability of data varies both between and within years due to mission
+        cancellations.
+      fr: "La disponibilit\xE9 des donn\xE9es varie d'une ann\xE9e \xE0 l'autre en\
+        \ raison des annulations de missions."
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+spatial:
+  bbox:
+  - -70.2724
+  - 41.8667
+  - -55.84
+  - 47.5833
+  description:
+    en: Scotian Shelf
+    fr: "Plateau n\xE9o-\xE9cossais"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  vertical:
+  - 1.0
+  - 3363.0
+  vertical_positive: heightPositive

@@ -5,11 +5,11 @@ contact:
     name: Ringuette, Marc
     position: Maritimes Region AZOMP Operational Lead
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - custodian
   - pointOfContact
@@ -19,22 +19,22 @@ contact:
     name: Data Services, BIO
     position: Data Management
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - distributor
 - inCitation: true
   individual:
-    name: Environmental Data Section (MEDS), Marine
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
   organization:
-    address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - owner
 distribution:
@@ -43,16 +43,16 @@ distribution:
   url: https://cioosatlantic.ca/erddap/tabledap/bio_atlantic_zone_off_shelf_monitoring_program_ctd.html
 - description:
     en: Core sampling protocols for the Atlantic Zone Monitoring Program
-    fr: Principaux protocoles d'échantillonnage pour le Programme de surveillance
-      de la zone atlantique
+    fr: "Principaux protocoles d'\xE9chantillonnage pour le Programme de surveillance\
+      \ de la zone atlantique"
   name:
     en: Atlantic Zonal Monitoring Program Sampling Protocol
   url: https://waves-vagues.dfo-mpo.gc.ca/Library/265754.pdf
 - description:
     en: Website containing publications produced under the Canadian Science Advisory
       Secretariat
-    fr: Site Web contenant des publications produites par le Secrétariat canadien
-      de consultation scientifique
+    fr: "Site Web contenant des publications produites par le Secr\xE9tariat canadien\
+      \ de consultation scientifique"
   name:
     en: Canadian Science Advisory Secretariat (CSAS) Publications
   url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
@@ -66,8 +66,8 @@ distribution:
 - description:
     en: National Department of Fisheries and Oceans (DFO) archive for plankton and
       chemical data
-    fr: Archives du ministère national des Pêches et des Océans (MPO) pour les données
-      sur le plancton et les produits chimiques
+    fr: "Archives du minist\xE8re national des P\xEAches et des Oc\xE9ans (MPO) pour\
+      \ les donn\xE9es sur le plancton et les produits chimiques"
   name:
     en: BioChem DFO Database for plankton and chemical data
   url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
@@ -90,12 +90,12 @@ identification:
       \ Canada and the Labrador Sea involves annual sampling of both the Atlantic\
       \ Repeat 7-West (AR7W) line, a 880 km-line running across the Labrador Sea from\
       \ Labrador to Greenland coast and extended Halifax Line, deep-water stations\
-      \ over the Scotian Slope and Rise located at the end of AZMP’s Halifax Line.\
-      \ Opportunistic sampling also may occur at stations in the Strait of Belle Ilse,\
-      \ station 27, Labrador Shelf, and OSNAP West line in support of ancillary research\
-      \ programs and initiatives. AZOMP sampling is conducted according to standard\
-      \ Go-Ship protocols  (https://www.go-ship.org/HydroMan.html) and includes: 1-\
-      \ the collection of CTD and Lowered-ADCP profiles and water samples for the\
+      \ over the Scotian Slope and Rise located at the end of AZMP\u2019s Halifax\
+      \ Line. Opportunistic sampling also may occur at stations in the Strait of Belle\
+      \ Ilse, station 27, Labrador Shelf, and OSNAP West line in support of ancillary\
+      \ research programs and initiatives. AZOMP sampling is conducted according to\
+      \ standard Go-Ship protocols  (https://www.go-ship.org/HydroMan.html) and includes:\
+      \ 1- the collection of CTD and Lowered-ADCP profiles and water samples for the\
       \ determination of physical (e.g., T, S, currents), chemical (e.g., nutrients,\
       \ Carbonate system, transient gases for water mass determination and/or ventilation\
       \ and carbon sequestration studies), and biological (e.g., chl a, Primary production\
@@ -111,42 +111,51 @@ identification:
       \ to intermediate depths, reducing the rate of increase of carbon dioxide in\
       \ the atmosphere but increasing the acidity of the ocean."
     fr: "Le Programme de Monitorage de la Zone Atlantique au large du plateau continental\
-      \ (PMZAO) recueille et analyse les observations océanographiques physiques,\
+      \ (PMZAO) recueille et analyse les observations oc\xE9anographiques physiques,\
       \ chimiques et biologiques du talus continental et des eaux profondes de l'Atlantique\
-      \ Nord-Ouest, dans le but global de monitorer la variabilité du climat océanique\
-      \ et du plancton affectant les écosystèmes au large des côtes atlantiques canadiennes\
-      \ et des systèmes climatiques à l'échelle régionale et globale. \n\nLes mesures\
-      \ annuelles dans la mer du Labrador ont débuté en 1990 en tant que contribution\
-      \ à la « World Ocean Circulation Experiment » (WOCE) et ont évolué en un effort\
-      \ de monitorage régional multidisciplinaire faisant partie du réseau Global\
-      \ Ocean Ship-based Hydrographic Investigations Program (GO-SHIP) (https://www.go-ship.org/HydroMan.html).\n\
-      \nLe plan d'échantillonnage du PMZAO dans le Canada atlantique et  la mer du\
-      \ Labrador comprend un échantillonnage annuel de l’Atlantic Repeat 7-West (AR7W),\
-      \ un transect de 880 km qui s’étend de la côte du Labrador jusqu’au côtes du\
-      \ Groenland et de la ligne Halifax du PMZA étendue par le sud vers la plaine\
-      \ abyssale. Un échantillonnage opportuniste peut également avoir lieu dans le\
-      \ détroit de Belle Ilse, à la station 27, sur le plateau du Labrador et  la\
-      \ ligne 53 nord de OSNAP et en appuie à d’autres programmes ancillaires. L'échantillonnage\
-      \ du PMZAO est effectué selon les standard du programme Global Ocean Ship-based\
-      \ Hydrographic Investigations Program (GO-SHIP) (https://www.go-ship.org/HydroMan.html)\
-      \ et comprend : 1- la collecte de profils CTD et LADCP et d'échantillons d'eau\
-      \ pour la détermination des caractéristiques physiques (p. ex. T, S, courants),\
-      \ chimiques (p. ex. , nutriments, pH, gaz traces détermination de la masse et/ou\
-      \ pour estimer la ventilation et de séquestration du carbone) et biologiques\
-      \ (p. ex. chl-a, production primaire et propriétés optiques) ; 2- traits de\
-      \ filets conique verticaux et stratifiés pour les mesures d’abondance et la\
-      \ description de la communauté mesozooplanctonique.  De plus, les bathythermographes\
-      \ (XBT), les bouées Argo sont couramment déployés et l'ADCP embarqué sont utilisés\
-      \ pour déterminer la structure de la colonne d’eau à plus petite échelle. Les\
-      \ données recueillies sont synthétisées dans des rapports annuels sur les changements\
-      \ physiques, chimiques et biologiques dans les eaux du Canada atlantique et\
-      \ dans la mer du Labrador. L'accent est mis sur les changements d'intensité\
-      \ du retournement hivernal des eaux de surface et des strates intermédiaire,\
-      \ qui entraîne la formation de masses d'eau profonde et fait partie de la circulation\
-      \ thermohaline qui affecte le climat mondial. La convection transfère également\
-      \ les gaz atmosphériques de la surface vers des profondeurs intermédiaires,\
-      \ ce qui réduit le taux d'augmentation du dioxyde de carbone dans l'atmosphère\
-      \ mais augmente l'acidité de l'océan."
+      \ Nord-Ouest, dans le but global de monitorer la variabilit\xE9 du climat oc\xE9\
+      anique et du plancton affectant les \xE9cosyst\xE8mes au large des c\xF4tes\
+      \ atlantiques canadiennes et des syst\xE8mes climatiques \xE0 l'\xE9chelle r\xE9\
+      gionale et globale. \n\nLes mesures annuelles dans la mer du Labrador ont d\xE9\
+      but\xE9 en 1990 en tant que contribution \xE0 la \xAB World Ocean Circulation\
+      \ Experiment \xBB (WOCE) et ont \xE9volu\xE9 en un effort de monitorage r\xE9\
+      gional multidisciplinaire faisant partie du r\xE9seau Global Ocean Ship-based\
+      \ Hydrographic Investigations Program (GO-SHIP) (https://www.go-ship.org/HydroMan.html).\n\
+      \nLe plan d'\xE9chantillonnage du PMZAO dans le Canada atlantique et  la mer\
+      \ du Labrador comprend un \xE9chantillonnage annuel de l\u2019Atlantic Repeat\
+      \ 7-West (AR7W), un transect de 880 km qui s\u2019\xE9tend de la c\xF4te du\
+      \ Labrador jusqu\u2019au c\xF4tes du Groenland et de la ligne Halifax du PMZA\
+      \ \xE9tendue par le sud vers la plaine abyssale. Un \xE9chantillonnage opportuniste\
+      \ peut \xE9galement avoir lieu dans le d\xE9troit de Belle Ilse, \xE0 la station\
+      \ 27, sur le plateau du Labrador et  la ligne 53 nord de OSNAP et en appuie\
+      \ \xE0 d\u2019autres programmes ancillaires. L'\xE9chantillonnage du PMZAO est\
+      \ effectu\xE9 selon les standard du programme Global Ocean Ship-based Hydrographic\
+      \ Investigations Program (GO-SHIP) (https://www.go-ship.org/HydroMan.html) et\
+      \ comprend : 1- la collecte de profils CTD et LADCP et d'\xE9chantillons d'eau\
+      \ pour la d\xE9termination des caract\xE9ristiques physiques (p. ex. T, S, courants),\
+      \ chimiques (p. ex. , nutriments, pH, gaz traces d\xE9termination de la masse\
+      \ et/ou pour estimer la ventilation et de s\xE9questration du carbone) et biologiques\
+      \ (p. ex. chl-a, production primaire et propri\xE9t\xE9s optiques) ; 2- traits\
+      \ de filets conique verticaux et stratifi\xE9s pour les mesures d\u2019abondance\
+      \ et la description de la communaut\xE9 mesozooplanctonique.  De plus, les bathythermographes\
+      \ (XBT), les bou\xE9es Argo sont couramment d\xE9ploy\xE9s et l'ADCP embarqu\xE9\
+      \ sont utilis\xE9s pour d\xE9terminer la structure de la colonne d\u2019eau\
+      \ \xE0 plus petite \xE9chelle. Les donn\xE9es recueillies sont synth\xE9tis\xE9\
+      es dans des rapports annuels sur les changements physiques, chimiques et biologiques\
+      \ dans les eaux du Canada atlantique et dans la mer du Labrador. L'accent est\
+      \ mis sur les changements d'intensit\xE9 du retournement hivernal des eaux de\
+      \ surface et des strates interm\xE9diaire, qui entra\xEEne la formation de masses\
+      \ d'eau profonde et fait partie de la circulation thermohaline qui affecte le\
+      \ climat mondial. La convection transf\xE8re \xE9galement les gaz atmosph\xE9\
+      riques de la surface vers des profondeurs interm\xE9diaires, ce qui r\xE9duit\
+      \ le taux d'augmentation du dioxyde de carbone dans l'atmosph\xE8re mais augmente\
+      \ l'acidit\xE9 de l'oc\xE9an."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  associated_resources: []
   dates:
     creation: '1998-01-01'
   keywords:
@@ -179,22 +188,22 @@ identification:
       - carbon dioxide
       fr:
       - changement climatique
-      - salinité
+      - "salinit\xE9"
       - chlorophylle a
-      - température de l'eau
-      - télédétection
+      - "temp\xE9rature de l'eau"
+      - "t\xE9l\xE9d\xE9tection"
       - fluorescence
-      - densité eau
-      - échantillonnage
-      - missions océanographique
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
       - physico-chimie
       - pression
       - nitrate
       - phosphate
       - silicate
-      - température potentielle
-      - densité potentielle
-      - densité d'eau de mer
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
       - courant marin
       - phytoplancton
     eov:
@@ -216,22 +225,22 @@ identification:
       - phytoplanktonBiomassAndDiversity
       - zooplanktonBiomassAndDiversity
       fr:
-      - Oxygène
-      - Salinité de surface
-      - Température de surface
-      - Température sous la surface
-      - Salinité sous la surface
+      - "Oxyg\xE8ne"
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
       - Autre
       - Nutriments
       - Carbone inorganique
       - Carbone organique dissous
       - Traceurs transitoires
-      - Matière particulaire
+      - "Mati\xE8re particulaire"
       - Courants sous-marins
       - Courants de surface
-      - Couleur des océans
-      - Biomasse et diversité de phytoplancton
-      - Biomasse et diversité de zooplancton
+      - "Couleur des oc\xE9ans"
+      - "Biomasse et diversit\xE9 de phytoplancton"
+      - "Biomasse et diversit\xE9 de zooplancton"
   progress_code: onGoing
   status: published
   temporal_begin: '1998-01-01T16:00:00.000Z'
@@ -240,26 +249,39 @@ identification:
       Vertical Profiles
     fr: Programme de Monitorage de la Zone Atlantique au large du plateau continental
       (PMZOA) profils verticaux des rosettes
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+instruments: []
 metadata:
   dates:
     publication: '2022-11-16'
-    revision: '2023-07-14T19:06:47.806Z'
+    revision: '2026-07-22T18:02:49.254Z'
+  history: []
   identifier: 15f90eab-21ed-447d-aea7-8fe98ea27fe5
   language: en
-  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-N1KYGzBX-bXAi-AODV9
   naming_authority: ca.cioos
+  scope: dataset
   use_constraints:
     licence:
       code: government-open-license-canada
       title:
         en: Open Government Licence - Canada
-        fr: 'Licence du gouvernement ouvert – Canada '
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
       url: https://open.canada.ca/en/open-government-licence-canada
     limitations:
       en: Availability of data varies both between and within years due to mission
         cancellations.
-      fr: La disponibilité des données varie d'une année à l'autre en raison des annulations
-        de missions.
+      fr: "La disponibilit\xE9 des donn\xE9es varie d'une ann\xE9e \xE0 l'autre en\
+        \ raison des annulations de missions."
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
 spatial:
   bbox:
   - -63.7
@@ -269,3 +291,4 @@ spatial:
   vertical:
   - 1.0
   - 5500.0
+  vertical_positive: depthPositive

@@ -6,22 +6,24 @@ contact:
     position: Data Management
   organization:
     address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - distributor
   - custodian
 - inCitation: true
   individual:
-    name: Environmental Data Section (MEDS), Marine
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
   organization:
     address: 1 Challenger Drive
-    city: DARTMOUTH
+    city: Ottawa
     country: Canada
-    name: Fisheries and Oceans Canada
-    url: https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
   roles:
   - owner
 distribution:
@@ -30,7 +32,7 @@ distribution:
   url: https://cioosatlantic.ca/erddap/tabledap/bio_annual_ice_forecast_hydrographic_survey_st_lawrence_ctd.html
 - name:
     en: Cruise reports
-    fr: Rapports de croisière
+    fr: "Rapports de croisi\xE8re"
   url: https://cioosatlantic.ca/raw/dfo/bio/ctd/cruise_reports/
 identification:
   abstract:
@@ -45,20 +47,22 @@ identification:
       isotope, Ra isotope, sediment cores,  satellite transmitting thermistor buoys
       to monitor the cooling, and doppler current profiler to measure ice motion and
       currents.'
-    fr: 'L''ensemble de données historiques annuel du Service hydrographique de prévision
-      des glaces pour le golfe du Saint-Laurent couvre la période de 1972 à 1995.
-      Il s''agissait d''un programme annuel avec des missions au cours des mois de
-      novembre à janvier couvrant 35 stations dans le golfe du Saint-Laurent. L''objectif
-      était d''obtenir des mesures de la température et de la salinité dans les 100
-      m supérieurs de l''eau à partir de 35 stations dans le golfe du Saint-Laurent
-      pour la préparation des prévisions saisonnières des glaces par la Direction
-      de la climatologie des glaces et plus tard par le Bureau central de prévision
-      des glaces du Service de l''environnement atmosphérique du ministère de l''Environnement.
-      Les données mesurées comprenaient : le profil CTD, les données sur l''oxygène
-      dissous et les nutriments, l''isotope de l''oxygène, l''isotope Ra, des carottes
-      de sédiments, des bouées thermistrices de transmission par satellite pour surveiller
-      le refroidissement et un profileur de courant Doppler pour mesurer le mouvement
-      des glaces et les courants.'
+    fr: "L'ensemble de donn\xE9es historiques annuel du Service hydrographique de\
+      \ pr\xE9vision des glaces pour le golfe du Saint-Laurent couvre la p\xE9riode\
+      \ de 1972 \xE0 1995. Il s'agissait d'un programme annuel avec des missions au\
+      \ cours des mois de novembre \xE0 janvier couvrant 35 stations dans le golfe\
+      \ du Saint-Laurent. L'objectif \xE9tait d'obtenir des mesures de la temp\xE9\
+      rature et de la salinit\xE9 dans les 100 m sup\xE9rieurs de l'eau \xE0 partir\
+      \ de 35 stations dans le golfe du Saint-Laurent pour la pr\xE9paration des pr\xE9\
+      visions saisonni\xE8res des glaces par la Direction de la climatologie des glaces\
+      \ et plus tard par le Bureau central de pr\xE9vision des glaces du Service de\
+      \ l'environnement atmosph\xE9rique du minist\xE8re de l'Environnement. Les donn\xE9\
+      es mesur\xE9es comprenaient\_: le profil CTD, les donn\xE9es sur l'oxyg\xE8\
+      ne dissous et les nutriments, l'isotope de l'oxyg\xE8ne, l'isotope Ra, des carottes\
+      \ de s\xE9diments, des bou\xE9es thermistrices de transmission par satellite\
+      \ pour surveiller le refroidissement et un profileur de courant Doppler pour\
+      \ mesurer le mouvement des glaces et les courants."
+  associated_resources: []
   dates:
     creation: '1972-01-01'
   keywords:
@@ -77,22 +81,22 @@ identification:
       - sea ice
       fr:
       - changement climatique
-      - salinité
+      - "salinit\xE9"
       - chlorophylle a
-      - température de l'eau
-      - télédétection
+      - "temp\xE9rature de l'eau"
+      - "t\xE9l\xE9d\xE9tection"
       - fluorescence
-      - densité eau
-      - échantillonnage
-      - missions océanographique
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
       - physico-chimie
       - pression
       - nitrate
       - phosphate
       - silicate
-      - température potentielle
-      - densité potentielle
-      - densité d'eau de mer
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
       - courant marin
       - glace de mer
     eov:
@@ -109,15 +113,15 @@ identification:
       - nutrients
       - stableCarbonIsotopes
       fr:
-      - Salinité de surface
-      - Température de surface
-      - Température sous la surface
-      - Salinité sous la surface
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
       - Autre
       - Glace de mer
       - Courants sous-marins
       - Courants de surface
-      - Oxygène
+      - "Oxyg\xE8ne"
       - Nutriments
       - Isotopes stables du carbone
   progress_code: completed
@@ -127,22 +131,30 @@ identification:
   title:
     en: Maritimes Region Annual Ice Forecast Hydrographic Survey Gulf Of St. Lawrence
       Rosette Vertical Profiles
-    fr: Programme d'observation dans la région du débit du détroit de Barrow profils
-      de rosette verticales (Copte)
+    fr: "Programme d'observation dans la r\xE9gion du d\xE9bit du d\xE9troit de Barrow\
+      \ profils de rosette verticales (Copte)"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+instruments: []
 metadata:
   dates:
     publication: '2022-11-16'
-    revision: '2022-11-16T19:15:25.902Z'
+    revision: '2026-07-22T18:13:19.883Z'
+  history: []
   identifier: 57d45e01-c759-45bb-a6a2-584312838734
   language: en
-  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-NCRGmJ5qicO6OsE2Suh
   naming_authority: ca.cioos
+  scope: dataset
   use_constraints:
     licence:
       code: government-open-license-canada
       title:
         en: Open Government Licence - Canada
-        fr: 'Licence du gouvernement ouvert – Canada '
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
       url: https://open.canada.ca/en/open-government-licence-canada
 spatial:
   bbox:
@@ -153,3 +165,4 @@ spatial:
   vertical:
   - 1.0
   - 250.0
+  vertical_positive: depthPositive

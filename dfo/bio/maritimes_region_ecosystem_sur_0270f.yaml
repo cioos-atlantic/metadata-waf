@@ -1,0 +1,249 @@
+contact:
+- inCitation: false
+  individual:
+    email: Lindsay.Beazley@dfo-mpo.gc.ca
+    name: Beazley, Lindsay
+    position: Maritimes Region AZMP Operational Lead
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Department of Fisheries and Oceans
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - owner
+distribution:
+- name:
+    en: Maritimes Region Ecosystem Survey ERDDAP data
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_maritimes_region_ecosystem_survey_ctd.html
+- description:
+    en: Core sampling protocols for the Atlantic Zone Monitoring Program
+    fr: "Principaux protocoles d'\xE9chantillonnage pour le Programme de surveillance\
+      \ de la zone atlantique"
+  name:
+    en: Atlantic Zonal Monitoring Program Sampling Protocol
+  url: https://waves-vagues.dfo-mpo.gc.ca/Library/265754.pdf
+- description:
+    en: Fisheries and Oceans Canada website for the Atlantic Zone Monitoring Program
+      (AZMP)
+    fr: "Site Web de P\xEAches et Oc\xE9ans Canada pour le Programme de surveillance\
+      \ de la zone atlantique (MPZA)"
+  name:
+    en: Atlantic Zone Monitoring Program (AZMP)
+  url: https://www.dfo-mpo.gc.ca/science/data-donnees/azmp-pmza/index-eng.html
+- description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: "Site Web contenant des publications produites par le Secr\xE9tariat canadien\
+      \ de consultation scientifique"
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
+  url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+- description:
+    en: National Department of Fisheries and Oceans (DFO) archive for plankton and
+      chemical data
+    fr: "Archives du minist\xE8re national des P\xEAches et des Oc\xE9ans (MPO) pour\
+      \ les donn\xE9es sur le plancton et les produits chimiques"
+  name:
+    en: BioChem DFO Database for plankton and chemical data
+  url: https://www.bio.gc.ca/science/data-donnees/base/data-donnees/data-donnees-en.php
+identification:
+  abstract:
+    en: "The Fisheries and Oceans Canada (DFO) first implemented annual, standardized\
+      \ groundfish surveys (now referred to as ecosystem surveys) in the summer of\
+      \ 1970. These surveys consist of research vessel survey data collected to monitor\
+      \ the distribution and abundance of fish and invertebrates throughout the Scotian\
+      \ Shelf, Bay of Fundy and Georges Bank. The surveys follow a stratified random\
+      \ sampling design, and includes sampling of fish and invertebrates using a bottom\
+      \ trawl. These survey data are the primary data source for monitoring trends\
+      \ in fish species distribution, abundance, and biological conditions within\
+      \ the region. \u201CSpring\u201D cruises occur in January, February, March and\
+      \ April, and focus on Georges Bank. \u201CSummer\u201D cruises occur in May,\
+      \ June, July and August and these focus on the Scotian Shelf and Bay of Fundy.\
+      \ A vessel change occurred in 1982 when the A.T. Cameron was replaced by the\
+      \ Lady Hammond and in 1983 when the Alfred Needler became the principal survey\
+      \ vessel.  Now the Captain Jacques Cartier, built in 2019 and delivered in 2020,\
+      \ will serve as the primary offshore fishery science vessels in the Maritimes\
+      \ Region.  \n\nAlso as part of these surveys, physical, chemical, and biological\
+      \ oceanographic observations are collected as part of the Atlantic Zonal Monitoring\
+      \ Program (AZMP).  AZMP sampling is conducted according to standard procedures\
+      \ (see https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6) and includes the\
+      \ collection of CTD profiles and water samples for the determination of physical\
+      \ (e.g., T, S), chemical (e.g., nutrients, oxygen, pH), and biological (chl\
+      \ a) variables and vertical ring net tows. The data collected are synthesized\
+      \ into two annual reports on the physical and chemical/biological changes in\
+      \ the Maritimes Region.  AZMP aims to detect and track climate change and variability\
+      \ in the northwest Atlantic, evaluating changes in the physical, chemical and\
+      \ biological ocean properties and predator-prey dynamics of marine resources,\
+      \ thereby enhancing Canada's ability to understand, describe, and forecast the\
+      \ state of the marine ecosystem\u201D. This record includes only hydrographic/CTD\
+      \ data collected during the spring and summer ecosystem surveys, conducted between\
+      \ 1998 to present."
+    fr: "P\xEAches et Oc\xE9ans Canada (MPO) a mis en \u0153uvre pour la premi\xE8\
+      re fois des relev\xE9s annuels normalis\xE9s du poisson de fond (maintenant\
+      \ appel\xE9s relev\xE9s des \xE9cosyst\xE8mes) au cours de l'\xE9t\xE9 1970.\
+      \ Ces relev\xE9s consistent en des donn\xE9es recueillies par des navires de\
+      \ recherche afin de surveiller la r\xE9partition et l'abondance des poissons\
+      \ et des invert\xE9br\xE9s sur le plateau n\xE9o-\xE9cossais, la baie de Fundy\
+      \ et le banc Georges. Les relev\xE9s suivent un plan d'\xE9chantillonnage al\xE9\
+      atoire stratifi\xE9 et comprennent l'\xE9chantillonnage de poissons et d'invert\xE9\
+      br\xE9s \xE0 l'aide d'un chalut de fond. Ces donn\xE9es d'enqu\xEAte constituent\
+      \ la principale source de donn\xE9es pour le suivi des tendances de la distribution,\
+      \ de l'abondance et des conditions biologiques des esp\xE8ces de poissons dans\
+      \ la r\xE9gion. Les croisi\xE8res \xAB\_printani\xE8res\_\xBB ont lieu en janvier,\
+      \ f\xE9vrier, mars et avril et se concentrent sur le banc Georges. Les croisi\xE8\
+      res \xAB\_estivales\_\xBB ont lieu en mai, juin, juillet et ao\xFBt et se concentrent\
+      \ sur le plateau n\xE9o-\xE9cossais et la baie de Fundy. Un changement de navire\
+      \ s'est produit en 1982 lorsque l'A.T. Cameron a \xE9t\xE9 remplac\xE9 par le\
+      \ Lady Hammond et en 1983 lorsque l'Alfred Needler est devenu le principal navire\
+      \ de prospection. Aujourd'hui, le Captain Jacques Cartier, construit en 2019\
+      \ et livr\xE9 en 2020, sera le principal navire hauturier de sciences halieutiques\
+      \ dans la r\xE9gion des Maritimes. \n\nDans le cadre de ces relev\xE9s, des\
+      \ observations oc\xE9anographiques physiques, chimiques et biologiques sont\
+      \ recueillies dans le cadre du Programme de surveillance de la zone atlantique\
+      \ (PMZA). L'\xE9chantillonnage du PMZA est effectu\xE9 selon des proc\xE9dures\
+      \ standard (voir https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6) et comprend\
+      \ la collecte de profils CTD et d'\xE9chantillons d'eau pour la d\xE9termination\
+      \ des variables physiques (par exemple, T, S), chimiques (par exemple, nutriments,\
+      \ oxyg\xE8ne, pH) et biologiques (chl a) et verticales tractions de filet \xE0\
+      \ anneaux. Les donn\xE9es recueillies sont synth\xE9tis\xE9es dans deux rapports\
+      \ annuels sur les changements physiques et chimiques/biologiques dans la r\xE9\
+      gion des Maritimes. Le PMZA vise \xE0 d\xE9tecter et \xE0 suivre le changement\
+      \ et la variabilit\xE9 climatiques dans l'Atlantique Nord-Ouest, en \xE9valuant\
+      \ les changements dans les propri\xE9t\xE9s physiques, chimiques et biologiques\
+      \ de l'oc\xE9an et dans la dynamique pr\xE9dateur-proie des ressources marines,\
+      \ am\xE9liorant ainsi la capacit\xE9 du Canada \xE0 comprendre, d\xE9crire et\
+      \ pr\xE9voir l'\xE9tat de la mer \xE9cosyst\xE8me\_\xBB. Ce dossier comprend\
+      \ uniquement les donn\xE9es hydrographiques/CTD recueillies au cours des relev\xE9\
+      s \xE9cosyst\xE9miques du printemps et de l'\xE9t\xE9, r\xE9alis\xE9s entre\
+      \ 1998 et aujourd'hui."
+  associated_resources: []
+  dates:
+    creation: '1998-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - chlorophyll a
+      - water temperature
+      - remote sensing
+      - fluorescence
+      - water density
+      - sampling
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - nitrate
+      - phosphate
+      - silicate
+      - potential temperature
+      - potential density
+      - seawater density
+      fr:
+      - changement climatique
+      - "salinit\xE9"
+      - chlorophylle a
+      - "temp\xE9rature de l'eau"
+      - "t\xE9l\xE9d\xE9tection"
+      - fluorescence
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
+      - physico-chimie
+      - pression
+      - nitrate
+      - phosphate
+      - silicate
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
+    eov:
+      en:
+      - oxygen
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - nutrients
+      - zooplanktonBiomassAndDiversity
+      - phytoplanktonBiomassAndDiversity
+      fr:
+      - "Oxyg\xE8ne"
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
+      - Autre
+      - Nutriments
+      - "Biomasse et diversit\xE9 de zooplancton"
+      - "Biomasse et diversit\xE9 de phytoplancton"
+  progress_code: onGoing
+  status: published
+  temporal_begin: '1998-01-01T16:00:00.000Z'
+  title:
+    en: Maritimes Region Ecosystem Survey Rosette Vertical Profiles
+    fr: "\xC9tude de l'\xE9cosyst\xE8me de la r\xE9gion Maritime profils verticaux\
+      \ des rosettes"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+instruments: []
+metadata:
+  dates:
+    publication: '2022-11-17'
+    revision: '2026-07-22T18:09:22.403Z'
+  history: []
+  identifier: 0270f89c-1b0a-43ea-b687-829a011c089e
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-N1eCmv3nJiPsqEa3NwY
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Availability of data varies both between and within years due to mission
+        cancellations.
+spatial:
+  bbox:
+  - -70.2724
+  - 41.8667
+  - -55.84
+  - 47.5833
+  vertical:
+  - 1.0
+  - 3363.0
+  vertical_positive: depthPositive

@@ -63,7 +63,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
+            <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -77,10 +77,10 @@
               <cit:address>
                 <cit:CI_Address>
                   <cit:deliveryPoint>
-                    <gco:CharacterString>1 Challenger Drive</gco:CharacterString>
+                    <gco:CharacterString></gco:CharacterString>
                   </cit:deliveryPoint>
                   <cit:city>
-                    <gco:CharacterString>DARTMOUTH</gco:CharacterString>
+                    <gco:CharacterString>Ottawa</gco:CharacterString>
                   </cit:city>
                   <cit:country>
                     <gco:CharacterString>Canada</gco:CharacterString>
@@ -90,7 +90,7 @@
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
                   <cit:linkage>
-                    <gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>
+                    <gco:CharacterString>https://www.dfo-mpo.gc.ca</gco:CharacterString>
                   </cit:linkage>
                   <cit:protocol>
                     <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -102,6 +102,13 @@
               </cit:onlineResource>
             </cit:CI_Contact>
           </cit:contactInfo>
+          <cit:partyIdentifier>
+            <mcc:MD_Identifier>
+              <mcc:code>
+                <gco:CharacterString>https://ror.org/02qa1x782</gco:CharacterString>
+              </mcc:code>
+            </mcc:MD_Identifier>
+          </cit:partyIdentifier>
           <cit:individual>
             <cit:CI_Individual>
               <cit:name>
@@ -144,7 +151,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
+            <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -158,10 +165,10 @@
               <cit:address>
                 <cit:CI_Address>
                   <cit:deliveryPoint>
-                    <gco:CharacterString>1 Challenger Drive</gco:CharacterString>
+                    <gco:CharacterString></gco:CharacterString>
                   </cit:deliveryPoint>
                   <cit:city>
-                    <gco:CharacterString>DARTMOUTH</gco:CharacterString>
+                    <gco:CharacterString>Ottawa</gco:CharacterString>
                   </cit:city>
                   <cit:country>
                     <gco:CharacterString>Canada</gco:CharacterString>
@@ -171,7 +178,7 @@
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
                   <cit:linkage>
-                    <gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>
+                    <gco:CharacterString>https://www.dfo-mpo.gc.ca</gco:CharacterString>
                   </cit:linkage>
                   <cit:protocol>
                     <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -183,6 +190,13 @@
               </cit:onlineResource>
             </cit:CI_Contact>
           </cit:contactInfo>
+          <cit:partyIdentifier>
+            <mcc:MD_Identifier>
+              <mcc:code>
+                <gco:CharacterString>https://ror.org/02qa1x782</gco:CharacterString>
+              </mcc:code>
+            </mcc:MD_Identifier>
+          </cit:partyIdentifier>
           <cit:individual>
             <cit:CI_Individual>
               <cit:name>
@@ -225,7 +239,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
+            <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -239,10 +253,10 @@
               <cit:address>
                 <cit:CI_Address>
                   <cit:deliveryPoint>
-                    <gco:CharacterString>1 Challenger Drive</gco:CharacterString>
+                    <gco:CharacterString></gco:CharacterString>
                   </cit:deliveryPoint>
                   <cit:city>
-                    <gco:CharacterString>DARTMOUTH</gco:CharacterString>
+                    <gco:CharacterString>Ottawa</gco:CharacterString>
                   </cit:city>
                   <cit:country>
                     <gco:CharacterString>Canada</gco:CharacterString>
@@ -252,7 +266,7 @@
               <cit:onlineResource>
                 <cit:CI_OnlineResource>
                   <cit:linkage>
-                    <gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>
+                    <gco:CharacterString>https://www.dfo-mpo.gc.ca</gco:CharacterString>
                   </cit:linkage>
                   <cit:protocol>
                     <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -264,6 +278,13 @@
               </cit:onlineResource>
             </cit:CI_Contact>
           </cit:contactInfo>
+          <cit:partyIdentifier>
+            <mcc:MD_Identifier>
+              <mcc:code>
+                <gco:CharacterString>https://ror.org/02qa1x782</gco:CharacterString>
+              </mcc:code>
+            </mcc:MD_Identifier>
+          </cit:partyIdentifier>
           <cit:individual>
             <cit:CI_Individual>
               <cit:name>
@@ -301,7 +322,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2023-07-31T17:54:03.529Z</gco:DateTime>
+        <gco:DateTime>2026-07-22T18:43:49.534Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -368,7 +389,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra"></lan:LanguageCode>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng"></lan:LanguageCode>
       </lan:language>
       <lan:country>
         <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN"></lan:CountryCode>
@@ -381,7 +402,7 @@
   <mdb:otherLocale>
     <lan:PT_Locale>
       <lan:language>
-        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="eng"></lan:LanguageCode>
+        <lan:LanguageCode codeList="http://standards.iso.org/iso/19115/resources/Codelist/lan/LanguageCode.xml" codeListValue="fra"></lan:LanguageCode>
       </lan:language>
       <lan:country>
         <lan:CountryCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml" codeListValue="CAN"></lan:CountryCode>
@@ -398,7 +419,7 @@
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
             <gco:CharacterString>Maritimes Region Atlantic Zone Monitoring Program (AZMP) Moored Time Series Data</gco:CharacterString>
             <lan:PT_FreeText>
-              <lan:textGroup>
+              <lan:textGroup xlink:href="https://cioos.ca/translation_method" xlink:role="translation" xlink:title="text translated using the Amazon translate service / texte traduit à l&#39;aide du service de traduction Amazon">
                 <lan:LocalisedCharacterString locale="#fr">Données chronologiques amarrées du Programme de surveillance de la zone Atlantique (AZMP) de la région des Maritimes</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
@@ -421,7 +442,7 @@
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
+                    <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
@@ -435,10 +456,10 @@
                       <cit:address>
                         <cit:CI_Address>
                           <cit:deliveryPoint>
-                            <gco:CharacterString>1 Challenger Drive</gco:CharacterString>
+                            <gco:CharacterString></gco:CharacterString>
                           </cit:deliveryPoint>
                           <cit:city>
-                            <gco:CharacterString>DARTMOUTH</gco:CharacterString>
+                            <gco:CharacterString>Ottawa</gco:CharacterString>
                           </cit:city>
                           <cit:country>
                             <gco:CharacterString>Canada</gco:CharacterString>
@@ -448,7 +469,7 @@
                       <cit:onlineResource>
                         <cit:CI_OnlineResource>
                           <cit:linkage>
-                            <gco:CharacterString>https://meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/request-commande/form-eng.asp</gco:CharacterString>
+                            <gco:CharacterString>https://www.dfo-mpo.gc.ca</gco:CharacterString>
                           </cit:linkage>
                           <cit:protocol>
                             <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -460,10 +481,17 @@
                       </cit:onlineResource>
                     </cit:CI_Contact>
                   </cit:contactInfo>
+                  <cit:partyIdentifier>
+                    <mcc:MD_Identifier>
+                      <mcc:code>
+                        <gco:CharacterString>https://ror.org/02qa1x782</gco:CharacterString>
+                      </mcc:code>
+                    </mcc:MD_Identifier>
+                  </cit:partyIdentifier>
                   <cit:individual>
                     <cit:CI_Individual>
                       <cit:name>
-                        <gco:CharacterString>Environmental Data Section (MEDS), Marine</gco:CharacterString>
+                        <gco:CharacterString>Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)</gco:CharacterString>
                       </cit:name>
                       <cit:contactInfo>
                         <cit:CI_Contact></cit:CI_Contact>
@@ -538,7 +566,7 @@ Les données recueillies sont synthétisées dans deux rapports annuels sur les 
                   <mrs:referenceSystemIdentifier>
                     <mcc:MD_Identifier>
                       <mcc:code>
-                        <gco:CharacterString>5831</gco:CharacterString>
+                        <gco:CharacterString>5829</gco:CharacterString>
                       </mcc:code>
                       <mcc:codeSpace>
                         <gco:CharacterString>EPSG</gco:CharacterString>
@@ -547,7 +575,7 @@ Les données recueillies sont synthétisées dans deux rapports annuels sur les 
                         <gco:CharacterString>2012-08-10</gco:CharacterString>
                       </mcc:version>
                       <mcc:description>
-                        <gco:CharacterString>EPSG::5831 - Instantaneous Water Level depth - Depth relative to instantaneous water level uncorrected for tide. Not specific to any location or epoch.</gco:CharacterString>
+                        <gco:CharacterString>EPSG::5829 - Instantaneous Water Level height - Height relative to instantaneous water level uncorrected for tide. Not specific to any location or epoch.</gco:CharacterString>
                       </mcc:description>
                     </mcc:MD_Identifier>
                   </mrs:referenceSystemIdentifier>
@@ -581,7 +609,7 @@ Les données recueillies sont synthétisées dans deux rapports annuels sur les 
             <mmi:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</mmi:MD_MaintenanceFrequencyCode>
           </mmi:maintenanceAndUpdateFrequency>
           <mmi:maintenanceNote>
-            <gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form</gco:CharacterString>
+            <gco:CharacterString>Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-NZbA22zyLz4Aanw4ziH</gco:CharacterString>
           </mmi:maintenanceNote>
         </mmi:MD_MaintenanceInformation>
       </mri:resourceMaintenance>
@@ -889,7 +917,7 @@ Les données recueillies sont synthétisées dans deux rapports annuels sur les 
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
+                    <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
@@ -903,10 +931,10 @@ Les données recueillies sont synthétisées dans deux rapports annuels sur les 
                       <cit:address>
                         <cit:CI_Address>
                           <cit:deliveryPoint>
-                            <gco:CharacterString>1 Challenger Drive</gco:CharacterString>
+                            <gco:CharacterString></gco:CharacterString>
                           </cit:deliveryPoint>
                           <cit:city>
-                            <gco:CharacterString>DARTMOUTH</gco:CharacterString>
+                            <gco:CharacterString>Ottawa</gco:CharacterString>
                           </cit:city>
                           <cit:country>
                             <gco:CharacterString>Canada</gco:CharacterString>
@@ -916,7 +944,7 @@ Les données recueillies sont synthétisées dans deux rapports annuels sur les 
                       <cit:onlineResource>
                         <cit:CI_OnlineResource>
                           <cit:linkage>
-                            <gco:CharacterString>https://www.dfo-mpo.gc.ca/index-eng.html</gco:CharacterString>
+                            <gco:CharacterString>https://www.dfo-mpo.gc.ca</gco:CharacterString>
                           </cit:linkage>
                           <cit:protocol>
                             <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -928,6 +956,13 @@ Les données recueillies sont synthétisées dans deux rapports annuels sur les 
                       </cit:onlineResource>
                     </cit:CI_Contact>
                   </cit:contactInfo>
+                  <cit:partyIdentifier>
+                    <mcc:MD_Identifier>
+                      <mcc:code>
+                        <gco:CharacterString>https://ror.org/02qa1x782</gco:CharacterString>
+                      </mcc:code>
+                    </mcc:MD_Identifier>
+                  </cit:partyIdentifier>
                   <cit:individual>
                     <cit:CI_Individual>
                       <cit:name>
@@ -1063,42 +1098,4 @@ Les données recueillies sont synthétisées dans deux rapports annuels sur les 
       </mmi:maintenanceAndUpdateFrequency>
     </mmi:MD_MaintenanceInformation>
   </mdb:metadataMaintenance>
-  <mdb:acquisitionInformation>
-    <mac:MI_AcquisitionInformation>
-      <mac:scope>
-        <mcc:MD_Scope>
-          <mcc:level>
-            <mcc:MD_ScopeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#MD_ScopeCode" codeListValue="dataset" />
-          </mcc:level>
-        </mcc:MD_Scope>
-      </mac:scope>
-      <mac:platform>
-        <mac:MI_Platform>
-          <mac:identifier>
-            <mcc:MD_Identifier>
-              <mcc:authority>
-                <cit:CI_Citation>
-                  <cit:title>
-                    <gco:CharacterString></gco:CharacterString>
-                  </cit:title>
-                </cit:CI_Citation>
-              </mcc:authority>
-              <mcc:code>
-                <gco:CharacterString>SDN:L06::48</gco:CharacterString>
-              </mcc:code>
-            </mcc:MD_Identifier>
-          </mac:identifier>
-          <mac:description>
-            <gco:CharacterString></gco:CharacterString>
-          </mac:description>
-          <mac:instrument/>
-          <mac:otherProperty xlink:href="http://vocab.nerc.ac.uk/collection/L06/current/" xlink:title="SeaVoX Platform Categories">
-            <gco:Record>
-              <gco:CharacterString>mooring</gco:CharacterString>
-            </gco:Record>
-          </mac:otherProperty>
-        </mac:MI_Platform>
-      </mac:platform>
-    </mac:MI_AcquisitionInformation>
-  </mdb:acquisitionInformation>
 </mdb:MD_Metadata>
