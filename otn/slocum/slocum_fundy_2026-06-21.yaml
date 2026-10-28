@@ -38,17 +38,23 @@ distribution:
     en: Realtime ERDDAP datasets
     fr: Ensembles de données ERDDAP en temps réel
   url: https://erddap.oceantrack.org/erddap/tabledap/fundy_20260621_225_realtime.html
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://erddap.oceantrack.org/erddap/tabledap/fundy_20260621_225_delayed.html
 identification:
   abstract:
     en: A Teledyne Webb Research Slocum G3 glider equipped with passive acoustic listening
       device (DMON) for a multi-month mission with an extended lithium primary battery
       pack. The purpose of this mission is to monitor the Gulf of Saint Lawrence shipping
-      lane for the presence of North Atlantic right whales.
+      lane for the presence of North Atlantic right whales. Recovered early due getting
+      stuck under a fresh water lens resulting in a blown emergency weight.
     fr: Un planeur Teledyne Webb Research Slocum G3 équipé d'un dispositif d'écoute
       acoustique passive (DMON) pour une mission de plusieurs mois avec une batterie
       primaire au lithium étendue. Le but de cette mission est de surveiller la voie
       de navigation du golfe du Saint-Laurent pour détecter la présence de baleines
-      noires de l'Atlantique Nord.
+      noires de l'Atlantique Nord. Récupéré tôt car coincé sous une lentille d'eau
+      douce, ce qui a entraîné un poids d'urgence soufflé.
   acknowledgement:
     en: The study was funded by Transport Canada's Innovation Centre (TC/IC) and supported
       by Laurence Lecavalier and Alison Butko at the IC. The DMON hydrophone, real-time
@@ -68,7 +74,7 @@ identification:
       a été fourni par l'Ocean Frontiers Institute. Merci aux capitaines des navires
       qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-07-07'
+    creation: '2026-10-28'
   keywords:
     eov:
       en:
@@ -76,26 +82,23 @@ identification:
       - subsurfaceTemperature
       - passiveAcoustics
       - acousticTagReceiver
-      fr:
-      - Salinité souterraine
-      - Température du sous-sol
-      - passiveAcoustique
-      - acoustiqueTagReceiver
-  status: onGoing
+      fr: acoustiqueTagReceiver
+  status: completed
   temporal_begin: '2026-06-21T13:18:10.000Z'
-  temporal_end: null
+  temporal_end: '2026-07-13T22:27:40.000Z'
   title:
-    en: Laurentian Channel real time whale monitoring for dynamic shipping management
-      in Gulf of St. Lawrence 2026-06-21
-    fr: Surveillance des baleines en temps réel dans le chenal Laurentien pour une
-      gestion dynamique de la navigation dans le golfe du Saint-Laurent 2026-06-21
+    en: 'slocum glider deployment #225 2026-06-21 - Laurentian Channel real time whale
+      monitoring for dynamic shipping management in Gulf of St. Lawrence'
+    fr: 'Déploiement du planeur slocum #225 2026-06-21 - Surveillance en temps réel
+      des baleines dans le chenal Laurentien pour une gestion dynamique de la navigation
+      dans le golfe du Saint-Laurent'
 metadata:
   dates:
-    publication: '2026-07-07T19:34:33Z'
-    revision: '2026-07-08T17:41:21Z'
+    publication: '2026-10-28T14:52:06Z'
+    revision: '2026-10-28T18:51:05Z'
   identifier: ee571705-f927-5e65-877a-8aba508a6ac9
   language: en
-  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr/cioos-datasets-submit
   naming_authority: ca.cioos
   use_constraints:
     licence:
@@ -155,9 +158,9 @@ platform:
 spatial:
   bbox:
   - -63.924347
-  - 49.584177
-  - -64.991165
-  - 49.194653
+  - 49.584203
+  - -64.991283
+  - 49.001282
   vertical:
   - 0.00012637200416065753
-  - 348.3429870605469
+  - 349.3219909667969

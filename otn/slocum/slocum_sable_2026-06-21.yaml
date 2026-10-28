@@ -68,7 +68,7 @@ identification:
       a été fourni par l'Ocean Frontiers Institute. Merci aux capitaines des navires
       qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-07-07'
+    creation: '2026-10-28'
   keywords:
     eov:
       en:
@@ -76,26 +76,23 @@ identification:
       - subsurfaceTemperature
       - passiveAcoustics
       - acousticTagReceiver
-      fr:
-      - Salinité souterraine
-      - Température du sous-sol
-      - passiveAcoustique
-      - acoustiqueTagReceiver
+      fr: acoustiqueTagReceiver
   status: onGoing
   temporal_begin: '2026-06-21T13:27:48.000Z'
   temporal_end: null
   title:
-    en: Laurentian Channel real time whale monitoring for dynamic shipping management
-      in Gulf of St. Lawrence 2026-06-21
-    fr: Surveillance des baleines en temps réel dans le chenal Laurentien pour une
-      gestion dynamique de la navigation dans le golfe du Saint-Laurent 2026-06-21
+    en: 'slocum glider deployment #224 2026-06-21 - Laurentian Channel real time whale
+      monitoring for dynamic shipping management in Gulf of St. Lawrence'
+    fr: 'Déploiement du planeur slocum #224 2026-06-21 - Surveillance des baleines
+      en temps réel dans le chenal Laurentien pour une gestion dynamique de la navigation
+      dans le golfe du Saint-Laurent'
 metadata:
   dates:
-    publication: '2026-07-07T19:01:52Z'
-    revision: '2026-07-08T17:41:21Z'
+    publication: '2026-10-28T16:03:22Z'
+    revision: '2026-10-28T16:10:19Z'
   identifier: 03f6c286-f35a-5167-9b15-1c055fbb7751
   language: en
-  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr/cioos-datasets-submit
   naming_authority: ca.cioos
   use_constraints:
     licence:
@@ -155,9 +152,9 @@ platform:
 spatial:
   bbox:
   - -63.017552
-  - 49.254948
-  - -64.14846
-  - 48.914553
+  - 49.606437
+  - -65.02867975885769
+  - 48.8918224106412
   vertical:
-  - 0.0028881500475108624
-  - 347.7250061035156
+  - 0.002887530019506812
+  - 349.9809875488281

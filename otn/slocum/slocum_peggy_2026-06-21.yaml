@@ -68,7 +68,7 @@ identification:
       a été fourni par l'Ocean Frontiers Institute. Merci aux capitaines des navires
       qui ont soutenu le déploiement et la récupération.
   dates:
-    creation: '2026-07-08'
+    creation: '2026-10-28'
   keywords:
     eov:
       en:
@@ -76,26 +76,23 @@ identification:
       - subsurfaceTemperature
       - passiveAcoustics
       - acousticTagReceiver
-      fr:
-      - Salinité souterraine
-      - Température du sous-sol
-      - passiveAcoustique
-      - acoustiqueTagReceiver
+      fr: acoustiqueTagReceiver
   status: onGoing
   temporal_begin: '2026-06-21T21:59:23.000Z'
   temporal_end: null
   title:
-    en: Laurentian Channel real time whale monitoring for dynamic shipping management
-      in Gulf of St. Lawrence 2026-06-21
-    fr: Surveillance des baleines en temps réel dans le chenal Laurentien pour une
-      gestion dynamique de la navigation dans le golfe du Saint-Laurent 2026-06-21
+    en: 'slocum glider deployment #226 2026-06-21 - Laurentian Channel real time whale
+      monitoring for dynamic shipping management in Gulf of St. Lawrence'
+    fr: 'Déploiement du planeur slocum #226 2026-06-21 - Surveillance des baleines
+      en temps réel dans le chenal Laurentien pour une gestion dynamique de la navigation
+      dans le golfe du Saint-Laurent'
 metadata:
   dates:
-    publication: '2026-07-08T16:00:13Z'
-    revision: '2026-07-08T17:41:21Z'
+    publication: '2026-10-28T16:00:59Z'
+    revision: '2026-10-28T16:12:28Z'
   identifier: 04747e0b-e4f6-59a3-a554-d9dad2b0a1f2
   language: en
-  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr-public/ERDDAP_tools
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr/cioos-datasets-submit
   naming_authority: ca.cioos
   use_constraints:
     licence:
@@ -157,9 +154,9 @@ platform:
 spatial:
   bbox:
   - -61.985895
-  - 48.90551
+  - 48.908432
   - -63.061153
-  - 48.497455
+  - 48.487653
   vertical:
   - 0.0027422900311648846
   - 348.0480041503906
