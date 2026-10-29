@@ -652,7 +652,7 @@
   <mdb:dateInfo>
     <cit:CI_Date>
       <cit:date>
-        <gco:DateTime>2026-10-28T18:51:05Z</gco:DateTime>
+        <gco:DateTime>2026-10-29T17:44:11Z</gco:DateTime>
       </cit:date>
       <cit:dateType>
         <cit:CI_DateTypeCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
@@ -750,7 +750,7 @@
             <gco:CharacterString>slocum glider deployment #225 2026-06-21 - Laurentian Channel real time whale monitoring for dynamic shipping management in Gulf of St. Lawrence</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Déploiement du planeur slocum #225 2026-06-21 - Surveillance en temps réel des baleines dans le chenal Laurentien pour une gestion dynamique de la navigation dans le golfe du Saint-Laurent</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Déploiement du planeur slocum #225 2026-06-21 - Surveillance des baleines en temps réel dans le chenal Laurentien pour une gestion dynamique de la navigation dans le golfe du Saint-Laurent</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
@@ -1463,7 +1463,7 @@
         <gco:CharacterString>The study was funded by Transport Canada&#39;s Innovation Centre (TC/IC) and supported by Laurence Lecavalier and Alison Butko at the IC. The DMON hydrophone, real-time acoustic software, and automated dissemination of near real-time detections to partners were provided through collaboration with Dr. Mark Baumgartner at the Woods Hole Oceanographic Institution. The Ocean Tracking Network led this project and their glider team expertly prepared, deployed, piloted and recovered the gliders. Additional logistical support was provided by the Ocean Frontiers Institute. Thank you to the vessel captains who supported deployment and recovery.</gco:CharacterString>
         <lan:PT_FreeText>
           <lan:textGroup>
-            <lan:LocalisedCharacterString locale="#fr">L&#39;étude a été financée par le Centre d&#39;innovation de Transports Canada (TC/IC) et soutenue par Laurence Lecavalier et Alison Butko du IC. L&#39;hydrophone DMON, le logiciel acoustique en temps réel et la diffusion automatisée des détections en temps quasi réel aux partenaires ont été fournis grâce à la collaboration avec le Dr Mark Baumgartner de la Woods Hole Oceanographic Institution. L&#39;Ocean Tracking Network a dirigé ce projet et son équipe de planeurs a préparé, déployé, piloté et récupéré les planeurs de manière experte. Un soutien logistique supplémentaire a été fourni par l&#39;Ocean Frontiers Institute. Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.</lan:LocalisedCharacterString>
+            <lan:LocalisedCharacterString locale="#fr">L&#39;étude a été financée par le Centre d&#39;innovation de Transports Canada (TC/IC) et soutenue par Laurence Lecavalier et Alison Butko du CI. L&#39;hydrophone DMON, le logiciel acoustique en temps réel et la diffusion automatisée des détections en temps quasi réel aux partenaires ont été fournis grâce à la collaboration avec le Dr Mark Baumgartner de la Woods Hole Oceanographic Institution. L&#39;Ocean Tracking Network a dirigé ce projet et son équipe de planeurs a préparé, déployé, piloté et récupéré les planeurs de manière experte. Un soutien logistique supplémentaire a été fourni par l&#39;Ocean Frontiers Institute. Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.</lan:LocalisedCharacterString>
           </lan:textGroup>
         </lan:PT_FreeText>
       </mri:credit>
@@ -1602,147 +1602,28 @@
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">a</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Salinité souterraine</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">c</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Température souterraine</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">o</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Acoustique passive</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>
           <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">u</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">s</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">t</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">i</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">q</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">u</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">e</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">T</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">a</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">g</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">R</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">e</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">c</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">e</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">i</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">v</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">e</lan:LocalisedCharacterString>
-              </lan:textGroup>
-            </lan:PT_FreeText>
-          </mri:keyword>
-          <mri:keyword xsi:type="lan:PT_FreeText_PropertyType">
-            <lan:PT_FreeText>
-              <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">r</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">acoustiqueTagReceiver</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </mri:keyword>

@@ -63,7 +63,7 @@ identification:
       the gliders. Additional logistical support was provided by the Ocean Frontiers
       Institute. Thank you to the vessel captains who supported deployment and recovery.
     fr: L'étude a été financée par le Centre d'innovation de Transports Canada (TC/IC)
-      et soutenue par Laurence Lecavalier et Alison Butko du IC. L'hydrophone DMON,
+      et soutenue par Laurence Lecavalier et Alison Butko du CI. L'hydrophone DMON,
       le logiciel acoustique en temps réel et la diffusion automatisée des détections
       en temps quasi réel aux partenaires ont été fournis grâce à la collaboration
       avec le Dr Mark Baumgartner de la Woods Hole Oceanographic Institution. L'Ocean
@@ -80,7 +80,11 @@ identification:
       - subsurfaceTemperature
       - passiveAcoustics
       - acousticTagReceiver
-      fr: acoustiqueTagReceiver
+      fr:
+      - Salinité souterraine
+      - Température souterraine
+      - Acoustique passive
+      - acoustiqueTagReceiver
   status: completed
   temporal_begin: '2026-07-24T17:05:00.000Z'
   temporal_end: '2026-09-03T07:47:00.000Z'
@@ -93,7 +97,7 @@ identification:
 metadata:
   dates:
     publication: '2026-10-28T17:04:27Z'
-    revision: '2026-10-28T18:52:10Z'
+    revision: '2026-10-29T17:51:42Z'
   identifier: 69ef3db5-fda6-5a05-ae2f-3416872850d9
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr/cioos-datasets-submit

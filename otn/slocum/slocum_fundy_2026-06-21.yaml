@@ -65,7 +65,7 @@ identification:
       the gliders. Additional logistical support was provided by the Ocean Frontiers
       Institute. Thank you to the vessel captains who supported deployment and recovery.
     fr: L'étude a été financée par le Centre d'innovation de Transports Canada (TC/IC)
-      et soutenue par Laurence Lecavalier et Alison Butko du IC. L'hydrophone DMON,
+      et soutenue par Laurence Lecavalier et Alison Butko du CI. L'hydrophone DMON,
       le logiciel acoustique en temps réel et la diffusion automatisée des détections
       en temps quasi réel aux partenaires ont été fournis grâce à la collaboration
       avec le Dr Mark Baumgartner de la Woods Hole Oceanographic Institution. L'Ocean
@@ -82,20 +82,24 @@ identification:
       - subsurfaceTemperature
       - passiveAcoustics
       - acousticTagReceiver
-      fr: acoustiqueTagReceiver
+      fr:
+      - Salinité souterraine
+      - Température souterraine
+      - Acoustique passive
+      - acoustiqueTagReceiver
   status: completed
   temporal_begin: '2026-06-21T13:18:10.000Z'
   temporal_end: '2026-07-13T22:27:40.000Z'
   title:
     en: 'slocum glider deployment #225 2026-06-21 - Laurentian Channel real time whale
       monitoring for dynamic shipping management in Gulf of St. Lawrence'
-    fr: 'Déploiement du planeur slocum #225 2026-06-21 - Surveillance en temps réel
-      des baleines dans le chenal Laurentien pour une gestion dynamique de la navigation
+    fr: 'Déploiement du planeur slocum #225 2026-06-21 - Surveillance des baleines
+      en temps réel dans le chenal Laurentien pour une gestion dynamique de la navigation
       dans le golfe du Saint-Laurent'
 metadata:
   dates:
     publication: '2026-10-28T14:52:06Z'
-    revision: '2026-10-28T18:51:05Z'
+    revision: '2026-10-29T17:44:11Z'
   identifier: ee571705-f927-5e65-877a-8aba508a6ac9
   language: en
   maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr/cioos-datasets-submit
