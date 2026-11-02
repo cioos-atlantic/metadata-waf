@@ -1,0 +1,260 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: e4ac21ff-414c-40e0-a943-21f664c92e7e
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/YwzkXxYNxzOntkCQpeUCqqSVSQr2/-Njx_JDsVrkYKHhi7Q-i
+  use_constraints:
+    limitations:
+      en: "Availability of data varies both between and within years due to mission\
+        \ cancellations. \n\nSensors are calibrated regularly by the manufacturer,\
+        \ however individual profiles have not been post-calibrated with water sample\
+        \ data (dissolved oxygen, salinity, fluorescence, etc.).\n\nMeteorological\
+        \ data is from shipboard observations and has not been verified. No QA/QC\
+        \ has been performed on the meteorological data.\n\nData collected during\
+        \ the summer 2024 AZMP survey (CAB054) has a potential issue with the primary\
+        \ and secondary conductivity sensors (and derived data) which is being investigated.\
+        \ Use this data with caution."
+      fr: "La disponibilité des données varie d'une année à l'autre en raison des\
+        \ annulations de missions. \n\nLes capteurs sont étalonnés régulièrement par\
+        \ le fabricant, mais les profils individuels n'ont pas été post-étalonnés\
+        \ avec les données des échantillons d'eau (oxygène dissous, salinité, fluorescence,\
+        \ etc.).\n\nLes données météorologiques proviennent d'observations à bord\
+        \ des navires et n'ont pas été vérifiées. Aucun AQ/CQ n'a été effectué sur\
+        \ les données météorologiques.\n\nLes données collectées lors de l'enquête\
+        \ AZMP de l'été 2024 (CAB054) présentent un problème potentiel avec les capteurs\
+        \ de conductivité primaires et secondaires (et les données dérivées) qui sont\
+        \ à l'étude. Utilisez ces données avec prudence."
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+    licence:
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert â€“ Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+      code: government-open-license-canada
+  dates:
+    revision: '2025-02-11T16:16:44.442Z'
+    publication: '2023-12-15'
+spatial:
+  polygon: -52.5867,47.5467 -52.96666667,48.73333333 -56.45333333,50.22666667 -55.65,53.23333333
+    -58.51333333,55.21666667 -61.305,57.05833333 -58.58333333,57.88333333 -56.51,56.07833333
+    -52.5,55.06666667 -49.75,52.11666667 -47.94666667,50.33166667 -46.80333333,48.79
+    -42,47 -48.66666667,41.33333333 -54.78216667,44.07466667 -57.37516667,45.61683333
+    -55.619,46.77366667 -52.93333333,46.58333333 -52.5867,47.5467
+  vertical:
+  - 1.0
+  - 4225.0
+  vertical_positive: heightPositive
+identification:
+  title:
+    en: Newfoundland and Labrador Region Atlantic Zone Monitoring Program (AZMP) Rosette
+      Vertical Profiles
+    fr: Profils verticaux des rosettes du Programme de monitorage de la zone Atlantique
+      (PMZA) de la région de Terre-Neuve-et-Labrador
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  abstract:
+    en: The Atlantic Zone Monitoring Program (AZMP) was implemented in 1998 with the
+      aim of detecting and tracking climate change and variability in the northwest
+      Atlantic, evaluating changes in the physical, chemical and biological ocean
+      properties and predator-prey dynamics of marine resources, thereby enhancing
+      Canada's ability to understand, describe, and forecast the state of the marine
+      ecosystem. AZMP's sampling scheme in the Newfoundland and Labrador Region involves
+      oceanographic sampling at one high-frequency (biweekly to monthly) fixed coastal
+      station (Station 27) as well as triannual sampling along fixed cross-shelf sections
+      (Beachy Island, Makkovik Bank, Seal Island, White Bay, Bonavista Bay, Flemish
+      Cap, Southeast Grand Banks, Southeast St. Pierre Bank and Southwest St. Pierre
+      Bank). AZMP sampling is conducted according to standard procedures (see https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6)
+      and includes the collection of CTD profiles and water samples for the determination
+      of physical (e.g., T, S), chemical (e.g., nutrients, carbonates, oxygen, pH),
+      and biological (e.g., chl a) variables and vertical ring net tows. The data
+      collected are synthesized into two annual reports on the physical and chemical/biological
+      changes in the Newfoundland and Labrador Region, contribute to multiple Canadian
+      Science Advisory Secretariat (CSAS) and Northwest Atlantic Fisheries Organization
+      (NAFO) processes, and are also used to evaluate changes across the Atlantic
+      zone.
+    fr: Le Programme de monitorage de la zone Atlantique (PMZA) a été mis en œuvre
+      en 1998 dans le but de détecter et de suivre le changement climatique et la
+      variabilité dans l'Atlantique Nord-Ouest, d'évaluer les changements dans les
+      propriétés physiques, chimiques et biologiques de l'océan ainsi que la dynamique
+      prédateur-proie des ressources marines, améliorant ainsi la capacité du Canada
+      à comprendre, décrire et prévoir l'état de l'écosystème marin. Le plan d'échantillonnage
+      de le PMZA dans la région de Terre-Neuve-et-Labrador comprend un échantillonnage
+      océanographique dans une station côtière fixe à haute fréquence (bihebdomadaire
+      ou mensuelle) (station 27) ainsi qu'un échantillonnage triennal le long de sections
+      transversales fixes (Île Beachy, Banc de Makkovik, Île Seal, Baie Blanche, Baie
+      de Bonavista, Bonnet Flamand, Sud-Est des Grands Bancs, Sud-Est des Banc de
+      Saint-Pierre et Sud-Ouest des Banc de Saint-Pierre). L'échantillonnage de le
+      PMZA est effectué conformément aux procédures standard (voir https://cat.fsl-bsf.scitech.gc.ca/record=b3951030~S6)
+      et comprend la collecte de profils CTD et d'échantillons d'eau pour la détermination
+      de variables physiques (par exemple, T, S), chimiques (par exemple, nutriments,
+      carbonates, oxygène, pH) et biologiques (par exemple, chl a) et de traceurs
+      à filets annulaires verticaux. Les données recueillies sont synthétisées dans
+      deux rapports annuels sur les changements physiques, chimiques et biologiques
+      dans la région de Terre-Neuve-et-Labrador, contribuent à de nombreux processus
+      du Secrétariat canadien des avis scientifiques (SCAS) et de l'Organisation des
+      pêches de l'Atlantique Nord-Ouest (OPANO), et sont également utilisées pour
+      évaluer les changements dans la zone Atlantique.
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '1999-07-16'
+  keywords:
+    default:
+      en:
+      - oceanographic missions
+      - climate change
+      - atmospheric pressure
+      - chlorophyll a
+      - fluorescence
+      - physical-chemical
+      - salinity
+      - sea ice
+      - water density
+      - water temperature
+      - wind
+      - oxygen
+      - beam attenuation
+      - beam transmission
+      - coloured dissolved organic matter
+      - photosynthetically active radiation
+      - Northwest Atlantic Ocean
+      - Newfoundland and Labrador
+      fr:
+      - missions océanographique
+      - changement climatique
+      - pression atmosphérique
+      - chlorophylle a
+      - fluorescence
+      - physico-chimie
+      - salinité
+      - glace de mer
+      - densité eau
+      - température de l'eau
+      - vents
+      - oxygène
+      - atténuation du faisceau
+      - transmission du faisceau
+      - matière organique dissoute colorée
+      - rayonnement photosynthétiquement actif
+      - Océan Atlantique Nord-Ouest
+      - Terre-Neuve-et-Labrador
+    eov:
+      en:
+      - oxygen
+      - seaSurfaceSalinity
+      - subSurfaceTemperature
+      - seaSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - seaState
+      - seaIce
+      fr:
+      - OxygÃ¨ne
+      - SalinitÃ© de surface
+      - TempÃ©rature sous la surface
+      - TempÃ©rature de surface
+      - SalinitÃ© sous la surface
+      - Autre
+      - Ã‰tat de la mer
+      - Glace de mer
+  temporal_begin: '1999-07-16T14:30:00.000Z'
+  status: published
+  progress_code: onGoing
+contact:
+- roles:
+  - owner
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/
+    address: 200 Kent Street
+    city: Ottawa
+    country: Canada
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  inCitation: true
+- roles:
+  - custodian
+  - pointOfContact
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: 80 East White Hills Road
+    city: St. John's
+    country: Canada
+  individual:
+    name: Snook, Steve
+    position: Newfoundland and Labrador Region AZMP Operational Lead
+    email: Stephen.Snook@dfo-mpo.gc.ca
+  inCitation: false
+- roles:
+  - distributor
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: 80 East White Hills Road
+    city: St. John's
+    country: Canada
+  individual:
+    name: Oceanography, NL
+    position: Data Management
+    email: NL-Oceanography@dfo-mpo.gc.ca
+  inCitation: false
+distribution:
+- url: https://cioosatlantic.ca/erddap/tabledap/nafc_azmp_ctd_profiles.html
+  name:
+    en: ERDDAP NL AZMP CTD Data
+    fr: Données CTD ERDDAP NL PMZA
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+- url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/265754.pdf
+  name:
+    en: Atlantic Zonal Monitoring Program Sampling Protocol
+    fr: Protocole d'échantillonnage du Programme de monitorage zonal de l'Atlantique
+  description:
+    en: Core sampling protocols for the Atlantic Zone Monitoring Program
+    fr: Protocoles d'échantillonnage de base pour le programme de monitorage de la
+      zone Atlantique
+- url: https://www.dfo-mpo.gc.ca/science/data-donnees/azmp-pmza/index-eng.html
+  name:
+    en: Atlantic Zone Monitoring Program (AZMP)
+    fr: Programme de monitorage de la zone Atlantique (PMZA)
+  description:
+    en: Fisheries and Oceans Canada website for the Atlantic Zone Monitoring Program
+      (AZMP)
+    fr: Site Web de Pêches et Océans Canada pour le Programme de monitorage de la
+      zone Atlantique (PMZA)
+- url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
+    fr: Publications du Secrétariat canadien des avis scientifiques (SCAS)
+  description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: Site Web contenant des publications produites par le Secrétariat canadien
+      des avis scientifiques
+platform:
+- description:
+    en: Platform can vary due to vessel availability.
+    fr: La plateforme peut varier en fonction de la disponibilité des navires.
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  id: 18TL, 18HU, 181C, PADS, 18OL, 740H, 33AT, 18NE, 18QL, 18KF, 74EQ
+  type: ship
+  instruments: []

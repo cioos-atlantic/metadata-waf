@@ -1,0 +1,285 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: 9859f53e-92b8-411d-880a-fdec32b9dc2e
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/YwzkXxYNxzOntkCQpeUCqqSVSQr2/-Nwnz0H0V9feq5ban5Vg
+  use_constraints:
+    limitations:
+      en: 'For data collected during fisheries surveys, latitude/longitude is recorded
+        at the start of the fishing tow. End position is not recorded in the CTD data.
+
+
+        Meteorological data is from shipboard observations and has not been verified.
+        No QA/QC has been performed on the meteorological data.'
+      fr: 'Pour les données collectées lors des enquêtes de pêche, la latitude/longitude
+        est enregistrée au début de la ligne de pêche. La position finale n''est pas
+        enregistrée dans les données CTD.
+
+
+        Les données météorologiques proviennent d''observations à bord des navires
+        et n''ont pas été vérifiées. Aucun AQ/CQ n''a été effectué sur les données
+        météorologiques.'
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+    licence:
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert â€“ Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+      code: government-open-license-canada
+  dates:
+    revision: '2024-05-16T18:24:16.393Z'
+    publication: '2024-05-09'
+spatial:
+  bbox:
+  - -64.62
+  - 41.98
+  - -37.99
+  - 61.35
+  vertical:
+  - 1.0
+  - 4225.0
+  vertical_positive: heightPositive
+identification:
+  title:
+    en: Newfoundland and Labrador Region Hydrographic Data Collection 1980 - Present
+    fr: Collecte de données hydrographiques de la région de Terre-Neuve-et-Labrador
+      1980 à aujourd'hui
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  abstract:
+    en: This dataset contains hydrographic data collected by the Department of Fisheries
+      and Oceans Canada, Newfoundland and Labrador Region, from 1980 - present. This
+      data was collected as part of various projects, including both inshore and offshore
+      locations across the Newfoundland and Labrador shelf. Examples of projects which
+      undertook this data collection include studies involving fisheries resources,
+      biological and physical oceanography, shellfish, groundfish tagging, Sentinel
+      Cod, acoustic calibrations, pelagic resources, as well as opportunistic sampling
+      from ships of opportunity, among others.
+    fr: Cet ensemble de données contient des données hydrographiques recueillies par
+      le ministère des Pêches et des Océans du Canada, région de Terre-Neuve-et-Labrador,
+      de 1980 à aujourd'hui. Ces données ont été recueillies dans le cadre de divers
+      projets, notamment sur des sites côtiers et extracôtiers sur le plateau continental
+      de Terre-Neuve-et-Labrador. Parmi les projets qui ont entrepris cette collecte
+      de données, citons des études portant sur les ressources halieutiques, l'océanographie
+      biologique et physique, les mollusques, le marquage des poissons de fond, la
+      morue sentinelle, les étalonnages acoustiques, les ressources pélagiques, ainsi
+      que l'échantillonnage opportuniste à partir de navires d'opportunité, entre
+      autres.
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '1980-01-01'
+  keywords:
+    default:
+      en:
+      - atmospheric pressure
+      - chlorophyll a
+      - climate change
+      - fluorescence
+      - salinity
+      - sea ice
+      - water density
+      - water temperature
+      - wind
+      - Northwest Atlantic Ocean
+      - Newfoundland and Labrador
+      fr:
+      - pression atmosphérique
+      - chlorophylle a
+      - changement climatique
+      - fluorescence
+      - salinité
+      - glace de mer
+      - densité eau
+      - température de l'eau
+      - vents
+      - Océan Atlantique Nord-Ouest
+      - Terre-Neuve-et-Labrador
+    eov:
+      en:
+      - seaState
+      - seaSurfaceSalinity
+      - subSurfaceTemperature
+      - other
+      - seaIce
+      - seaSurfaceTemperature
+      - subSurfaceSalinity
+      fr:
+      - Ã‰tat de la mer
+      - SalinitÃ© de surface
+      - TempÃ©rature sous la surface
+      - Autre
+      - Glace de mer
+      - TempÃ©rature de surface
+      - SalinitÃ© sous la surface
+  temporal_begin: '1980-01-01T15:30:00.000Z'
+  status: published
+  progress_code: onGoing
+contact:
+- roles:
+  - owner
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/
+    address: 200 Kent Street
+    city: Ottawa
+    country: Canada
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  inCitation: true
+- roles:
+  - custodian
+  - pointOfContact
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: 80 East White Hills Road
+    city: St. John's
+    country: Canada
+  individual:
+    name: Snook, Steve
+    position: Newfoundland and Labrador Region AZMP Operational Lead
+    email: Stephen.Snook@dfo-mpo.gc.ca
+  inCitation: false
+- roles:
+  - distributor
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: 80 East White Hills Road
+    city: St. John's
+    country: Canada
+  individual:
+    name: Oceanography, NL
+    position: Data Management
+    email: NL-Oceanography@dfo-mpo.gc.ca
+  inCitation: false
+distribution:
+- url: https://cioosatlantic.ca/erddap/tabledap/nafc_bulk_unsorted_ctd_profiles.html
+  name:
+    en: ERDDAP NL Hydrographic Data Collection 1980 - Present
+    fr: Collecte de données hydrographiques ERDDAP NL 1980 - Aujourd'hui
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+- url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
+    fr: Publications du Secrétariat canadien des avis scientifiques (SCAS)
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: Site Web contenant des publications produites par le Secrétariat canadien
+      des avis scientifiques
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+platform:
+- id: VC9450
+  type: ship
+- id: 18OK
+  type: research vessel
+- id: CG2680
+  type: ship
+- id: VY2230
+  type: ship
+- id: 18NF
+  type: fishing vessel
+- id: 181C
+  type: research vessel
+- id: 18LH
+  type: research vessel
+- id: 18NE
+  type: research vessel
+- id: 18DA
+  type: research vessel
+- id: 18HU
+  type: research vessel
+- id: 18PZ
+  type: research vessel
+- id: VJPK
+  type: ship
+- id: 18BB
+  type: vessel of opportunity
+- id: 18HB
+  type: vessel of opportunity
+- id: VO2322
+  type: ship
+- id: CCG206
+  type: self-propelled small boat
+- id: '1814'
+  type: fishing vessel
+- id: 18LL
+  type: vessel of opportunity
+- id: 18NX
+  type: fishing vessel
+- id: VOKB
+  type: fishing vessel
+- id: VOLM
+  type: fishing vessel
+- id: 18CG
+  type: naval vessel
+- id: VGWW
+  type: vessel of opportunity
+- id: 18ZA
+  type: fishing vessel
+- id: 18AV
+  type: vessel of opportunity
+- id: 18HS
+  type: vessel of opportunity
+- id: 18HG
+  type: vessel of opportunity
+- id: 18TL
+  type: research vessel
+- id: VC8218
+  type: fishing vessel
+- id: 18A1
+  type: fishing vessel
+- id: 18GN
+  type: vessel of opportunity
+- id: 18DI
+  type: fishing vessel
+- id: 18P9
+  type: fishing vessel
+- id: 18GP
+  type: vessel of opportunity
+- id: 45CE
+  type: research vessel
+- id: 18VD
+  type: research vessel
+- id: 18QL
+  type: research vessel
+- id: 18KF
+  type: research vessel
+- id: 35HT
+  type: research vessel
+- id: naka50, naka51, naka52, naka53
+  type: unknown
+- id: gbmpa
+  type: unknown
+- id: whal
+  type: self-propelled small boat
+- id: sent
+  type: unknown
+- id: osc
+  type: unknown

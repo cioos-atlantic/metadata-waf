@@ -1,0 +1,284 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: dabda19f-fe2f-45a8-8fee-01805364fc43
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/YwzkXxYNxzOntkCQpeUCqqSVSQr2/-Nrk9yD_pltdBuUPXYWU
+  use_constraints:
+    limitations:
+      en: "Availability of data varies both between and within years due to mission\
+        \ cancellations. \n\nLatitude/longitude is recorded at the start of the fishing\
+        \ tow. End position is not recorded in the CTD data.\n\nMeteorological data\
+        \ is from shipboard observations and has not been verified. No QA/QC has been\
+        \ performed on the meteorological data."
+      fr: "La disponibilité des données varie d'une année à l'autre en raison des\
+        \ annulations de missions. \n\nLa latitude/longitude est enregistrée au départ\
+        \ du câble de pêche. La position finale n'est pas enregistrée dans les données\
+        \ CTD.\n\nLes données météorologiques proviennent d'observations à bord des\
+        \ navires et n'ont pas été vérifiées. Aucun AQ/CQ n'a été effectué sur les\
+        \ données météorologiques."
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+    licence:
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert â€“ Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+      code: government-open-license-canada
+  dates:
+    revision: '2024-04-29T12:04:23.180Z'
+    publication: '2024-05-01'
+spatial:
+  polygon: -57.662,47.557 -58.822,46.842 -50.472,42.461 -48.734,43.592 -46.873,45.923
+    -46.405,48.320 -49.379,48.864 -49.646,51.405 -52.525,54.828 -59.355,57.879 -61.838,57.489
+    -58.463,55.036 -55.661,53.473 -55.966,50.262 -53.281,49.271 -52.604,47.571 -53.003,46.556
+    -56.066,46.842 -57.662,47.557
+  vertical:
+  - 1.0
+  - 1650.0
+  vertical_positive: heightPositive
+identification:
+  title:
+    en: Newfoundland and Labrador Region Multi-Species Survey Trawl-Mounted CTD Profiles
+    fr: Profils CTD montés au chalut dans le cadre du relevé multi-spécifiques de
+      la région de Terre-Neuve-et-Labrador
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  abstract:
+    en: "The Department of Fisheries and Oceans Canada (DFO), Newfoundland and Labrador\
+      \ Region, has undertaken stratified-random multi-species surveys in portions\
+      \ of Northwest Atlantic Fisheries Organization (NAFO) subareas 2 and 3 since\
+      \ the early 1970’s. The current survey design covers an expansive spatial area,\
+      \ spanning six NAFO divisions (2HJ3KLNO) and 515,000 km2 in the autumn and four\
+      \ NAFO divisions (3LNOP) and 324,000 km2 in the spring. The survey aims at determining\
+      \ the distribution and abundance of commercial and non-commercial fish and invertebrate\
+      \ species with respect to position, depth, and temperature, and to collect biological\
+      \ samples. \n\nIn 1989 DFO developed a shock-absorbing CTD sled containing a\
+      \ Seabird model SBE-19 CTD that could be mounted on a trawl, which is now the\
+      \ primary instrument used to collect physical oceanographic data (e.g., T, S)\
+      \ during multi-species surveys in NL region. The package attached to the trawl\
+      \ head-ropes records time, water pressure, temperature, and conductivity for\
+      \ the duration of the fishing set. In the event of instrument failure an expendable\
+      \ bathythermograph (XBT) is deployed.\n\nIn addition, this survey samples the\
+      \ high-frequency station, Station 27, in collaboration with the Atlantic Zone\
+      \ Monitoring Program (AZMP).\n\nThis record includes only hydrographic/CTD data\
+      \ collected during the spring and autumn multi-species surveys, conducted between\
+      \ 1995 to present."
+    fr: "Le ministère des Pêches et des Océans du Canada (MPO), région de Terre-Neuve-et-Labrador,\
+      \ a entrepris des relevés multi-spécifiques aléatoires stratifiés dans certaines\
+      \ parties des sous-zones 2 et 3 de l'Organisation des pêches de l'Atlantique\
+      \ Nord-Ouest (OPANO) depuis le début des années 1970. Le plan actuel couvre\
+      \ une vaste zone spatiale, couvrant six divisions de l'OPANO (2HJ3KLNO) et 515\
+      \ 000 km2 à l'automne et quatre divisions de l'OPANO (3LNOP) et 324 000 km2\
+      \ dans printemps. L'étude vise à déterminer la distribution et l'abondance des\
+      \ espèces de poissons et d'invertébrés commerciales et non commerciales en termes\
+      \ de position, de profondeur et de température, et à collecter des échantillons\
+      \ biologiques. \n\nEn 1989, le MPO a mis au point un traîneau CTD absorbant\
+      \ les chocs contenant un Seabird modèle SBE-19 CTD qui pouvait être monté sur\
+      \ un chalut, qui est maintenant le principal instrument utilisé pour recueillir\
+      \ des données océanographiques physiques (par exemple, T, S) lors de relevés\
+      \ multi-spécifiques dans la région de Terre-Neuve-et-Labrador. L'emballage attaché\
+      \ aux câbles à tête de chalut enregistre le temps, la pression de l'eau, la\
+      \ température et la conductivité pendant toute la durée du set de pêche. En\
+      \ cas de défaillance de l'instrument, un bathythermographe consommable (XBT)\
+      \ est déployé.\n\nEn outre, cette étude échantillonne la station haute fréquence,\
+      \ Station 27, en collaboration avec le Programme de monitorage de la zone Atlantique\
+      \ (PMZA).\n\nCe registre comprend uniquement les données hydrographiques/CTD\
+      \ collectées lors des relevés multi-spécifiques du printemps et de l'automne,\
+      \ menés entre 1995 et aujourd'hui."
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '1995-09-25'
+  keywords:
+    default:
+      en:
+      - atmospheric pressure
+      - chlorophyll a
+      - climate change
+      - fluorescence
+      - salinity
+      - sea ice
+      - water density
+      - water temperature
+      - wind
+      - multi-species survey
+      - physical-chemical
+      - Northwest Atlantic Ocean
+      - Newfoundland and Labrador
+      fr:
+      - pression atmosphérique
+      - chlorophylle a
+      - changement climatique
+      - fluorescence
+      - salinité
+      - glace de mer
+      - densité eau
+      - température de l'eau
+      - vents
+      - relevé multi-spécifiques
+      - physico-chimie
+      - Océan Atlantique Nord-Ouest
+      - Terre-Neuve-et-Labrador
+    eov:
+      en:
+      - seaSurfaceSalinity
+      - subSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - seaIce
+      - seaState
+      - other
+      fr:
+      - SalinitÃ© de surface
+      - SalinitÃ© sous la surface
+      - TempÃ©rature de surface
+      - TempÃ©rature sous la surface
+      - Glace de mer
+      - Ã‰tat de la mer
+      - Autre
+  temporal_begin: '1995-09-25T14:30:00.000Z'
+  status: published
+  progress_code: onGoing
+contact:
+- roles:
+  - owner
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/
+    address: 200 Kent Street
+    city: Ottawa
+    country: Canada
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  inCitation: true
+- roles:
+  - custodian
+  - pointOfContact
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: 80 East White Hills Road
+    city: St. John's
+    country: Canada
+  individual:
+    name: Snook, Steve
+    position: Newfoundland and Labrador Region AZMP Operational Lead
+    email: Stephen.Snook@dfo-mpo.gc.ca
+  inCitation: false
+- roles:
+  - distributor
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: 80 East White Hills Road
+    city: St. John's
+    country: Canada
+  individual:
+    name: Oceanography, NL
+    position: Data Management
+    email: NL-Oceanography@dfo-mpo.gc.ca
+  inCitation: false
+distribution:
+- url: https://cioosatlantic.ca/erddap/tabledap/nafc_multispecies_ctd_profiles.html
+  name:
+    en: ERDDAP NL Multi-species CTD Data
+    fr: Données CTD multi-spécifiques de l'ERDDAP NL
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+- url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/365691.pdf
+  name:
+    en: AZMP Bulletin No 6 (April 2007)
+    fr: Bulletin PMZA n° 6 (avril 2007)
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: History of Annual Multi-species Trawl Surveys on the Atlantic Coast of Canada
+      (p.25), Oceanographic Observations From Trawl-Mounted CTDs on Multi-Species
+      Surveys in the Newfoundland and Labrador Region (p.43)
+    fr: Historique des relevés annuels plurispécifiques effectués au chalut sur la
+      côte atlantique du Canada (p.25), Observations océanographiques effectuées à
+      partir de CTD montés au chalut dans le cadre de relevé multi-spécifiques réalisés
+      dans la région de Terre-Neuve-et-Labrador (p.43)
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+- url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/265754.pdf
+  name:
+    en: Atlantic Zonal Monitoring Program Sampling Protocol
+    fr: Protocole d'échantillonnage du Programme de monitorage zonal de l'Atlantique
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: Core sampling protocols for the Atlantic Zone Monitoring Program
+    fr: Protocoles d'échantillonnage de base pour le programme de monitorage de la
+      zone Atlantique
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+- url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
+    fr: Publications du Secrétariat canadien des avis scientifiques (SCAS)
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: Site Web contenant des publications produites par le Secrétariat canadien
+      des avis scientifiques
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+platform:
+- id: 181C
+  instrumentID: -NwLLIT1x2BTrEOPIMrA
+  platformID: -NwLKTDfWOeXcZUDab6W
+  type: ship
+- id: 18TL
+  instrumentID: -NwLLLkIfEqD-InXb0F6
+  platformID: -NwLKTDfWOeXcZUDab6W
+  type: ship
+- id: 18NE
+  instrumentID: -NwLLQ3ObvmkGsLkdiQa
+  platformID: -NwLKTDfWOeXcZUDab6W
+  type: ship
+- id: 18QL
+  instrumentID: -NwLLSzUwu6XD5Q4631G
+  platformID: -NwLKTDfWOeXcZUDab6W
+  type: ship
+- id: 18KF
+  instrumentID: -NwLLWm0yphw29Q8sYfw
+  platformID: -NwLKTDfWOeXcZUDab6W
+  type: ship
+- id: VEBO
+  instrumentID: -NwLLZRjt0wa-_1qhdmf
+  platformID: -NwLKTDfWOeXcZUDab6W
+  type: ship
