@@ -1,0 +1,191 @@
+contact:
+- inCitation: true
+  individual:
+    email: ishkvorets@gmail.com
+    name: Shkvorets, Igor
+    orcid: https://orcid.org/0009-0009-9728-1331
+    position: Oceanologist
+  organization:
+    address: 1 Harrogate Pl.
+    city: Ottawa
+    country: Canada
+    email: info@sailforscience.com
+    name: Sail for Science
+    url: www.sailforscience.com
+  roles:
+  - owner
+  - custodian
+  - principalInvestigator
+  - distributor
+- inCitation: true
+  individual:
+    email: itroshyna@yahoo.com
+    name: Troshyna, Iryna
+    position: Oceanologist
+  organization:
+    address: 1 Harrogate Pl.
+    city: Ottawa
+    country: Canada
+    email: info@sailforscience.com
+    name: Sail for Science
+  roles:
+  - coAuthor
+  - editor
+distribution:
+- description:
+    en: "Our mission has two main goals:  1.Collect valuable ocean data sustainably:\
+      \ We gather high-quality oceanographic data using our near-zero-emission sailboat\
+      \ and submit it to global ocean data repositories, where it becomes freely available\
+      \ to scientists worldwide. 2.Empower sailors as citizen scientists: We inspire\
+      \ and engage the global community of cruising sailors to take part in ocean\
+      \ research \u2014 demonstrating modern CTD measuring system, teaching how to\
+      \ use them onboard, and showing how every voyage can contribute to real science."
+  name:
+    en: Citizen Science project "Sail for Science"
+  url: www.sailforscience.com
+- description:
+    en: Open access data retrieval form
+    fr: "Formulaire de r\xE9cup\xE9ration de donn\xE9es en libre acc\xE8s"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: ERDDAP data access
+    fr: "Acc\xE8s aux donn\xE9es ERDDAP"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://cioosatlantic.ca/erddap/tabledap/sfs_oceanolog_ctd.html
+- description:
+    en: RBR CTD instrument guide
+  name:
+    en: RBR CT and CTD Instruments. Instrument guide
+  url: https://rbr-global.com/wp-content/uploads/2025/03/RBR-CT-and-CTD-Instruments-RIG-0013236revF.pdf
+identification:
+  abstract:
+    en: "Presented collected with RBRconcertoCTD a set of oceanographic data, including\
+      \ variables: conductivity, temperature, practical salinity, specific density,\
+      \ dissolved oxygen, transmittance, chlorophyll-a, fDOM at sampling rate 8Hz\
+      \ in the Gulf of St. Lawrence at the moorings of SV Oceanolog on the route:\
+      \ Rivi\xE8re-du-Loup - Gaspe - Magdalen Is. - Cape North. This is a pilot stage's\
+      \ set of high-accuracy and resolution oceanographic data collected during the\
+      \ citizen science project Sail for Science underway to the Caribbean: www.sailforscience.com"
+    fr: "RBRConcertoCTD a pr\xE9sent\xE9 un ensemble de donn\xE9es oc\xE9anographiques,\
+      \ comprenant des variables\_: conductivit\xE9, temp\xE9rature, salinit\xE9 pratique,\
+      \ densit\xE9 sp\xE9cifique, oxyg\xE8ne dissous, transmittance, chlorophylle-a,\
+      \ FDom \xE0 une fr\xE9quence d'\xE9chantillonnage de 8 Hz dans le golfe du Saint-Laurent\
+      \ aux amarres de SV Oceanolog sur la route\_: Rivi\xE8re-du-Loup - Gasp\xE9\
+      \ - \xCEles-de-la-Madeleine - Cap Nord. Il s'agit d'un ensemble de donn\xE9\
+      es oc\xE9anographiques de haute pr\xE9cision et de r\xE9solution recueillies\
+      \ au cours d'une phase pilote dans le cadre du projet de science citoyenne Sail\
+      \ for Science en cours dans les Cara\xEFbes\_: www.sailforscience.com"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '2023-07-25'
+  edition: '1.1'
+  keywords:
+    default:
+      en:
+      - water temperature
+      - salinity
+      - conductivity
+      - dissolved oxygen
+      - transmittance
+      - chlorophyll a
+      - fDOM
+      fr:
+      - "temp\xE9rature de l'eau"
+      - "salinit\xE9"
+      - chlorophylle a
+    eov:
+      en:
+      - oxygen
+      - particulateMatter
+      - seaSurfaceSalinity
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - seaSurfaceTemperature
+      - other
+      - dissolvedOrganicCarbon
+      fr:
+      - "Oxyg\xE8ne"
+      - "Mati\xE8re particulaire"
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
+      - "Temp\xE9rature de surface"
+      - Autre
+      - Carbone organique dissous
+  progress_code: completed
+  status: published
+  temporal_begin: '2023-07-25T16:00:00.000Z'
+  temporal_end: '2023-09-11T16:00:00.000Z'
+  title:
+    en: Oceanographic data collected onboard SV Oceanolog during the Sail for Science
+      - 2023 expedition in the Gulf of St. Lawrence
+    fr: "Donn\xE9es oc\xE9anographiques recueillies \xE0 bord du SV Oceanolog lors\
+      \ de l'exp\xE9dition Sail for Science - 2023 dans le golfe du Saint-Laurent"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+instruments:
+- description:
+    en: 'Profiling to 2000m CTD measuring system with additional sensors: RBRcodaT.DO
+      (Dissolved Oxygen Optode) and Tridente (transmissiometer, Cha, fDOM)'
+    fr: "Profilage selon un syst\xE8me de mesure CTD de 2 000 m avec capteurs suppl\xE9\
+      mentaires\_: RBRCodat.do (optode d'oxyg\xE8ne dissous) et Tridente (transmissiom\xE8\
+      tre, Cha, FDOM)"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  id: '210470'
+  instrumentID: -Od0L4YwJTIDhy1TYEHx
+  manufacturer: RBR Ltd.
+  type:
+    en: CTD measuring system
+    fr: "Syst\xE8me de mesure CTD"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  version: RBRconcerto3CTD.ODO.Tridente
+metadata:
+  dates:
+    publication: '2026-04-01'
+    revision: '2026-04-20T17:18:12.098Z'
+  history: []
+  identifier: 55a55292-716b-426a-8bce-a0a079a1074b
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/Ax18d8AulhTzQPzB9J3X5JG2Son2/-Od48XG-0i3iqxVT7VGm
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-SA-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution-ShareAlike
+      url: https://creativecommons.org/licenses/by-sa/4.0/
+    limitations:
+      en: No limitations
+spatial:
+  polygon: -69.6286,47.766 -68.5297,48.4985 -66.9694,49.0411 -65.8596,49.2565 -64.9256,49.2135
+    -64.2663,48.9114 -64.2223,48.433 -62.0209,47.199 -60.4606,47.1094 -60.4826,46.9448
+    -62.0429,47.0496 -64.5043,48.3934 -64.5263,48.9011 -65.1856,49.1314 -66.7459,48.9732
+    -68.2623,48.4808 -69.6286,47.766
+  vertical:
+  - 0.3
+  - 47.5
+  vertical_positive: heightPositive
