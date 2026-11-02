@@ -747,10 +747,10 @@
       <mri:citation>
         <cit:CI_Citation>
           <cit:title xsi:type="lan:PT_FreeText_PropertyType">
-            <gco:CharacterString>slocum glider deployment #229 2026-07-24 - Laurentian Channel real time whale monitoring for dynamic shipping management in Gulf of St. Lawrence</gco:CharacterString>
+            <gco:CharacterString>Slocum Glider Deployment #229 2026-07-24 - Laurentian Channel real time whale monitoring for dynamic shipping management in Gulf of St. Lawrence</gco:CharacterString>
             <lan:PT_FreeText>
               <lan:textGroup>
-                <lan:LocalisedCharacterString locale="#fr">Déploiement du planeur slocum #229 2026-07-24 - Surveillance des baleines en temps réel dans le chenal Laurentien pour une gestion dynamique de la navigation dans le golfe du Saint-Laurent</lan:LocalisedCharacterString>
+                <lan:LocalisedCharacterString locale="#fr">Déploiement du planeur Slocum #229 2026-07-24 - Surveillance des baleines en temps réel dans le chenal Laurentien pour une gestion dynamique de la navigation dans le golfe du Saint-Laurent</lan:LocalisedCharacterString>
               </lan:textGroup>
             </lan:PT_FreeText>
           </cit:title>
