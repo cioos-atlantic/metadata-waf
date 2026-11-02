@@ -1,0 +1,263 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: 584b3c0c-fd99-435a-a6ef-9a470ee2c800
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/YwzkXxYNxzOntkCQpeUCqqSVSQr2/-NrpJXOQr7PFcMotY34U
+  use_constraints:
+    limitations:
+      en: 'Latitude/longitude is recorded at the start of the fishing tow. End position
+        is not recorded in the CTD data.
+
+
+        Meteorological data is from shipboard observations and has not been verified.
+        No QA/QC has been performed on the meteorological data.'
+      fr: 'La latitude/longitude est enregistrée au départ du câble de pêche. La position
+        finale n''est pas enregistrée dans les données CTD.
+
+
+        Les données météorologiques proviennent d''observations à bord des navires
+        et n''ont pas été vérifiées. Aucun AQ/CQ n''a été effectué sur les données
+        météorologiques.'
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+    licence:
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert â€“ Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+      code: government-open-license-canada
+  dates:
+    revision: '2024-05-01T16:34:28.360Z'
+    publication: '2024-05-01'
+spatial:
+  polygon: -61.77,66.13 -61.77,65.85 -63.37,64.85 -64.01,64.25 -63.52,63.63 -63.99,62.22
+    -66.10,61.78 -68.89,62.20 -69.92,62.66 -69.87,61.13 -69.39,61.10 -68.99,60.78
+    -68.82,59.32 -67.44,58.82 -66.40,59.33 -65.74,60.20 -64.51,60.54 -61.65,57.71
+    -55.75,57.73 -59.03,66.16 -61.77,66.13
+  vertical:
+  - 1.0
+  - 760.0
+  vertical_positive: heightPositive
+identification:
+  title:
+    en: Northern Shrimp Research Foundation (NSRF) CTD Profiles
+    fr: Profils CTD de la Northern Shrimp Research Foundation (NSRF)
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  abstract:
+    en: 'The Northern Shrimp Research Foundation (NSRF) was established in 2002 to
+      address gaps in scientific data and research in the North in collaboration with
+      the Department of Fisheries and Oceans Canada (DFO). The NSRF conducts shrimp
+      research surveys in the Eastern Assessment zone (EAZ) and Western Assessment
+      zone (WAZ). Using a DFO designed shock-absorbing CTD sled containing a Seabird
+      model SBE-19plus CTD the NSRF shrimp surveys collect physical oceanographic
+      data (e.g., T, S) at each fishing set since 2005. The package attached to the
+      trawl head-ropes records time, water pressure, temperature, and conductivity
+      for the duration of the fishing set.
+
+
+      In addition, the NSRF survey collects CTD data and water samples from vertical
+      rosette profiles since 2022 in collaboration with the Atlantic Zone Monitoring
+      Program (AZMP). This sampling is conducted according to standard procedures
+      developed by AZMP and includes the collection of CTD profiles and water samples
+      for the determination of physical (e.g., T, S), chemical (e.g., nutrients),
+      and biological (chl a) variables and vertical ring net tows.
+
+
+      This record includes data that is collected from surveys jointly conducted by
+      the Department of Fisheries and Oceans Canada (DFO) and the Northern Shrimp
+      Research Foundation (NSRF) from 2005 to present.'
+    fr: 'La Northern Shrimp Research Foundation (NSRF) a été créée en 2002 pour combler
+      les lacunes en matière de données scientifiques et de recherche dans le Nord
+      en collaboration avec le ministère des Pêches et des Océans du Canada (MPO).
+      La NSRF mène des études de recherche sur les crevettes dans la zone d''évaluation
+      est (EAZ) et la zone d''évaluation ouest (WAZ). À l''aide d''un traîneau CTD
+      absorbant les chocs conçu par le MPO et contenant un CTD Seabird modèle SBE-19plus,
+      les relevés sur les crevettes de la NSRF permettent de recueillir des données
+      océanographiques physiques (par exemple, T, S) pour chaque zone de pêche depuis
+      2005. L''emballage attaché aux câbles à tête de chalut enregistre le temps,
+      la pression de l''eau, la température et la conductivité pendant toute la durée
+      du set de pêche.
+
+
+      En outre, l''enquête NSRF collecte des données CTD et des échantillons d''eau
+      à partir de profils de rosettes verticales depuis 2022 en collaboration avec
+      le Programme de monitorage de la zone atlantique (PMZA). Cet échantillonnage
+      est effectué conformément aux procédures standard développées par le PMZA et
+      comprend la collecte de profils CTD et d''échantillons d''eau pour la détermination
+      des variables physiques (par exemple, T, S), chimiques (par exemple, nutriments)
+      et biologiques (chl a) et des tracés verticaux en filet annulaire.
+
+
+      Ce dossier comprend des données recueillies à partir de relevés menés conjointement
+      par le ministère des Pêches et des Océans du Canada (MPO) et la Northern Shrimp
+      Research Foundation (NSRF) de 2005 à aujourd''hui.'
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '2005-07-25'
+  keywords:
+    default:
+      en:
+      - atmospheric pressure
+      - chlorophyll a
+      - climate change
+      - fluorescence
+      - salinity
+      - sea ice
+      - water density
+      - wind
+      - Northern Shrimp Research Foundation
+      - NSRF
+      - physical-chemical
+      - Northwest Atlantic Ocean
+      - Newfoundland and Labrador
+      - Eastern Assessment Zone
+      - Western Assessment Zone
+      fr:
+      - pression atmosphérique
+      - chlorophylle a
+      - changement climatique
+      - fluorescence
+      - salinité
+      - glace de mer
+      - densité eau
+      - vents
+      - Northern Shrimp Research Foundation
+      - NSRF
+      - physico-chimie
+      - Océan Atlantique Nord-Ouest
+      - Terre-Neuve-et-Labrador
+      - Zone d’évaluation est
+      - Zone d’évaluation ouest
+    eov:
+      en:
+      - seaState
+      - seaSurfaceSalinity
+      - subSurfaceTemperature
+      - seaIce
+      - subSurfaceSalinity
+      - seaSurfaceTemperature
+      - other
+      fr:
+      - Ã‰tat de la mer
+      - SalinitÃ© de surface
+      - TempÃ©rature sous la surface
+      - Glace de mer
+      - SalinitÃ© sous la surface
+      - TempÃ©rature de surface
+      - Autre
+  temporal_begin: '2005-07-25T14:30:00.000Z'
+  status: published
+  progress_code: onGoing
+contact:
+- roles:
+  - owner
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/
+    address: 200 Kent Street
+    city: Ottawa
+    country: Canada
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  inCitation: true
+- roles:
+  - custodian
+  - pointOfContact
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: 80 East White Hills Road
+    city: St. John's
+    country: Canada
+  individual:
+    name: Snook, Steve
+    position: Newfoundland and Labrador Region AZMP Operational Lead
+    email: Stephen.Snook@dfo-mpo.gc.ca
+  inCitation: false
+- roles:
+  - distributor
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: 80 East White Hills Road
+    city: St. John's
+    country: Canada
+  individual:
+    name: Oceanography, NL
+    position: Data Management
+    email: NL-Oceanography@dfo-mpo.gc.ca
+  inCitation: false
+distribution:
+- url: https://cioosatlantic.ca/erddap/tabledap/nafc_nsrf_ctd_profiles.html
+  name:
+    en: ERDDAP Northern Shrimp Research Foundation (NSRF) CTD Data
+    fr: Données CTD de la Fondation de recherche sur la crevette nordique de l'ERDDAP
+      (NSRF)
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+- url: https://www.qcorp.ca/qc-services/northern-shrimp-research-foundation/
+  name:
+    en: Northern Shrimp Research Foundation (NSRF)
+    fr: Northern Shrimp Research Foundation (NSRF)
+  description:
+    en: Website for the Northern Shrimp Research Foundation (NSRF)
+    fr: Site Web de la Northern Shrimp Research Foundation (NSRF)
+- url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/365691.pdf
+  name:
+    en: AZMP Bulletin No 6 (April 2007)
+    fr: Bulletin PMZA n° 6 (avril 2007)
+  description:
+    en: Oceanographic Observations From Trawl-Mounted CTDs on Multi-Species Surveys
+      in the Newfoundland and Labrador Region (p.43)
+    fr: Observations océanographiques effectuées à partir de CTD montés au chalut
+      dans le cadre de relevé multi-spécifiques réalisés dans la région de Terre-Neuve-et-Labrador
+      (p.43)
+- url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/265754.pdf
+  name:
+    en: Atlantic Zonal Monitoring Program Sampling Protocol
+    fr: Protocole d'échantillonnage du Programme de monitorage zonal de l'Atlantique
+  description:
+    en: Core sampling protocols for the Atlantic Zone Monitoring Program
+    fr: Protocoles d'échantillonnage de base pour le programme de monitorage de la
+      zone Atlantique
+- url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
+    fr: Publications du Secrétariat canadien des avis scientifiques (SCAS)
+  description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: Site Web contenant des publications produites par le Secrétariat canadien
+      des avis scientifiques
+platform:
+- id: 18DI
+  instrumentID: -NwLKTDfWOeXcZUDab6W
+  platformID: -NwLKTDfWOeXcZUDab6W
+  type: ship
+- id: 18QQ
+  instrumentID: -NwLLAlpCcH5JeDDBbZi
+  platformID: -NwLKTDfWOeXcZUDab6W
+  type: ship
+- id: 18KU
+  instrumentID: -NwLLDPVTpBxEzgbviNu
+  platformID: -NwLKTDfWOeXcZUDab6W
+  type: ship
+- id: 18E0
+  instrumentID: -NwLLG0uaA466VbTy_SO
+  platformID: -NwLKTDfWOeXcZUDab6W
+  type: ship
