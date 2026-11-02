@@ -12,8 +12,8 @@ metadata:
       code: OGL-NS-2.0
       url: https://novascotia.ca/opendata/licence.asp
   dates:
-    revision: '2024-05-22T17:05:40.808Z'
-    publication: '2024-05-22'
+    revision: '2025-02-10T15:38:47.597Z'
+    publication: '2025-02-10'
 spatial:
   bbox:
   - -63.95672
@@ -28,56 +28,51 @@ identification:
     en: Halifax County Water Quality Data
     fr: ''
   abstract:
-    en: 'The Centre for Marine Applied Research’s (CMAR) Coastal Monitoring Program
-      provides high resolution data on ocean variables from around the coast of Nova
-      Scotia. The program was initiated by the Nova Scotia Department of Fisheries
-      and Aquaculture in the early 1990s. In 2019, CMAR assumed responsibility for
-      the program and expanded its scope and mandate. Through the Water Quality Branch
-      of the program, CMAR collects temperature, dissolved oxygen, and salinity data
-      using sensors deployed on “sensor strings”. A sensor string typically consists
-      of a line anchored to the sea floor by an acoustic release and suspended by
-      a sub-surface buoy, with sensors attached at various depths below the surface
-      (as measured at low tide). Alternatively, a string may be attached to surface
-      moorings, including floating docks, buoys, and equipment. Sensor strings are
-      deployed for several months, and data are measured every 1 minute to 1 hour.
-      Sensors are retrieved for data offload by triggering the acoustic release when
-      applicable, by directly removing from surface moorings, or occasionally by divers
-      or grappling methods. Automated Quality Control tests have been applied to the
-      data to identify outlying and unexpected observations. The results of these
-      tests are summarized in the “qc_flag” columns of the dataset. Each data point
-      is assigned a flag value of “Pass”, “Suspect/Of Interest”, “Fail”, or “Not Evaluated”.
-      Observations flagged as “Pass” passed all tests and can be included in analyses.
-      Dissolved oxygen observations flagged as “Suspect/Of Interest” likely indicate
-      biofouling signals and should be excluded from analysis or used with extreme
-      caution. Observations for other variables flagged as “Suspect/Of Interest” should
-      be reviewed before being included in analyses. Observations flagged as “Fail”
-      should be excluded from most analyses. Some tests cannot be applied to certain
-      observations, which will be flagged as “Not Evaluated”. These observations can
-      typically be included in analyses. Flags should be used as a guide only, and
-      data users are responsible for evaluating the quality of the data prior to use
-      in any analysis. For more information about the Quality Control tests, visit
-      the CMAR Data Governance website (https://dempsey-cmar.github.io/cmp-data-governance/pages/cmp_about.html).
-      The Coastal Monitoring Program Water Quality data is organized by county. These
-      datasets are very large, typically exceeding the number of rows that can be
-      viewed in Excel. CMAR recommends filtering the data to the waterbody, station,
-      depth, quality control flag, and/or time period of interest before exporting.
-      A chart derived from the dataset also allows for interactive filtering and export
-      (https://data.novascotia.ca/d/vpt7-apvp). The "Nova Scotia Water Quality Data:
-      Station Locations" dataset on this Portal shows additional locations with available
-      Water Quality data collected through CMAR’s Coastal Monitoring Program (https://data.novascotia.ca/Nature-and-Environment/Coastal-Monitoring-Program-Station-Locations/cjfb-f4d4).
-      Summary reports by county are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/).
-      Data can also be downloaded from the ERDDAP server through the Canadian Integrated
-      Ocean Observing System (CIOOS) platform (https://catalogue.cioosatlantic.ca/dataset?q=cmar).
-      Data collection and retrieval are ongoing. The datasets and reports may be revised
-      pending ongoing data collection and analyses. If you have accessed any Coastal
-      Monitoring Program data, CMAR would appreciate your feedback: https://docs.google.com/forms/d/e/1FAIpQLSe3TD6umrsVVKnQL13VVMJIpckCi2ctONJsgN7_g-4c-tKTuw/viewform.
-      Please acknowledge the Centre for Marine Applied Research in any published material
-      that uses this data. Contact info@cmar.ca for more information. '
+    en: "The Centre for Marine Applied Research (CMAR) provides high resolution ocean\
+      \ data from around the coast of Nova Scotia through their Coastal Monitoring\
+      \ Program. Through the Water Quality Branch of the program, CMAR collects temperature,\
+      \ dissolved oxygen, and salinity data using sensors deployed on stationary moorings.\
+      \ A typical mooring consists of a line anchored to the sea floor and suspended\
+      \ by a sub-surface buoy, with sensors attached at various depths. Alternatively,\
+      \ sensors may be attached to structures including buoys, docks, or aquaculture\
+      \ equipment. Sensors are deployed for several months, and data are measured\
+      \ every 1 minute to 1 hour. Station locations, summary reports, and data collection\
+      \ methods are available on the CMAR website (https://cmar.ca/coastal-monitoring-program/).\
+      \ Datasets and reports may be revised pending ongoing data collection and analyses.\
+      \ Automated Quality Control tests were applied to the data to identify outlying\
+      \ and unexpected observations. The results of these tests are summarized in\
+      \ the “qc_flag” columns of the dataset. Observations flagged as “Pass” passed\
+      \ all tests, while observations flagged as “Fail” failed at least one test and\
+      \ should be excluded from most analyses. “Suspect/Of Interest” flags highlight\
+      \ unusual events or poor quality data, and “Not Evaluated” flags indicate at\
+      \ least one test was not applied to the observation. Flags should be used as\
+      \ a guide only, and users are responsible for evaluating the data quality prior\
+      \ to use. For technical details on the Quality Control tests, visit the CMAR\
+      \ Data Governance website (https://dempsey-cmar.github.io/cmp-data-governance/pages/cmp_about.html).\
+      \ Other data quality considerations:  -\tThrough calibration-validation procedures,\
+      \ CMAR has discovered that the VR2AR temperature sensors typically record 0.5\
+      \ – 1 °C lower than other temperature sensors. This is not corrected for or\
+      \ flagged in the datasets but may be in the future. -\tSensor drift is not flagged\
+      \ in the datasets. -\tThe sensor_depth_at_low_tide_m is an estimate and should\
+      \ be compared to sensor_depth_measured_m when possible. Note the mooring can\
+      \ get “knocked down” by currents or sink from biofouling. Large discrepancies\
+      \ between the estimated depth and the minimum recorded depth are flagged in\
+      \ the column depth_crosscheck_flag. The Coastal Monitoring Program Water Quality\
+      \ data is organized by county. These datasets are very large, typically exceeding\
+      \ the number of rows that can be viewed in Excel. CMAR recommends filtering\
+      \ the data to the waterbody, station, depth, quality control flag, and/or time\
+      \ period of interest before exporting. Take care when exporting data filtered\
+      \ on quality control columns, because the whole row will be filtered (i.e.,\
+      \ all other variables measured at that timestamp will also be excluded).  If\
+      \ you have accessed any Coastal Monitoring Program data, CMAR would appreciate\
+      \ your feedback: https://forms.gle/AyD7Vi3BpKGe6ueYA. Please acknowledge the\
+      \ Centre for Marine Applied Research in any published material that uses this\
+      \ data. Contact info@cmar.ca for more information."
     fr: ''
   dates:
     creation: '2020-10-15'
     publication: '2020-10-15'
-    revision: '2024-03-25'
+    revision: '2025-01-24'
   keywords:
     default:
       en:
@@ -128,7 +123,7 @@ contact:
     position: Author/Owner
     email: info(at)cmar.ca
 distribution:
-- url: https://data.novascotia.ca/api/views/x9dy-aai9/files/97b477ba-5016-432c-b5c3-73ef9a1f133e
+- url: https://data.novascotia.ca/api/views/x9dy-aai9/files/1c1be7bf-2cf0-4c4b-a1d9-89b52dbd7d28
   name: CMAR Water Quality Datasets Data Dictionary.xlsx
 - url: https://cioosatlantic.ca/erddap/tabledap/x9dy-aai9.html
   name: ERDDAP Data Access
@@ -387,6 +382,54 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: vr2ar-547109
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-20495227
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-20291451
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-21434534
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-20308048
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-21152399
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-21465746
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: vr2ar-600016
+    manufacturer: Vemco
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Shad Bay
   description:
     en: Shad Bay
@@ -619,6 +662,12 @@ platform:
       en: Sensor
       fr: ''
     version: ''
+  - id: aquameasure-670370
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
 - id: Borgles Island
   description:
     en: Borgles Island
@@ -683,6 +732,38 @@ platform:
     version: ''
   - id: hobo-10817505
     manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Lawrencetown Beach
+  description:
+    en: Lawrencetown Beach
+  instruments:
+  - id: aquameasure-670286
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+- id: Timmonds Cove
+  description:
+    en: Timmonds Cove
+  instruments:
+  - id: aquameasure-670375
+    manufacturer: Innovasea
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: hobo-21082889
+    manufacturer: ONSET
+    type:
+      en: Sensor
+      fr: ''
+    version: ''
+  - id: vr2ar-549345
+    manufacturer: Vemco
     type:
       en: Sensor
       fr: ''
