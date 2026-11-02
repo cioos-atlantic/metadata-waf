@@ -1,0 +1,495 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: 36ca073e-b6fb-422a-9f7f-e9e31eff8207
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/Me4roSObRjVf2Sfn4t23xZ75afC3/-OLu0ccaHA-PFM5CVlHa
+  use_constraints:
+    limitations:
+      en: GPS positions are as-reported and have not been corrected or calibrated
+        independently.
+      fr: Les positions GPS sont telles que rapportées et n'ont pas été corrigées
+        ou calibrées indépendamment.
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+    licence:
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+      code: CC-BY-4.0
+  history:
+  - scope: Dataset
+    statement:
+      en: Exported and combined position record history from manufacturer data portal
+      fr: Historique des enregistrements de position exportés et combinés depuis le
+        portail de données du fabricant
+      translations:
+        fr:
+          verified: true
+  dates:
+    revision: '2025-03-21T20:07:24.295Z'
+    publication: '2025-03-24'
+spatial:
+  polygon: -56.33,43.25 -56.42,57.42 -10.71,59.85 0.9790,68.11 16.98,67.78 2.737,56.95
+    1.155,49.95 -5.789,44.33 -9.921,38.61 -10.36,34.00 -13.67,27.62 -56.33,43.25
+  vertical:
+  - 0
+  - 0
+  vertical_positive: heightPositive
+  vertical_epsg:
+    Code: 5829
+    Name: Instantaneous Water Level height
+    Type: vertical
+    DataSource: EPSG
+    Area: World
+    Remarks: Height relative to instantaneous water level uncorrected for tide. Not
+      specific to any location or epoch.
+    Deprecated: false
+    Superseded: false
+    RevisionDate: '2012-08-10T00:00:00'
+    Links:
+    - rel: result
+      href: https://apps.epsg.org/api/v1/VerticalCoordRefSystem/5829
+  description:
+    en: North Atlantic Ocean
+    fr: Océan Atlantique Nord
+    translations:
+      fr:
+        verified: true
+identification:
+  title:
+    en: ESRF - Atlantic Salmon Offshore Tracking Project - Ocean Drifters
+    fr: FEE - Projet de suivi du saumon de l'Atlantique - Ocean Drifters
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  abstract:
+    en: This collaborative research project will use acoustic and satellite telemetry
+      to determine when, where and for how long Atlantic salmon from three different
+      life stages (post-smolt, kelts returning to sea to recondition, and multi-sea
+      winter adults) are in the Eastern Canadian offshore regions (Environmental Studies
+      Research Fund [ESRF] Regions 8 to 15) of interest for oil and gas development
+      to inform regulatory decision-making and future project development. This research
+      project has been developed and is being implemented collaboratively with First
+      Nations and partners from academia, the NGO sector, government and the public.
+      The project is led by the Department of Fisheries and Oceans (Martha Robertson,
+      Principal Investigator). Results will contribute significantly to our currently
+      limited understanding of how Atlantic salmon use the marine areas off Eastern
+      Canada and support evidence-based decision making and co-development of best
+      operational practices to minimize potential adverse impacts of oil and gas activities
+      on Atlantic salmon.
+    fr: Ce projet de recherche collaboratif utilisera la télémétrie acoustique et
+      satellitaire pour déterminer quand, où et pendant combien de temps des saumons
+      de l'Atlantique de trois stades de vie différents (saumoneaux, kelts retournant
+      en mer pour se remettre en forme et adultes hivernaux multimarins) vivent dans
+      les régions extracôtières de l'est du Canada (régions 8 à 15 du Fonds d'études
+      environnementales [FEE]) présentant un intérêt pour l'exploitation pétrolière
+      et gazière afin d'éclairer la prise de décisions réglementaires et le développement
+      de projets futurs. Ce projet de recherche a été élaboré et est mis en œuvre
+      en collaboration avec les Premières Nations et des partenaires du milieu universitaire,
+      du secteur des ONG, du gouvernement et du public. Le projet est dirigé par le
+      ministère des Pêches et des Océans (Martha Robertson, chercheuse principale).
+      Les résultats contribueront de manière significative à notre compréhension actuellement
+      limitée de la façon dont le saumon de l'Atlantique utilise les zones marines
+      au large de l'est du Canada et appuieront la prise de décisions fondées sur
+      des preuves et l'élaboration conjointe de meilleures pratiques opérationnelles
+      afin de minimiser les impacts négatifs potentiels des activités pétrolières
+      et gazières sur le saumon de l'Atlantique.
+    translations:
+      fr:
+        verified: true
+  associated_resources:
+  - association_type: IsPartOf
+    association_type_iso: largerWorkCitation
+    authority: URL
+    code: https://members.oceantrack.org/project?ccode=ESRF
+    title:
+      en: 'Environmental Studies Research Fund: Atlantic Salmon Offshore Tracking
+        Project'
+      fr: 'Fonds de recherche pour les études environnementales : Projet de suivi
+        du saumon de l''Atlantique en mer'
+      translations:
+        fr:
+          verified: true
+  dates:
+    creation: '2022-06-06'
+  keywords:
+    default:
+      en:
+      - surface drifter
+      - drifter
+      - drogue
+    eov:
+      en:
+      - surfaceCurrents
+      fr:
+      - Courants de surface
+  temporal_begin: '2022-06-06T15:00:00.000Z'
+  status: published
+  progress_code: onGoing
+contact:
+- roles:
+  - custodian
+  - distributor
+  - originator
+  - collaborator
+  organization:
+    name: Ocean Tracking Network
+    url: http://oceantrackingnetwork.org/
+    city: Halifax
+    country: Canada
+    ror: https://ror.org/00tmbfm47
+  individual:
+    name: Pye, Jonathan
+    position: Director of Data Operations
+    email: jonpye@gmail.com
+    orcid: https://orcid.org/0000-0003-2807-5867
+  inCitation: false
+- roles:
+  - collaborator
+  - contributor
+  organization:
+    name: Ocean Tracking Network
+    url: http://oceantrackingnetwork.org/
+    city: Halifax
+    country: Canada
+    ror: https://ror.org/00tmbfm47
+  individual:
+    name: Hartery, Cassandra
+    position: Field Technician
+    email: chartery@dal.ca
+  inCitation: true
+- roles:
+  - coAuthor
+  - collaborator
+  - principalInvestigator
+  organization:
+    name: Ocean Tracking Network
+    url: http://oceantrackingnetwork.org/
+    city: Halifax
+    country: Canada
+    ror: https://ror.org/00tmbfm47
+  individual:
+    name: Whoriskey, Frederick
+    position: Executive Director (emeritus)
+    email: FWhoriskey@dal.ca
+    orcid: https://orcid.org/0000-0001-7024-3284
+  inCitation: true
+- roles:
+  - owner
+  - principalInvestigator
+  - author
+  - contributor
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca
+    city: Ottawa
+    country: Canada
+    ror: https://ror.org/02qa1x782
+  individual:
+    name: Robertson, Martha J
+    position: Research Scientist
+    email: martha.robertson@dfo-mpo.gc.ca
+    orcid: https://orcid.org/0009-0001-8209-9985
+  inCitation: true
+distribution:
+- url: https://members.oceantrack.org/data/repository/esrf/data-and-metadata/june-2022/drifter-files/latest-drifter-data-exports/esrf_drifter_positions.csv/@@download/file
+  name:
+    en: MetOcean LINC instrument position data export
+    fr: Exportation des données de position de l'instrument MetOcean LINC
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: Exported and combined position data for 10 MetOcean drifter units
+    fr: Données de position exportées et combinées pour 10 plateformes MetOcean Drifter
+    translations:
+      fr:
+        verified: true
+- url: https://members.oceantrack.org/data/repository/esrf/data-and-metadata/june-2022/drifter-files/esrf_drifter_deployments.xlsx/@@download/file
+  name:
+    en: Instrument deployment metadata
+    fr: Métadonnées relatives au déploiement des instruments
+    translations:
+      fr:
+        verified: true
+  description:
+    en: Instrument deployment metadata for 10 MetOcean drifters
+    fr: Métadonnées de déploiement des instruments pour 10 appareils MetOcean
+    translations:
+      fr:
+        verified: true
+- url: https://members.oceantrack.org/data/repository/esrf/data-and-metadata/june-2022/esrf_2022_june_driftermission.xls/@@download/file
+  name:
+    en: Deployment mission field report
+    fr: Rapport sur le terrain de la mission de déploiement
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: OTN Mission report sheet for the drifter deployment mission
+    fr: Fiche de rapport de mission OTN pour la mission de déploiement du dériveur
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+platform:
+- description:
+    en: MetOcean DRIFTER SVP-I-XDGS-RXL
+    fr: MetOcean DRIFTER SVP-I-XDGS-RXL
+    translations:
+      fr:
+        verified: true
+  id: imei:300534062131570
+  type: drifting surface float
+  instruments:
+  - id: DRIFTER SVP-I-XDGS-RXL
+    manufacturer: MetOcean
+    platform: imei:300534062131570
+    type:
+      en: drifting surface float
+      fr: flotteur à surface dérivante
+      translations:
+        fr:
+          verified: true
+  - id: RX-Live
+    manufacturer: Innovasea
+    platform: imei:300534062131570
+    type:
+      en: Live-reporting acoustic tag receiver
+- description:
+    en: MetOcean DRIFTER SVP-I-XDGS-RXL
+    fr: MetOcean DRIFTER SVP-I-XDGS-RXL
+    translations:
+      fr:
+        verified: true
+  id: imei:300534062133570
+  type: drifting surface float
+  instruments:
+  - id: DRIFTER SVP-I-XDGS-RXL
+    instrumentID: DRIFTER SVP-I-XDGS-RXL
+    manufacturer: MetOcean
+    platform: imei:300534062133570
+    type:
+      en: drifting surface float
+      fr: flotteur à surface dérivante
+      translations:
+        fr:
+          verified: true
+  - id: RX-Live
+    instrumentID: RX-Live
+    manufacturer: Innovasea
+    platform: imei:300534062133570
+    type:
+      en: Live-reporting acoustic tag receiver
+- description:
+    en: MetOcean DRIFTER SVP-I-XDGS-RXL
+    fr: MetOcean DRIFTER SVP-I-XDGS-RXL
+    translations:
+      fr:
+        verified: true
+  id: imei:300534062137600
+  type: drifting surface float
+  instruments:
+  - id: DRIFTER SVP-I-XDGS-RXL
+    instrumentID: DRIFTER SVP-I-XDGS-RXL
+    manufacturer: MetOcean
+    platform: imei:300534062137600
+    type:
+      en: drifting surface float
+      fr: flotteur à surface dérivante
+      translations:
+        fr:
+          verified: true
+  - id: RX-Live
+    instrumentID: RX-Live
+    manufacturer: Innovasea
+    platform: imei:300534062137600
+    type:
+      en: Live-reporting acoustic tag receiver
+- description:
+    en: MetOcean DRIFTER SVP-I-XDGS-RXL
+    fr: MetOcean DRIFTER SVP-I-XDGS-RXL
+    translations:
+      fr:
+        verified: true
+  id: imei:300534062236240
+  type: drifting surface float
+  instruments:
+  - id: DRIFTER SVP-I-XDGS-RXL
+    instrumentID: DRIFTER SVP-I-XDGS-RXL
+    manufacturer: MetOcean
+    platform: imei:300534062236240
+    type:
+      en: drifting surface float
+      fr: flotteur à surface dérivante
+      translations:
+        fr:
+          verified: true
+  - id: RX-Live
+    instrumentID: RX-Live
+    manufacturer: Innovasea
+    platform: imei:300534062236240
+    type:
+      en: Live-reporting acoustic tag receiver
+- description:
+    en: MetOcean DRIFTER SVP-I-XDGS-RXL
+    fr: MetOcean DRIFTER SVP-I-XDGS-RXL
+    translations:
+      fr:
+        verified: true
+  id: imei:300534063310670
+  type: drifting surface float
+  instruments:
+  - id: DRIFTER SVP-I-XDGS-RXL
+    instrumentID: DRIFTER SVP-I-XDGS-RXL
+    manufacturer: MetOcean
+    platform: imei:300534063310670
+    type:
+      en: drifting surface float
+      fr: flotteur à surface dérivante
+      translations:
+        fr:
+          verified: true
+  - id: RX-Live
+    instrumentID: RX-Live
+    manufacturer: Innovasea
+    platform: imei:300534063310670
+    type:
+      en: Live-reporting acoustic tag receiver
+- description:
+    en: MetOcean DRIFTER SVP-I-XDGS-RXL
+    fr: MetOcean DRIFTER SVP-I-XDGS-RXL
+    translations:
+      fr:
+        verified: true
+  id: imei:300534063311630
+  type: drifting surface float
+  instruments:
+  - id: DRIFTER SVP-I-XDGS-RXL
+    instrumentID: DRIFTER SVP-I-XDGS-RXL
+    manufacturer: MetOcean
+    platform: imei:300534063311630
+    type:
+      en: drifting surface float
+      fr: flotteur à surface dérivante
+      translations:
+        fr:
+          verified: true
+  - id: RX-Live
+    instrumentID: RX-Live
+    manufacturer: Innovasea
+    platform: imei:300534063311630
+    type:
+      en: Live-reporting acoustic tag receiver
+- description:
+    en: MetOcean DRIFTER SVP-I-XDGS-RXL
+    fr: MetOcean DRIFTER SVP-I-XDGS-RXL
+    translations:
+      fr:
+        verified: true
+  id: imei:300534063311660
+  type: drifting surface float
+  instruments:
+  - id: DRIFTER SVP-I-XDGS-RXL
+    instrumentID: DRIFTER SVP-I-XDGS-RXL
+    manufacturer: MetOcean
+    platform: imei:300534063311660
+    type:
+      en: drifting surface float
+      fr: flotteur à surface dérivante
+      translations:
+        fr:
+          verified: true
+  - id: RX-Live
+    instrumentID: RX-Live
+    manufacturer: Innovasea
+    platform: imei:300534063311660
+    type:
+      en: Live-reporting acoustic tag receiver
+- description:
+    en: MetOcean DRIFTER SVP-I-XDGS-RXL
+    fr: MetOcean DRIFTER SVP-I-XDGS-RXL
+    translations:
+      fr:
+        verified: true
+  id: imei:300534063316800
+  type: drifting surface float
+  instruments:
+  - id: DRIFTER SVP-I-XDGS-RXL
+    instrumentID: DRIFTER SVP-I-XDGS-RXL
+    manufacturer: MetOcean
+    platform: imei:300534063316800
+    type:
+      en: drifting surface float
+      fr: flotteur à surface dérivante
+      translations:
+        fr:
+          verified: true
+  - id: RX-Live
+    instrumentID: RX-Live
+    manufacturer: Innovasea
+    platform: imei:300534063316800
+    type:
+      en: Live-reporting acoustic tag receiver
+- description:
+    en: MetOcean DRIFTER SVP-I-XDGS-RXL
+    fr: MetOcean DRIFTER SVP-I-XDGS-RXL
+    translations:
+      fr:
+        verified: true
+  id: imei:300534063319730
+  type: drifting surface float
+  instruments:
+  - id: DRIFTER SVP-I-XDGS-RXL
+    instrumentID: DRIFTER SVP-I-XDGS-RXL
+    manufacturer: MetOcean
+    platform: imei:300534063319730
+    type:
+      en: drifting surface float
+      fr: flotteur à surface dérivante
+      translations:
+        fr:
+          verified: true
+  - id: RX-Live
+    instrumentID: RX-Live
+    manufacturer: Innovasea
+    platform: imei:300534063319730
+    type:
+      en: Live-reporting acoustic tag receiver
+- description:
+    en: MetOcean DRIFTER SVP-I-XDGS-RXL
+    fr: MetOcean DRIFTER SVP-I-XDGS-RXL
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  id: imei:300534063513080
+  type: drifting surface float
+  instruments:
+  - id: DRIFTER SVP-I-XDGS-RXL
+    instrumentID: DRIFTER SVP-I-XDGS-RXL
+    manufacturer: MetOcean
+    platform: imei:300534063513080
+    type:
+      en: drifting surface float
+      fr: flotteur à surface dérivante
+      translations:
+        fr:
+          verified: true
+  - id: RX-Live
+    instrumentID: RX-Live
+    manufacturer: Innovasea
+    platform: imei:300534063513080
+    type:
+      en: Live-reporting acoustic tag receiver
