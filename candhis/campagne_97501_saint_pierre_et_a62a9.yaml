@@ -1,0 +1,171 @@
+contact:
+- inCitation: true
+  individual:
+    email: candhis.prel.drel.dtecrem.cerema@cerema.fr
+    name: Le Berre, Alain
+    position: Responsable d'études littoral et observation
+  organization:
+    city: Bron
+    country: France
+    email: candhis@cerema.fr
+    name: Centre d'Études et d'Expertise sur les Risques, l'Environnement, la Mobilité
+      et l'Aménagement
+    ror: https://ror.org/05k0nvr25
+    url: http://www.cerema.fr/
+  roles:
+  - custodian
+  - owner
+  - distributor
+distribution:
+- description:
+    en: This website gives you access to measurement campaign's metadata, as well
+      as real-time and archived data available for download.
+    fr: Ce site Internet vous donne accès aux métadonnées des campagnes de mesures,
+      ainsi qu'en téléchargement aux données temps réel et aux données archivées.
+  name:
+    en: Campaign 97501 Saint-Pierre et Miquelon, Cerema, CANDHIS
+    fr: Campagne 97501 Saint-Pierre et Miquelon, Cerema, CANDHIS
+  url: https://candhis.cerema.fr/_public_/campagne.php?Y2FtcD05NzUwMQ==
+- description:
+    en: Wave data timeseries in ERDDAP
+    fr: Séries chronologiques de données sur les vagues dans ERDDAP
+  name:
+    en: St. Pierre et Miquelon Wave Buoy
+    fr: Bouée à vagues de Saint-Pierre-et-Miquelon
+  url: https://cioosatlantic.ca/erddap/tabledap/candhis_spm_97501_timeseries.html
+- description:
+    en: Wave spectra data in ERDDAP
+    fr: Données de spectres d'ondes dans ERDDAP
+  name:
+    en: St. Pierre et Miquelon, Wave Spectra
+    fr: Saint-Pierre-et-Miquelon, Wave Spectra
+  url: https://cioosatlantic.ca/erddap/tabledap/candhis_spm_97501_wave_spectra.html
+identification:
+  abstract:
+    en: 'CANDHIS is the French national coastal archiving center for in situ wave
+      data.
+
+
+      Its main goal is to promote sea state measurements in the near coastal area
+      and to ensure data communication to the scientific community, marine professionals
+      and the general public.'
+    fr: 'CANDHIS est le Centre d’Archivage National des Données de Houle In Situ.
+
+
+      Son objectif principal est de promouvoir la mesure des états de mer dans le
+      domaine proche côtier et d’assurer la diffusion des données auprès de la communauté
+      scientifique, des professionnels de la mer et du grand public.'
+  dates:
+    creation: '2011-07-11'
+    publication: '2011-07-11'
+  edition: '1.0'
+  keywords:
+    default:
+      en:
+      - waves
+      - water temperature
+      fr:
+      - vagues
+      - température de l'eau
+    eov:
+      en:
+      - seaState
+      - seaSurfaceTemperature
+      fr:
+      - État de la mer
+      - Température de surface
+  progress_code: onGoing
+  status: published
+  temporal_begin: '2011-07-11T14:30:00.000Z'
+  title:
+    en: Campaign 97501 Saint-Pierre et Miquelon
+    fr: Campagne 97501 Saint-Pierre et Miquelon
+metadata:
+  dates:
+    publication: '2023-05-31'
+    revision: '2023-05-26T16:59:24.904Z'
+  identifier: a62a965f-512d-4fa8-93c7-113553de8ad5
+  language: fr
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+    limitations:
+      en: 'The data are taken from in situ measurement campaigns. Outliers may occur:
+
+        • in case of waveform collision or manipulation;
+
+        • if the equipment is at its autonomy limit;
+
+        • in case of system failure;
+
+        A number of tests are carried out to limit these values influence but the
+        result cannot be guaranteed.
+
+        In storms event, transmission and/or autonomy problems may cause measures
+        interruption.
+
+        The measurements non-homogeneous distribution over time may give more weight
+        to a particular period in the results of global statistical analyses (quantiles,
+        histograms, correlogram, …)
+
+        The devices used are wave measuring buoys (Datawell, Triaxys, ...). Manufacturers
+        specify a accuracy between 0.5% and 3% depending on the type and age of the
+        material.
+
+        The uncertainty on the sea state calculations parameters depends on the number
+        of waves identified.'
+      fr: 'Les données sont issues des campagnes de mesure in situ. Des valeurs aberrantes
+        peuvent apparaître :
+
+        • en cas de collision ou manipulation du houlographe ;
+
+        • si le matériel est en limite d''autonomie ;
+
+        • en cas de défaillance du système ;
+
+
+        Un certain nombre de tests est effectué afin de limiter l''influence de ces
+        valeurs mais le résultat ne peut être garanti.
+
+        En cas de tempêtes, des problèmes de transmission et/ou d''autonomie peuvent
+        engendrer une interruption des mesures.
+
+        La répartition non homogène dans le temps des mesures peut donner plus de
+        poids à une période particulière dans les résultats d''analyses statistiques
+        globales (quantiles, histogrammes, corrélogramme, …).
+
+        Les appareils utilisés sont des bouées de mesure de houle (Datawell, Triaxys,
+        …). Les constructeurs spécifient une précision comprise entre 0,5% et 3% selon
+        le type et l''ancienneté du matériel.'
+platform:
+  description:
+    en: Datawell DWR MkIII 70 Wave Recorder
+    fr: Houlographe Datawell DWR MkIII 70
+  id: 97501 - Saint-Pierre et Miquelon
+  instruments:
+  - description:
+      en: wave motion sensor based on a stabilised platform, accelerometers, and magnetic
+        compass
+      fr: capteur de mouvement ondulatoire basé sur une plate-forme stabilisée, des
+        accéléromètres et un compas magnétique
+    id: Datawell-DWR-MkIII-70
+    manufacturer: Datawell
+    type:
+      en: wave motion sensor
+      fr: capteur de mouvement ondulatoire
+    version: Directional Waverider MkIII
+  type: moored surface buoy
+spatial:
+  bbox:
+  - -56.18333
+  - 46.7
+  - -56.18333
+  - 46.7
+  vertical:
+  - 0.0
+  - 0.0
