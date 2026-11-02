@@ -1,0 +1,168 @@
+contact:
+- inCitation: true
+  organization:
+    city: Halifax
+    country: Canada
+    name: Ocean Frontier Institute
+    ror: https://ror.org/048py7387
+    url: https://www.ofi.ca
+  roles:
+  - custodian
+  - owner
+  - distributor
+distribution:
+- description:
+    en: Data collected via CODAR HF Radar system at Clam Harbour Station.
+    fr: "Donn\xE9es recueillies via le syst\xE8me radar CODAR HF \xE0 la station de\
+      \ Clam Harbour."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: Halifax Surface Currents, Clam Harbour Station Data
+    fr: "Courants de surface d'Halifax, donn\xE9es de la station Clam Harbour"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://deverddap.ceotr.ca/erddap/tabledap/codar_radial_clmh_2016.html
+identification:
+  abstract:
+    en: Coastal Ocean Dynamics Applications Radar (CODAR) radial measurements capture
+      surface current vectors from a single site. Data are collected at Clam Harbour
+      (CLMH) and include quality and geometry metrics for each vector.
+    fr: "Les mesures radiales du radar CODAR (Coastal Ocean Dynamics Applications)\
+      \ capturent les vecteurs des courants de surface \xE0 partir d'un seul site.\
+      \ Les donn\xE9es sont collect\xE9es \xE0 Clam Harbour (CLMH) et incluent des\
+      \ mesures de qualit\xE9 et de g\xE9om\xE9trie pour chaque vecteur."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '2016-06-03'
+  keywords:
+    default:
+      en:
+      - surface currents
+      - surface current
+      - HF radar
+      - remote sensing
+      - coastal zone
+      - ocean currents
+      - ocean current
+      - circulation
+      - coast
+      - coastal
+      - codar
+      - sea currents
+      - east coast
+      - eastward
+      - frequency
+      - halifax
+      - medway
+      - ofi
+      - radar
+      - radial
+      - radial_sea_water_velocity_toward_instrument
+      - speed
+      - surface_northward_sea_water_velocity
+      - VELO
+      - VELU
+      - VELV
+      fr:
+      - "t\xE9l\xE9d\xE9tection"
+      - "zone c\xF4ti\xE8re"
+      - courant marin
+    eov:
+      en:
+      - surfaceCurrents
+      fr:
+      - Courants de surface
+  progress_code: onGoing
+  status: published
+  temporal_begin: '2016-06-03T15:00:00.000Z'
+  title:
+    en: Surface Currents (Radials), HF Radar, Clam Harbour Station, Halifax, CA East
+      Coast, NRT, 2016- present, Hourly
+    fr: "Courants de surface (radiaux), radar HF, station de Clam Harbour, Halifax,\
+      \ C\xF4te est de la Californie, NRT, 2016-pr\xE9sent, toutes les heures"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+metadata:
+  dates:
+    publication: '2026-01-22'
+    revision: '2026-01-05T18:19:26.101Z'
+  history: []
+  identifier: 84482134-04b3-49c5-aab8-0bff12bc6b14
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/35DtQomFmzYt6bZxJBLsPiyY7Wf1/-OiE5agkla836Ai-5xb9
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC0
+      title:
+        en: Creative Commons 0
+      url: https://creativecommons.org/share-your-work/public-domain/cc0
+platform:
+- description:
+    en: Clam Harbour Station (CLMH)
+    fr: Gare de Clam Harbour (CLMH)
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  id: '14'
+  instruments:
+  - description:
+      en: Coastal Ocean Dynamics Applications Radar (CODAR)
+      fr: "Radar pour les applications de la dynamique des oc\xE9ans c\xF4tiers (CODAR)"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+    id: codar_radial_clmh_2016
+    manufacturer: CODAR
+    type:
+      en: HF Radar
+      fr: Radar HF
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  type: land/onshore structure
+spatial:
+  bbox:
+  - -65.459501
+  - 42.8892339
+  - -61.2385963
+  - 45.8602977
+  vertical:
+  - 0
+  - 0
+  vertical_epsg:
+    Area: World
+    Code: 5829
+    DataSource: EPSG
+    Deprecated: false
+    Links:
+    - href: https://apps.epsg.org/api/v1/VerticalCoordRefSystem/5829
+      rel: result
+    Name: Instantaneous Water Level height
+    Remarks: Height relative to instantaneous water level uncorrected for tide. Not
+      specific to any location or epoch.
+    RevisionDate: '2012-08-10T00:00:00'
+    Superseded: false
+    Type: vertical
+  vertical_positive: heightPositive

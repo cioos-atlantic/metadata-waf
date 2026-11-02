@@ -1,0 +1,168 @@
+contact:
+- inCitation: true
+  organization:
+    city: Halifax
+    country: Canada
+    name: Ocean Frontier Institute
+    ror: https://ror.org/048py7387
+    url: https://www.ofi.ca
+  roles:
+  - custodian
+  - owner
+  - distributor
+distribution:
+- description:
+    en: Data collected via CODAR HF Radar system at Sandy Cove Station.
+    fr: "Donn\xE9es recueillies par le syst\xE8me radar CODAR HF \xE0 la station Sandy\
+      \ Cove."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: Halifax Surface Currents, Sandy Cove Station Data
+    fr: "Courants de surface de Halifax, donn\xE9es de la station Sandy Cove"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://data.ceotr.ca/erddap/tabledap/codar_radial_scov_2015.html
+identification:
+  abstract:
+    en: Coastal Ocean Dynamics Applications Radar (CODAR) radial measurements capture
+      surface current vectors from a single site. Data are collected at Sandy Cove
+      (SCOV) and include quality and geometry metrics for each vector.
+    fr: "Les mesures radiales du radar CODAR (Coastal Ocean Dynamics Applications)\
+      \ capturent les vecteurs des courants de surface \xE0 partir d'un seul site.\
+      \ Les donn\xE9es sont collect\xE9es \xE0 Sandy Cove (SCOV) et incluent des mesures\
+      \ de qualit\xE9 et de g\xE9om\xE9trie pour chaque vecteur."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '2015-12-18'
+  keywords:
+    default:
+      en:
+      - surface currents
+      - surface current
+      - HF radar
+      - remote sensing
+      - coastal zone
+      - ocean currents
+      - ocean current
+      - circulation
+      - coast
+      - coastal
+      - codar
+      - sea currents
+      - east coast
+      - eastward
+      - frequency
+      - halifax
+      - medway
+      - ofi
+      - radar
+      - radial
+      - radial_sea_water_velocity_toward_instrument
+      - speed
+      - VELO
+      - VELU
+      - VELV
+      - surface_northward_sea_water_velocity
+      fr:
+      - "t\xE9l\xE9d\xE9tection"
+      - "zone c\xF4ti\xE8re"
+      - courant marin
+    eov:
+      en:
+      - surfaceCurrents
+      fr:
+      - Courants de surface
+  progress_code: onGoing
+  status: published
+  temporal_begin: '2015-12-18T16:00:00.000Z'
+  title:
+    en: Surface Currents (Radials), HF Radar, Sandy Cove Station, Halifax, CA East
+      Coast, NRT, 2015-present, Hourly
+    fr: "Courants de surface (radiaux), radar HF, station Sandy Cove, Halifax, C\xF4\
+      te est de la Californie, NRT, 2015-pr\xE9sent, toutes les heures"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+metadata:
+  dates:
+    publication: '2026-01-22'
+    revision: '2026-03-23T14:57:05.419Z'
+  history: []
+  identifier: 30467f98-cb97-445c-bd60-5da9fc8b26c3
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/35DtQomFmzYt6bZxJBLsPiyY7Wf1/-OiE1aWw5uJZbFIDUYW3
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC0
+      title:
+        en: Creative Commons 0
+      url: https://creativecommons.org/share-your-work/public-domain/cc0
+platform:
+- description:
+    en: Sandy Cove Station (SCOV)
+    fr: Gare de Sandy Cove (SCOV)
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  id: '14'
+  instruments:
+  - description:
+      en: Coastal Ocean Dynamics Applications Radar (CODAR)
+      fr: "Radar pour les applications de la dynamique des oc\xE9ans c\xF4tiers (CODAR)"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+    id: codar_radial_scov_2015
+    manufacturer: CODAR
+    type:
+      en: HF Radar
+      fr: Radar HF
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  type: land/onshore structure
+spatial:
+  bbox:
+  - -66.0696304
+  - 42.6334138
+  - -60.989713
+  - 45.9421979
+  vertical:
+  - 0
+  - 0
+  vertical_epsg:
+    Area: World
+    Code: 5829
+    DataSource: EPSG
+    Deprecated: false
+    Links:
+    - href: https://apps.epsg.org/api/v1/VerticalCoordRefSystem/5829
+      rel: result
+    Name: Instantaneous Water Level height
+    Remarks: Height relative to instantaneous water level uncorrected for tide. Not
+      specific to any location or epoch.
+    RevisionDate: '2012-08-10T00:00:00'
+    Superseded: false
+    Type: vertical
+  vertical_positive: heightPositive
