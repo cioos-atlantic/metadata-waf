@@ -1,0 +1,346 @@
+metadata:
+  naming_authority: ca.cioos
+  identifier: c96eb674-ff35-4b1d-b6c2-0356b99f530a
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/YwzkXxYNxzOntkCQpeUCqqSVSQr2/-NwpWMXi2ZpBFsDR0v2w
+  use_constraints:
+    limitations:
+      en: 'Accuracy of data varies depending on collection method used.
+
+
+        Historical data collected by various institutions and cannot be verified by
+        DFO-NL.
+
+
+        Meteorological data is from shipboard observations and has not been verified.
+        No QA/QC has been performed on the meteorological data.'
+      fr: 'La précision des données varie en fonction de la méthode de collecte utilisée.
+
+
+        Les données historiques sont collectées par diverses institutions et ne peuvent
+        pas être vérifiées par le MPO-TNL.
+
+
+        Les données météorologiques proviennent d''observations à bord des navires
+        et n''ont pas été vérifiées. Aucun AQ/CQ n''a été effectué sur les données
+        météorologiques.'
+      translations:
+        fr:
+          message: text translated using the Amazon translate service / texte traduit
+            à l'aide du service de traduction Amazon
+          verified: false
+    licence:
+      title:
+        en: Open Government Licence - Canada
+        fr: 'Licence du gouvernement ouvert â€“ Canada '
+      url: https://open.canada.ca/en/open-government-licence-canada
+      code: government-open-license-canada
+  dates:
+    revision: '2024-08-21T16:23:47.544Z'
+    publication: '2024-08-21'
+spatial:
+  bbox:
+  - -52.599
+  - 47.534
+  - -52.574
+  - 47.559
+  vertical:
+  - 1.0
+  - 176.0
+  vertical_positive: heightPositive
+identification:
+  title:
+    en: Station 27 Oceanographic Monitoring Station
+    fr: Station 27 Station de surveillance océanographique
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  abstract:
+    en: 'Station 27 (47° 32.8'' N, 52° 35.2'' W) was established in 1946 as the first
+      hydrographic monitoring station in the standard St. John''s to Flemish Cap transect
+      and is the most frequently sampled site in Newfoundland and Labrador waters.
+      Located approximately 7 km off St. John''s harbour in a water depth of 176m
+      this station was intentionally located in the Avalon Channel to monitor the
+      water properties of the inshore branch of the Labrador current which are representative
+      of conditions across a broad area of the Newfoundland Shelf. Data was first
+      collected at Station 27 in 1946 and the station was sampled regularly ever since,
+      making it one of the longest hydrographic monitoring stations in the world.
+      In recent years, Station 27 has been sampled about 2 - 4 times per month on
+      average, primarily by oceanographic and fisheries research vessels, as part
+      of the Atlantic Zone Monitoring Program (AZMP).
+
+
+      Due to the length of the hydrographic time series at Station 27 sampling methods
+      vary, and include instrumentation such as water-sampling bottles equipped with
+      reversing thermometers, mechanical and electronic bathythermographs, and more
+      recently conductivity-temperature-depth (CTD) recorders have been used extensively.
+      Therefore the accuracy of the data varies depending on which data collection
+      method was used.
+
+
+      In recent years, data collection at Station 27 has expanded to include a year-round
+      high-resolution temperature-salinity mooring, an acoustic zooplankton fish profiler
+      (AZFP) mooring which is deployed for 9 months each year from November - July,
+      and a Viking buoy (AZMP-STA27) equipped with meteorological and surface oceanographic
+      sensor suite, as well as a profiling CTD winch, which is deployed in late-spring
+      through mid-fall.'
+    fr: 'La station 27 (47° 32,8'' N, 52° 35,2'' O) a été créée en 1946 en tant que
+      première station de surveillance hydrographique dans le transect standard de
+      St. John''s au Cap flamand et constitue le site le plus fréquemment échantillonné
+      dans les eaux de Terre-Neuve-et-Labrador. Située à environ 7 km du port de St.
+      John''s, à une profondeur de 176 m, cette station a été délibérément installée
+      dans le chenal d''Avalon afin de surveiller les propriétés de l''eau de la branche
+      côtière du courant du Labrador, qui sont représentatives des conditions régnant
+      sur une vaste partie du plateau de Terre-Neuve. Les données ont été recueillies
+      pour la première fois à la station 27 en 1946 et la station a été échantillonnée
+      régulièrement depuis, ce qui en fait l''une des plus longues stations de surveillance
+      hydrographique au monde. Ces dernières années, la station 27 a été échantillonnée
+      environ 2 à 4 fois par mois en moyenne, principalement par des navires de recherche
+      océanographique et halieutique, dans le cadre du Programme de monitorage de
+      la zone Atlantique (PMZA).
+
+
+      En raison de la longueur des séries chronologiques hydrographiques de la station
+      27, les méthodes d''échantillonnage varient et comprennent des instruments tels
+      que des bouteilles d''échantillonnage d''eau équipées de thermomètres inversés,
+      des bathythermographes mécaniques et électroniques et, plus récemment, des enregistreurs
+      de conductivité-température-profondeur (CTD) ont été largement utilisés. Par
+      conséquent, la précision des données varie en fonction de la méthode de collecte
+      de données utilisée.
+
+
+      Ces dernières années, la collecte de données à la Station 27 s''est étendue
+      pour inclure un dispositif d''amarrage haute résolution couvrant la température
+      et la salinité tout au long de l''année, un dispositif d''amarrage acoustique
+      pour zooplancton (AZFP) déployé pendant 9 mois par an de novembre à juillet,
+      une bouée Viking (AZMP-STA27) équipée d''une suite de capteurs météorologiques
+      et océanographiques de surface, ainsi qu''un treuil CTD de profilage, qui est
+      déployé de la fin du printemps au milieu du printemps chute.'
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '1946-06-23'
+  keywords:
+    default:
+      en:
+      - oceanographic missions
+      - climate change
+      - atmospheric pressure
+      - chlorophyll a
+      - fluorescence
+      - physical-chemical
+      - salinity
+      - sea ice
+      - water density
+      - water temperature
+      - wind
+      - oxygen
+      - beam attenuation
+      - beam transmission
+      - coloured dissolved organic matter
+      - photosynthetically active radiation
+      - Northwest Atlantic Ocean
+      - Newfoundland and Labrador
+      - Station 27
+      fr:
+      - missions océanographique
+      - changement climatique
+      - pression atmosphérique
+      - chlorophylle a
+      - fluorescence
+      - physico-chimie
+      - salinité
+      - glace de mer
+      - densité eau
+      - température de l'eau
+      - vents
+      - oxygène
+      - atténuation du faisceau
+      - transmission du faisceau
+      - matière organique dissoute colorée
+      - rayonnement photosynthétiquement actif
+      - Océan Atlantique Nord-Ouest
+      - Terre-Neuve-et-Labrador
+      - Station 27
+    eov:
+      en:
+      - oxygen
+      - seaState
+      - seaSurfaceSalinity
+      - subSurfaceTemperature
+      - other
+      - subSurfaceSalinity
+      - seaSurfaceTemperature
+      - seaIce
+      fr:
+      - OxygÃ¨ne
+      - Ã‰tat de la mer
+      - SalinitÃ© de surface
+      - TempÃ©rature sous la surface
+      - Autre
+      - SalinitÃ© sous la surface
+      - TempÃ©rature de surface
+      - Glace de mer
+  temporal_begin: '1946-06-23T14:30:00.000Z'
+  status: published
+  progress_code: onGoing
+contact:
+- roles:
+  - owner
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://meds-sdmm.dfo-mpo.gc.ca/
+    address: 200 Kent Street
+    city: Ottawa
+    country: Canada
+  individual:
+    name: Environmental Data Section (MEDS), Marine
+  inCitation: true
+- roles:
+  - custodian
+  - pointOfContact
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: 80 East White Hills Road
+    city: St. John's
+    country: Canada
+  individual:
+    name: Snook, Steve
+    position: Newfoundland and Labrador Region AZMP Operational Lead
+    email: Stephen.Snook@dfo-mpo.gc.ca
+  inCitation: false
+- roles:
+  - distributor
+  organization:
+    name: Fisheries and Oceans Canada
+    url: https://www.dfo-mpo.gc.ca/index-eng.html
+    address: 80 East White Hills Road
+    city: St. John's
+    country: Canada
+  individual:
+    name: Oceanography, NL
+    position: Data Management
+    email: NL-Oceanography@dfo-mpo.gc.ca
+  inCitation: false
+distribution:
+- url: https://cioosatlantic.ca/erddap/tabledap/nafc_station_27_ctd_profiles
+  name:
+    en: ERDDAP Historical Station 27 Hydrographic Data
+    fr: Données hydrographiques de la station historique ERDDAP 27
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: Historical Station 27 data (1946 - 1997) collected from multiple sources provide
+      to NL region by MEDS.
+    fr: Les données historiques de la station 27 (1946 - 1997) recueillies auprès
+      de sources multiples ont été fournies à la région de Terre-Neuve-et-Labrador
+      par le SDMM.
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+- url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/265754.pdf
+  name:
+    en: Atlantic Zonal Monitoring Program Sampling Protocol
+    fr: Protocole d'échantillonnage du Programme de monitorage zonal de l'Atlantique
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: Core sampling protocols for the Atlantic Zone Monitoring Program
+    fr: Protocoles d'échantillonnage de base pour le programme de monitorage de la
+      zone Atlantique
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+- url: https://www.dfo-mpo.gc.ca/science/data-donnees/azmp-pmza/index-eng.html
+  name:
+    en: Atlantic Zone Monitoring Program (AZMP)
+    fr: Programme de monitorage de la zone Atlantique (PMZA)
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: Fisheries and Oceans Canada website for the Atlantic Zone Monitoring Program
+      (AZMP)
+    fr: Site Web de Pêches et Océans Canada pour le Programme de monitorage de la
+      zone Atlantique (PMZA)
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+- url: https://publications.gc.ca/collections/collection_2016/mpo-dfo/Fs97-16-154-eng.pdf
+  name:
+    en: Temperature, salinity and density atlas for Station 27 by C. Fitzpatrick and
+      E.B. Colbourne.
+    fr: Atlas des températures, de la salinité et de la densité pour la station 27
+      par C. Fitzpatrick et E.B. Colbourne.
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: Canadian data report of hydrography and ocean sciences ; no. 154
+    fr: Rapport de données canadien sur l'hydrographie et les sciences océaniques ;
+      n° 154
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+- url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/365694.pdf
+  name:
+    en: AZMP Bulletin No 3 (December 2003)
+    fr: Bulletin PMZA n° 3 (décembre 2003)
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: Station 27 Oceanographic Monitoring Station - A Long History (p.18)
+    fr: Station 27 Station de surveillance océanographique - Une longue histoire (p.18)
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+- url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
+    fr: Publications du Secrétariat canadien des avis scientifiques (SCAS)
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+  description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: Site Web contenant des publications produites par le Secrétariat canadien
+      des avis scientifiques
+    translations:
+      fr:
+        message: text translated using the Amazon translate service / texte traduit
+          à l'aide du service de traduction Amazon
+        verified: false
+platform: []
