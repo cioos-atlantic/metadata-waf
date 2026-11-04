@@ -1,0 +1,145 @@
+contact:
+- inCitation: true
+  individual:
+    name: Maxner, Emily
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 6375 Edzell Castle Cir
+    country: Canada
+    email: otndc@dal.ca
+    name: Ocean Tracking Network
+    url: https://oceantrackingnetwork.org/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+  - funder
+- inCitation: true
+  organization:
+    name: Jasco Applied Sciences
+  roles:
+  - funder
+distribution:
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://erddap.oceantrack.org/erddap/tabledap/sambro_20260409_218_delayed.html
+identification:
+  abstract:
+    en: A Teledyne Webb Research Slocum G3s glider equipped with passive acoustic
+      listening device for a multi-week mission surveying the Scotian Slope.
+    fr: Un planeur Teledyne Webb Research Slocum G3s équipé d'un dispositif d'écoute
+      acoustique passive pour une mission de plusieurs semaines d'arpentage du talus
+      Scotian.
+  acknowledgement:
+    en: Jasco Applied Sciences led this project, deployed and recovered an OTN Slocum
+      glider and supported piloting. The Ocean Tracking Network prepared the glider,
+      offered remote support for field operations and led functional checks and piloting
+      during mission. Thank you to the vessel captains who supported deployment and
+      recovery.
+    fr: Jasco Applied Sciences a dirigé ce projet, déployé et récupéré un planeur
+      OTN Slocum et soutenu le pilotage. L'Ocean Tracking Network a préparé le planeur,
+      offert un soutien à distance aux opérations sur le terrain et dirigé les vérifications
+      fonctionnelles et le pilotage pendant la mission. Merci aux capitaines des navires
+      qui ont soutenu le déploiement et la récupération.
+  dates:
+    creation: '2026-06-09'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - acousticTagReceiver
+      fr:
+      - Salinité souterraine
+      - Température souterraine
+      - acoustiqueTagReceiver
+  status: completed
+  temporal_begin: '2026-04-09T19:45:00.000Z'
+  temporal_end: '2026-04-22T17:44:00.000Z'
+  title:
+    en: 'Slocum Glider Deployment #218 2026-04-09 - Collaborative Operations with
+      Jasco Applied Sciences in Northwest Atlantic Ocean'
+    fr: 'Déploiement du planeur Slocum #218 2026-04-09 - Opérations collaboratives
+      avec Jasco Applied Sciences dans le nord-ouest de l''océan Atlantique'
+metadata:
+  dates:
+    publication: '2026-06-09T12:15:46Z'
+    revision: '2026-11-02T16:04:17Z'
+  identifier: 8308d1c9-ff15-5e8a-bade-5e240150b483
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr/cioos-datasets-submit
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+- id: sambro
+  instruments:
+  - description:
+      en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+    id: CTD_9405
+    manufacturer: Sea-Bird Scientific
+    type:
+      en: Sea-Bird Slocum Glider Payload {GPCTD} CTD
+      fr: Charge utile du planeur Sea-Bird Slocum {GPCTD} CTD
+    version: '1.2'
+  - description:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
+    id: thruster_058
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
+    version: '1.2'
+  - description:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    id: hydrophones_1282444
+    manufacturer: InnovaSea Systems Inc.
+    type:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    version: '1.2'
+  - description:
+      en: Slocum Glider G3 1000 m oil pump
+      fr: Pompe à huile Slocum Glider G3 1000 m
+    id: bpump_580
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider G3 1000 m oil pump
+      fr: Pompe à huile Slocum Glider G3 1000 m
+    version: '1.2'
+  - description:
+      en: JASCO OceanObserver acoustic monitoring system
+      fr: Système de surveillance acoustique JASCO OceanObserver
+    id: hydrophones_1470
+    manufacturer: JASCO Applied Sciences
+    type:
+      en: JASCO OceanObserver acoustic monitoring system
+      fr: Système de surveillance acoustique JASCO OceanObserver
+    version: '1.2'
+  type: glider
+spatial:
+  bbox:
+  - -62.454855
+  - 42.876192
+  - -63.585177
+  - 41.522626382550335
+  vertical:
+  - 0.0028028700035065413
+  - 906.0789794921875
