@@ -1,0 +1,252 @@
+contact:
+- inCitation: false
+  individual:
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: Cardoso, Diana
+    position: Maritimes Oceanographic data manager
+  organization:
+    city: Ottawa
+    country: Canada
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - owner
+distribution:
+- description:
+    en: Rapid Climate Change home page
+    fr: Page d'accueil sur le changement climatique rapide
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: Rapid Climate Change home page
+    fr: Page d'accueil sur le changement climatique rapide
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://rapid.ac.uk
+- description:
+    en: CIOOS Atlantic ERDDAP dataset link for moored CTD data
+    fr: "Lien vers la base de donn\xE9es ERDDAP du CIOOS Atlantic pour les donn\xE9\
+      es CTD amarr\xE9es"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: CIOOS Atlantic ERDDAP dataset
+    fr: "Ensemble de donn\xE9es ERDDAP CIOOS Atlantic"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_rapid_moored_ctd.html
+- description:
+    en: Publication that summarises the moored measurements of currents, temperature,
+      salinity and bottom pressure made at 6 sites  across the Scotian Slope and Rise
+      between October 2008 and May 2018  with  respect to positions and periods; data
+      return, quality and availability; and salient features
+    fr: "Publication qui r\xE9sume les mesures amarr\xE9es des courants, de la temp\xE9\
+      rature, de la salinit\xE9 et de la pression de fond effectu\xE9es sur 6 sites\
+      \ le long du versant et de la mont\xE9e de l'\xC9cosse entre octobre 2008 et\
+      \ mai 2018 en ce qui concerne les positions et les p\xE9riodes\_; le retour\
+      \ des donn\xE9es, la qualit\xE9 et la disponibilit\xE9\_; et les principales\
+      \ caract\xE9ristiques"
+    translations:
+      fr:
+        verified: true
+  name:
+    en: Publication:Moored Current and Hydrographic Measurements from the  RAPID WAVE
+      Scotian Line, 2008 to 2018
+    fr: "Publication\_: Mesures hydrographiques et courants amarr\xE9es \xE0 partir\
+      \ de la ligne SCOTIAN RAPID WAVE, 2008 \xE0 2018"
+    translations:
+      fr:
+        verified: true
+  url: https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41292868.pdf
+identification:
+  abstract:
+    en: "Rapid Climate Change (RAPID) was originally a \xA320 million, six-year (2001-2007)\
+      \ program of the Natural Environment Research Council. This monitoring effort\
+      \ was continued in the NERC-funded follow-on program RAPID-WATCH 2008-2014.\
+      \  The program aimed to improve the ability to quantify the probability and\
+      \ magnitude of future rapid change in climate, with a main (but not exclusive)\
+      \ focus on the role of the Atlantic Ocean's Thermohaline Circulation. The  program\
+      \ used a combination of observations (present day and palaeo) and modelling\
+      \ (atmospheric, oceanic, terrestrial, cryospheric). Observations such as moorings\
+      \ were used for testing simulations of Thermohaline Circulation variability\
+      \ and climate change including the Atlantic meridional overturning circulation,\
+      \ long-term transports and mixing processes and atmospheric forcing of ocean\
+      \ convection, and large-scale ocean transports. \n\nThe specific scientific\
+      \ objectives of the RAPID program were agreed by the Rapid Climate Change Steering\
+      \ Committee and are detailed in the RAPID Science Plan (https://rapid.ac.uk/rapid/Scienceplan.php).\n\
+      \nIn the Maritimes the Rapid moorings were mostly on the Scotian shelf and slope\
+      \ off of Halifax from 2004 to 2010."
+    fr: "Rapid Climate Change (RAPID) \xE9tait \xE0 l'origine un programme de 20 millions\
+      \ de livres sterling sur six ans (2001-2007) du Natural Environment Research\
+      \ Council. Cet effort de suivi s'est poursuivi dans le cadre du programme de\
+      \ suivi RAPID-WATCH 2008-2014 financ\xE9 par le NERC. Le programme visait \xE0\
+      \ am\xE9liorer la capacit\xE9 de quantifier la probabilit\xE9 et l'ampleur des\
+      \ futurs changements rapides du climat, en mettant l'accent (mais pas exclusivement)\
+      \ sur le r\xF4le de la circulation thermohaline de l'oc\xE9an Atlantique. Le\
+      \ programme a utilis\xE9 une combinaison d'observations (actuelles et pal\xE9\
+      o) et de mod\xE9lisation (atmosph\xE9rique, oc\xE9anique, terrestre, cryosph\xE9\
+      rique). Des observations telles que des amarrages ont \xE9t\xE9 utilis\xE9es\
+      \ pour tester des simulations de la variabilit\xE9 de la circulation thermohaline\
+      \ et du changement climatique, y compris la circulation de renversement m\xE9\
+      ridienne de l'Atlantique, les processus de transport et de m\xE9lange \xE0 long\
+      \ terme, le for\xE7age atmosph\xE9rique d\xFB \xE0 la convection oc\xE9anique,\
+      \ ainsi que les transports oc\xE9aniques \xE0 grande \xE9chelle. \n\nLes objectifs\
+      \ scientifiques sp\xE9cifiques du programme RAPID ont \xE9t\xE9 approuv\xE9\
+      s par le comit\xE9 directeur sur le changement climatique rapide et sont d\xE9\
+      taill\xE9s dans le plan scientifique RAPID (https://rapid.ac.uk/rapid/Scienceplan.php).\n\
+      \nDans les Maritimes, les mouillages du Rapid se trouvaient principalement sur\
+      \ le plateau n\xE9o-\xE9cossais et sur la pente au large d'Halifax de 2004 \xE0\
+      \ 2010."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  associated_resources:
+  - association_type: IsVersionOf
+    association_type_iso: revisionOf
+    authority: DOI
+    code: doi:10.5285/3a1e1bde-f356-c7f5-e063-7086abc04c0b
+    title:
+      en: Moored ADCP and hydrographic measurements from the RAPID WAVE Scotian Line
+        2008-2014
+      fr: "ADCP amarr\xE9 et mesures hydrographiques de la RAPID WAVE Scotian Line\
+        \ 2008-2014"
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+  dates:
+    creation: '2004-01-01'
+  identifier: https://doi.org/10.5285/3a1e1bde-f356-c7f5-e063-7086abc04c0b
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      fr:
+      - changement climatique
+      - "salinit\xE9"
+      - "temp\xE9rature de l'eau"
+      - "t\xE9l\xE9d\xE9tection"
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
+      - physico-chimie
+      - pression
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
+      - oxygen
+    eov:
+      en:
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - oxygen
+      - subSurfaceCurrents
+      - surfaceCurrents
+      fr:
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
+      - Autre
+      - "Oxyg\xE8ne"
+      - Courants sous-marins
+      - Courants de surface
+  progress_code: completed
+  status: published
+  temporal_begin: '2004-01-01T16:00:00.000Z'
+  temporal_end: '2010-12-12T16:00:00.000Z'
+  title:
+    en: Maritimes Region Historical RAPID Climate Change Program Moored Time Series
+      Data
+    fr: "Donn\xE9es chronologiques historiques du programme RAPID sur les changements\
+      \ climatiques de la r\xE9gion des Maritimes"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+metadata:
+  dates:
+    publication: '2025-09-11'
+    revision: '2026-07-22T19:04:43.678Z'
+  history: []
+  identifier: 77436075-0ff6-4f0c-a3e0-d9e9d0c1acac
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-NZgR1tZpS4P58nm-5WF
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
+      url: https://open.canada.ca/en/open-government-licence-canada
+platform:
+- id: SDN:L06::48
+  instruments: []
+  type: mooring
+spatial:
+  bbox:
+  - -64.0
+  - 41.0
+  - -59.0
+  - 44.0
+  vertical:
+  - 1.0
+  - 4000.0
+  vertical_positive: heightPositive

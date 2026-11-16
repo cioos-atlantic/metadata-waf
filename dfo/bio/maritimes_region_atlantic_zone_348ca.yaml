@@ -1,0 +1,247 @@
+contact:
+- inCitation: false
+  individual:
+    email: Marc.Ringuette@dfo-mpo.gc.ca
+    name: Ringuette, Marc
+    position: Maritimes Region AZOMP Operational Lead
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - owner
+distribution:
+- description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: "Site Web contenant des publications produites par le Secr\xE9tariat canadien\
+      \ de consultation scientifique"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
+    fr: "Publications du Secr\xE9tariat canadien de consultation scientifique (SCCS)"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+- description:
+    en: DFO BIO official program website
+    fr: Site officiel du programme DFO BIO
+  name:
+    en: Atlantic Zone Off-Shelf Monitoring Program
+    fr: Programme de surveillance hors plateau de la zone Atlantique
+  url: https://www.bio.gc.ca/science/monitoring-monitorage/azomp-pmzao/azomp-pmzao-en.php
+- description:
+    en: CIOOS Atlantic ERDDAP dataset link for moored CTD data
+    fr: "Lien vers la base de donn\xE9es ERDDAP du CIOOS Atlantic pour les donn\xE9\
+      es CTD amarr\xE9es"
+  name:
+    en: CIOOS Atlantic ERDDAP dataset
+    fr: "Ensemble de donn\xE9es ERDDAP CIOOS Atlantic"
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_atlantic_zone_off_shelf_monitoring_program_moored_ctd.html
+identification:
+  abstract:
+    en: "The Atlantic Zone Off-Shelf Monitoring Program (AZOMP) collects and analyzes\
+      \ physical, chemical, and biological oceanographic observations from the continental\
+      \ slope and deep basins of the Northwest Atlantic, with the overarching goal\
+      \ of monitoring variability in ocean climate and plankton affecting ecosystems\
+      \ off Atlantic Canada and climate systems at both regional and global scales.\
+      \ \n\nAnnual measurements in the Labrador Sea began in 1990 as a contribution\
+      \ to the World Ocean Circulation Experiment (WOCE) and have evolved into a multidisciplinary\
+      \ regional monitoring effort and part of the Global Ocean Ship-based Hydrographic\
+      \ Investigations Program (GO-SHIP).\n\nAZOMP's sampling scheme off Atlantic\
+      \ Canada and the Labrador Sea involves annual sampling of both the Atlantic\
+      \ Repeat 7-West (AR7W) line, a 880 km-line running across the Labrador Sea from\
+      \ Labrador to Greenland coast and extended Halifax Line, deep-water stations\
+      \ over the Scotian Slope and Rise located at the end of AZMP\u2019s Halifax\
+      \ Line. Opportunistic sampling also may occur at stations in the Strait of Belle\
+      \ Ilse, station 27, Labrador Shelf, and OSNAP West line in support of ancillary\
+      \ research programs and initiatives. In addition XBTs and Argo floats are commonly\
+      \ deployed and vessel-mounted ADCP is used to determine water masses structures\
+      \ at a smaller scale. Deep-water oceanographic moorings are also deployed in\
+      \ the Labrador Sea, mostly in the Hamilton Bank region and OSNAP West Line and\
+      \ on the Scotian Slope.   Time series data is used for comparison with the numerical\
+      \ model transport estimates of the Nova Scotia and the Labrador Current.  \n\
+      \nThe data collected are synthesized into annual reports on the physical, chemical\
+      \ and biological changes in Atlantic Canadian waters and the Labrador Sea. One\
+      \ primary focus is on changes in the intensity of winter overturning of surface\
+      \ and intermediate-depth waters resulting in deep water mass formation and is\
+      \ part of the thermohaline circulation that affects the global climate. Convection\
+      \ also transfers atmospheric gases from the surface to intermediate depths,\
+      \ reducing the rate of increase of carbon dioxide in the atmosphere but increasing\
+      \ the acidity of the ocean."
+    fr: "Le Programme de surveillance hors plateau de la zone Atlantique (AZOMP) recueille\
+      \ et analyse les observations oc\xE9anographiques physiques, chimiques et biologiques\
+      \ du talus continental et des bassins profonds de l'Atlantique Nord-Ouest, dans\
+      \ le but global de surveiller la variabilit\xE9 du climat oc\xE9anique et du\
+      \ plancton affectant les \xE9cosyst\xE8mes au large du Canada atlantique et\
+      \ les syst\xE8mes climatiques \xE0 l'\xE9chelle r\xE9gionale et mondiale. \n\
+      \nLes mesures annuelles dans la mer du Labrador ont d\xE9but\xE9 en 1990 dans\
+      \ le cadre de l'exp\xE9rience mondiale sur la circulation oc\xE9anique (WOCE)\
+      \ et ont \xE9volu\xE9 pour devenir un effort de surveillance r\xE9gional multidisciplinaire\
+      \ int\xE9gr\xE9 au Programme mondial d'enqu\xEAtes hydrographiques \xE0 base\
+      \ de navires oc\xE9aniques (GO-SHIP).\n\nLe programme d'\xE9chantillonnage d'AZOMP\
+      \ au large du Canada atlantique et de la mer du Labrador comprend l'\xE9chantillonnage\
+      \ annuel de la ligne Atlantic Repeat 7-West (AR7W), une ligne de 880 km traversant\
+      \ la mer du Labrador depuis la c\xF4te du Labrador jusqu'\xE0 la c\xF4te groenlandaise\
+      \ et une extension de la ligne Halifax, ainsi que des stations en eau profonde\
+      \ au-dessus du Scotian Slope and Rise situ\xE9es \xE0 l'extr\xE9mit\xE9 de la\
+      \ ligne Halifax de l'AZMP. L'\xE9chantillonnage opportuniste peut \xE9galement\
+      \ avoir lieu \xE0 des stations situ\xE9es dans le d\xE9troit de Belle Ilse,\
+      \ \xE0 la station 27, sur le plateau du Labrador et sur la ligne ouest de l'OSNAP\
+      \ \xE0 l'appui de programmes et d'initiatives de recherche auxiliaires. En outre,\
+      \ les flotteurs XBT et Argo sont couramment d\xE9ploy\xE9s et l'ADCP mont\xE9\
+      \ sur les navires est utilis\xE9 pour d\xE9terminer les structures des masses\
+      \ d'eau \xE0 plus petite \xE9chelle. Des amarres oc\xE9anographiques en eau\
+      \ profonde sont \xE9galement d\xE9ploy\xE9es dans la mer du Labrador, principalement\
+      \ dans la r\xE9gion de Hamilton Bank, sur la ligne ouest de l'OSNAP et sur le\
+      \ versant n\xE9o-\xE9cossais. Les donn\xE9es de s\xE9ries chronologiques sont\
+      \ utilis\xE9es \xE0 des fins de comparaison avec les estimations du transport\
+      \ par mod\xE8le num\xE9rique de la Nouvelle-\xC9cosse et du courant du Labrador.\
+      \ \n\nLes donn\xE9es recueillies sont synth\xE9tis\xE9es dans des rapports annuels\
+      \ sur les changements physiques, chimiques et biologiques dans les eaux canadiennes\
+      \ de l'Atlantique et de la mer du Labrador. L'un des principaux objectifs est\
+      \ l'\xE9volution de l'intensit\xE9 du renversement hivernal des eaux de surface\
+      \ et de profondeur interm\xE9diaire, qui entra\xEEne la formation de masses\
+      \ d'eau profondes et fait partie de la circulation thermohaline qui influe sur\
+      \ le climat mondial. La convection transf\xE8re \xE9galement les gaz atmosph\xE9\
+      riques de la surface vers des profondeurs interm\xE9diaires, ce qui r\xE9duit\
+      \ le taux d'augmentation du dioxyde de carbone dans l'atmosph\xE8re mais augmente\
+      \ l'acidit\xE9 de l'oc\xE9an."
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  associated_resources: []
+  dates:
+    creation: '1998-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      - sea currents
+      - ADCP
+      - CTD
+      fr:
+      - changement climatique
+      - "salinit\xE9"
+      - "temp\xE9rature de l'eau"
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
+      - physico-chimie
+      - pression
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
+      - courant marin
+    eov:
+      en:
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - subSurfaceCurrents
+      - surfaceCurrents
+      fr:
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
+      - Autre
+      - Courants sous-marins
+      - Courants de surface
+  progress_code: onGoing
+  status: published
+  temporal_begin: '1998-01-01T16:00:00.000Z'
+  title:
+    en: Maritimes Region Atlantic Zone Off-Shelf Monitoring Program (AZOMP) Moored
+      Time Series Data
+    fr: "Donn\xE9es chronologiques amarr\xE9es du Programme de surveillance hors plateau\
+      \ de la zone Atlantique (AZOMP) de la r\xE9gion des Maritimes"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+metadata:
+  dates:
+    publication: '2023-08-01'
+    revision: '2026-07-22T18:48:59.493Z'
+  history: []
+  identifier: 348ca0d9-6de9-4bd8-9dbd-ccf89f981049
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-NZbmPcYiOBbVwxpOS65
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Availability of data varies both between and within years due to mission
+        cancellations.
+      fr: "La disponibilit\xE9 des donn\xE9es varie d'une ann\xE9e \xE0 l'autre en\
+        \ raison des annulations de missions."
+      translations:
+        fr:
+          message: "text translated using the Amazon translate service / texte traduit\
+            \ \xE0 l'aide du service de traduction Amazon"
+          verified: false
+platform:
+- id: SDN:L06::48
+  instruments: []
+  type: mooring
+spatial:
+  bbox:
+  - -63.7
+  - 37.7
+  - -48.1
+  - 60.6
+  vertical:
+  - 1.0
+  - 5500.0
+  vertical_positive: heightPositive

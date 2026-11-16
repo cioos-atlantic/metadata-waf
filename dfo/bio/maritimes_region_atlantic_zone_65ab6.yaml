@@ -1,0 +1,208 @@
+contact:
+- inCitation: false
+  individual:
+    email: Lindsay.Beazley@dfo-mpo.gc.ca
+    name: Beazley, Lindsay
+    position: Maritimes Region AZMP Operational Lead
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - owner
+distribution:
+- description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: "Site Web contenant des publications produites par le Secr\xE9tariat canadien\
+      \ de consultation scientifique"
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
+    fr: "Publications du Secr\xE9tariat canadien de consultation scientifique (SCCS)"
+  url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+- description:
+    en: Atlantic Zone Monitoring Program (AZMP) (dfo-mpo.gc.ca) DFO website
+    fr: Programme de surveillance de la zone Atlantique (AZMP) (dfo-mpo.gc.ca) Site
+      Web du MPO
+  name:
+    en: Atlantic Zone Monitoring Program (AZMP) (dfo-mpo.gc.ca) website
+    fr: Site Web du Programme de surveillance de la zone Atlantique (AZMP) (dfo-mpo.gc.ca)
+  url: https://www.dfo-mpo.gc.ca/science/data-donnees/azmp-pmza/index-eng.html
+- description:
+    en: ERDDAP dataset link for moored CTD data
+    fr: "Lien vers un ensemble de donn\xE9es ERDDAP pour les donn\xE9es CTD ancr\xE9\
+      es"
+  name:
+    en: CIOOS Atlantic ERDDAP dataset
+    fr: "Ensemble de donn\xE9es ERDDAP CIOOS Atlantic"
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_atlantic_zone_monitoring_program_moored_ctd.html
+identification:
+  abstract:
+    en: "The Atlantic Zone Monitoring Program (AZMP) was implemented in 1998 with\
+      \ the aim of detecting and tracking climate change and variability in the northwest\
+      \ Atlantic, evaluating changes in the physical, chemical and biological ocean\
+      \ properties and predator-prey dynamics of marine resources, thereby enhancing\
+      \ Canada's ability to understand, describe, and forecast the state of the marine\
+      \ ecosystem. AZMP's sampling scheme in the Maritimes Region involves oceanographic\
+      \ sampling at two high-frequency (biweekly to monthly) fixed coastal stations,\
+      \ biannual sampling at stratified-random locations during DFO-led Ecosystem\
+      \ Trawl Surveys, biannual sampling along fixed cross-shelf sections (Cabot Strait\
+      \ Line, Louisbourg Line, Halifax Line, Browns Bank Line, and the Northeast Channel);\
+      \ the latter of which may also include opportunistic sampling at stations in\
+      \ the Laurentian Channel, Gulf of Maine, and various Marine Protected Areas\
+      \ (MPAs) in support of ancillary research programs and initiatives. In addition\
+      \ to the sampling there are regular moorings on the Scotian Shelf mostly along\
+      \ the Halifax Line to measure time series physical (e.g., T, S, currents) and\
+      \ chemical (e.g., oxygen).  This data is used for comparison with the numerical\
+      \ model transport estimates of the Nova Scotia Current off of Halifax.  \n\n\
+      The data collected are synthesized into two annual reports on the physical and\
+      \ chemical/biological changes in the Maritimes Region, and are also used to\
+      \ evaluate changes across the Atlantic zone."
+    fr: "Le Programme de surveillance de la zone Atlantique (AZMP) a \xE9t\xE9 mis\
+      \ en \u0153uvre en 1998 dans le but de d\xE9tecter et de suivre les changements\
+      \ et la variabilit\xE9 climatiques dans l'Atlantique Nord-Ouest, d'\xE9valuer\
+      \ les modifications des propri\xE9t\xE9s physiques, chimiques et biologiques\
+      \ de l'oc\xE9an et de la dynamique pr\xE9dateur-proie des ressources marines,\
+      \ am\xE9liorant ainsi la capacit\xE9 du Canada \xE0 comprendre, d\xE9crire et\
+      \ pr\xE9voir l'\xE9tat de l'\xE9cosyst\xE8me marin. Le programme d'\xE9chantillonnage\
+      \ de l'AZMP dans la r\xE9gion des Maritimes comprend l'\xE9chantillonnage oc\xE9\
+      anographique \xE0 deux stations c\xF4ti\xE8res fixes \xE0 haute fr\xE9quence\
+      \ (toutes les deux semaines ou tous les mois), l'\xE9chantillonnage semestriel\
+      \ \xE0 des emplacements al\xE9atoires stratifi\xE9s dans le cadre de relev\xE9\
+      s \xE9cosyst\xE9miques au chalut men\xE9s par le minist\xE8re des P\xEAches\
+      \ et Oc\xE9ans, l'\xE9chantillonnage semestriel le long de sections transversales\
+      \ fixes (ligne du d\xE9troit de Cabot, ligne de Louisbourg, ligne Halifax, ligne\
+      \ Browns Bank et chenal du Nord-Est)\_; ce dernier peut \xE9galement inclure\
+      \ un \xE9chantillonnage opportuniste dans les stations des Laurentides Canal\
+      \ de San, golfe du Maine et diverses aires marines prot\xE9g\xE9es (AMP) \xE0\
+      \ l'appui d'installations auxiliaires programmes et initiatives de recherche.\
+      \ Outre l'\xE9chantillonnage, des mouillages r\xE9guliers sont install\xE9s\
+      \ sur le plateau n\xE9o-\xE9cossais, principalement le long de la ligne Halifax,\
+      \ pour mesurer des s\xE9ries chronologiques physiques (par exemple, T, S, courants)\
+      \ et chimiques (par exemple, oxyg\xE8ne). Ces donn\xE9es sont utilis\xE9es \xE0\
+      \ des fins de comparaison avec les estimations du transport par mod\xE8le num\xE9\
+      rique du courant de la Nouvelle-\xC9cosse au large de Halifax. \n\nLes donn\xE9\
+      es recueillies sont synth\xE9tis\xE9es dans deux rapports annuels sur les changements\
+      \ physiques, chimiques et biologiques dans la r\xE9gion des Maritimes, et sont\
+      \ \xE9galement utilis\xE9es pour \xE9valuer les changements dans la zone Atlantique."
+  associated_resources: []
+  dates:
+    creation: '1998-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      - sea currents
+      - ADCP
+      - CTD
+      fr:
+      - changement climatique
+      - "salinit\xE9"
+      - "temp\xE9rature de l'eau"
+      - "t\xE9l\xE9d\xE9tection"
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
+      - physico-chimie
+      - pression
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
+      - courant marin
+    eov:
+      en:
+      - oxygen
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - subSurfaceCurrents
+      - surfaceCurrents
+      fr:
+      - "Oxyg\xE8ne"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
+      - Autre
+      - Courants sous-marins
+      - Courants de surface
+  progress_code: onGoing
+  status: published
+  temporal_begin: '1998-01-01T16:00:00.000Z'
+  title:
+    en: Maritimes Region Atlantic Zone Monitoring Program (AZMP) Moored Time Series
+      Data
+    fr: "Donn\xE9es chronologiques amarr\xE9es du Programme de surveillance de la\
+      \ zone Atlantique (AZMP) de la r\xE9gion des Maritimes"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+metadata:
+  dates:
+    publication: '2023-07-31'
+    revision: '2026-07-22T18:43:49.534Z'
+  history: []
+  identifier: 65ab6174-15ee-486b-b19f-365a47090b14
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-NZbA22zyLz4Aanw4ziH
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Availability of data varies both between and within years due to mission
+        cancellations.
+      fr: "La disponibilit\xE9 des donn\xE9es varie d'une ann\xE9e \xE0 l'autre en\
+        \ raison des annulations de missions."
+platform: []
+spatial:
+  bbox:
+  - -70.2724
+  - 41.8667
+  - -55.84
+  - 47.5833
+  vertical:
+  - 1.0
+  - 3363.0
+  vertical_positive: heightPositive

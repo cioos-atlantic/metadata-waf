@@ -1,0 +1,230 @@
+contact:
+- inCitation: false
+  individual:
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: Cardoso, Diana
+    position: Maritimes Oceanographic data manager
+  organization:
+    city: Ottawa
+    country: Canada
+    email: Diana.Cardoso@dfo-mpo.gc.ca
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - owner
+distribution:
+- description:
+    en: The Ocean Tracking Network (OTN) Benthic Pod Data Website
+    fr: "Site Web de donn\xE9es sur les capsules benthiques du Ocean Tracking Network\
+      \ (OTN)"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  name:
+    en: The Ocean Tracking Network (OTN) Benthic Pod Data Website
+    fr: "Site Web de donn\xE9es sur les capsules benthiques du Ocean Tracking Network\
+      \ (OTN)"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+  url: https://gliders.oceantrack.org/data/pod/
+- description:
+    en: The Ocean Tracking Network (OTN) website
+    fr: Le site Web de l'Ocean Tracking Network (OTN)
+  name:
+    en: The Ocean Tracking Network (OTN) website
+    fr: Le site Web de l'Ocean Tracking Network (OTN)
+  url: https://oceantrackingnetwork.org/
+- description:
+    en: CIOOS Atlantic ERDDAP dataset link for moored CTD data
+    fr: "Lien vers la base de donn\xE9es ERDDAP du CIOOS Atlantic pour les donn\xE9\
+      es CTD amarr\xE9es"
+  name:
+    en: CIOOS Atlantic ERDDAP dataset
+    fr: "Ensemble de donn\xE9es ERDDAP CIOOS Atlantic"
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_ocean_tracking_network_moored_ctd.html
+identification:
+  abstract:
+    en: "The Ocean Tracking Network (OTN) and Fisheries and Oceans Canada (DFO) have\
+      \ partnered/collaborated/supported projects involving mooring deployment on\
+      \ the Halifax Line on the Scotian Shelf from 2008 to 2016.  Starting in 2008,\
+      \ the Ocean Tracking Network, with the support of DFO, maintained an acoustic\
+      \ receiver curtain to track movements of a variety of acoustically tagged species\
+      \ moving laterally along the East Coast continental shelf, as well as year round\
+      \ and seasonal residents in the Halifax Region. The OTN Halifax line spans the\
+      \ entire width of the continental shelf off Halifax and consists of hydrophone\
+      \ moorings at 800 m spacing over a total length of almost 205 km. In addition\
+      \ to acoustic receivers, several of these moorings contain benthic pods.  The\
+      \ benthic pods are instrumented packages that provide time series of bottom\
+      \ pressure (sea level height), dissolved oxygen, temperature and salinity. \
+      \ They were designed in collaboration with Satlantic, and can be deployed to\
+      \ a depth of 330m. The objective of these pods was to monitor and report key\
+      \ oceanographic parameters to provide environmental context to animal movements\
+      \ and validation data to sophisticated biogeochemical and physical ocean models.\
+      \  The sensors mounted include:\n\n- Satlantic STOR-X data/power manager \n\
+      - Digiquartz Paroscientific pressure sensor \n- VEMCO VR4 acoustic receiver\n\
+      - Sea-Bird 37SIP Microcat ( https://www.seabird.com/moored/sbe-37-si-and-sip-microcat/family?productCategoryId=54627473785\
+      \ )\n- Aanderaa dissolved oxygen sensor (3830 & 4330; http://www.aanderaa.com/productsdetail.php?Oxygen-Optodes-2\
+      \ )\n- Satlantic 15V, 102Ah alkaline battery pack\n\nThe STOR-X controls the\
+      \ sampling of the oceanographic instrumentation. The sensors sample for 30s\
+      \ every hour on the hour. Data stored on the receivers or benthic pods can be\
+      \ recovered via acoustic modem from either vessels or autonomous vehicles such\
+      \ as gliders.  \n\nSome of the data from the benthic pods were processed by\
+      \  the Bedford Institute of Oceanography (BIO). Details  about the project and\
+      \ the data processing by BIO is given here:  https://gliders.oceantrack.org/data/pod/"
+    fr: "L'Ocean Tracking Network (OTN) et P\xEAches et Oc\xE9ans Canada (MPO) ont\
+      \ nou\xE9 des partenariats, collabor\xE9 et soutenu des projets impliquant le\
+      \ d\xE9ploiement de dispositifs d'amarrage sur la ligne Halifax, sur le plateau\
+      \ n\xE9o-\xE9cossais, de 2008 \xE0 2016. \xC0 compter de 2008, le R\xE9seau\
+      \ de suivi des oc\xE9ans, avec le soutien du minist\xE8re des P\xEAches et des\
+      \ Oc\xE9ans, a maintenu un rideau de r\xE9ception acoustique pour suivre les\
+      \ d\xE9placements de diverses esp\xE8ces marqu\xE9es acoustiquement se d\xE9\
+      pla\xE7ant lat\xE9ralement le long du plateau continental de la c\xF4te est,\
+      \ ainsi que des r\xE9sidents saisonniers et saisonniers de la r\xE9gion d'Halifax\
+      \ tout au long de l'ann\xE9e. La ligne OTN Halifax couvre toute la largeur du\
+      \ plateau continental au large de Halifax et comprend des amarres d'hydrophones\
+      \ espac\xE9es de 800 m sur une longueur totale de pr\xE8s de 205 km. Outre les\
+      \ r\xE9cepteurs acoustiques, plusieurs de ces amarres contiennent des nacelles\
+      \ benthiques. Les capsules benthiques sont des ensembles instrument\xE9s qui\
+      \ fournissent des s\xE9ries chronologiques de pression au fond (hauteur du niveau\
+      \ de la mer), d'oxyg\xE8ne dissous, de temp\xE9rature et de salinit\xE9. Ils\
+      \ ont \xE9t\xE9 con\xE7us en collaboration avec Satlantic et peuvent \xEAtre\
+      \ d\xE9ploy\xE9s \xE0 une profondeur de 330 m\xE8tres. L'objectif de ces modules\
+      \ \xE9tait de surveiller et de signaler les principaux param\xE8tres oc\xE9\
+      anographiques afin de fournir un contexte environnemental aux mouvements des\
+      \ animaux et des donn\xE9es de validation pour des mod\xE8les biog\xE9ochimiques\
+      \ et physiques sophistiqu\xE9s de l'oc\xE9an. Les capteurs mont\xE9s incluent\_\
+      :\n\n- Gestionnaire de donn\xE9es/d'alimentation Satlantic STOR-X \n- Capteur\
+      \ de pression paroscientifique Digiquartz \n- R\xE9cepteur acoustique VEMCO\
+      \ VR4\n- Microchat Sea-Bird 37 SIP (https://www.seabird.com/moored/sbe-37-si-and-sip-microcat/family?productCategoryId=54627473785)\n\
+      - Sonde \xE0 oxyg\xE8ne dissous Aanderaa (3830 et 4330\_; http://www.aanderaa.com/productsdetail.php?Oxygen-Optodes-2)\n\
+      - Batterie alcaline Satlantic 15 V, 102 Ah\n\nLe STOR-X contr\xF4le l'\xE9chantillonnage\
+      \ de l'instrumentation oc\xE9anographique. Les capteurs pr\xE9l\xE8vent des\
+      \ \xE9chantillons pendant 30 secondes par heure. Les donn\xE9es stock\xE9es\
+      \ sur les r\xE9cepteurs ou les nacelles benthiques peuvent \xEAtre r\xE9cup\xE9\
+      r\xE9es via un modem acoustique \xE0 partir de navires ou de v\xE9hicules autonomes\
+      \ tels que des planeurs. \n\nCertaines des donn\xE9es provenant des cosses benthiques\
+      \ ont \xE9t\xE9 trait\xE9es par l'Institut oc\xE9anographique de Bedford (BIO).\
+      \ Les d\xE9tails sur le projet et le traitement des donn\xE9es par BIO sont\
+      \ fournis ici\_: https://gliders.oceantrack.org/data/pod/"
+  associated_resources: []
+  dates:
+    creation: '2008-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - physical-chemical
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      fr:
+      - changement climatique
+      - "salinit\xE9"
+      - "temp\xE9rature de l'eau"
+      - "t\xE9l\xE9d\xE9tection"
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
+      - physico-chimie
+      - pression
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
+      - oxygen
+    eov:
+      en:
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      - oxygen
+      - subSurfaceCurrents
+      - surfaceCurrents
+      fr:
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
+      - Autre
+      - "Oxyg\xE8ne"
+      - Courants sous-marins
+      - Courants de surface
+  progress_code: completed
+  status: published
+  temporal_begin: '2008-01-01T16:00:00.000Z'
+  temporal_end: '2016-12-12T16:00:00.000Z'
+  title:
+    en: Maritimes Region Historical Ocean Tracking Network (OTN) Project Moored Time
+      Series Data
+    fr: "Donn\xE9es chronologiques ancr\xE9es du projet de r\xE9seau historique de\
+      \ suivi des oc\xE9ans (OTN) de la r\xE9gion des Maritimes"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+metadata:
+  dates:
+    publication: '2023-07-31'
+    revision: '2026-07-22T19:11:35.837Z'
+  history: []
+  identifier: bfbe7194-8833-41e3-bda8-487b252ad12d
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-NaCHAJBSuF56XDQV1XJ
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
+      url: https://open.canada.ca/en/open-government-licence-canada
+platform: []
+spatial:
+  bbox:
+  - -64.0
+  - 43.5
+  - -61.5
+  - 45.0
+  vertical:
+  - 1.0
+  - 400.0
+  vertical_positive: heightPositive
