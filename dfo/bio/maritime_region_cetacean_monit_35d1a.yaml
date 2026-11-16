@@ -1,0 +1,195 @@
+contact:
+- inCitation: false
+  individual:
+    email: Jinshan.Xu@dfo-mpo.gc.ca
+    name: Jinshan, Xu
+    position: Scientist
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - custodian
+  - pointOfContact
+- inCitation: false
+  individual:
+    email: BIO.Datashop@dfo-mpo.gc.ca
+    name: Data Services, BIO
+    position: Data Management
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - distributor
+- inCitation: true
+  individual:
+    name: Fisheries and Oceans Canada Marine Environmental Data Section (MEDS)
+  organization:
+    city: Ottawa
+    country: Canada
+    name: Fisheries and Oceans Canada
+    ror: https://ror.org/02qa1x782
+    url: https://www.dfo-mpo.gc.ca
+  roles:
+  - owner
+distribution:
+- description:
+    en: Website containing publications produced under the Canadian Science Advisory
+      Secretariat
+    fr: "Site Web contenant des publications produites par le Secr\xE9tariat canadien\
+      \ de consultation scientifique"
+  name:
+    en: Canadian Science Advisory Secretariat (CSAS) Publications
+  url: https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp
+- description:
+    en: Fisheries and Oceans Canada (DFO) website describing Research to support the
+      protection of whales in Canadian waters
+    fr: "Site Web de P\xEAches et Oc\xE9ans Canada (MPO) d\xE9crivant la recherche\
+      \ visant \xE0 soutenir la protection des baleines dans les eaux canadiennes"
+  name:
+    en: Website Fisheries and Oceans Canada (DFO);  protection of whales in Canadian
+      waters research
+    fr: "Site Web P\xEAches et Oc\xE9ans Canada (MPO)\_; recherche sur la protection\
+      \ des baleines dans les eaux canadiennes"
+  url: https://www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/whales-baleines/research-recherche-eng.html
+- description:
+    en: CIOOS Atlantic ERDDAP dataset link for moored CTD data
+    fr: "Lien vers la base de donn\xE9es ERDDAP du CIOOS Atlantic pour les donn\xE9\
+      es CTD amarr\xE9es"
+  name:
+    en: CIOOS Atlantic ERDDAP dataset
+    fr: "Ensemble de donn\xE9es ERDDAP CIOOS Atlantic"
+  url: https://cioosatlantic.ca/erddap/tabledap/bio_cetacean_moored_ctd.html
+identification:
+  abstract:
+    en: "The Government of Canada is commitment to protect marine mammal populations\
+      \ across Canada and has invested in scientific research.  Part of this research\
+      \ is to increase our knowledge about the impacts on,  locations, movement, and\
+      \ abundance of whales in Canada using passive acoustic monitoring. The Maritime\
+      \ Region Cetacean Monitoring Program  uses year-round passive acoustic monitoring\
+      \ with moored bottom-mounted hydrophones which include MicroCAT instruments\
+      \ measuring conductivity, temperature and pressure. These moorings are placed\
+      \ across different areas of the Scotian Shelf, Bay of Fundy and Cabot Strait.\
+      \ \n\nThis data set only includes the physical oceanographic time series observations\
+      \ from the moored CTD (MicroCAT) including conductivity, temperature and pressure.\
+      \  Data collection started 2015 and continues to present. \n\nSeveral projects\
+      \ have provided funding for this work including;  Ocean Protection Plan (OPP)\
+      \ Whale Detection and Collision Avoidance (OPP-WDCA) project, the National Conservation\
+      \ Plan (NCP) Species\_at Risk Act (SARA) project and the Ocean Protection Plan\
+      \ (OPP) Marine Environmental Quality (OPP-MEQ).  \n\nlinks include:\nhttps://www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/whales-baleines/research-recherche-eng.html\
+      \ , \nhttps://www.dfo-mpo.gc.ca/species-especes/sara-lep/index-eng.html"
+    fr: "Le gouvernement du Canada s'est engag\xE9 \xE0 prot\xE9ger les populations\
+      \ de mammif\xE8res marins \xE0 travers le Canada et a investi dans la recherche\
+      \ scientifique. Une partie de cette recherche vise \xE0 accro\xEEtre nos connaissances\
+      \ sur les impacts sur les baleines au Canada, leur localisation, leurs d\xE9\
+      placements et leur abondance gr\xE2ce \xE0 la surveillance acoustique passive.\
+      \ Le programme de surveillance des c\xE9tac\xE9s de la r\xE9gion maritime utilise\
+      \ une surveillance acoustique passive tout au long de l'ann\xE9e au moyen d'hydrophones\
+      \ amarr\xE9s mont\xE9s au fond, qui incluent des instruments MicroCat mesurant\
+      \ la conductivit\xE9, la temp\xE9rature et la pression. Ces mouillages sont\
+      \ situ\xE9s dans diff\xE9rentes zones du plateau n\xE9o-\xE9cossais, de la baie\
+      \ de Fundy et du d\xE9troit de Cabot. \n\nCet ensemble de donn\xE9es inclut\
+      \ uniquement les observations de s\xE9ries chronologiques oc\xE9anographiques\
+      \ physiques provenant du CTD amarr\xE9 (MicroCAT), y compris la conductivit\xE9\
+      , la temp\xE9rature et la pression. La collecte de donn\xE9es a d\xE9but\xE9\
+      \ en 2015 et se poursuit. \n\nPlusieurs projets ont financ\xE9 ces travaux,\
+      \ notamment le projet de d\xE9tection des baleines et d'\xE9vitement des collisions\
+      \ (OPP-WDCA) dans le cadre du Plan de protection des oc\xE9ans (OPP), le projet\
+      \ de Loi sur les esp\xE8ces en p\xE9ril (SARA) du Plan national de conservation\
+      \ (NCP) et le Plan de protection des oc\xE9ans (OPP) sur la qualit\xE9 du milieu\
+      \ marin (OPP-MEQ). \n\nles liens incluent\_:\nhttps://www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/whales-baleines/research-recherche-eng.html,\
+      \ \nhttps://www.dfo-mpo.gc.ca/species-especes/sara-lep/index-eng.html"
+  associated_resources: []
+  dates:
+    creation: '2015-01-01'
+  keywords:
+    default:
+      en:
+      - climate change
+      - salinity
+      - water temperature
+      - water density
+      - oceanographic missions
+      - pressure
+      - potential temperature
+      - potential density
+      - seawater density
+      - CTD
+      fr:
+      - changement climatique
+      - "salinit\xE9"
+      - "temp\xE9rature de l'eau"
+      - "t\xE9l\xE9d\xE9tection"
+      - "densit\xE9 eau"
+      - "\xE9chantillonnage"
+      - "missions oc\xE9anographique"
+      - pression
+      - "temp\xE9rature potentielle"
+      - "densit\xE9 potentielle"
+      - "densit\xE9 d'eau de mer"
+    eov:
+      en:
+      - seaSurfaceSalinity
+      - seaSurfaceTemperature
+      - subSurfaceTemperature
+      - subSurfaceSalinity
+      - other
+      fr:
+      - "Salinit\xE9 de surface"
+      - "Temp\xE9rature de surface"
+      - "Temp\xE9rature sous la surface"
+      - "Salinit\xE9 sous la surface"
+      - Autre
+  progress_code: onGoing
+  status: published
+  temporal_begin: '2015-01-01T16:00:00.000Z'
+  title:
+    en: Maritime Region Cetacean Monitoring Program MicroCAT conductivity, temperature
+      and pressure time series
+    fr: "Programme de surveillance des c\xE9tac\xE9s de la r\xE9gion maritime, s\xE9\
+      ries chronologiques MicroCAT sur la conductivit\xE9, la temp\xE9rature et la\
+      \ pression"
+    translations:
+      fr:
+        message: "text translated using the Amazon translate service / texte traduit\
+          \ \xE0 l'aide du service de traduction Amazon"
+        verified: false
+metadata:
+  dates:
+    publication: '2023-08-01'
+    revision: '2026-07-22T18:37:10.037Z'
+  history: []
+  identifier: 35d1a372-ac47-45ba-9083-866e4f2d4882
+  language: en
+  maintenance_note: Generated from https://cioos-siooc.github.io/metadata-entry-form#/en/atlantic/vihk9rCGiVWH0P8Aeyvg1pxyWTb2/-NUg6ReT-BxZ8SQrxnII
+  naming_authority: ca.cioos
+  scope: dataset
+  use_constraints:
+    licence:
+      code: government-open-license-canada
+      title:
+        en: Open Government Licence - Canada
+        fr: "Licence du gouvernement ouvert \u2013 Canada "
+      url: https://open.canada.ca/en/open-government-licence-canada
+    limitations:
+      en: Availability of data varies both between and within years due to mission
+        cancellations and instrument failures.
+      fr: "La disponibilit\xE9 des donn\xE9es varie d'une ann\xE9e \xE0 l'autre et\
+        \ d'une ann\xE9e \xE0 l'autre en raison des annulations de missions et des\
+        \ d\xE9faillances des instruments."
+platform: []
+spatial:
+  bbox:
+  - -68.7
+  - 42.0
+  - -57.0
+  - 48.0
+  vertical:
+  - 1.0
+  - 1500.0
+  vertical_positive: heightPositive

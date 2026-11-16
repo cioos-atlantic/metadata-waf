@@ -63,7 +63,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
+            <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -151,7 +151,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
+            <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -239,7 +239,7 @@
       <cit:party>
         <cit:CI_Organisation>
           <cit:name>
-            <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
+            <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
           </cit:name>
           <cit:contactInfo>
             <cit:CI_Contact>
@@ -442,7 +442,7 @@
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
+                    <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
@@ -1099,7 +1099,7 @@ Le plan d&#39;échantillonnage du PMZAO dans le Canada atlantique et  la mer du 
               <cit:party>
                 <cit:CI_Organisation>
                   <cit:name>
-                    <gco:CharacterString>Department of Fisheries and Oceans</gco:CharacterString>
+                    <gco:CharacterString>Fisheries and Oceans Canada</gco:CharacterString>
                   </cit:name>
                   <cit:contactInfo>
                     <cit:CI_Contact>
