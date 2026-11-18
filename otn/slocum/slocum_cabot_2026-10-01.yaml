@@ -1,0 +1,173 @@
+contact:
+- inCitation: true
+  organization:
+    address: 6375 Edzell Castle Cir
+    country: Canada
+    email: otndc@dal.ca
+    name: Ocean Tracking Network
+    url: https://oceantrackingnetwork.org/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+  - funder
+- inCitation: true
+  organization:
+    name: University of New Brunswick
+  roles:
+  - funder
+distribution:
+- description:
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
+  url: https://erddap.oceantrack.org/erddap/tabledap/cabot_20261001_232_realtime.html
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://erddap.oceantrack.org/erddap/tabledap/cabot_20261001_232_delayed.html
+identification:
+  abstract:
+    en: This glider was prepared with a DMON2 (Woods Hole Oceanographic Institution),
+      Williamson Shadowgraph camera, Seabird ecopucks, an RBR CTD, and an Innovasea
+      VMT mounted near the tail and thruster. It was deployed southeast of Grand Manan
+      Island (Grand Manan basin) in the middle of the gyre for ~30-day deployment
+      during October 2026.
+    fr: Ce planeur a été préparé avec un DMON2 (Woods Hole Oceanographic Institution),
+      une caméra Williamson Shadowgraph, des ecopucks Seabird, un RBR CTD et un Innovasea
+      VMT monté près de la queue et du propulseur. Il a été déployé au sud-est de
+      l’île Grand Manan (bassin de Grand Manan) au milieu du gyre pour un déploiement
+      d’environ 30 jours en octobre 2026.
+  acknowledgement:
+    en: The study was funded by the Ocean Tracking Network in collaboration with Kim
+      Davies at the University of New Brunswick. The Ocean Tracking Network led this
+      project and their glider team expertly prepared, deployed, piloted and recovered
+      the glider. The Williamson Shadowgraph camera was loaned to the Ocean Tracking
+      Network by Kim Davies at the University of New Brunswick. Thank you to the vessel
+      captains who supported deployment and recovery.
+    fr: L'étude a été financée par l'Ocean Tracking Network en collaboration avec
+      Kim Davies de l'Université du Nouveau-Brunswick. L'Ocean Tracking Network a
+      dirigé ce projet et son équipe de planeurs a préparé, déployé, piloté et récupéré
+      le planeur de manière experte. La caméra Williamson Shadowgraph a été prêtée
+      au Ocean Tracking Network par Kim Davies de l'Université du Nouveau-Brunswick.
+      Merci aux capitaines des navires qui ont soutenu le déploiement et la récupération.
+  dates:
+    creation: '2026-11-04'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - passiveAcoustics
+      - acousticTagReceiver
+      fr:
+      - Salinité souterraine
+      - Température souterraine
+      - Acoustique passive
+      - acoustiqueTagReceiver
+  status: completed
+  temporal_begin: '2026-10-01T11:52:00.000Z'
+  temporal_end: '2026-10-28T14:40:00.000Z'
+  title:
+    en: 'Slocum Glider Deployment #232 2026-10-01 - UNB Shadowgraph and DMON Glider
+      Mission in Bay of Fundy'
+    fr: 'Déploiement du planeur Slocum #232 2026-10-01 - Mission UNB Shadowgraph et
+      DMON Glider dans la baie de Fundy'
+metadata:
+  dates:
+    publication: '2026-11-04T15:36:09Z'
+    revision: '2026-11-04T17:19:19Z'
+  identifier: 0b968613-76cb-567c-8cc2-011c52884efa
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr/cioos-datasets-submit
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+- id: cabot
+  instruments:
+  - description:
+      en: Williamson Shadowgraph Camera
+      fr: Caméra Williamson Shadowgraph
+    id: cameras_008
+    manufacturer: Williamson & Associates
+    type:
+      en: SG-V3_008
+      fr: SG-V3_008
+    version: '1.2'
+  - description:
+      en: Slocum Glider G3 350 m oil pump
+      fr: Pompe à huile Slocum Glider G3 350 m
+    id: bpump_0416
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider G3 350 m oil pump
+      fr: Pompe à huile Slocum Glider G3 350 m
+    version: '1.2'
+  - description:
+      en: Slocum Glider Hybrid Thruster
+      fr: Propulseur hybride Slocum Glider
+    id: thruster_0298
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Assey 302409 rev c
+      fr: Assey 302409 rév. c
+    version: '1.2'
+  - description:
+      en: RBR Legato3 CTD
+      fr: RBR Legato3 CTD
+    id: CTD_206606
+    manufacturer: RBR Ltd
+    type:
+      en: RBRlegato unpumped CTD
+      fr: RBRlegato CTD non pompé
+    version: '1.2'
+  - description:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    id: hydrophones_1360656
+    manufacturer: InnovaSea Systems Inc.
+    type:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    version: '1.2'
+  - description:
+      en: digital acoustic monitoring instrument
+      fr: instrument numérique de surveillance acoustique
+    id: hydrophones_092
+    manufacturer: Woods Hole Oceanographic Institution
+    type:
+      en: "DMON2- Payload Integrated System\r\nSO-A81\r\n\r\nHydophone head P/N 212013\r\
+        \n SN 064"
+      fr: "DMON2- Système intégré de charge utile\r\nSO-A81\r\n\r\nTête d'hydrophone\
+        \ P/N 212013\r\n SN 064"
+    version: '1.2'
+  - description:
+      en: WET Labs {Sea-Bird WETLabs} Triplet sensor
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+    id: fluorometers_5074
+    manufacturer: Sea-Bird Scientific
+    type:
+      en: WET Labs {Sea-Bird WETLabs} Triplet sensor
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+    version: '1.2'
+  type: glider
+spatial:
+  bbox:
+  - -66.396223
+  - 44.68609
+  - -66.549213
+  - 44.488005
+  vertical:
+  - 0.002750009996816516
+  - 214.6320037841797

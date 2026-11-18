@@ -1,0 +1,154 @@
+contact:
+- inCitation: true
+  individual:
+    name: Lennox, Robert
+  roles:
+  - principalInvestigator
+- inCitation: true
+  organization:
+    address: 6375 Edzell Castle Cir
+    country: Canada
+    email: otndc@dal.ca
+    name: Ocean Tracking Network
+    url: https://oceantrackingnetwork.org/
+  roles:
+  - custodian
+  - owner
+  - author
+  - contributor
+  - editor
+  - originator
+  - publisher
+  - processor
+  - pointOfContact
+  - distributor
+  - funder
+distribution:
+- description:
+    en: Realtime ERDDAP datasets
+    fr: Ensembles de données ERDDAP en temps réel
+  url: https://erddap.oceantrack.org/erddap/tabledap/polly_20260519_222_realtime.html
+- description:
+    en: High resolution ERDDAP datasets
+    fr: Ensembles de données ERDDAP haute résolution
+  url: https://erddap.oceantrack.org/erddap/tabledap/polly_20260519_222_delayed.html
+identification:
+  abstract:
+    en: A Teledyne Webb Research Slocum G3s glider was deployed on the Scotian Shelf
+      in the Northwest Atlantic Ocean equipped with a Sea-bird Eco-puck, Rockland
+      Scientific MicroRider, Aanderra Optode, and RBR Legato3 CTD to measure ocean
+      conditions along the Halifax Line.
+    fr: Un planeur Teledyne Webb Research Slocum G3s a été déployé sur le plateau
+      néo-écossais dans l'océan Atlantique nord-ouest, équipé d'un Sea-bird Eco-puck,
+      d'un Rockland Scientific MicroRider, d'un Aanderra Optode et d'un RBR Legato3
+      CTD pour mesurer les conditions océaniques le long de la ligne d'Halifax.
+  acknowledgement:
+    en: This deployment is supported by funding from the Canada Foundation for Innovation
+      through the Ocean Tracking Network. Additional logistical support was provided
+      by the Ocean Frontiers Institute.
+    fr: Ce déploiement est soutenu par le financement de la Fondation canadienne pour
+      l'innovation par l'intermédiaire de l'Ocean Tracking Network. Un soutien logistique
+      supplémentaire a été fourni par l'Ocean Frontiers Institute.
+  dates:
+    creation: '2026-06-25'
+  keywords:
+    eov:
+      en:
+      - subsurfaceSalinity
+      - subsurfaceTemperature
+      - oxygen
+      - acousticTagReceiver
+      fr:
+      - Salinité souterraine
+      - Température souterraine
+      - oxygène
+      - acoustiqueTagReceiver
+  status: completed
+  temporal_begin: '2026-05-19T16:39:00.000Z'
+  temporal_end: '2026-06-18T13:04:28.000Z'
+  title:
+    en: 'Slocum Glider Deployment #222 2026-05-19 - SBloGS in Northwest Atlantic Ocean'
+    fr: 'Déploiement du planeur Slocum #222 2026-05-19 - SBloGS dans l''océan Atlantique
+      Nord-Ouest'
+metadata:
+  dates:
+    publication: '2026-06-25T22:16:05Z'
+    revision: '2026-11-02T16:04:49Z'
+  identifier: f8f1ce2d-524c-503a-b11a-937e400a64e1
+  language: en
+  maintenance_note: Generated from https://gitlab.oceantrack.org/ceotr/cioos-datasets-submit
+  naming_authority: ca.cioos
+  use_constraints:
+    licence:
+      code: CC-BY-4.0
+      title:
+        en: Creative Commons Attribution 4.0 Attribution
+      url: https://creativecommons.org/licenses/by/4.0
+platform:
+- id: polly
+  instruments:
+  - description:
+      en: Slocum Glider G3 200 m piston pump
+      fr: Pompe à piston Slocum Glider G3 200 m
+    id: bpump_0111
+    manufacturer: Teledyne Webb Research
+    type:
+      en: Slocum Glider G3 200 m piston pump
+      fr: Pompe à piston Slocum Glider G3 200 m
+    version: '1.2'
+  - description:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    id: hydrophones_1282445
+    manufacturer: InnovaSea Systems Inc.
+    type:
+      en: Vemco Mobile Transceiver
+      fr: Émetteur-récepteur mobile Vemco
+    version: '1.2'
+  - description:
+      en: Rockland Scientific MicroRider-1000 turbulence microstructure profiler
+      fr: Profileur de microstructure de turbulence Rockland Scientific MicroRider-1000
+    id: MicroRider-1000_470
+    manufacturer: Rockland Scientific
+    type:
+      en: Modular Turbulence Profiler
+      fr: Profileur de turbulence modulaire
+    version: '1.2'
+  - description:
+      en: Aanderaa 4831 oxygen optode
+      fr: Optode à oxygène Aanderaa 4831
+    id: dissolved_gas_sensors_948
+    manufacturer: Aanderaa Data Instruments AS
+    type:
+      en: "Program Version V5.3.1\r\nAanderaa 4831\r\nFoil Batch no: 1824m"
+      fr: "Version du programme V5.3.1\r\nAanderaa 4831\r\nNuméro de lot de feuille\
+        \ : 1824m"
+    version: '1.2'
+  - description:
+      en: RBR Legato3 CTD
+      fr: RBR Legato3 CTD
+    id: CTD_237044
+    manufacturer: RBR Ltd
+    type:
+      en: RBRLegato unpumped CTD
+      fr: RBRLegato CTD non pompé
+    version: '1.2'
+  - description:
+      en: WET Labs {Sea-Bird WETLabs} Triplet sensor
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+    id: fluorometers_3114
+    manufacturer: Sea-Bird Scientific
+    type:
+      en: WET Labs {Sea-Bird WETLabs} Triplet sensor
+      fr: WET Labs {Sea-Bird WETLabs} Capteur triplet
+    version: '1.2'
+  type: glider
+spatial:
+  bbox:
+  - -61.726987
+  - 44.542592
+  - -63.432415
+  - 42.830495
+  vertical:
+  - 9.999999747378752e-05
+  - 201.79200744628906
